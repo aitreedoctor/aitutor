@@ -1,0 +1,20 @@
+# Environments
+.env
+.env.*
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary & Demo Directories
+demo_datapacks/
+simulation/
+prompts/
+sessions/
+pdf/
+
+# OS specific files
+.DS_Store
+Thumbs.db

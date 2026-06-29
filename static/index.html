@@ -1,0 +1,1001 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Tutor - 나무의사 지능형 학습 보조 시스템</title>
+    
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+    
+    <!-- XEIcon for beautiful icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css">
+    
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Marked.js for markdown rendering -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/static/index.css?v=1.2.3">
+</head>
+<body class="dark-theme">
+    
+    <!-- Mobile Header -->
+    <header class="mobile-header" style="display: none;">
+        <div class="mobile-logo">
+            <i class="xi-paper logo-icon"></i>
+            <span>AI Tutor</span>
+        </div>
+        <div class="mobile-profile-widget">
+            <div class="mobile-avatar">
+                <i class="xi-user-o"></i>
+            </div>
+            <span id="mobile-profile-title">대표님</span>
+            <button class="btn-icon" id="btn-mobile-edit-profile" title="호칭 변경">
+                <i class="xi-cog"></i>
+            </button>
+        </div>
+    </header>
+
+    <!-- Root Container -->
+    <div class="app-container">
+        
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="logo-area">
+                <i class="xi-paper logo-icon"></i>
+                <div class="logo-text">
+                    <h2>AI Tutor</h2>
+                    <span>나무의사 ITS 포털</span>
+                </div>
+            </div>
+            
+            <div class="student-profile-widget">
+                <div class="profile-avatar">
+                    <i class="xi-user-o"></i>
+                </div>
+                <div class="profile-info">
+                    <h4 id="profile-title">대표님</h4>
+                    <span class="status-badge status-good" id="profile-status">상태 양호</span>
+                </div>
+                <button class="btn-icon" id="btn-edit-profile" title="호칭 변경">
+                    <i class="xi-cog"></i>
+                </button>
+            </div>
+            
+            <nav class="nav-menu">
+                <a href="#" class="nav-item active" data-tab="dashboard">
+                    <i class="xi-dashboard"></i>
+                    <span>종합 대시보드</span>
+                </a>
+                <a href="#" class="nav-item" data-tab="cbt">
+                    <i class="xi-desktop"></i>
+                    <span>CBT 모의고사</span>
+                </a>
+                <a href="#" class="nav-item" data-tab="chat">
+                    <i class="xi-speech"></i>
+                    <span>AI 튜터 챗봇</span>
+                    <span class="badge" id="chat-badge" style="display:none;">1</span>
+                </a>
+                <a href="#" class="nav-item" data-tab="remedial">
+                    <i class="xi-library"></i>
+                    <span>스페셜 보충처방</span>
+                    <span class="badge badge-warning" id="remedial-badge" style="display:none;">!</span>
+                </a>
+                <a href="#" class="nav-item" data-tab="analysis">
+                    <i class="xi-chart-line"></i>
+                    <span>기출 상세분석</span>
+                </a>
+            </nav>
+            
+            <div class="sidebar-footer">
+                <p>Ver 1.2.0 (Gemini 3.5 Flash)</p>
+            </div>
+        </aside>
+        
+        <!-- Main Content Area -->
+        <main class="main-content">
+            
+            <!-- Warning Banner -->
+            <div class="warning-banner" id="warning-banner" style="display:none;">
+                <div class="banner-content">
+                    <i class="xi-warning banner-icon"></i>
+                    <p id="warning-message">경고: 특정 과목의 성취도가 60% 미만입니다. 과락 방지를 위해 특별 처방 문제를 해결하세요!</p>
+                </div>
+                <button class="btn btn-warning btn-sm" onclick="switchTab('remedial')">보충 학습지 받기</button>
+            </div>
+            
+            <!-- Tab: Dashboard -->
+            <section class="tab-pane active" id="dashboard-tab">
+                <div class="welcome-header">
+                    <h1>환영합니다, <span id="welcome-name">대표님</span>!</h1>
+                    <p>실시간 분석 차트와 오답 큐레이션을 기반으로 약점을 극복해보세요.</p>
+                </div>
+                
+                <!-- Stats Grid -->
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon icon-blue"><i class="xi-check-circle-o"></i></div>
+                        <div class="stat-details">
+                            <span class="stat-label">총 푼 문항 수</span>
+                            <h3 id="stat-total-solved">0</h3>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon icon-green"><i class="xi-percent"></i></div>
+                        <div class="stat-details">
+                            <span class="stat-label">평균 정답률</span>
+                            <h3 id="stat-overall-accuracy">0.0%</h3>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon icon-yellow"><i class="xi-warning-o"></i></div>
+                        <div class="stat-details">
+                            <span class="stat-label">과락 위험 과목 수</span>
+                            <h3 id="stat-remedial-count">0</h3>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Charts Section -->
+                <div class="charts-section">
+                    <div class="chart-card glass-card">
+                        <h3>과목별 성취도 분석 (Radar Chart)</h3>
+                        <div class="chart-container">
+                            <canvas id="radarChart"></canvas>
+                        </div>
+                    </div>
+                    <div class="chart-card glass-card">
+                        <h3>정오답 분포 분석 (Bar Chart)</h3>
+                        <div class="chart-container">
+                            <canvas id="barChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Tab: CBT Mock Exam -->
+            <section class="tab-pane" id="cbt-tab">
+                <div class="welcome-header flex-header">
+                    <div>
+                        <h1>CBT 모의고사 시험장</h1>
+                        <p>5회~11회 기출문제를 로드하여 실전 감각을 끌어올려 보세요.</p>
+                    </div>
+                    
+                    <div class="selector-box">
+                        <label style="display: flex; align-items: center; gap: 6px; cursor: pointer; font-size: 14px; margin-right: 15px; color: #cfd3dc; user-select: none;">
+                            <input type="checkbox" id="cbt-study-mode" checked style="cursor: pointer; width: 16px; height: 16px;">
+                            <span>학습 모드 📖</span>
+                        </label>
+                        <select id="exam-select">
+                            <option value="">기출문제를 선택해 주세요</option>
+                        </select>
+                        <button class="btn btn-primary" id="btn-start-exam"><i class="xi-play"></i> 시험 시작</button>
+                    </div>
+                </div>
+                
+                <!-- Exam Panel -->
+                <div class="exam-panel" id="exam-panel" style="display:none;">
+                    <div class="exam-body-layout">
+                        
+                        <!-- Left: Question Area -->
+                        <div class="question-container glass-card">
+                            <div class="question-header">
+                                <span class="badge" id="exam-subject-badge">수목병리학</span>
+                                <div class="question-header-right">
+                                    <span class="timer" id="exam-timer"><i class="xi-time"></i> 00:00</span>
+                                    <button class="btn btn-secondary btn-sm mobile-omr-toggle" id="btn-toggle-omr" style="display: none;"><i class="xi-file-text-o"></i> 답안지</button>
+                                </div>
+                            </div>
+                            
+                            <div class="question-content">
+                                <h3 id="cbt-question-text">문제가 여기에 로드됩니다.</h3>
+                                <div style="text-align: center; margin: 15px 0;">
+                                    <img id="cbt-question-image" style="display:none; max-width: 100%; max-height: 400px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 12px rgba(0,0,0,0.3);" alt="문제 이미지" />
+                                </div>
+                                <div class="choices-list" id="cbt-choices-list">
+                                    <!-- Option buttons dynamically generated -->
+                                </div>
+                                
+                                <!-- Tutor Explanation Box (visible in study mode) -->
+                                <div class="tutor-explanation-box" id="cbt-tutor-box" style="display:none; margin-top: 20px; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 15px;">
+                                    <button class="btn btn-warning" id="btn-show-tutor-explain" style="background: var(--warning); border: none; color: #000; font-weight: bold; padding: 8px 16px; border-radius: 6px; cursor: pointer; display: flex; align-items: center; gap: 8px;">
+                                        <i class="xi-emoticon-smiley-o" style="font-size: 18px;"></i> Tutor 정답 및 해설 보기
+                                    </button>
+                                    <div class="tutor-explain-content" id="cbt-tutor-explain-content" style="display:none; margin-top: 12px;">
+                                        <!-- Explanation content goes here -->
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="question-navigation">
+                                <button class="btn btn-secondary" id="btn-prev-q"><i class="xi-angle-left"></i> 이전 문제</button>
+                                <span class="q-progress" id="cbt-progress-text">1 / 125</span>
+                                <button class="btn btn-secondary" id="btn-next-q">다음 문제 <i class="xi-angle-right"></i></button>
+                            </div>
+                        </div>
+                        
+                        <!-- Right: OMR Card Sheet -->
+                        <div class="omr-card glass-card">
+                            <div class="omr-header">
+                                <h3>OMR 답안지 마킹</h3>
+                                <span class="omr-progress" id="omr-progress-ratio">0 / 0</span>
+                                <button class="btn-close mobile-omr-close" id="btn-close-omr" style="display: none;"><i class="xi-close"></i></button>
+                            </div>
+                            <div class="omr-grid" id="omr-grid">
+                                <!-- OMR rows dynamically generated -->
+                            </div>
+                            <div class="omr-footer">
+                                <button class="btn btn-danger btn-full" id="btn-submit-exam"><i class="xi-check"></i> 최종 답안 제출</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- No Exam Splash Screen -->
+                <div class="splash-screen glass-card" id="cbt-splash">
+                    <i class="xi-desktop splash-icon"></i>
+                    <h3>기출문제를 선택하고 [시험 시작]을 클릭하세요</h3>
+                    <p>공식 포털에서 수집된 깨끗한 지문과 5개 보기가 완벽하게 연동됩니다.</p>
+                </div>
+            </section>
+            
+            <!-- Tab: AI Tutor Chat Room -->
+            <section class="tab-pane" id="chat-tab">
+                <div class="chat-room-layout glass-card">
+                    
+                    <!-- Chat Sidebar (Wrong solved history list) -->
+                    <div class="chat-history-sidebar">
+                        <div class="sidebar-header">
+                            <h3>최근 틀린 문항 진단</h3>
+                        </div>
+                        <div class="wrong-questions-list" id="wrong-questions-list">
+                            <!-- Wrong questions automatically listed here -->
+                            <p class="empty-text">최근 틀린 문항이 없습니다. 모의고사를 풀어보세요!</p>
+                        </div>
+                    </div>
+                    
+                    <!-- Chat main conversation box -->
+                    <div class="chat-main-area">
+                        <div class="chat-header">
+                            <button class="btn btn-secondary btn-sm mobile-chat-back" id="btn-chat-back" style="display: none;"><i class="xi-angle-left"></i> 목록</button>
+                            <div class="tutor-avatar">
+                                <i class="xi-emoticon-smiley"></i>
+                            </div>
+                            <div class="tutor-info">
+                                <h3>AI Tutor 코치</h3>
+                                <span>Gemini 3.5 Flash 지능형 진단</span>
+                            </div>
+                        </div>
+                        
+                        <div class="chat-messages" id="chat-messages">
+                            <!-- Messages -->
+                            <div class="msg-bubble tutor-msg">
+                                <p>안녕하세요, <span class="host-title">대표님</span>! AI Tutor 방에 오신 것을 환영합니다.</p>
+                                <p>CBT 모의고사에서 문제를 틀리면, 좌측 리스트에 즉시 취약 노드가 추가됩니다. 문제를 클릭하면 제가 <strong>인지 오류 원인</strong>을 진단해 드리고 <strong>쌍둥이 변형 문제</strong>를 처방해 드릴게요!</p>
+                            </div>
+                        </div>
+                        
+                        <div class="chat-input-area">
+                            <input type="text" id="chat-input" placeholder="질문하거나 피드백을 적어보세요..." disabled>
+                            <button class="btn-send" id="btn-send-chat" disabled><i class="xi-send"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Tab: Special Remedial Pack -->
+            <section class="tab-pane" id="remedial-tab">
+                <div class="welcome-header">
+                    <h1>스페셜 보충 처방 패키지</h1>
+                    <p>정답률 60% 미만의 과락 위험 과목을 극복하기 위해 오답 데이터 기반으로 자동 설계된 특수 복습 문항입니다.</p>
+                </div>
+                
+                <div class="remedial-container" id="remedial-container">
+                    <!-- Remedial questions generated dynamically -->
+                    <div class="splash-screen glass-card">
+                        <i class="xi-check-circle splash-icon" style="color:var(--success);"></i>
+                        <h3>현재 보충 처방이 필요하지 않은 상태입니다.</h3>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Tab: Past Exam Analysis -->
+            <section class="tab-pane" id="analysis-tab">
+                <div class="welcome-header">
+                    <h1>기출문제 상세분석</h1>
+                    <p>기출문제 5회~12회의 출제 비중 및 과목별 합격 공략 방향을 제시합니다.</p>
+                </div>
+                
+                <!-- Subject selection buttons for analysis -->
+                <div class="analysis-tabs">
+                    <button class="analysis-tab-btn active" data-subtab="soil">산림토양학</button>
+                    <button class="analysis-tab-btn" data-subtab="mgmt">수목관리학</button>
+                    <button class="analysis-tab-btn" data-subtab="path">수목병리학</button>
+                    <button class="analysis-tab-btn" data-subtab="phys">수목생리학</button>
+                    <button class="analysis-tab-btn" data-subtab="ento">수목해충학</button>
+                </div>
+                
+                <div class="analysis-panes">
+                    <!-- Subtab: Soil -->
+                    <div class="analysis-subpane active" id="subtab-soil">
+                        <div class="analysis-grid">
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>토양 물리성 (토성/구조/수분)</h4>
+                                    <span class="importance-badge badge-danger">최상 (★★★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 65문항 출제 (비중 32.5%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-danger" style="width: 32.5%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>6</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>9</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>9</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>7</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>10</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>6</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>9</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>9</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 모래·미사·점토 비율에 따른 토성 분류, 용적밀도 및 공극률 관계 계산, 수분포텐셜 pF 수치(pF 2.7, 4.2 등)에 따른 물리적 상태 판별.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>토양 화학성 (pH/CEC/콜로이드)</h4>
+                                    <span class="importance-badge badge-info">상 (★★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 38문항 출제 (비중 19.0%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-info" style="width: 19.0%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>7</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>4</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>7</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>6</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 토양 pH 변화에 따른 영양소 유효도 관계, 양이온 교환 용량(CEC) 결정 인자 및 염기포화도 계산식, 토양 콜로이드의 표면 전하 특성.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>식물 영양 및 시비 (필수원소)</h4>
+                                    <span class="importance-badge badge-info">상 (★★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 33문항 출제 (비중 16.5%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-info" style="width: 16.5%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>7</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>3</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 질소·인·칼륨 등 다량원소와 미량원소 구별, 원소 결핍 증상(황화, 괴사)의 발현 패턴(노엽 vs 신엽), 시비량 계산 방법.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>토양 미생물 및 유기물 (균근)</h4>
+                                    <span class="importance-badge badge-warning">중 (★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 29문항 출제 (비중 14.5%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-warning" style="width: 14.5%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>2</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 외생균근과 내생균근의 해부학적 차이점(하티그망 존재 여부), 유기물 분해에 따른 탄질비(C/N) 변화 및 질소기아 현상.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>토양 분류 및 생성/보존</h4>
+                                    <span class="importance-badge badge-success">하 (★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 14문항 출제 (비중 7.0%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-success" style="width: 7.0%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>0</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>4</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>3</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 미국식 토양분류 12개 목(Order) 특징, 토양 생성 단면(A, B, C층) 및 산림지역 토양 생성 작용(포드졸화 등), 사면 침식 방제법.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="strategy-card glass-card">
+                            <h4>💡 산림토양학 합격 공략법 & 추천 공부 방향</h4>
+                            <p>산림토양학은 수치 계산과 화학 구조가 결합되어 오답률이 높은 과목입니다. <strong>토양 물리성(32.5%)</strong>과 <strong>화학성(19%)</strong> 두 분야의 비중이 50%를 초과하므로, pH에 따른 인산 고정 반응이나 pF 수분 정의와 같은 정량적 메커니즘을 핵심적으로 공략하십시오. 비료 성분 계산 및 탄질비 문제는 단답 공식을 숙지하여 빠르게 해결하는 방향이 유리합니다.</p>
+                        </div>
+                    </div>
+                    
+                    <!-- Subtab: Management -->
+                    <div class="analysis-subpane" id="subtab-mgmt">
+                        <div class="analysis-grid">
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>농약학 (작용기작/제형/안전사용)</h4>
+                                    <span class="importance-badge badge-danger">최상 (★★★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 80문항 출제 (비중 32.7%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-danger" style="width: 32.7%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>12</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>13</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>15</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>7</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>8</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>7</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>8</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>10</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 살균제·살충제·제초제의 계통별 분류 및 작용기작 코드 식별, 유제·수화제·분제 등 제형 특징, 농약 약해 방지 대책 및 PLS 규칙.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>수목 전정 및 이식/외과수술</h4>
+                                    <span class="importance-badge badge-info">상 (★★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 47문항 출제 (비중 19.2%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-info" style="width: 19.2%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>11</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>4</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>8</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>6</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>4</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>4</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>5</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 올바른 전정 위치(지융부 및 가지칼라 보호), CODIT 상처 차단 이론 및 수간 내 방어벽 구조, 수목 이식 시 뿌리돌림 공법 및 동공 충전법.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>기상 재해 및 염해/대기오염</h4>
+                                    <span class="importance-badge badge-warning">중 (★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 27문항 출제 (비중 11.0%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-warning" style="width: 11.0%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>4</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>4</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>4</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 가뭄에 따른 수분 스트레스 신호, 제설제(염화칼슘) 축적으로 인한 탈수 및 염독 피해 기작, 오존 및 아황산가스에 의한 엽록소 파괴 지표식물.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>수목 보호 법령 및 관리 제도</h4>
+                                    <span class="importance-badge badge-success">하 (★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 12문항 출제 (비중 4.9%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-success" style="width: 4.9%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>3</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 산림보호법에 규정된 나무의사 자격 요건 및 취소 처분, 수목 진료기관 등록 기준, 미등록 영업에 대한 과태료 및 형벌 조항.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>저온 피해 (동해/만상 등)</h4>
+                                    <span class="importance-badge badge-success">하 (★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 8문항 출제 (비중 3.3%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-success" style="width: 3.3%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>0</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>0</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>0</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 식물 조직 세포외 동결 기작과 원형질 탈수, 이른 봄 서리 피해(만상)와 가을 서리(조상) 특징, 상렬 및 상주 피해 예방.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="strategy-card glass-card">
+                            <h4>💡 수목관리학 합격 공략법 & 추천 공부 방향</h4>
+                            <p>수목관리학 합격의 성패는 **농약학(32.7%)** 암기 여부에 달려있습니다. 농약 작용기작 코드를 암기하지 못하면 득점 확률이 현저히 떨어지므로 분류표 정리가 필수입니다. 또한 실무형으로 출제되는 **수목 전정 및 이식(19.2%)**에서는 올바른 전정 위치를 묻는 도식 문제 고정 출제되므로 CODIT 방어벽 형성에 대한 원리를 눈으로 꼭 익혀야 합니다.</p>
+                        </div>
+                    </div>
+                    
+                    <!-- Subtab: Pathology -->
+                    <div class="analysis-subpane" id="subtab-path">
+                        <div class="analysis-grid">
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>병리학 기초 및 진단 (표징/병징)</h4>
+                                    <span class="importance-badge badge-danger">최상 (★★★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 54문항 출제 (비중 27.0%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-danger" style="width: 27.0%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>7</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>4</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>11</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>6</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>10</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>7</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>4</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 병든 부위에 병원균이 직접 관찰되는 표징(균사체, 분생포자각, 버섯 자실체)과 기능 마비 반응인 병징(오염, 황화, 빗자루) 분류법, Koch의 가설.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>진균 병해 (잎떨림/잎녹병/부후균)</h4>
+                                    <span class="importance-badge badge-danger">최상 (★★★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 48문항 출제 (비중 24.0%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-danger" style="width: 24.0%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>6</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>7</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>4</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>6</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>7</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>7</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>6</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 소나무류 잎녹병 등 녹병균류의 복잡한 이종기생 및 기주 교대 생활사(녹포자 ➔ 여름포자 ➔ 겨울포자 ➔ 담자포자), 아밀라리아 및 심재/변재 부후균.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>세균 및 파이토플라스마/바이러스</h4>
+                                    <span class="importance-badge badge-info">상 (★★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 34문항 출제 (비중 17.0%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-info" style="width: 17.0%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>4</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>6</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>6</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>4</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 세균에 의한 불마름병 전염 패턴, 파이토플라스마 세포벽 부재 및 빗자루병 발생 생태, 매개충(마름무늬매재충) 특징 및 테트라사이클린 약제 기작.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>소나무재선충병 및 선충 병해</h4>
+                                    <span class="importance-badge badge-warning">중 (★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 21문항 출제 (비중 10.5%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-warning" style="width: 10.5%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>6</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>4</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>0</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>4</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 소나무재선충 전염 경로 및 가해 기작, 매개충인 솔수염하늘소와 북방아시아하늘소의 생활사 및 우화 시기, 약제 주입 예방 대책.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>병해 종합 방제법</h4>
+                                    <span class="importance-badge badge-success">하 (★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 18문항 출제 (비중 9.0%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-success" style="width: 9.0%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>5</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 화학적 살균제를 활용한 수간살포 및 주사법, 석회보르도액 비율 조절 등 물리적/임업적/생물적 차단 기술의 실제 활용 패턴.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="strategy-card glass-card">
+                            <h4>💡 수목병리학 합격 공략법 & 추천 공부 방향</h4>
+                            <p>수목병리학은 **진균(곰팡이)성 병해(24.0%)**와 **병리학 기초진단(27.0%)** 파트의 비중이 51%로 사실상 출제의 핵심 뼈대를 형성합니다. 이 두 영역에서는 표징 유무의 감별과 기주 교대(중간기주 매칭)에 관한 지식을 주로 다룹니다. 병해 이름을 보면 즉시 기주 식물과 병원체 분류군(자낭균, 담자균 등)이 연결되도록 연상 훈련식 암기를 권장합니다.</p>
+                        </div>
+                    </div>
+                    
+                    <!-- Subtab: Physiology -->
+                    <div class="analysis-subpane" id="subtab-phys">
+                        <div class="analysis-grid">
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>수목 세포 및 조직/해부 구조</h4>
+                                    <span class="importance-badge badge-danger">최상 (★★★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 88문항 출제 (비중 44.0%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-danger" style="width: 44.0%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>10</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>11</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>10</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>9</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>10</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>13</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>10</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>15</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 형성층 비대생장 분열 기작(병립 분열, 병렬 분열), 1차/2차 물관부와 가도관의 구형성 특징, 체관부 수송 유기물 성분 및 활엽수/침엽수 세포 구조 차이.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>식물 호르몬 및 스트레스 생리</h4>
+                                    <span class="importance-badge badge-info">상 (★★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 35문항 출제 (비중 17.5%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-info" style="width: 17.5%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>10</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>4</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>3</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 옥신(생장점 합성, 하향 전류), 지베렐린(도복, 종자 휴면 타파), 사이토키닌, 앱시스산(기공 조절 및 건조 유도), 침수 시 에틸렌 아포프토시스 반응.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>호흡 작용 및 탄수화물 대사/이동</h4>
+                                    <span class="importance-badge badge-warning">중 (★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 27문항 출제 (비중 13.5%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-warning" style="width: 13.5%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>4</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>5</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 유기호흡과 무기호흡의 대사 효율, 해당작용 및 TCA 회로 핵심 단계, 호흡률(RQ) 기질별 화학 계산, 포도당 및 설탕 변환 수송 기작.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>광합성 기작 (C3/C4/CAM)</h4>
+                                    <span class="importance-badge badge-success">하 (★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 19문항 출제 (비중 9.5%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-success" style="width: 9.5%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>0</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>4</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>6</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>2</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 광화학 반응계(PS II와 I)의 명반응 전자전달, Rubisco 효소 탄소고정 작용 기작, C3와 C4 식물의 해부 식생 차이, 광보상점 및 광포화점 특성.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>수분 생리 (수분포텐셜/기공)</h4>
+                                    <span class="importance-badge badge-success">하 (★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 5문항 출제 (비중 2.5%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-success" style="width: 2.5%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>0</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>0</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>0</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>0</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 수관 상부 물 상승력(응집력-설인-장력설), 공변세포 칼륨 이온 유입에 따른 팽압 증진 및 기공 개폐 기작.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="strategy-card glass-card">
+                            <h4>💡 수목생리학 합격 공략법 & 추천 공부 방향</h4>
+                            <p>수목생리학은 **세포 조직 및 해부 해부 구조(44.0%)** 파트의 비중이 비정상적으로 강력합니다. 형성층 시원세포의 방사상 분열 기작이나 가도관 횡단면 등 대학 전공 수준의 해부 도판 문제가 반드시 나오므로 생리학의 구조 파트를 철저하게 정독하십시오. 호르몬(17.5%) 계통은 각각의 합성 원재료(예: 옥신 - 트립토판)와 핵심 길항작용 위주로 연계하여 정리하는 편이 현명합니다.</p>
+                        </div>
+                    </div>
+                    
+                    <!-- Subtab: Entomology -->
+                    <div class="analysis-subpane" id="subtab-ento">
+                        <div class="analysis-grid">
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>해충 생리/구조 및 생활사</h4>
+                                    <span class="importance-badge badge-danger">최상 (★★★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 108문항 출제 (비중 54.0%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-danger" style="width: 54.0%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>11</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>10</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>15</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>15</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>16</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>15</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>13</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>13</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 곤충 외피 키틴질 생리, 완전변태(나비목, 딱정벌레목)와 불완전변태(노린재목) 구별, 탈피 호르몬(유약호르몬 및 에크디손) 생태계, 해충별 동면 충태.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>흡즙성 해충 (진딧물/깍지벌레/응애)</h4>
+                                    <span class="importance-badge badge-info">상 (★★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 44문항 출제 (비중 22.0%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-info" style="width: 22.0%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>7</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>6</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>6</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>4</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>5</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>8</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>3</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 솔잎혹파리 충영 유도 생태, 깍지벌레 흡즙 부작용 그을음병 유발, 응애류 다세대 급증 주기 및 저항성 제어법, 방패벌레 엽록소 흡즙 특징.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>식엽성 해충 (솔나방/흰불나방 등)</h4>
+                                    <span class="importance-badge badge-warning">중 (★★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 15문항 출제 (비중 7.5%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-warning" style="width: 7.5%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>0</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>2</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 솔나방(송충이) 침엽 섭식 킬로미터당 계산, 미국흰불나방 둥지 탈출 시기 및 분산 식해, 매미나방 난괴 월동 및 성충 섭식 특징.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>해충 방제 및 천적/IPM</h4>
+                                    <span class="importance-badge badge-success">하 (★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 13문항 출제 (비중 6.5%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-success" style="width: 6.5%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>2</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>2</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 종합적 해충관리(IPM) 개념 구조, 포식성 무당벌레류 보호, 기생성 먹좀벌 ha당 방사 밀도, Bt(Bacillus thuringiensis) 미생물 살포법.</p>
+                            </div>
+                            
+                            <div class="analysis-card glass-card">
+                                <div class="card-header">
+                                    <h4>천공성 및 기타 해충 (하늘소/나무좀)</h4>
+                                    <span class="importance-badge badge-success">하 (★★)</span>
+                                </div>
+                                <div class="frequency-text">누적 10문항 출제 (비중 5.0%)</div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar-fill bg-success" style="width: 5.0%"></div>
+                                </div>
+                                <div class="round-breakdown-title">회차별 출제 문항 수 (5회~12회)</div>
+                                <div class="round-breakdown-grid">
+                                    <div class="round-item"><span>5회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>6회</span><strong>3</strong></div>
+                                    <div class="round-item"><span>7회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>8회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>9회</span><strong>1</strong></div>
+                                    <div class="round-item"><span>10회</span><strong>0</strong></div>
+                                    <div class="round-item"><span>11회</span><strong>0</strong></div>
+                                    <div class="round-item"><span>12회</span><strong>3</strong></div>
+                                </div>
+                                <p class="card-desc">핵심 출제 테마: 하늘소 성충 탈출공 원형 판별, 수간부 터널(갱도) 톱밥 분출 특성, 광릉긴나무좀 등 수간 매개성 진균 피해 전파 메커니즘.</p>
+                            </div>
+                        </div>
+                        
+                        <div class="strategy-card glass-card">
+                            <h4>💡 수목해충학 합격 공략법 & 추천 공부 방향</h4>
+                            <p>수목해충학은 **해충 기초 생리 및 구조/생활사(54.0%)**가 과반을 점유하는 초집중 구조입니다. 충태(알-유충-번데기-성충)별 월동 부위와 매칭, 완전/불완전 변태 분류군 암기가 해충 암기의 필수 1순위 조건입니다. 흡즙성 해충 중 솔잎혹파리나 깍지벌레의 독특한 가해 시기와 약제 안전 살포 한계를 연계 공부하는 방향이 고득점 합격을 보장합니다.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+        </main>
+    </div>
+    
+    <!-- Profile Edit Modal -->
+    <div class="modal-overlay" id="profile-modal" style="display:none;">
+        <div class="modal-box glass-card">
+            <div class="modal-header">
+                <h3>호칭 설정 변경</h3>
+                <button class="btn-close" onclick="closeProfileModal()"><i class="xi-close"></i></button>
+            </div>
+            <div class="modal-body">
+                <label for="input-student-title">AI Tutor가 불러드릴 호칭을 정해주세요:</label>
+                <input type="text" id="input-student-title" value="대표님" placeholder="예: 대표님, 사장님, 회원님, 수험생님">
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeProfileModal()">취소</button>
+                <button class="btn btn-primary" id="btn-save-profile">저장 후 동기화</button>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Mobile Bottom Navigation -->
+    <nav class="mobile-nav" style="display: none;">
+        <a href="#" class="nav-item active" data-tab="dashboard">
+            <i class="xi-dashboard"></i>
+            <span>대시보드</span>
+        </a>
+        <a href="#" class="nav-item" data-tab="cbt">
+            <i class="xi-desktop"></i>
+            <span>CBT</span>
+        </a>
+        <a href="#" class="nav-item" data-tab="chat">
+            <i class="xi-speech"></i>
+            <span>AI 튜터</span>
+            <span class="badge" id="mobile-chat-badge" style="display:none;">1</span>
+        </a>
+        <a href="#" class="nav-item" data-tab="remedial">
+            <i class="xi-library"></i>
+            <span>보충처방</span>
+            <span class="badge badge-warning" id="mobile-remedial-badge" style="display:none;">!</span>
+        </a>
+        <a href="#" class="nav-item" data-tab="analysis">
+            <i class="xi-chart-line"></i>
+            <span>상세분석</span>
+        </a>
+    </nav>
+    
+    <!-- Custom JavaScript -->
+    <script src="/static/index.js?v=1.2.3"></script>
+</body>
+</html>
