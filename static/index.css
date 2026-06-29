@@ -426,7 +426,7 @@ html, body {
     display: flex;
 }
 
-#dashboard-tab, #remedial-tab {
+#dashboard-tab, #remedial-tab, #analysis-tab {
     overflow-y: auto;
     padding-right: 4px;
 }
@@ -1575,6 +1575,38 @@ select {
         width: calc(100% - 32px);
         margin: 16px;
         padding: 16px;
+    }
+
+    /* Past Exam Analysis Mobile Adjustments */
+    .analysis-tabs {
+        padding: 6px 4px;
+        margin-bottom: 12px;
+        gap: 8px;
+    }
+    
+    .analysis-tab-btn {
+        padding: 8px 14px;
+        font-size: 13px;
+        border-radius: 6px;
+    }
+    
+    .analysis-card {
+        padding: 16px !important;
+        gap: 10px !important;
+    }
+    
+    .analysis-card .card-header h4 {
+        font-size: 14px !important;
+    }
+    
+    .strategy-card {
+        padding: 16px !important;
+        gap: 8px !important;
+    }
+    
+    .round-breakdown-grid {
+        grid-template-columns: repeat(4, 1fr) !important;
+        gap: 6px !important;
     }
 }
 
