@@ -394,6 +394,7 @@ async function startCBTExam() {
         
         // Reset splash screen and render exam pane
         document.getElementById('cbt-splash').style.display = 'none';
+        document.getElementById('cbt-header').style.display = 'none';
         document.getElementById('exam-panel').style.display = 'block';
         
         // Generate OMR marking circles
@@ -685,6 +686,7 @@ async function submitExamAnswers() {
     // Reset Exam views
     document.getElementById('exam-panel').style.display = 'none';
     document.getElementById('cbt-splash').style.display = 'flex';
+    document.getElementById('cbt-header').style.display = 'flex';
     document.getElementById('btn-submit-exam').innerText = "최종 답안 제출";
     document.getElementById('btn-submit-exam').disabled = false;
     activeExam = null;

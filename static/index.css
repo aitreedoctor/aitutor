@@ -1303,12 +1303,12 @@ select {
     
     /* Main Content Adjustments */
     .main-content {
-        padding: 16px;
-        padding-top: 76px; /* Offset mobile-header height (60px) + spacing */
-        padding-bottom: 80px; /* Offset mobile-nav height (64px) + spacing */
+        padding: 10px;
+        padding-top: 72px; /* Offset mobile-header height (60px) + spacing */
+        padding-bottom: 74px; /* Offset mobile-nav height (64px) + spacing */
         height: 100vh;
         overflow: hidden;
-        gap: 16px;
+        gap: 10px;
     }
     
     /* Welcome Header */
@@ -1398,12 +1398,12 @@ select {
     
     /* Question Container */
     .question-container {
-        padding: 16px;
+        padding: 12px;
         height: 100%;
     }
     
     .question-header {
-        margin-bottom: 16px;
+        margin-bottom: 12px;
     }
     
     .question-header-right {
@@ -1418,12 +1418,16 @@ select {
     
     .question-content h3 {
         font-size: 15px;
-        margin-bottom: 16px;
+        margin-bottom: 10px;
         line-height: 1.5;
     }
     
+    .choices-list {
+        gap: 8px;
+    }
+    
     .choice-btn {
-        padding: 12px;
+        padding: 8px 12px;
         font-size: 13px;
         line-height: 1.4;
     }
