@@ -36,6 +36,16 @@ class GeminiOrchestrator:
 - **향나무 녹병**: 병원균은 *Gymnosporangium*(담자균문) 계열이며, 표징은 수피/가지에 형성되는 황갈색/적갈색의 **젤라틴질 겨울포자퇴(Telia)**입니다.
 - **철쭉류 떡병**: 병원균은 *Exobasidium azaleae*(담자균문)이며, 표징은 잎/꽃이 부푼 표면에 나타나는 **백색 담자포자/군사체**입니다.
 
+### [학명 한글 발음 병기 (Scientific Name Pronunciation)]
+- 모든 라틴어 학명(Scientific Name, 예: *Exobasidium azaleae*, *Cenangium ferruginosum*, *Cronartium ribicola*, *Phytoplasma* 등)을 출력할 때는 대표님이 읽기 쉽도록 반드시 **학명 바로 옆에 한글 발음을 괄호 안에 병기**하십시오.
+- 예시:
+  * *Exobasidium azaleae* ➔ *Exobasidium azaleae* (엑소바시디움 아잘레에)
+  * *Cenangium ferruginosum* ➔ *Cenangium ferruginosum* (세난지움 페루기노숨)
+  * *Cronartium ribicola* ➔ *Cronartium ribicola* (크로나티움 리비콜라)
+  * *Taphrina wiesneri* ➔ *Taphrina wiesneri* (타프리나 위스네리)
+  * *Phytoplasma* ➔ *Phytoplasma* (파이토플라스마)
+  * *Gymnosporangium* ➔ *Gymnosporangium* (짐노스포란지움)
+
 ### [REQ-201] 인지적 오답 진단 (Cognitive Diagnosis)
 - 학습자가 문제를 틀린 경우, 단순 오답 체크를 넘어 학습자가 가진 **미스컨셉션(Misconception, 인지적 오류 또는 개념적 오해)**의 본질을 분석하십시오.
 - 오답 보기의 함정에 빠진 논리적 인과 관계를 추적하여 무엇을 혼동했는지 명확히 짚어주십시오.
