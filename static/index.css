@@ -1814,4 +1814,34 @@ select {
     font-weight: 700;
 }
 
+/* --- Landscape and Small Height Viewport Optimizations --- */
+@media (max-height: 540px) {
+    body {
+        overflow: auto !important;
+    }
+    
+    .app-container {
+        height: auto !important;
+        overflow: visible !important;
+    }
+    
+    .main-content {
+        height: auto !important;
+        overflow: visible !important;
+        padding-top: 70px !important;
+        padding-bottom: 80px !important;
+    }
+    
+    .tab-pane {
+        height: auto !important;
+        overflow: visible !important;
+    }
+    
+    /* CBT Exam Panel Landscape Fixes */
+    .exam-panel, .exam-body-layout, .question-container, .question-content {
+        height: auto !important;
+        overflow: visible !important;
+    }
+}
+
 
