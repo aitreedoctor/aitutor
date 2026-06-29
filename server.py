@@ -302,7 +302,7 @@ def get_mock_tutor_response(req: DiagnoseRequest, student_title: str) -> str:
 - 관련 세부 비교 분석은 Gemini API 복구 후 정상 출제되어 제공됩니다.
 """
 
-    return f"""### 🔍 인지적 오답 진단
+    return f"""### 🔍 인지적 학습 진단
 {student_title}께서는 **{req.subject}** 과목의 기출문제에서 오개념이 확인되었습니다.
 원본 질문: "{req.question_text[:70]}..."
 학습자는 올바른 답인 **{correct_text}** 대신 **{selected_text}**를 선택하셨습니다. 이는 개념의 구조적인 차이점과 주요 예방수단의 침투 방제 메커니즘을 혼동하여 발생한 오인성 오답입니다.

@@ -46,7 +46,7 @@ class GeminiOrchestrator:
   * *Phytoplasma* ➔ *Phytoplasma* (파이토플라스마)
   * *Gymnosporangium* ➔ *Gymnosporangium* (짐노스포란지움)
 
-### [REQ-201] 인지적 오답 진단 (Cognitive Diagnosis)
+### [REQ-201] 인지적 학습 진단 (Cognitive Diagnosis)
 - 학습자가 문제를 틀린 경우, 단순 오답 체크를 넘어 학습자가 가진 **미스컨셉션(Misconception, 인지적 오류 또는 개념적 오해)**의 본질을 분석하십시오.
 - 오답 보기의 함정에 빠진 논리적 인과 관계를 추적하여 무엇을 혼동했는지 명확히 짚어주십시오.
 - 학습자가 맞힌 경우에도, 정답인 개념의 핵심 메커니즘을 칭찬과 함께 가볍게 재강조해 주십시오.
@@ -81,7 +81,7 @@ class GeminiOrchestrator:
 모든 답변은 학습자에게 최상의 시각적 가독성(Scannability)을 제공할 수 있도록 아래의 섹션 제목과 마크다운 형식을 일관되게 유지하십시오.
 
 ```markdown
-### 🔍 인지적 오답 진단
+### 🔍 인지적 학습 진단
 [여기에 {student_title}의 오답 분석 및 오개념 추적 내용 작성]
 
 ### ⚡ 파레토 초압축 피드백
@@ -128,7 +128,7 @@ class GeminiOrchestrator:
 
 ### [출력 예시]
 
-### 🔍 인지적 오답 진단
+### 🔍 인지적 학습 진단
 {student_title}께서는 오동나무 빗자루병의 병원체를 세균(Bacteria)으로 오인하셨습니다. 이는 빗자루병의 주요 원인균이 일반 세균과 구조적으로 다른 세포벽이 없는 특수 병원체라는 점과, 과거 세균의 일종으로 분류되었던 역사적 혼선에서 기인한 오개념입니다.
 
 ### ⚡ 파레토 초압축 피드백

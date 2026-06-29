@@ -1160,7 +1160,13 @@ select {
     .app-container {
         flex-direction: column;
         height: 100vh;
+        height: 100dvh;
         width: 100vw;
+        overflow: hidden;
+    }
+
+    .tab-pane {
+        height: 100% !important;
         overflow: hidden;
     }
     
@@ -1307,6 +1313,7 @@ select {
         padding-top: 72px; /* Offset mobile-header height (60px) + spacing */
         padding-bottom: 74px; /* Offset mobile-nav height (64px) + spacing */
         height: 100vh;
+        height: 100dvh;
         overflow: hidden;
         gap: 10px;
     }
