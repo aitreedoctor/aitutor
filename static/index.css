@@ -1416,7 +1416,18 @@ select {
     .question-header-right {
         display: flex;
         align-items: center;
-        gap: 12px;
+        gap: 8px;
+    }
+    
+    .study-mode-label {
+        font-size: 11px !important;
+        margin-right: 4px !important;
+    }
+    
+    .study-mode-label input {
+        width: 13px !important;
+        height: 13px !important;
+        margin: 0 !important;
     }
     
     .timer {

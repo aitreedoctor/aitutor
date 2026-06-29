@@ -173,10 +173,6 @@
                     </div>
                     
                     <div class="selector-box">
-                        <label style="display: flex; align-items: center; gap: 6px; cursor: pointer; font-size: 14px; margin-right: 15px; color: #cfd3dc; user-select: none;">
-                            <input type="checkbox" id="cbt-study-mode" checked style="cursor: pointer; width: 16px; height: 16px;">
-                            <span>학습 모드 📖</span>
-                        </label>
                         <select id="exam-select">
                             <option value="">기출문제를 선택해 주세요</option>
                         </select>
@@ -193,6 +189,10 @@
                             <div class="question-header">
                                 <span class="badge" id="exam-subject-badge">수목병리학</span>
                                 <div class="question-header-right">
+                                    <label class="study-mode-label" style="display: flex; align-items: center; gap: 6px; cursor: pointer; font-size: 13px; color: #cfd3dc; user-select: none; margin-right: 10px;">
+                                        <input type="checkbox" id="cbt-study-mode" checked style="cursor: pointer; width: 15px; height: 15px;">
+                                        <span>학습 모드 📖</span>
+                                    </label>
                                     <span class="timer" id="exam-timer"><i class="xi-time"></i> 00:00</span>
                                     <button class="btn btn-secondary btn-sm mobile-omr-toggle" id="btn-toggle-omr" style="display: none;"><i class="xi-file-text-o"></i> 답안지</button>
                                 </div>
