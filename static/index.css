@@ -1549,17 +1549,19 @@ select {
     
     /* Table inside AI Explanations responsiveness */
     .tutor-msg table, .tutor-explain-content table {
-        display: block;
+        display: table !important;
         width: 100% !important;
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
-        white-space: nowrap;
+        table-layout: auto;
+        white-space: normal !important;
+        margin: 12px 0 !important;
     }
     
     .tutor-msg th, .tutor-msg td,
     .tutor-explain-content th, .tutor-explain-content td {
-        padding: 6px 10px;
-        font-size: 12px;
+        padding: 6px 8px !important;
+        font-size: 11px !important;
+        line-height: 1.4 !important;
+        word-break: break-all !important;
     }
     
     /* Special Remedial Tab styling */
