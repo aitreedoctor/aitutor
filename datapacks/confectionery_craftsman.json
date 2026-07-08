@@ -1,0 +1,3605 @@
+{
+  "pack_name": "제과기능사 기출 팩",
+  "questions": [
+    {
+      "id": "confectionery_craftsman_q1",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "머랭 제조에 대한 설명으로 옳은 것은?",
+      "options": [
+        "기름기나 노른자가 없어야 튼튼한 거품이 나온다.",
+        "일반적으로 흰자 100에 대하여 설탕 50의 비율로 만든다.",
+        "저속으로 거품을 올린다.",
+        "설탕을 믹싱 초기에 첨가하여야 부피가 커진다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q2",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 쿠키의 과도한 퍼짐 원인이 아닌 것은?",
+      "options": [
+        "반죽의 되기가 너무 묽을 때",
+        "유지함량이 적을 때",
+        "설탕 사용량이 많을 때",
+        "굽는 온도가 너무 낮을 때",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q3",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "반죽형 케이크의 반죽 제조법에 대한 설명이 틀린 것은?",
+      "options": [
+        "크림법 : 유지와 설탕을 넣어 가벼운 크림상태로 만든 후 계란을 넣는다.",
+        "블렌딩법 : 밀가루와 유지를 넣고 유지에 의해 밀가루가 가볍게 피복되도록 한 후 건조, 액체 재료를 넣는다.",
+        "설탕물법 : 건조 재료를 혼합한 후 설탕 전체를 넣어 포화용액을 만드는 방법이다.",
+        "1단계법 : 모든 재료를 한꺼번에 넣고 믹싱하는 방법이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q4",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "일반적으로 초콜릿은 코코아와 카카오 버터로 나누어져있다. 초콜릿 56%를 사용할 때 코코아의 양은 얼마인가?",
+      "options": [
+        "35%",
+        "37%",
+        "38%",
+        "41%",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q5",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "반죽온도 조절을 위한 고려사항으로 적절하지 않은 것은?",
+      "options": [
+        "마찰계수를 구하기 위한 필수적인 요소는 반죽결과 온도, 원재료온도, 작업장 온도, 사용되는 물온도, 작업장 상대습도이다.",
+        "기준되는 반죽온도보다 결과온도가 높다면 사용하는 물(배합수) 일부를 얼음으로 사용하여 희망하는 반죽온도를 맞춘다.",
+        "마찰계수란 일정량의 반죽을 일정한 방법으로 믹싱할 때 반죽온도에 영향을 미치는 마찰열을 실질적인 수치로 환산한 것이다.",
+        "계산된 사용수 온도가 56℃이상일 때는 뜨거운 물을 사용할 수 없으며, 영하로 나오더라도 절대치의 차이라는 개념에서 얼음계산법을 적용한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q6",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "파운드 케이크를 팬닝할 때 밑면의 껍질 형성을 방지하기 위한 팬으로 가장 적합한 것은?",
+      "options": [
+        "일반팬",
+        "이중팬",
+        "은박팬",
+        "종이팬",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q7",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "유화제를 사용하는 목적이 아닌 것은?",
+      "options": [
+        "물과 기름이 잘 혼합되게 한다.",
+        "빵이나 케익을 부드럽게 한다.",
+        "빵이나 케익이 노화되는 것을 지연시킬 수 있다.",
+        "달콤한 맛이 나게 하는데 사용한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q8",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "케이크 제품의 굽기 후 제품 부피가 기준보다 작은 경우의 원인이 아닌 것은?",
+      "options": [
+        "틀의 바닥에 공기나 물이 들어갔다.",
+        "반죽의 비중이 높았다.",
+        "오븐의 굽기 온도가 높았다.",
+        "반죽을 패닝한 후 오래 방치했다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q9",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "도넛 글레이즈가 끈적이는 원인과 대응방안으로 틀린 것은?",
+      "options": [
+        "유지 성분과 수분의 유화 평형 불안정 - 원재료 중 유화제 함량을 높임",
+        "온도, 습도가 높은 환경 - 냉장 진열장 사용 또는 통풍이 잘되는 장소 선택",
+        "안정제, 농후화제 부족 - 글레이즈 제조시 첨가된 검류의 함량을 높임",
+        "도넛 제조 시 지친 반죽, 2차 발효가 지나친 반죽 사용 - 표준 제조 공정 준수",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q10",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "도넛 튀김용 유지로 가장 적당한 것은?",
+      "options": [
+        "라드",
+        "유화쇼트닝",
+        "면실유",
+        "버터",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q11",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "초콜릿 제품을 생산하는데 필요한 도구는?",
+      "options": [
+        "디핑 포크 (Dipping forks)",
+        "오븐 (oven)",
+        "파이 롤러 (pie roller)",
+        "워터 스프레이 (water spray)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q12",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "화이트 레이어 케이크의 반죽 비중으로 가장 적합한 것은?",
+      "options": [
+        "0.90 ~ 1.0",
+        "0.45 ~ 0.55",
+        "0.60 ~ 0.70",
+        "0.75 ~ 0.85",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q13",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "케이크 반죽이 30ℓ 용량의 그릇 10개에 가득 차있다. 이것으로 분할 반죽 300g 짜리 600개를 만들었다.이 반죽의 비중은?",
+      "options": [
+        "0.8",
+        "0.7",
+        "0.6",
+        "0.5",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q14",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "퍼프 페이스트리의 휴지가 종료되었을 때 손으로 살짝 누르게 되면 다음 중 어떤 현상이 나타나는가?",
+      "options": [
+        "누른 자국이 남아 있다.",
+        "누른 자국이 원상태로 올라온다.",
+        "누른 자국이 유동성 있게 움직인다.",
+        "내부의 유지가 흘러나온다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q15",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 제과제빵 재료로 사용되는 쇼트닝(shortening)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "쇼트닝을 경화유라고 말한다.",
+        "쇼트닝은 불포화 지방산의 이중결합에 촉매 존재하에 수소를 첨가하여 제조한다.",
+        "쇼트닝성과 공기포집 능력을 갖는다.",
+        "쇼트닝은 융점(melting point)이 매우 낮다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q16",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 발효시간을 연장시켜야하는 경우는?",
+      "options": [
+        "식빵 반죽온도가 27℃ 이다.",
+        "발효실 온도가 24℃ 이다.",
+        "이스트푸드가 충분하다.",
+        "1차 발효실 상대 습도가 80%이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q17",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "제빵 시 굽기 단계에서 일어나는 반응에 대한 설명으로 틀린 것은?",
+      "options": [
+        "반죽온도가 60℃로 오르기 까지 효소의 작용이 활발해지고 휘발성 물질이 증가한다.",
+        "글루텐은 90℃부터 굳기 시작하여 빵이 다 구워질때까지 천천히 계속 된다.",
+        "반죽온도가 60℃에 가까워지면 이스트가 죽기 시작한다. 그와 함께 전분이 호화하기 시작한다.",
+        "표피부분이 160℃를 넘어서면 당과 아미노산이 마이야르 반응을 일으켜 멜라노이드를 만들고, 당의 캐러멜화 반응이 일어나고 전분이 덱스트린으로 분해된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q18",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "어느 제과점의 이번 달 생산예상 총액이 1000만원인 경우, 목표 노동 생산성은 5000원/시/인, 생산 가동 일수가 20일, 1일 작업시간 10시간인 경우 소요인원은?",
+      "options": [
+        "4명",
+        "6명",
+        "8명",
+        "10명",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q19",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "냉각으로 인한 빵 속의 수분 함량으로 적당한 것은?",
+      "options": [
+        "약 5%",
+        "약 15%",
+        "약 25%",
+        "약 38%",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q20",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 제품 중 2차 발효실의 습도를 가장 높게 설정해야 되는 것은?",
+      "options": [
+        "호밀빵",
+        "햄버거빵",
+        "불란서빵",
+        "빵 도넛",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q21",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "노타임 반죽법에 사용되는 산화, 환원제의 종류가 아닌 것은?",
+      "options": [
+        "ADA(azodicarbonamide)",
+        "L-시스테인",
+        "소르브산",
+        "요오드칼슘",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q22",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "80% 스펀지에서 전체 밀가루가 2000g, 전체 가수율이 63%인 경우, 스펀지에 55%의 물을 사용하였다면 본반죽에 사용할 물량은?",
+      "options": [
+        "380g",
+        "760g",
+        "1140g",
+        "1260g",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q23",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "어린 반죽(발효가 덜 된 반죽) 으로 제조를 할 경우 중간발효시간은 어떻게 조절되는가?",
+      "options": [
+        "길어진다.",
+        "짧아진다.",
+        "같다.",
+        "판단할 수 없다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q24",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 식빵에서 설탕이 과다할 경우 대응책으로 가장 적합한 것은?",
+      "options": [
+        "소금 양을 늘린다.",
+        "이스트 양을 늘린다.",
+        "반죽온도를 낮춘다.",
+        "발효시간을 줄인다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q25",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "둥글리기의 목적과 거리가 먼 것은?",
+      "options": [
+        "공 모양의 일정한 모양을 만든다.",
+        "큰 가스는 제거하고 작은 가스는 고르게 분산시킨다.",
+        "흐트러진 글루텐을 재정렬한다.",
+        "방향성 물질을 생성하여 맛과 향을 좋게 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q26",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "냉동반죽의 해동을 높은 온도에서 빨리 할 경우 반죽의 표면에서 물이 나오는 드립(drip)현상이 발생하는데 그 원인이 아닌 것은?",
+      "options": [
+        "얼음결정이 반죽의 세포를 파괴 손상",
+        "반죽내 수분의 빙결분리",
+        "단백질의 변성",
+        "급속냉동",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q27",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "제빵 생산의 원가를 계산하는 목적으로만 연결된 것은?",
+      "options": [
+        "순이익과 총매출의 계산",
+        "이익계산, 가격결정, 원가관리",
+        "노무비, 재료비, 경비산출",
+        "생산량관리, 재고관리, 판매관리",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q28",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 빵의 냉각방법으로 가장 적합한 것은?",
+      "options": [
+        "바람이 없는 실내에서 냉각",
+        "강한 송풍을 이용한 급냉",
+        "냉동실에서 냉각",
+        "수분분사 방식",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q29",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "식빵 제조 시 수돗물 온도 20℃, 사용할 물 온도 10℃, 사용물 양 4kg 일 때 사용할 얼음 양은?",
+      "options": [
+        "100g",
+        "200g",
+        "300g",
+        "400g",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q30",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "건포도식빵 제조 시 2차 발효에 대한 설명으로 틀린 것은?",
+      "options": [
+        "최적의 품질을 위해 2차 발효를 짧게 한다.",
+        "식감이 가볍고 잘 끊어지는 제품을 만들 때는 2차 발효를 약간 길게 한다.",
+        "밀가루의 단백질의 질이 좋은 것일수록 오븐 스프링이 크다.",
+        "100% 중종법보다 70% 중종법이 오븐스프링이 좋다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q31",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "밀가루 중에 손상전분이 제빵 시에 미치는 영향으로 옳은 것은?",
+      "options": [
+        "반죽 시 흡수가 늦고 흡수량이 많다.",
+        "반죽 시 흡수가 빠르고 흡수량이 적다.",
+        "발효가 빠르게 진행된다.",
+        "제빵과 아무 관계가 없다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q32",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 밀가루에 함유되어 있지 않은 색소는?",
+      "options": [
+        "카로틴",
+        "멜라닌",
+        "크산토필",
+        "플라본",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q33",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "일반적으로 신선한 우유의 ph는?",
+      "options": [
+        "4.0 ~ 4.5",
+        "3.0 ~ 4.0",
+        "5.5 ~ 6.0",
+        "6.5 ~ 6.7",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q34",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "글리세린(glycerin, glycerol)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "무색, 무취한 액체이다.",
+        "3개의 수산기(-OH)를 가지고 있다.",
+        "색과 향의 보존을 도와준다.",
+        "탄수화물의 가수분해로 얻는다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q35",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "제빵에 있어 일반적으로 껍질을 부드럽게 하는 재료는?",
+      "options": [
+        "소금",
+        "밀가루",
+        "마가린",
+        "이스트푸드",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q36",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "전분을 효소나 산에 의해 가수분해시켜 얻은 포도당액을 효소나 알칼리 처리로 포도당과 과당으로 만들어 놓은 당의 명칭은?",
+      "options": [
+        "전화당",
+        "맥아당",
+        "이성화당",
+        "전분당",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q37",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "빵 반죽의 이스트 발효 시 주로 생성되는 물질은?",
+      "options": [
+        "물 + 이산화탄소",
+        "알코올 + 이산화탄소",
+        "알코올 + 물",
+        "알코올 + 글루텐",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q38",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "직접반죽법에 의한 발효 시 가장 먼저 발효되는 당은?",
+      "options": [
+        "맥아당 (maltose)",
+        "포도당 (glucose)",
+        "과당 (fructose)",
+        "갈락토오스(galactose)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q39",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "제빵 시 경수를 사용할 때 조치사항이 아닌 것은?",
+      "options": [
+        "이스트 사용량 증가",
+        "맥아 첨가",
+        "이스트푸드양 감소",
+        "급수량 감소",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q40",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "달걀의 특징적 성분으로 지방의 유화력이 강한 성분은?",
+      "options": [
+        "레시틴(lecithin)",
+        "스테롤(sterol)",
+        "세팔린(cephalin)",
+        "아비딘(avidin)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q41",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 당류 중 감미도가 가장 낮은 것은?",
+      "options": [
+        "유당",
+        "전화당",
+        "맥아당",
+        "포도당",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q42",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 밀가루 제품의 품질에 가장 크게 영향을 주는 것은?",
+      "options": [
+        "글루텐의 함유량",
+        "빛깔, 맛, 향기",
+        "비타민 함유량",
+        "원산지",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q43",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "유화제에 대한 설명으로 틀린 것은?",
+      "options": [
+        "계면활성제라고도 한다.",
+        "친유성기와 친수성기를 각 50%씩 갖고 있어 물과 기름의 분리를 막아준다.",
+        "레시틴, 모노글리세라이드, 난황 등이 유화제로 쓰인다.",
+        "빵에서는 글루텐과 전분사이로 이동하는 자유수의 분포를 조절하여 노화를 방지한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q44",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "비터 초콜릿 (Bitter Chocolate) 32% 중에서 코코아가 약 얼마 정도 함유되어 있는가?",
+      "options": [
+        "8%",
+        "16%",
+        "20%",
+        "24%",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q45",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "검류에 대한 설명으로 틀린 것은?",
+      "options": [
+        "유화제, 안정제, 점착제 등으로 사용된다.",
+        "낮은 온도에서도 높은 점성을 나타낸다.",
+        "무기질과 단백질로 구성되어 있다.",
+        "친수성 물질이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q46",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "아미노산의 성질에 대한 설명 중 옳은 것은?",
+      "options": [
+        "모든 아미노산은 선광성을 갖는다.",
+        "아미노산은 융점이 낮아서 액상이 많다.",
+        "아미노산은 종류에 따라 등전점이 다르다.",
+        "천연단백질을 구성하는 아미노산은 주로 D형이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q47",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "무기질에 대한 설명으로 틀린 것은?",
+      "options": [
+        "나트륨은 결핍증이 없으며 소금, 육류 등에 많다.",
+        "마그네슘 결핍증은 근육약화, 경련 등이며 생선, 견과류 등에 많다.",
+        "철은 결핍 시 빈혈증상이 있으며 시금치, 두류 등에 많다.",
+        "요오드 결핍 시에는 갑상선종이 생기며 유제품, 해조류 등에 많다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q48",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "단백질의 소화, 흡수에 대한 설명으로 틀린 것은?",
+      "options": [
+        "단백질은 위에서 소화되기 시작한다.",
+        "펩신은 육류 속 단백질일부를 폴리펩티드로 만든다.",
+        "십이지장에서 췌장에서 분비된 트립신에 의해 더 작게 분해된다.",
+        "소장에서 단백질이 완전히 분해되지는 않는다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q49",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "우유 1컵 (200mL)에 지방이 6g이라면 지방으로부터 얻을 수 있는 열량은?",
+      "options": [
+        "6kcal",
+        "24kcal",
+        "54kcal",
+        "120kcal",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q50",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "혈당의 저하와 가장 관계가 깊은 것은?",
+      "options": [
+        "인슐린",
+        "리파아제",
+        "프로테아제",
+        "펩신",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q51",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "식자재의 교차오염을 예방하기 위한 보관방법으로 잘못된 것은?",
+      "options": [
+        "원재료와 완성품을 구분하여 보관",
+        "바닥과 벽으로부터 일정거리를 띄워 보관",
+        "뚜껑이 있는 청결한 용기에 덮개를 덮어서 보관",
+        "식자재와 비식자재를 함께 식품 창고에 보관",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q52",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "경구감염병과 거리가 먼 것은?",
+      "options": [
+        "유행성 간염",
+        "콜레라",
+        "세균성이질",
+        "일본뇌염",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q53",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "마시는 물 또는 식품을 매개로 발생하고 집단 발생의 우려가 커서 발생 또는 유행 즉시 방역대책을 수립하여야 하는 감염병은?",
+      "options": [
+        "제1군 감염병",
+        "제2군 감염병",
+        "제3군 감염병",
+        "제4군 감염병",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q54",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "세균이 분비한 독소에 의해 감염을 일으키는 것은?",
+      "options": [
+        "감염형 세균성 식중독",
+        "독소형 세균성 식중독",
+        "화학성 식중독",
+        "진균독 식중독",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q55",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "식품첨가물의 사용에 대한 설명 중 틀린 것은?",
+      "options": [
+        "식품첨가물 공전에서 식품첨가물의 규격 및 사용기준을 제한하고 있다.",
+        "식품첨가물은 안전성이 입증된 것으로 최대사용량의 원칙을 적용한다.",
+        "GRAS란 역사적으로 인체에 해가 없는 것이 인정된 화합물을 의미한다.",
+        "ADI란 일일섭취허용량을 의미한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q56",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "위해요소중점관리기준(HACCP)을 식품별로 정하여 고시하는 자는?",
+      "options": [
+        "보건복지부장관",
+        "식품의약품안전청장",
+        "시장, 군수, 또는 구청장",
+        "환경부장관",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q57",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "경구감염병에 관한 설명 중 틀린 것은?",
+      "options": [
+        "미량의 균으로 감염이 가능하다.",
+        "식품은 증식매체이다.",
+        "감염환이 성립된다.",
+        "잠복기가 길다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q58",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "주기적으로 열이 반복되어 나타나므로 파상열이라고 불리는 인수공통감염병은?",
+      "options": [
+        "Q열",
+        "결핵",
+        "브루셀라병",
+        "돈단독",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q59",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "메틸알코올의 중독 증상과 거리가 먼 것은?",
+      "options": [
+        "두통",
+        "구토",
+        "실명",
+        "환각",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q60",
+      "subject": "제과기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "보툴리누스 식중독에서 나타날 수 있는 주요 증상 및 증후가 아닌 것은?",
+      "options": [
+        "구토 및 설사",
+        "호흡곤란",
+        "출혈",
+        "사망",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q61",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "성형한 파이 반죽에 포크 등을 이용하여 구멍을 내주는 가장 주된 이유는?",
+      "options": [
+        "제품을 부드럽게 하기 위해",
+        "제품의 수축을 막기 위해",
+        "제품의 원활한 팽창을 위해",
+        "제품에 기포나 수포가 생기는 것을 막기 위해",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q62",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 반죽형 케이크의 반죽 제조법에 해당하는 것은?",
+      "options": [
+        "공립법",
+        "별립법",
+        "머랭법",
+        "블렌딩법",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q63",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음의 조건에서 물 온도를 계산하면?",
+      "options": [
+        "0℃",
+        "3℃",
+        "8℃",
+        "12℃",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/j7/j720110731/j720110731m3.gif"
+    },
+    {
+      "id": "confectionery_craftsman_q64",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "제분에 대한 설명 중 틀린 것은?",
+      "options": [
+        "넓은 의미의 개념으로 제분이란 곡류를 가루로 만드는 것이 지만 일반적으로 밀을 사용하여 밀가루를 제조하는 것을 제 분이라고 한다.",
+        "밀은 배유부가 치밀하거나 단단하지 못하여 도정 할 경우 싸라기가 많이 나오기 때문에 처음부터 분말화하여 활용하는 것을 제분이라고 한다.",
+        "제분 시 밀기울이 많이 들어가면 밀가루의 회분함량이 낮아진다.",
+        "제분율이란 밀을 제분하여 밀가루를 만들 때 밀에 대한 밀가루의 백분율을 말한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q65",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "스펀지케이크를 만들 때 설탕이 적게 들어감으로 해서 생길 수 있는 현상은?",
+      "options": [
+        "오븐에서 제품이 주저앉는다.",
+        "제품의 껍질이 두껍다.",
+        "제품의 껍질이 갈라진다.",
+        "제품의 부피가 증가한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q66",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "튀김 기름의 조건으로 틀린 것은?",
+      "options": [
+        "발연점(smoking point)이 높아야 한다.",
+        "산패에 대한 안정성이 있어야 한다.",
+        "여름철에 융점이 낮은 기름을 사용한다.",
+        "산가(acid value)가 낮아야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q67",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "슈(Choux)에 대한 설명이 틀린 것은?",
+      "options": [
+        "팬닝 후 반죽표면에 물을 분사하여 오븐에서 껍질이 형성되 는 것을 지연시킨다.",
+        "껍질반죽은 액체재료를 많이 사용하기 때문에 굽기 중 증기 발생으로 팽창한다.",
+        "오븐의 열 분배가 고르지 않으면 껍질이 약하여 주저앉는다.",
+        "기름칠이 적으면 껍질 밑부분이 접시모양으로 올라오거나 위 와 아래가 바뀐 모양이 된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q68",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "케이크 반죽의 pH가 적정 범위를 벗어나 알칼리일 경우 제품에서 나타나는 현상은?",
+      "options": [
+        "부피가 작다.",
+        "향이 약하다.",
+        "껍질색이 여리다.",
+        "기공이 거칠다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q69",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "소규모 주방설비 중 작업의 효율성을 높이기 위한 작업 테이블의 위치로 가장 적당한 것은?",
+      "options": [
+        "오븐 옆에 설치한다.",
+        "냉장고 옆에 설치한다.",
+        "발효실 옆에 설치한다.",
+        "주방의 중앙부에 설치한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q70",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "고율배합의 제품을 굽는 방법으로 알맞은 것은?",
+      "options": [
+        "저온 단시간",
+        "고온 단시간",
+        "저온 장시간",
+        "고온 장시간",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q71",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 비용적이 가장 큰 케이크는?",
+      "options": [
+        "스펀지케이크",
+        "파운드 케이크",
+        "화이트레이어케이크",
+        "초콜릿케이크",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q72",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "어떤 과자반죽의 비중을 측정하기 위하여 다음과 같이 무게를 달았다면 이반죽의 비중은? (단, 비중컵=50g, 비중컵+물=250g, 비중컵+반죽=170g)",
+      "options": [
+        "0.40",
+        "0.60",
+        "0.68",
+        "1.47",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q73",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "같은 크기의 팬에 각 제품의 비용적에 맞는 반죽을 팬닝 하였을 경우 반죽량이 가장 무거운 반죽은?",
+      "options": [
+        "파운드 케이크",
+        "레이어 케이크",
+        "스펀지 케이크",
+        "소프트 롤 케이크",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q74",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "흰자를 거품내면서 뜨겁게 끓인 시럽을 부어 만든 머랭은?",
+      "options": [
+        "냉제 머랭",
+        "온제 머랭",
+        "스위스 머랭",
+        "이탈리안 머랭",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q75",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "도넛과 케이크의 글레이즈(glaze) 사용 온도로 가장 적합한 것은?",
+      "options": [
+        "23℃",
+        "34℃",
+        "49℃",
+        "68℃",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q76",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 1mg과 같은 것은?",
+      "options": [
+        "0.0001 g",
+        "0.001 g",
+        "0.1g",
+        "1000 g",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q77",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "냉동반죽의 장점이 아닌 것은?",
+      "options": [
+        "노동력 절약",
+        "작업 효율의 극대화",
+        "설비와 공간의 절약",
+        "이스트푸드의 절감",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q78",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "3% 이스트를 사용하여 4 시간 발효시켜 좋은 결과를 얻는다고 가정할 때 발효시간을 3 시간으로 줄이려 한다. 이때 필요한 이스트 양은? (단, 다른 조건은 같다고 본다.)",
+      "options": [
+        "3.5%",
+        "4%",
+        "4.5%",
+        "5%",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q79",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "식빵의 온도를 28℃까지 냉각한 후 포장할 때 식빵에 미치는 영향은?",
+      "options": [
+        "노화가 일어나서 빨리 딱딱해진다.",
+        "빵에 곰팡이가 쉽게 발생한다.",
+        "빵의 모양이 찌그러지기 쉽다.",
+        "식빵을 슬라이스하기 어렵다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q80",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "버터 톱 식빵 제조 시 분할손실이 3%이고, 완제품 500g 짜리 4개를 만들 때 사용하는 강력분의 양으로 가장 적당한 것은?(단, 총 배합률은 195.8% 이다.)",
+      "options": [
+        "약 1065 g",
+        "약 2140 g",
+        "약 1053 g",
+        "약 1123 g",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q81",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "빵 속에 줄무늬가 생기는 원인으로 옳은 것은?",
+      "options": [
+        "덧가루 사용이 과다한 경우",
+        "반죽개량제의 사용이 과다한 경우",
+        "밀가루를 체로 치지 않은 경우",
+        "너무 되거나 진 반죽인 경우",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q82",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "하나의 스펀지 반죽으로 2~4개의 도우(dough)를 제조하는 방법으로 노동력, 시간이 절약되는 방법은?",
+      "options": [
+        "가당 스펀지법",
+        "오버나잇 스펀지법",
+        "마스터 스펀지법",
+        "비상 스펀지법",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q83",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "반죽이 팬 또는 용기에 가득 차는 성질과 관련된 것은?",
+      "options": [
+        "흐름성",
+        "가소성",
+        "탄성",
+        "점탄성",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q84",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 냉동 반죽을 저장할 때의 적정 온도로 옳은 것은?",
+      "options": [
+        "-1 ~ -5℃ 정도",
+        "-6 ~ -10℃ 정도",
+        "-18 ~ -24℃ 정도",
+        "-40℃ ~ -45℃ 정도",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q85",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 재료 중 식빵 제조 시 반죽 온도에 가장 큰 영향을 주는 것은?",
+      "options": [
+        "설탕",
+        "밀가루",
+        "소금",
+        "반죽개량제",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q86",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "빵 표피의 갈변반응을 설명한 것 중 옳은 것은?",
+      "options": [
+        "이스트가 사멸해서 생긴다.",
+        "마가린으로부터 생긴다.",
+        "아미노산과 당으로부터 생긴다.",
+        "굽기 온도 때문에 지방이 산패되어 생긴다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q87",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "제빵용으로 주로 사용되는 도구는?",
+      "options": [
+        "모양깍지",
+        "돌림판(회전판)",
+        "짤주머니",
+        "스크래퍼",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q88",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "빵 제품의 껍질색이 연한 원인 설명으로 거리가 먼 것은?",
+      "options": [
+        "1차 발효 과다",
+        "낮은 오븐 온도",
+        "덧가루 사용 과다",
+        "고율배합",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q89",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "둥글리기(Rounding) 공정에 대한 설명으로 틀린 것은?",
+      "options": [
+        "덧가루, 분할기 기름을 최대로 사용한다.",
+        "손 분할, 기계분할이 있다.",
+        "분할기의 종류는 제품에 적합한 기종을 선택한다.",
+        "둥글리기 과정 중 큰 기포는 제거되고 반죽온도가 균일화된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q90",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "오랜 시간 발효 과정을 거치지 않고 혼합 후 정형하여 2차 발효를 하는 제빵 법은?",
+      "options": [
+        "재반죽법",
+        "스트레이트법",
+        "노타임법",
+        "스펀지법",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q91",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "밀가루 중에 가장 많이 함유된 물질은?",
+      "options": [
+        "단백질",
+        "지방",
+        "전분",
+        "회분",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q92",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "우유를 살균할 때 고온단시간살균법(HTST)으로서 가장 적합한 조건은?",
+      "options": [
+        "72℃에서 15초 처리",
+        "75℃ 이상에서 15분 처리",
+        "130℃에서 2 ~ 3초 이내 처리",
+        "62 ~ 65℃에서 30분 처리",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q93",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 효소와 온도에 대한 설명으로 틀린 것은?",
+      "options": [
+        "효소는 일종의 단백질이기 때문에 열에 의해 변성된다.",
+        "최적온도 수준이 지나도 반응 속도는 증가한다.",
+        "적정온도 범위에서 온도가 낮아질수록 반응속도는 낮아진다.",
+        "적정 온도 범위 내에서 온도 10℃ 상승에 따라 효소 활성은 약 2배로 증가한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q94",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음의 초콜릿 성분이 설명하는 것은?",
+      "options": [
+        "카카오매스",
+        "카카오기름",
+        "카카오버터",
+        "코코아파우더",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/j7/j720110731/j720110731m34.gif"
+    },
+    {
+      "id": "confectionery_craftsman_q95",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "패리노그래프 커브의 윗부분이 500B.U.에 도달하는 시간을 무엇이 라고 하는가?",
+      "options": [
+        "반죽시간(peak time)",
+        "도달시간(arrival time)",
+        "반죽형성시간(dough development time)",
+        "이탈시간(departure time)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q96",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음에서 탄산수소나트륨(중조)이 반응에 의해 발생하는 물질이 아닌 것은?",
+      "options": [
+        "CO2",
+        "H2O",
+        "C2H5OH",
+        "Na2CO3",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q97",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "제빵에 사용하는 물로 가장 적합한 형태는?",
+      "options": [
+        "아경수",
+        "알칼리수",
+        "증류수",
+        "염수",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q98",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "유지의 경화란?",
+      "options": [
+        "포화 지방산의 수증기 증류를 말한다.",
+        "불포화 지방산에 수소를 첨가하는 것이다.",
+        "규조토를 경화제로 하는 것이다.",
+        "알칼리 정제를 말한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q99",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "아밀로그래프에 관한 설명 중 틀린 것은?",
+      "options": [
+        "반죽의 신장성 측정",
+        "맥아의 액화효과 측정",
+        "알파 아밀라아제의 활성 측정",
+        "보통 제빵용 밀가루는 약 400~600 B.U.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q100",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "쇼트닝에 대한 설명으로 틀린 것은?",
+      "options": [
+        "라드(돼지기름) 대용품으로 개발되었다.",
+        "정제한 동·식물성 유지로 만든다.",
+        "온도 범위가 넓어 취급이 용이하다.",
+        "수분을 16% 함유하고 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q101",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 당 알코올(sugar alcohol)이 아닌 것은?",
+      "options": [
+        "자일리톨",
+        "솔비톨",
+        "갈락티톨",
+        "글리세롤",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q102",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "케이크 제품에서 계란의 기능이 아닌 것은?",
+      "options": [
+        "영양가 증대",
+        "결합제 역할",
+        "유화작용 저해",
+        "수분 증발 감소",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q103",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "맥아당은 이스트의 발효과정 중 효소에 의해 어떻게 분해되는가?",
+      "options": [
+        "포도당 + 포도당",
+        "포도당 + 과당",
+        "포도당 + 유당",
+        "과당 + 과당",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q104",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "육두구과의 상록활엽교목에 맺히는 종자를 말리면 넛메그가 된다. 이 넛메그의 종자를 싸고 있는 빨간 껍질을 말린 향신료는?",
+      "options": [
+        "생강",
+        "클로브",
+        "메이스",
+        "시너먼",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q105",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "밀 제분 공정 중 정선기에 온 밀가루를 다시 마쇄하여 작은 입자로 만드는 공정은?",
+      "options": [
+        "조쇄공정(break roll)",
+        "분쇄공정(reduct roll)",
+        "정선공정(milling separator)",
+        "조질공정(tempering)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q106",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "수크라아제(sucrase)는 무엇을 가수분해 시키는가?",
+      "options": [
+        "맥아당",
+        "설탕",
+        "전분",
+        "과당",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q107",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "리놀렌산(linolenic acid)의 급원식품으로 가장 적합한 것은?",
+      "options": [
+        "라드",
+        "들기름",
+        "면실유",
+        "해바라기씨유",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q108",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "새우, 게 등의 겉껍질을 구성하는 chitin의 주된 단위성분은?",
+      "options": [
+        "갈락토사민(galactosamine)",
+        "글루코사민(glucosamine)",
+        "글루쿠로닉산(glucuronic acid)",
+        "갈락투로닉산(galacturonic acid)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q109",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "단백질에 대한 설명으로 틀린 것은?",
+      "options": [
+        "조직의 삼투압과 수분평형을 조절한다.",
+        "약 20여 종의 아미노산으로 되어있다.",
+        "부족하면 2차적 빈혈을 유발하기 쉽다.",
+        "동물성 식품에만 포함되어 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q110",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "건강한 성인이 식사 시 섭취한 철분이 200mg인 경우 체내 흡수된 철분의 양은?",
+      "options": [
+        "1~5mg",
+        "10~30mg",
+        "100~150mg",
+        "200mg",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q111",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "착색료에 대한 설명으로 틀린 것은?",
+      "options": [
+        "천연색소는 인공색소에 비해 값이 비싸다",
+        "타르색소는 카스텔라에 사용이 허용되어 있다.",
+        "인공색소는 색깔이 다양하고 선명하다.",
+        "레토르트 식품에서 타르색소가 검출되면 안 된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q112",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 작업공간의 살균에 가장 적당한 것은?",
+      "options": [
+        "자외선 살균",
+        "적외선 살균",
+        "가시광선 살균",
+        "자비살균",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q113",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 허가된 천연유화제는?",
+      "options": [
+        "구연산",
+        "고시폴",
+        "레시틴",
+        "세사몰",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q114",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 살모넬라균의 주요 감염원은?",
+      "options": [
+        "채소류",
+        "육류",
+        "곡류",
+        "과일류",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q115",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "경구감염병의 예방대책 중 전염원에 대한 대책으로 바람직하지 않은 것은?",
+      "options": [
+        "환자를 조기 발견하여 격리 치료한다.",
+        "환자가 발생하면 접촉자의 대변을 검사하고 보균자를 관리한 다.",
+        "일반 및 유흥음식점에서 일하는 사람들은 정기적인 건강진단 이 필요하다.",
+        "오염이 의심되는 물건은 어둡고 손이 닿지 않는 곳에 모아둔다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q116",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "산양, 양, 돼지, 소에게 감염되면 유산을 일으키고, 인체 감염 시 고열이 주기적으로 일어나는 인수공통감염병은?",
+      "options": [
+        "광우병",
+        "공수병",
+        "파상열",
+        "신증후군출혈열",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q117",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "“제1군감염병”이라 함은 감염속도가 빠르고 국민건강에 미치는 위해정도가 너무 커서 발생 즉시 방역대책을 수립해야 하는데 다음 중 여기에 속하지 않는 감염병은?(관련 규정 개정전 문제로 여기서는 기존 정답인 3번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "콜레라",
+        "장티푸스",
+        "비브리오 패혈증",
+        "장출혈성대장균감염증",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q118",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 식중독 관련 세균의 생육에 최적인 식품의 수분 활성도는?",
+      "options": [
+        "0.30 ~ 0.39",
+        "0.50 ~ 0.59",
+        "0.70 ~ 0.79",
+        "0.90 ~ 1.00",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q119",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "주로 냉동된 육류 등 저온에서도 생존력이 강하고 수막염이나 임신부의 자궁 내 패혈증 등을 일으키는 식중독균은?",
+      "options": [
+        "대장균",
+        "살모넬라균",
+        "리스테리아균",
+        "포도상구균",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q120",
+      "subject": "제과기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 감염형 식중독을 일으키는 것은?",
+      "options": [
+        "보툴리누스균",
+        "살모넬라균",
+        "포도상구균",
+        "고초균",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q121",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 제품 중 비중이 가장 낮은 것은?",
+      "options": [
+        "젤리 롤 케이크",
+        "버터 스펀지 케이크",
+        "파운드 케이크",
+        "옐로 레이어 케이크",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q122",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "퍼프페이스트리 굽기 후 결점과 원인으로 틀린 것은?",
+      "options": [
+        "수축: 밀어펴기 과다, 너무 높은 오븐온도",
+        "수포 생성: 단백질 함량이 높은 밀가루로 반죽",
+        "충전물 흘러 나옴: 충전물량 과다, 봉합 부적절",
+        "작은 부피: 수분이 없는 경화 쇼트닝을 충전용 유지로 사용",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q123",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "흰자를 이용한 머랭 제조시 좋은 머랭을 얻기 위한 방법이 아닌 것은?",
+      "options": [
+        "사용 용기 내에 유지가 없어야 한다.",
+        "머랭의 온도를 따뜻하게 한다.",
+        "노른자를 첨가한다.",
+        "주석산 크림을 넣는다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q124",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "공장 설비시 배수관의 최소 내경으로 알맞은 것은?",
+      "options": [
+        "5cm",
+        "7cm",
+        "10cm",
+        "15cm",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q125",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "설탕 공예용 당액 제조시 고농도화된 당의 결정을 막아주는 재료는?",
+      "options": [
+        "중조",
+        "주석산",
+        "포도당",
+        "베이킹파우더",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q126",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "실내온도 25℃, 밀가루 온도 25℃, 설탕온도 25℃, 유지온도 20℃, 달걀온도 20℃, 수돗물온도 23℃, 마찰계수 21, 반죽 희망온도가 22℃라면 사용할 물의 온도는?",
+      "options": [
+        "-4℃",
+        "-1℃",
+        "0℃",
+        "8℃",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q127",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "스펀지 케이크 400ｇ짜리 완제품을 만들 때 굽기 손실이 20%라면 분할 반죽의 무게는?",
+      "options": [
+        "600ｇ",
+        "500ｇ",
+        "400ｇ",
+        "300ｇ",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q128",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "소프트 롤을 말 때 겉면이 터지는 경우 조치사항이 아닌 것은?",
+      "options": [
+        "팽창이 과도한 경우 팽창제 사용량을 감소시킨다.",
+        "설탕의 일부를 물엿으로 대치한다.",
+        "저온 처리하여 말기를 한다.",
+        "덱스트린의 점착성을 이용한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q129",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 제품 중 냉과류에 속하는 제품은?",
+      "options": [
+        "무스케이크",
+        "젤리 롤 케이크",
+        "소프트 롤 케이크",
+        "양갱",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q130",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "도넛을 튀길 때 사용하는 기름에 대한 설명으로 틀린 것은?",
+      "options": [
+        "기름이 적으면 뒤집기가 쉽다.",
+        "발연점이 높은 기름이 좋다.",
+        "기름이 너무 많으면 온도를 올리는 시간이 길어진다.",
+        "튀김 기름의 평균 깊이는 12~15cm 정도가 좋다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q131",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "케이크 도넛의 껍질색을 진하게 내려고 할 때 설탕의 일부를 무엇으로 대치하여 사용하는가?",
+      "options": [
+        "물엿",
+        "포도당",
+        "유당",
+        "맥아당",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q132",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "퍼프 페이스트리 제조 시 다른 조건이 같을 때 충전용 유지에 대한 설명으로 틀린 것은?",
+      "options": [
+        "충전용 유지가 많을수록 결이 분명해진다.",
+        "충전용 유지가 많을수록 밀어 펴기가 쉬워진다.",
+        "충전용 유지가 많을수록 부피가 커진다.",
+        "충전용 유지는 가소성 범위가 넓은 파이용이 적당하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q133",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "시퐁 케이크 제조시 냉각 전에 팬에서 분리되는 결점이 나타났을 때의 원인과 거리가 먼 것은?",
+      "options": [
+        "굽기 시간이 짧다.",
+        "밀가루 양이 많다.",
+        "반죽에 수분이 많다.",
+        "오븐 온도가 낮다",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q134",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "아이싱에 사용하는 안정제 중 적정한 농도의 설탕과 산이 있어야 쉽게 굳는 것은?",
+      "options": [
+        "한천",
+        "펙틴",
+        "젤라틴",
+        "로커스트 빈 검",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q135",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "튀김에 기름을 반복 사용할 경우 일어나는 주요한 변화 중 틀린 것은?",
+      "options": [
+        "중합의 증가",
+        "변색의 증가",
+        "점도의 증가",
+        "발연점의 상승",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q136",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "빵 90ｇ짜리520개를 만들기 위해 필요한 밀가루 양은?(제품 배합율 180%, 발효 및 굽기 손실은 무시)",
+      "options": [
+        "10kg",
+        "18kg",
+        "26kg",
+        "31kg",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q137",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "노무비를 절감하는 방법으로 바람직하지 않은 것은?",
+      "options": [
+        "표준화",
+        "단순화",
+        "설비 휴무",
+        "공정시간 단축",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q138",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "발효가 지나친 반죽으로 빵을 구웠을 때의 제품 특성이 아닌 것은?",
+      "options": [
+        "빵 껍질색이 밝다.",
+        "신 냄새가 있다.",
+        "체적이 적다.",
+        "제품의 조직이 고르다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q139",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 중 굽기 과정에서 일어나는 변화로 틀린 것은?",
+      "options": [
+        "글루텐이 응고된다.",
+        "반죽의 온도가 90℃일 때 효소의 활성이 증가한다.",
+        "오븐 팽창이 일어난다.",
+        "향이 생성된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q140",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "제빵의 일반적인 스펀지 반죽방법에서 가장 적당한 스펀지 온도는?",
+      "options": [
+        "12~15도",
+        "18~20도",
+        "23~25도",
+        "29~32도",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q141",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "비용적의 단위로 옳은 것은?",
+      "options": [
+        "㎤/g",
+        "㎠/g",
+        "㎤/㎖",
+        "㎠/㎖",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q142",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "연속식 제빵법에 관한 설명으로 틀린 것은?",
+      "options": [
+        "액체 발효법을 이용하여 연속적으로 제품을 생산한다.",
+        "발효 손실 감소, 인력 감소 등의 이점이 있다.",
+        "3~4기압의 디벨로퍼로 반죽을 제조하기 때문에 많은 양의 산화제가 필요하다.",
+        "자동화 시설을 갖추기 위해 설비공간의 면적이 많이 소요된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q143",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 제빵 공정 중 시간보다 상태로 판단하는 것이 좋은 공정은?",
+      "options": [
+        "포장",
+        "분할",
+        "2차 발효",
+        "성형",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q144",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "중간 발효에 대한 설명으로 틀린 것은?",
+      "options": [
+        "중간발효는 온도 32℃ 이내, 상대습도 75% 전후에서 실시한다.",
+        "반죽의 온도, 크기에 따라 시간이 달라진다.",
+        "반죽의 상처회복과 성형을 용이하게 하기 위함이다.",
+        "상대습도가 낮으면 덧가루 사용량이 증가한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q145",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "제빵공정 중 패닝 시 틀(팬)의 온도로 가장 적합한 것은?",
+      "options": [
+        "20℃",
+        "32℃",
+        "55℃",
+        "70℃",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q146",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "이스트 2%를 사용했을 때 150분 발효시켜 좋은 결과를 얻었다면, 100분 발효시켜 같은 결과를 얻기 위해 얼마의 이스트를 사용하면 좋을까?",
+      "options": [
+        "1%",
+        "2%",
+        "3%",
+        "4%",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q147",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 중 반죽 10kg을 혼합할 때 가장 적합한 믹서의 용량은?",
+      "options": [
+        "8kg",
+        "10kg",
+        "15kg",
+        "30kg",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q148",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "제빵 냉각법 중 적합하지 않은 것은?",
+      "options": [
+        "급속냉각",
+        "자연냉각",
+        "터널식 냉각",
+        "에어콘디션식 냉각",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q149",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "냉동반죽에 사용되는 재료와 제품의 특성에 대한 설명 중 틀린 것은?",
+      "options": [
+        "일반 제품보다 산화제 사용량을 증가시킨다.",
+        "저율배합인 프랑스빵이 가장 유리하다.",
+        "유화제를 사용하는 것이 좋다.",
+        "밀가루는 단백질의 함량과 질이 좋은 것을 사용한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q150",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "오버베이킹에 대한 설명으로 옳은 것은?",
+      "options": [
+        "높은 온도의 오븐에서 굽는다.",
+        "짧은 시간 굽는다.",
+        "제품의 수분 함량이 많다",
+        "노화가 빠르다",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q151",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "술에 대한 설명으로 틀린 것은?",
+      "options": [
+        "달걀 비린내, 생크림의 비린 맛 등을 완화시켜 풍미를 좋게 한다.",
+        "양조주란 곡물이나 과실을 원료로 하여 효모로 발효시킨 것이다",
+        "증류주란 발효시킨 양조주를 증류한 것이다.",
+        "혼성주란 증류주를 기본으로 하여 정제당을 넣고 과실 등의 추출물로 향미를 낸 것으로 대부분 알코올 농도가 낮다",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q152",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "맥아에 함유되어 있는 아밀라아제를 이용하여 전분을 당화시켜 엿을 만든다. 이 때 엿에 주로 함유되어 있는 당류는?",
+      "options": [
+        "포도당",
+        "유당",
+        "과당",
+        "맥아당",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q153",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "식염이 반죽의 물성 및 발효에 미치는 영향에 대한 설명으로 틀린 것은?",
+      "options": [
+        "흡수율이 감소한다.",
+        "반죽시간이 길어진다.",
+        "껍질 색상을 더 진하게 한다.",
+        "프로테아제의 활성을 증가시킨다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q154",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 중 코팅용 초콜릿이 갖추어야 하는 성질은?",
+      "options": [
+        "융점이 항상 낮은 것",
+        "융점이 항상 높은 것",
+        "융점이 겨울에는 높고, 여름에는 낮은 것",
+        "융점이 겨울에는 낮고, 여름에는 높은 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q155",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "어떤 밀가루에서 젖은 글루텐을 채취하여 보니 밀가루 100g에서 36g이 되었다. 이 때 단백질 함량은?",
+      "options": [
+        "9%",
+        "12%",
+        "15%",
+        "18%",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q156",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 중 효소에 대한 설명으로 틀린 것은?",
+      "options": [
+        "생체내의 화학반응을 촉진시키는 생체 촉매이다.",
+        "효소반응은 온도, ph, 기질농도 등에 영향을 받는다.",
+        "B-아밀라아제를 액화효소, a-아밀라아제를 당화효소라 한다.",
+        "효소는 특정기질에 선택적으로 작용하는 기질 특이성이 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q157",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "동물의 가죽이나 뼈 등에서 추출하며 안정제로 사용되는 것은?",
+      "options": [
+        "젤라틴",
+        "한천",
+        "펙틴",
+        "카라기난",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q158",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "제빵에 가장 적합한 물은?",
+      "options": [
+        "경수",
+        "연수",
+        "아경수",
+        "알칼리수",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q159",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "생이스트의 구성 비율이 올바른 것은?",
+      "options": [
+        "수분8%, 고형분92%정도",
+        "수분 92%, 고형분 8%정도",
+        "수분 70%, 고형분 30%정도",
+        "수분 30%, 고형분 70%정도",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q160",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "커스터드 크림에서 계란은 주로 어떤 역할을 하는가?",
+      "options": [
+        "쇼트닝 작용",
+        "결합제",
+        "팽창제",
+        "저장성",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q161",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 중 유지의 산패와 거리가 먼 것은?",
+      "options": [
+        "온도",
+        "수분",
+        "공기",
+        "비타민E",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q162",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "버터를 쇼트닝으로 대치하려 할 때 고려해야 할 재료와 거리가 먼 것은?",
+      "options": [
+        "유지 고형질",
+        "수분",
+        "소금",
+        "유당",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q163",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "믹서 내에서 일어나는 물리적 성질을 파동 곡선 기록기로 기록하여 밀가루의 흡수율, 믹싱 시간, 믹싱 내구성 등을 측정하는 기계는?",
+      "options": [
+        "패리노 그래프",
+        "익스텐소그래프",
+        "아밀로그래프",
+        "분광분석기",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q164",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "휘핑용 생크림에 대한 설명 중 틀린 것은?",
+      "options": [
+        "유지방 40% 이상의 진한 생크림을 쓰는 것이 좋음",
+        "기포성을 이용하여 제조함",
+        "유지방이 기포 형성의 주체임",
+        "거품의 품질 유지를 위해 높은 온도에서 보관함",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q165",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "단당류 2~10개로 구성된 당으로, 장내의 비피더스균 증식을 활발하게 하는 당은?",
+      "options": [
+        "올리고당",
+        "고과당",
+        "물엿",
+        "이성화당",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q166",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "식빵에 당질50%, 지방 5%, 단백질 9%, 수분24%, 회분 2%가 들어있다면 식빵을 100g 섭취하였을 때 열량은?",
+      "options": [
+        "281kcal",
+        "301kcal",
+        "326kcal",
+        "506kcal",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q167",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "단백질의 가장 주요한 기능은?",
+      "options": [
+        "체온유지",
+        "유화작용",
+        "체조직 구성",
+        "체액의 압력조절",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q168",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "수분의 필요량을 증가시키는 요인이 아닌 것은?",
+      "options": [
+        "장기간의 구토, 설사, 발열",
+        "지방이 많은 음식을 먹은 경우",
+        "수술, 출혈, 화상",
+        "알코올 또는 카페인의 섭취",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q169",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "불포화지방산에 대한 설명 중 틀린 것은?",
+      "options": [
+        "불포화지방산은 산패되기 쉽다.",
+        "고도 불포화지방산은 성인병을 예방한다.",
+        "이중결합 2개 이상의 불포화지방산은 모두 필수 지방산이다.",
+        "불포화지방산이 많이 함유된 유지는 실온에서 액상이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q170",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "글리코겐이 주로 합성되는 곳은?",
+      "options": [
+        "간, 신장",
+        "소화관, 근육",
+        "간, 혈액",
+        "간, 근육",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q171",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "식품위생법에서 식품 등의 공전은 누가 작성, 보급 하는가?",
+      "options": [
+        "보건복지부장관",
+        "식품의약품안전청장",
+        "국립보건원장",
+        "시, 도지사",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q172",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "변질되기 쉬운 식품을 생산지로부터 소비자에게 전달하기까지 저온으로 보존하는 시스템은?",
+      "options": [
+        "냉장유통체계",
+        "냉동유통체계",
+        "저온유통체계",
+        "상온유통체계",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q173",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "식중독 발생 현황에서 발생 빈도가 높은 우리나라 3대 식중독 원인 세균이 아닌 것은?",
+      "options": [
+        "살모넬라균",
+        "포도상구균",
+        "장염 비브리오균",
+        "바실러스 세레우스",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q174",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "어육이나 식육의 초기부패를 확인하는 화학적 검사방법으로 적합하지 않은 것은?",
+      "options": [
+        "휘발성 염기질소량의 측정",
+        "ph의 측정",
+        "트리메틸아민 양의 측정",
+        "탄력성의 측정",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q175",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "아래에서 설명하는 식중독 원인균은?",
+      "options": [
+        "캄필로박터 제주니",
+        "바실러스 세레우스",
+        "장염비브리오",
+        "병원성 대장균",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/j7/j720110417/j720110417m55.gif"
+    },
+    {
+      "id": "confectionery_craftsman_q176",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "산화방지제와 거리가 먼 것은?",
+      "options": [
+        "부틸히드록시아니솔(BHA)",
+        "디부틸히드록시톨루엔(BHT)",
+        "몰식자산프로필 (propyl gallate)",
+        "비타민A",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q177",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "식품첨가물에 의한 식중독으로 규정되지 않는 것은?",
+      "options": [
+        "허용되지 않은 첨가물의 사용",
+        "불순한 첨가물의 사용",
+        "허용된 첨가물의 과다 사용",
+        "독성물질을 식품에 고의로 첨가",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q178",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "황색포도상구균 식중독의 특징으로 틀린 것은?",
+      "options": [
+        "잠복기가 다른 식중독균보다 짧으며 회복이 빠르다",
+        "치사율이 다른 식중독균보다 낮다",
+        "그람 양성균으로 장내독소를(enterotoxin) 생산한다.",
+        "발열이 24~48시간 정도 지속된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q179",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "병원체가 음식물, 손, 식기, 완구, 곤충 등을 통하여 입으로 침입하여 감염을 일으키는 것 중 바이러스에 의한 것은?",
+      "options": [
+        "이질",
+        "폴리오",
+        "장티푸스",
+        "콜레라",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q180",
+      "subject": "제과기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "오염된 우유를 먹었을 때 발생할 수 있는 인수공통감염병이 아닌 것은?",
+      "options": [
+        "파상열",
+        "결핵",
+        "Q-열",
+        "야토병",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q181",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "파운드케이크를 구울 때 윗면이 자연적으로 터지는 경우가 아닌 것은?",
+      "options": [
+        "굽기 시작 전에 증기를 분무할 때",
+        "설탕 입자가 용해되지 않고 남아 있을 때",
+        "반죽 내 수분이 불충분할 때",
+        "오븐 온도가 높아 껍질 형성이 너무 빠를 때",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q182",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "도넛 글레이즈의 사용온도로 가장 적합한 것은?",
+      "options": [
+        "49℃",
+        "39℃",
+        "29℃",
+        "19℃",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q183",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "제빵 공장에서 5인이 8시간 동안 옥수수 식빵 500개, 바게트 빵 550개를 만들었다. 개당 제품의 노무비는 얼마인가? (단, 시간당 노무비는 4000원이다.)",
+      "options": [
+        "132원",
+        "142원",
+        "152원",
+        "162원",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q184",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "엔젤 푸드 케이크 제조 시 팬에 사용하는 이형제로 가장 적절한 것은?",
+      "options": [
+        "쇼트닝",
+        "밀가루",
+        "라드",
+        "물",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q185",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "케이크의 부피가 작아지는 원인에 해당하는 것은?",
+      "options": [
+        "강력분을 사용한 경우",
+        "액체 재료가 적은 경우",
+        "크림성이 좋은 유지를 사용한 경우",
+        "달걀 양이 많은 반죽의 경우",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q186",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "쇼트브레드 쿠키의 성형 시 주의할 점이 아닌 것은?",
+      "options": [
+        "글루텐 형성방지를 위해 가볍게 뭉쳐서 밀어 편다.",
+        "반죽의 휴지를 위해 성형 전에 냉동고에 동결시킨다.",
+        "반죽을 일정한 두께로 밀어 펴서 원형 또는 주름커터로 찍어낸다.",
+        "달걀노른자를 바르고 조금 지난 뒤 포크로 무늬를 그려 낸다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q187",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "반죽형 케이크를 구웠더니 너무 가볍고 부서지는 현상이 나타났다. 그 원인이 아닌 것은?",
+      "options": [
+        "반죽에 밀가루 양이 많았다.",
+        "반죽의 크림화가 지나쳤다.",
+        "팽창제 사용량이 많았다.",
+        "쇼트닝 사용량이 많았다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q188",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "생크림에 대한 설명으로 옳지 않는 것은?",
+      "options": [
+        "생크림은 우유로 제조한다.",
+        "유사 생크림은 팜, 코코넛유 등, 식물성 기름을 사용하여 만든다.",
+        "생크림은 냉장온도에서 보관하여야 한다.",
+        "생크림의 유지 함량은 82% 정도이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q189",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "찜을 이용한 제품에 사용되는 팽창제의 특성은?",
+      "options": [
+        "지속성",
+        "속효성",
+        "지효성",
+        "이중팽창",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q190",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "커스터드 크림의 재료에 속하지 않은 것은?",
+      "options": [
+        "우유",
+        "달걀",
+        "설탕",
+        "생크림",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q191",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "도넛 튀김기에 붓는 기름의 평균 깊이로 가장 적당한 것은?",
+      "options": [
+        "5 ~ 8 cm",
+        "9 ~ 12 cm",
+        "12 ~ 15 cm",
+        "16 ~ 19 cm",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q192",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 쿠키 중에서 상대적으로 수분이 적어서 밀어 펴는 형태로 만드는 제품은?",
+      "options": [
+        "드롭 쿠키",
+        "스냅 쿠키",
+        "스펀지 쿠키",
+        "머랭 쿠키",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q193",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 반죽의 얼음사용량 계산공식으로 옳은 것은?",
+      "options": [
+        "얼음 = (물사용량*(수돗물온도-사용수온도)) / (80+수돗물의온도)",
+        "얼음 = (물사용량*(수돗물온도+사용수온도)) / (80+수돗물의온도)",
+        "얼음 = (물사용량*(수돗물온도*사용수온도)) / (80+수돗물의온도)",
+        "얼음 = (물사용량*(계산된물온도-사용수온도)) / (80+수돗물의온도)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q194",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "비중 컵의 물을 담은 무게가 300g이고 반죽을 담은 무게가 260g일 때 비중은? (단, 비중 컵의 무게는 50g이다)",
+      "options": [
+        "0.64",
+        "0.74",
+        "0.84",
+        "1.04",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q195",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "블렌딩법에 대한 설명으로 옳은 것은?",
+      "options": [
+        "건조 재료와 계란, 물을 가볍게 믹싱 하다가 유지를 넣어 반죽하는 방법이다",
+        "설탕입자가 고와 스크래핑이 필요 없고 대규모 생산 회사에서 이용하는 방법이다",
+        "부피를 우선으로 하는 제품에 이용하는 방법이다.",
+        "유지와 밀가루를 먼저 믹싱 하는 방법이며, 제품의 유연성이 좋다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q196",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "일반적으로 작은 규모의 제과점에서 사용하는 믹서는?",
+      "options": [
+        "수직형 믹서",
+        "수평형 믹서",
+        "초고속 믹서",
+        "커터 믹서",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q197",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "갓 구워낸 빵을 식혀 상온으로 낮추는 냉각에 관한 설명으로 틀린 것은?",
+      "options": [
+        "빵 속의 온도를 35 ~ 40℃로 낮추는 것이다",
+        "곰팡이 및 기타 균의 피해를 막는다.",
+        "절단, 포장을 용이하게 한다.",
+        "수분함량을 25%로 낮추는 것이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q198",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "식빵 제조 시 과도한 부피의 제품이 되는 원인은?",
+      "options": [
+        "소금량의 부족",
+        "오븐 온도가 높음",
+        "배합수의 부족",
+        "미숙성 소맥분",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q199",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "원가의 구성에서 직접원가에 해당되지 않는 것은?",
+      "options": [
+        "직접재료비",
+        "직접노무비",
+        "직접경비",
+        "직접판매비",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q200",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "냉동빵에서 반죽의 온도를 낮추는 가장 주된 이유는?",
+      "options": [
+        "수분 사용량이 많아서",
+        "밀가루의 단백질 함량이 낮아서",
+        "이스트 활동을 억제하기 위해서",
+        "이스트 사용량이 감소해서",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q201",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "성형 후 공정으로 가스팽창을 최대로 만드는 단계로 가장 적합한 것은?",
+      "options": [
+        "1차 발효",
+        "중간 발효",
+        "펀치",
+        "2차 발효",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q202",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "스펀지 발효에서 생기는 결함을 없애기 위하여 만들어진 제조법으로 ADMI법이라고 불리는 제빵법은?",
+      "options": [
+        "액종법(liquid ferments)",
+        "비상 반죽법(emergency dough method)",
+        "노타임 반죽법(no timedough method)",
+        "스펀지/도법(sponge/dough method)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q203",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "500g짜리 완제품 식빵 500개를 주문 받았다. 총 배합률은 190%이고, 발효 손실은 2%, 굽기 손실은 10%일 때 20kg 짜리 밀가루는 몇 포대 필요한가?",
+      "options": [
+        "6포대",
+        "7포대",
+        "8포대",
+        "9포대",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q204",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "빵의 관능적 평가법에서 외부적 특성을 평가하는 항목으로 틀린 것은?",
+      "options": [
+        "대칭성",
+        "껍질색상",
+        "껍질특성",
+        "맛",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q205",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "제빵용 팬기름에 대한 설명으로 틀린 것은?",
+      "options": [
+        "종류에 상관없이 발연점이 낮아야 한다.",
+        "무색, 무미, 무취이어야 한다.",
+        "정제 라드. 식물유, 혼합유도 사용된다.",
+        "과다하게 칠하면 밑 껍질이 두껍고 어둡게 된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q206",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 정상적인 스펀지 반죽을 발효시키는 동안 스펀지 내부의 온도 상승은 어느 정도가 가장 바람직한가?",
+      "options": [
+        "1 ~ 2℃",
+        "4 ~ 6℃",
+        "8 ~ 10℃",
+        "12 ~ 14℃",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q207",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "불란서 빵 제조 시 스팀 주입이 많을 경우 생기는 현상은?",
+      "options": [
+        "껍질이 바삭바삭하다.",
+        "껍질이 벌어진다.",
+        "질긴 껍질이 된다.",
+        "균열이 생긴다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q208",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "제빵용 밀가루의 적정 손상전분의 함량은?",
+      "options": [
+        "1.5 ~3%",
+        "4.5 ~ 8%",
+        "11.5 ~ 14%",
+        "15.5 ~ 17%",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q209",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "스펀지법(sponge &dough method)에서 가장 적합한 스펀지 반죽의 온도는?",
+      "options": [
+        "10 ~ 20℃",
+        "22 ~ 26℃",
+        "34 ~ 38℃",
+        "42 ~ 46℃",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q210",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "빵반죽의 손분할이나 기계분할은 가능한 몇 분 이내로 완료하는 것이 좋은가?",
+      "options": [
+        "15 ~ 20분",
+        "25 ~ 30분",
+        "35 ~ 40분",
+        "45 ~ 50분",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q211",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "튀김기름에 스테아린(stearin)을 첨가하는 이유에 대한 설명으로 틀린 것은?",
+      "options": [
+        "기름의 침출을 막아 도넛 설탕이 젖는 것을 방지한다.",
+        "유지의 융점을 높인다.",
+        "도넛에 설탕이 붙는 점착성을 높인다.",
+        "경화제(hardener)로 튀김기름의 3 ~ 6%를 사용한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q212",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "밀가루 25g에서 젖은 글루텐 6g을 얻었다면 이 밀가루는 다음 어디에 속하는가?",
+      "options": [
+        "박력분",
+        "중력분",
+        "강력분",
+        "제빵용 밀가루",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q213",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "아이싱 크림에 많이 쓰이는 퐁당(fondant)을 만들 때 끓이는 온도로 가장 적합한 것은?",
+      "options": [
+        "78 ~ 80℃",
+        "98 ~ 100℃",
+        "114 ~ 116℃",
+        "130 ~ 132℃",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q214",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "제빵에서 설탕의 역할이 아닌 것은?",
+      "options": [
+        "이스트의 영양분이 됨",
+        "껍질색을 나게 함",
+        "향을 향상시킴",
+        "노화를 촉진시킴",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q215",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "메이스(mace)와 같은 나무에서 생산되는 것으로 단맛의 향기가 있는 향신료는?",
+      "options": [
+        "넛메그",
+        "시나몬",
+        "클로브",
+        "오레가노",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q216",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "패리노그래프에 관한 설명 중 틀린 것은?",
+      "options": [
+        "흡수율 측정",
+        "믹싱시간 측정",
+        "믹싱내구성 측정",
+        "전분의 점도 측정",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q217",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "유지를 고온으로 계속 가열하였을 때 다음 중 점차 낮아지는 것은?",
+      "options": [
+        "산가",
+        "점도",
+        "과산화물가",
+        "발연점",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q218",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "제빵에 적정한 물의 경도는 120 ~ 180 ppm인데, 이는 다음 중 어느 분류에 속하는가?",
+      "options": [
+        "연수",
+        "아경수",
+        "일시적 경수",
+        "영구적 경수",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q219",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "달걀에 대한 설명 중 옳은 것은?",
+      "options": [
+        "노른자에 가장 많은 것은 단백질이다.",
+        "흰자는 대부분이 물이고 그 다음 많은 성분은 지방질이다.",
+        "껍질은 대부분 탄산칼슘으로 이루어져 있다.",
+        "흰자보다 노른자 중량이 더 크다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q220",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "제빵에서 소금의 역할이 아닌 것은?",
+      "options": [
+        "글루텐을 강화시킨다.",
+        "유해균의 번식을 억제시킨다.",
+        "빵의 내상을 희게 한다.",
+        "맛을 조절한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q221",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "화학적 팽창에 대한 설명으로 잘못된 것은?",
+      "options": [
+        "효모보다 가스 생산이 느리다",
+        "가스를 생산하는 것은 탄산수소나트륨이다.",
+        "중량제로 전분이나 밀가루를 사용한다.",
+        "산의 종류에 따라 작용 속도가 달라진다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q222",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "아밀로그래프(Amylograph)에서 50℃에서의 점도(minimum viscosity)와 최종점도((final viscosity) 차이를 표시하는 것으로 노화도를 나타내는 것은?",
+      "options": [
+        "브레이크 다운(break down)",
+        "세트 백(Setback)",
+        "최소 점도(minimum viscosity)",
+        "최대 점도(maximum viscosity)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q223",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "지방의 산화를 가속시키는 요소가 아닌 것은?",
+      "options": [
+        "공기와의 접촉이 많다.",
+        "토코페롤을 첨가한다.",
+        "높은 온도로 여러 번 사용한다.",
+        "자외선에 노출시킨다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q224",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "자당(sucrcse) 10%를 이성화해서 10.52%의 전화당(invert sugar)을 얻었다. 포도당(glucose)과 과당(fructose)의 비율은?",
+      "options": [
+        "포도당 7.0%과당 3.52%",
+        "포도당 5.26%과당 5.26%",
+        "포도당 3.52%과당 7.0%",
+        "포도당 2.63%과당 7.89%",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q225",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "빵에서 탈지분유의 역할이 아닌 것은?",
+      "options": [
+        "흡수율 감소",
+        "조직 개선",
+        "완충제 역할",
+        "껍질색 개선",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q226",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "식품의 열량(kcal) 계산공식으로 맞는 것은? (단, 각 영양소 양의 기준은 g 단위로 한다.)",
+      "options": [
+        "(탄수화물의 양+단백질의 양)×4+(지방의 양×9)",
+        "(탄수화물의 양+지방의 양)×4+(단백질의 양×9)",
+        "(지방의 양+단백질의 양)×4+(탄수화물의 양×9)",
+        "(탄수화물의 양+지방의 양)×9+(단백질의 양×4)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q227",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "포화지방산과 불포화지방산에 대한 설명 중 옳은 것은?",
+      "options": [
+        "포화지방산은 이중결합을 함유하고 있다.",
+        "포화지방산은 할로겐이나 수소첨가에 따라 불포화될 수 있다.",
+        "코코넛 기름에는 불포화지방산이 더 높은 비율로 들어 있다.",
+        "식물성 유지에는 불포화지방산이 더 높은 비율로 들어 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q228",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "유용한 장내 세균의 발육을 왕성하게 하여 장에 좋은 영양을 미치는 이당류는?",
+      "options": [
+        "설탕(sucrose)",
+        "유당(lactose)",
+        "맥아당(maltose)",
+        "포도당(glucose)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q229",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "괴혈병을 예방하기 위해 어떤 영양소가 많은 식품을 섭위해야 하는가?",
+      "options": [
+        "비타민 A",
+        "비타민 C",
+        "비타민 D",
+        "비타민 B1",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q230",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "필수아미노산이 아닌 것은?",
+      "options": [
+        "트레오닌",
+        "이소루신",
+        "발린",
+        "알라닌",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q231",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 병원체가 바이러스(Virus)인 질병인?",
+      "options": [
+        "유행성 간염",
+        "결핵",
+        "발진티푸스",
+        "말라리아",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q232",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "살모넬라(Salmonella)균의 특징이 아닌 것은?",
+      "options": [
+        "그람(Gram)음성 간균이다.",
+        "발육 최적 pH는 7 ~ 8 온도는 37℃ 이다.",
+        "60℃에서 20분 정도의 가열로 사멸한다.",
+        "독소에 의한 식중독을 일으킨다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q233",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 부패로 볼 수 없는 것은?",
+      "options": [
+        "육류의 변질",
+        "달걀의 변질",
+        "어패류의 변질",
+        "열에 의한 식용유의 변질",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q234",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "균체의 독소 중 뉴로톡신(neuroxin)을 생산하는 식중독균은?",
+      "options": [
+        "포도상구균",
+        "클로스트리디움 보툴리늄균",
+        "장염 비브리오균",
+        "병원성 대장균",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q235",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "인수공통 감염병으로만 짝지어진 것은?",
+      "options": [
+        "폴리오, 장티푸스",
+        "탄저, 리스테리아증",
+        "결핵, 유행성 간염",
+        "홍역, 브루셀라증",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q236",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "식품에 식염을 첨가함으로써 미생물 증식을 억제하는 효과와 관계가 없는 것은?",
+      "options": [
+        "탈수작용에 의한 식품 내 수분감소",
+        "산소의 용해도 감소",
+        "삼투압 증가",
+        "펩티드 결합의 분해",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q237",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "빵의 제조과정에서 빵반죽을 분할기에서 분할할 때 달라붙지 않게 하는 첨가물은?",
+      "options": [
+        "호료(thickening agent)",
+        "피막제(coating agent)",
+        "용제(solvents)",
+        "이형제(release agent)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q238",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "화학적 식중독을 유발하는 원인이 아닌 것은?",
+      "options": [
+        "복어독",
+        "불량한 포장용기",
+        "유해한 식품첨가물",
+        "농약에 오염된 식품",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q239",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 음식물을 매개로 전파되지 않는 것은?",
+      "options": [
+        "이질",
+        "장티푸스",
+        "콜레라",
+        "광견병",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "confectionery_craftsman_q240",
+      "subject": "제과기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "우리나라에서 지정된 식품첨가물 중 버터류에 사용할 수 없는 것은?",
+      "options": [
+        "터셔리부틸히드로퀴논(tbhq)",
+        "식용색소 황색4호",
+        "부틸히드록시아니솔(BHA)",
+        "디부틸히드록시틀루엔(BHT)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    }
+  ]
+}

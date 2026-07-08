@@ -1,0 +1,6005 @@
+{
+  "pack_name": "정보처리기사 기출 팩",
+  "questions": [
+    {
+      "id": "infopro_engineer_q1",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "UML 다이어그램 중 순차 다이어그램에 대한 설명으로 틀린 것은?",
+      "options": [
+        "객체 간의 동적 상호작용을 시간 개념을 중심으로 모델링 하는 것이다.",
+        "주로 시스템의 정적 측면을 모델링하기 위해 사용한다.",
+        "일반적으로 다이어그램의 수직 방향이 시간의 흐름을 나타낸다.",
+        "회귀 메시지(Self-Message), 제어블록(Statement block) 등으로 구성된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q2",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "메시지 지향 미들웨어(Message-Oriented Middleware, MOM)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "느리고 안정적인 응답보다는 즉각적인 응답이 필요한 온라인 업무에 적합하다.",
+        "독립적인 애플리케이션을 하나의 통합된 시스템으로 묶기 위한 역할을 한다.",
+        "송신측과 수신측의 연결 시 메시지 큐를 활용하는 방법이 있다.",
+        "상이한 애플리케이션 간 통신을 비동기 방식으로 지원한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q3",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "익스트림 프로그래밍에 대한 설명으로 틀린 것은?",
+      "options": [
+        "대표적인 구조적 방법론 중 하나이다.",
+        "소규모 개발 조직이 불확실하고 변경이 많은 요구를 접하였을 때 적절한 방법이다.",
+        "익스트림 프로그래밍을 구동시키는 원리는 상식적인 원리와 경험을 최대한 끌어 올리는 것이다.",
+        "구체적인 실천 방법을 정의하고 있으며, 개발 문서 보다는 소스코드에 중점을 둔다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q4",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "유스케이스(Use Case)의 구성 요소 간의 관계에 포함되지 않는 것은?",
+      "options": [
+        "연관",
+        "확장",
+        "구체화",
+        "일반화",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q5",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "요구사항 분석에서 비기능적(Nonfunctional) 요구에 대한 설명으로 옳은 것은?",
+      "options": [
+        "시스템의 처리량(Throughput), 반응 시간 등의 성능 요구나 품질 요구는 비기능적 요구에 해당하지 않는다.",
+        "'차량 대여 시스템이 제공하는 모든 화면이 3초 이내에 사용자에게 보여야 한다'는 비기능적 요구이다.",
+        "시스템 구축과 관련된 안전, 보안에 대한 요구사항들은 비기능적 요구에 해당하지 않는다.",
+        "'금융 시스템은 조회, 인출, 입금, 송금의 기능이 있어야 한다'는 비기능적 요구이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q6",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "정보공학 방법론에서 데이터베이스 설계의 표현으로 사용하는 모델링 언어는?",
+      "options": [
+        "Package Diagram",
+        "State Transition Diagram",
+        "Deployment Diagram",
+        "Entity-Relationship Diagram",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q7",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "미들웨어(Middleware)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "여러 운영체제에서 응용 프로그램들 사이에 위치한 소프트웨어이다.",
+        "미들웨어의 서비스 이용을 위해 사용자가 정보 교환 방법 등의 내부 동작을 쉽게 확인할 수 있어야 한다.",
+        "소프트웨어 컴포넌트를 연결하기 위한 준비된 인프라 구조를 제공한다.",
+        "여러 컴포넌트를 1대 1, 1대 다, 다대 다 등 여러 가지 형태로 연결이 가능하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q8",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "UI의 설계 지침으로 틀린 것은?",
+      "options": [
+        "이해하기 편하고 쉽게 사용할 수 있는 환경을 제공해야 한다.",
+        "주요 기능을 메인 화면에 노출하여 조작이 쉽도록 하여야 한다.",
+        "치명적인 오류에 대한 부정적인 사항은 사용자가 인지할 수 없도록 한다.",
+        "사용자의 직무, 연령, 성별 등 다양한 계층을 수용하여야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q9",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "객체지향 개념에서 다형성(Polymorphism)과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "다형성은 현재 코드를 변경하지 않고 새로운 클래스를 쉽게 추가할 수 있게 한다.",
+        "다형성이란 여러 가지 형태를 가지고 있다는 의미로, 여러 형태를 받아들일 수 있는 특징을 말한다.",
+        "메소드 오버라이딩(Overriding)은 상위 클래스에서 정의한 일반 메소드의 구현을 하위 클래스에서 무시하고 재정의할 수 있다.",
+        "메소드 오버로딩(Overloading)의 경우 매개 변수 타입은 동일하지만 메소드명을 다르게 함으로써 구현, 구분할 수 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q10",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "소프트웨어 개발 영역을 결정하는 요소 중 다음 사항과 관계있는 것은?",
+      "options": [
+        "기능(Function)",
+        "성능(Performance)",
+        "제약 조건(Constraint)",
+        "인터페이스(Interface)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m10.gif"
+    },
+    {
+      "id": "infopro_engineer_q11",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "객체에 대한 설명으로 틀린 것은?",
+      "options": [
+        "객체는 상태, 동작, 고유 식별자를 가진 모든 것이라 할 수 있다.",
+        "객체는 공통 속성을 공유하는 클래스들의 집합이다.",
+        "객체는 필요한 자료 구조와 이에 수행되는 함수들을 가진 하나의 독립된 존재이다.",
+        "객체의 상태는 속성값에 의해 정의된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q12",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "속성과 관련된 연산(Operation)을 클래스 안에 묶어서 하나로 취급하는 것을 의미하는 객체지향 개념은?",
+      "options": [
+        "Inheritance",
+        "Class",
+        "Encapsulation",
+        "Association",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q13",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "애자일(Agile) 프로세스 모델에 대한 설명으로 틀린 것은?",
+      "options": [
+        "변화에 대한 대응보다는 자세한 계획을 중심으로 소프트웨어를 개발한다.",
+        "프로세스와 도구 중심이 아닌 개개인과의 상호소통을 통해 의견을 수렴한다.",
+        "협상과 계약보다는 고객과의 협력을 중시한다.",
+        "문서 중심이 아닌, 실행 가능한 소프트웨어를 중시한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q14",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "명백한 역할을 가지고 독립적으로 존재할 수 있는 시스템의 부분으로 넓은 의미에서는 재사용되는 모든 단위라고 볼 수 있으며, 인터페이스를 통해서만 접근할 수 있는 것은?",
+      "options": [
+        "Model",
+        "Sheet",
+        "Component",
+        "Cell",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q15",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "GoF(Gang of Four) 디자인 패턴을 생성, 구조, 행동 패턴의 세 그룹으로 분류할 때, 구조 패턴이 아닌 것은?",
+      "options": [
+        "Adapter 패턴",
+        "Bridge 패턴",
+        "Builder 패턴",
+        "Proxy 패턴",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q16",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "UI와 관련된 기본 개념 중 하나로, 시스템의 상태와 사용자의 지시에 대한 효과를 보여주어 사용자가 명령에 대한 진행 상황과 표시된 내용을 해석할 수 있도록 도와주는 것은?",
+      "options": [
+        "Feedback",
+        "Posture",
+        "Module",
+        "Hash",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q17",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "UI의 종류로 멀티 터치(Multi-touch), 동작 인식(Gesture Recognition) 등 사용자의 자연스러운 움직임을 인식하여 서로 주고받는 정보를 제공하는 사용자 인터페이스를 의미하는 것은?",
+      "options": [
+        "GUI(Graphical User Interface)",
+        "OUI(Organic User Interface)",
+        "NUI(Natural User Interface)",
+        "CLI(Command Line Interface)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q18",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "소프트웨어 모델링과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "모델링 작업의 결과물은 다른 모델링 작업에 영향을 줄 수 없다.",
+        "구조적 방법론에서는 DFD(Data Flow Diagram), DD(Data Dictionary) 등을 사용하여 요구 사항의 결과를 표현한다.",
+        "객체지향 방법론에서는 UML 표기법을 사용한다.",
+        "소프트웨어 모델을 사용할 경우 개발될 소프트웨어에 대한 이해도 및 이해 당사자 간의 의사소통 향상에 도움이 된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q19",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "유스케이스 다이어그램(Use Case Diagram)에 관련된 내용으로 틀린 것은?",
+      "options": [
+        "시스템과 상호작용하는 외부시스템은 액터로 파악해서는 안된다.",
+        "유스케이스는 사용자 측면에서의 요구사항으로, 사용자가 원하는 목표를 달성하기 위해 수행할 내용을 기술한다.",
+        "시스템 액터는 다른 프로젝트에서 이미 개발되어 사용되고 있으며, 본 시스템과 데이터를 주고받는 등 서로 연동되는 시스템을 말한다.",
+        "액터가 인식할 수 없는 시스템 내부의 기능을 하나의 유스케이스로 파악해서는 안된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q20",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "소프트웨어 아키텍처 모델 중 MVC(Model-View-Controller)와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "MVC 모델은 사용자 인터페이스를 담당하는 계층의 응집도를 높일 수 있고, 여러 개의 다른 UI를 만들어 그 사이에 결합도를 낮출 수 있다.",
+        "모델(Model)은 뷰(View)와 제어(Controller) 사이에서 전달자 역할을 하며, 뷰마다 모델 서브시스템이 각각 하나씩 연결된다.",
+        "뷰(View)는 모델(Model)에 있는 데이터를 사용자 인터페이스에 보이는 역할을 담당한다.",
+        "제어(Controller)는 모델(Model)에 명령을 보냄으로써 모델의 상태를 변경할 수 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q21",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "통합 테스트(Integration Test)와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "시스템을 구성하는 모듈의 인터페이스와 결합을 테스트하는 것이다.",
+        "하향식 통합 테스트의 경우 넓이 우선(Breadth First) 방식으로 테스트를 할 모듈을 선택할 수 있다.",
+        "상향식 통합 테스트의 경우 시스템 구조도의 최상위에 있는 모듈을 먼저 구현하고 테스트한다.",
+        "모듈 간의 인터페이스와 시스템의 동작이 정상적으로 잘되고 있는지를 빨리 파악하고자 할 때 상향식 보다는 하향식 통합 테스트를 사용하는 것이 좋다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q22",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음과 같이 레코드가 구성되어 있을 때, 이진 검색 방법으로 14를 찾을 경우 비교되는 횟수는?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m22.gif"
+    },
+    {
+      "id": "infopro_engineer_q23",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "소프트웨어 공학에서 워크스루(Walkthrough)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "사용사례를 확장하여 명세하거나 설계 다이어그램, 원시코드, 테스트 케이스 등에 적용할 수 있다.",
+        "복잡한 알고리즘 또는 반복, 실시간 동작, 병행 처리와 같은 기능이나 동작을 이해하려고 할 때 유용하다.",
+        "인스펙션(Inspection)과 동일한 의미를 가진다.",
+        "단순한 테스트 케이스를 이용하여 프로덕트를 수작업으로 수행해 보는 것이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q24",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "소프트웨어의 개발과정에서 소프트웨어의 변경사항을 관리하기 위해 개발된 일련의 활동을 뜻하는 것은?",
+      "options": [
+        "복호화",
+        "형상관리",
+        "저작권",
+        "크랙",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q25",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "테스트 케이스와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "테스트의 목표 및 테스트 방법을 결정하기 전에 테스트 케이스를 작성해야 한다.",
+        "프로그램에 결함이 있더라도 입력에 대해 정상적인 결과를 낼 수 있기 때문에 결함을 검사할 수 있는 테스트 케이스를 찾는 것이 중요하다.",
+        "개발된 서비스가 정의된 요구 사항을 준수하는지 확인하기 위한 입력 값과 실행 조건, 예상 결과의 집합으로 볼 수 있다.",
+        "테스트 케이스 실행이 통과되었는지 실패하였는지 판단하기 위한 기준을 테스트 오라클(Test Oracle)이라고 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q26",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "객체지향 개념을 활용한 소프트웨어 구현과 관련한 설명 중 틀린 것은?",
+      "options": [
+        "객체(Object)란 필요한 자료 구조와 수행되는 함수들을 가진 하나의 독립된 존재이다.",
+        "JAVA에서 정보은닉(Information Hiding)을 표기할 때 private의 의미는 '공개'이다.",
+        "상속(Inheritance)은 개별 클래스를 상속 관계로 묶음으로써 클래스 간의 체계화된 전체 구조를 파악하기 쉽다는 장점이 있다.",
+        "같은 클래스에 속하는 개개의 객체이자 하나의 클래스에서 생성된 객체를 인스턴스(Instance)라고 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q27",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "DRM(Digital Rights Management)과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "디지털 콘텐츠와 디바이스의 사용을 제한하기 위해 하드웨어 제조업자, 저작권자, 출판업자 등이 사용할 수 있는 접근 제어 기술을 의미한다.",
+        "디지털 미디어의 생명 주기 동안 발생하는 사용 권한 관리, 과금, 유통 단계를 관리하는 기술로도 볼 수 있다.",
+        "클리어링 하우스(Clearing House)는 사용자에게 콘텐츠 라이센스를 발급하고 권한을 부여해주는 시스템을 말한다.",
+        "원본을 안전하게 유통하기 위한 전자적 보안은 고려하지 않기 때문에 불법 유통과 복제의 방지는 불가능하다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q28",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "위험 모니터링의 의미로 옳은 것은?",
+      "options": [
+        "위험을 이해하는 것",
+        "첫 번째 조치로 위험을 피할 수 있도록 하는 것",
+        "위험 발생 후 즉시 조치하는 것",
+        "위험 요소 징후들에 대하여 계속적으로 인지하는 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q29",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "동시에 소스를 수정하는 것을 방지하며 다른 방향으로 진행된 개발 결과를 합치거나 변경 내용을 추적할 수 있는 소프트웨어 버전 관리 도구는?",
+      "options": [
+        "RCS(Revision Control System)",
+        "RTS(Reliable Transfer Service)",
+        "RPC(Remote Procedure Call)",
+        "RVS(Relative Version System)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q30",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "화이트박스 테스트와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "화이트박스 테스트의 이해를 위해 논리흐름도(Logic-Flow Diagram)를 이용할 수 있다.",
+        "테스트 데이터를 이용해 실제 프로그램을 실행함으로써 오류를 찾는 동적 테스트(Dynamic Test)에 해당한다.",
+        "프로그램의 구조를 고려하지 않기 때문에 테스트 케이스는 프로그램 또는 모듈의 요구나 명세를 기초로 결정한다.",
+        "테스트 데이터를 선택하기 위하여 검증기준(Test Coverage)을 정한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q31",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "알고리즘과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "주어진 작업을 수행하는 컴퓨터 명령어를 순서대로 나열한 것으로 볼 수 있다.",
+        "검색(Searching)은 정렬이 되지 않은 데이터 혹은 정렬이 된 데이터 중에서 키값에 해당되는 데이터를 찾는 알고리즘이다.",
+        "정렬(Sorting)은 흩어져있는 데이터를 키값을 이용하여 순서대로 열거하는 알고리즘이다.",
+        "선형 검색은 검색을 수행하기 전에 반드시 데이터의 집합이 정렬되어 있어야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q32",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "버블 정렬을 이용하여 다음 자료를 오름차순으로 정렬할 경우 PASS 1의 결과는?",
+      "options": [
+        "6, 9, 7, 3, 5",
+        "3, 9, 6, 7, 5",
+        "3, 6, 7, 9, 5",
+        "6, 7, 3, 5, 9",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m32.gif"
+    },
+    {
+      "id": "infopro_engineer_q33",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음은 인스펙션(Inspection) 과정을 표현한 것이다. (가)~(마)에 들어갈 말을 보기에서 찾아 바르게 연결한 것은?",
+      "options": [
+        "(가) - ㉡, (나) - ㉢",
+        "(나) - ㉠, (다) - ㉢",
+        "(다) - ㉢, (라) - ㉤",
+        "(라) - ㉣, (마) - ㉢",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m33.gif"
+    },
+    {
+      "id": "infopro_engineer_q34",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "소프트웨어를 보다 쉽게 이해할 수 있고 적은 비용으로 수정할 수 있도록 겉으로 보이는 동작의 변화 없이 내부구조를 변경하는 것은?",
+      "options": [
+        "Refactoring",
+        "Architecting",
+        "Specification",
+        "Renewal",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q35",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "단위 테스트(Unit Test)와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "구현 단계에서 각 모듈의 개발을 완료한 후 개발자가 명세서의 내용대로 정확히 구현되었는지 테스트한다.",
+        "모듈 내부의 구조를 구체적으로 볼 수 있는 구조적 테스트를 주로 시행한다.",
+        "필요 데이터를 인자를 통해 넘겨주고, 테스트 완료 후 그 결과값을 받는 역할을 하는 가상의 모듈을 테스트 스텁(Stub)이라고 한다.",
+        "테스트할 모듈을 호출하는 모듈도 있고, 테스트할 모듈이 호출하는 모듈도 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q36",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "IDE(Integrated Development Environment) 도구의 각 기능에 대한 설명으로 틀린 것은?",
+      "options": [
+        "Coding - 프로그래밍 언어를 가지고 컴퓨터 프로그램을 작성할 수 있는 환경을 제공",
+        "Compile - 저급언어의 프로그램을 고급언어 프로그램으로 변환하는 기능",
+        "Debugging - 프로그램에서 발견되는 버그를 찾아 수정할 수 있는 기능",
+        "Deployment - 소프트웨어를 최종 사용자에게 전달하기 위한 기능",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q37",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "아래 Tree 구조에 대하여 후위 순회(Postorder) 한 결과는?",
+      "options": [
+        "a → b → d → c → e → g → h → f",
+        "d → b → g → h → e → f → c → a",
+        "d → b → a → g → e → h → c → f",
+        "a → b → d → g → e → h → c → f",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m37.gif"
+    },
+    {
+      "id": "infopro_engineer_q38",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "인터페이스 구현 시 사용하는 기술로 속성-값 쌍(Attribute-Value Pairs)으로 이루어진 데이터 오브젝트를 전달하기 위해 사용하는 개방형 표준 포맷은?",
+      "options": [
+        "JSON",
+        "HTML",
+        "AVPN",
+        "DOF",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q39",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "순서가 있는 리스트에서 데이터의 삽입(Push), 삭제(Pop)가 한 쪽 끝에서 일어나며 LIFO(Last-In-First-Out)의 특징을 가지는 자료구조는?",
+      "options": [
+        "Tree",
+        "Graph",
+        "Stack",
+        "Queue",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q40",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 중 단위 테스트 도구로 사용될 수 없는 것은?",
+      "options": [
+        "CppUnit",
+        "JUnit",
+        "HttpUnit",
+        "IgpUnit",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q41",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 조건을 모두 만족하는 정규형은?",
+      "options": [
+        "BCNF",
+        "제1정규형",
+        "제2정규형",
+        "제3정규형",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m41.gif"
+    },
+    {
+      "id": "infopro_engineer_q42",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "데이터베이스의 트랜잭션 성질들 중에서 다음 설명에 해당하는 것은?",
+      "options": [
+        "Atomicity",
+        "Consistency",
+        "Isolation",
+        "Durability",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m42.gif"
+    },
+    {
+      "id": "infopro_engineer_q43",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "분산 데이터베이스 시스템과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "물리적으로 분산된 데이터베이스 시스템을 논리적으로 하나의 데이터베이스 시스템처럼 사용할 수 있도록 한 것이다.",
+        "물리적으로 분산되어 지역별로 필요한 데이터를 처리할 수 있는 지역 컴퓨터(Local Computer)를 분산 처리기(Distributed Processor)라고 한다.",
+        "분산 데이터베이스 시스템을 위한 통신 네트워크 구조가 데이터 통신에 영향을 주므로 효율적으로 설계해야 한다.",
+        "데이터베이스가 분산되어 있음을 사용자가 인식할 수 있도록 분산 투명성(Distribution Transparency)을 배제해야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q44",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 테이블을 보고 강남지점의 판매량이 많은 제품부터 출력되도록 할 때 다음 중 가장 적절한 SQL 구문은? (단, 출력은 제품명과 판매량이 출력되도록 한다.)",
+      "options": [
+        "SELECT 제품명, 판매량 FROM 푸드ORDER BY 판매량 ASC;",
+        "SELECT 제품명, 판매량 FROM 푸드ORDER BY 판매량 DESC;",
+        "SELECT 제품명, 판매량 FROM 푸드WHERE 지점명 = '강남지점'ORDER BY 판매량 ASC;",
+        "SELECT 제품명, 판매량 FROM 푸드WHERE 지점명 = '강남지점'ORDER BY 판매량 DESC;",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m44.gif"
+    },
+    {
+      "id": "infopro_engineer_q45",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "데이터베이스의 인덱스와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "문헌의 색인, 사전과 같이 데이터를 쉽고 빠르게 찾을 수 있도록 만든 데이터 구조이다.",
+        "테이블에 붙여진 색인으로 데이터 검색 시 처리 속도 향상에 도움이 된다.",
+        "인덱스의 추가, 삭제 명령어는 각각 ADD, DELETE이다.",
+        "대부분의 데이터베이스에서 테이블을 삭제하면 인덱스도 같이 삭제된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q46",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "물리적 데이터베이스 구조의 기본 데이터 단위인 저장 레코드의 양식을 설계할 때 고려 사항이 아닌 것은?",
+      "options": [
+        "데이터 타입",
+        "데이터 값의 분포",
+        "트랜잭션 모델링",
+        "접근 빈도",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q47",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "SQL의 기능에 따른 분류 중에서 REVOKE문과 같이 데이터의 사용 권한을 관리하는데 사용하는 언어는?",
+      "options": [
+        "DDL(Data Definition Language)",
+        "DML(Data Manipulation Language)",
+        "DCL(Data Control Language)",
+        "DUL(Data User Language)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q48",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "데이터 사전에 대한 설명으로 틀린 것은?",
+      "options": [
+        "시스템 카탈로그 또는 시스템 데이터베이스라고도 한다.",
+        "데이터 사전 역시 데이터베이스의 일종이므로 일반 사용자가 생성, 유지 및 수정 할 수 있다.",
+        "데이터베이스에 대한 데이터인 메타데이터(Metadata)를 저장하고 있다.",
+        "데이터 사전에 있는 데이터에 실제로 접근하는 데 필요한 위치 정보는 데이터 디렉토리(Data Directory)라는 곳에서 관리한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q49",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "데이터베이스에서 릴레이션에 대한 설명으로 틀린 것은?",
+      "options": [
+        "모든 튜플은 서로 다른 값을 가지고 있다.",
+        "하나의 릴레이션에서 튜플은 특정한 순서를 가진다.",
+        "각 속성은 릴레이션 내에서 유일한 이름을 가진다.",
+        "모든 속성 값은 원자 값(atomic value)을 가진다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q50",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "데이터베이스에서의 뷰(View)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "뷰는 다른 뷰를 기반으로 새로운 뷰를 만들 수 있다.",
+        "뷰는 일종의 가상 테이블이며, update에는 제약이 따른다.",
+        "뷰는 기본 테이블을 만드는 것처럼 create view를 사용하여 만들 수 있다.",
+        "뷰는 논리적으로 존재하는 기본 테이블과 다르게 물리적으로만 존재하며 카탈로그에 저장된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q51",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "트랜잭션의 상태 중 트랜잭션의 마지막 연산이 실행된 직후의 상태로, 모든 연산의 처리는 끝났지만 트랜잭션이 수행한 최종 결과를 데이터베이스에 반영하지 않은 상태는?",
+      "options": [
+        "Active",
+        "Partially Committed",
+        "Committed",
+        "Aborted",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q52",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "SQL의 명령을 사용 용도에 따라 DDL, DML, DCL로 구분할 경우, 그 성격이 나머지 셋과 다른 것은?",
+      "options": [
+        "SELECT",
+        "UPDATE",
+        "INSERT",
+        "GRANT",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q53",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "키의 종류 중 유일성과 최소성을 만족하는 속성 또는 속성들의 집합은?",
+      "options": [
+        "Atomic key",
+        "Super key",
+        "Candidate key",
+        "Test key",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q54",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "데이터베이스에서 개념적 설계 단계에 대한 설명으로 틀린 것은?",
+      "options": [
+        "산출물로 E-R Diagram을 만들 수 있다.",
+        "DBMS에 독립적인 개념 스키마를 설계한다.",
+        "트랜잭션 인터페이스를 설계 및 작성한다.",
+        "논리적 설계 단계의 앞 단계에서 수행된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q55",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "테이블의 기본키(Primary Key)로 지정된 속성에 관한 설명으로 가장 거리가 먼 것은?",
+      "options": [
+        "NOT NULL로 널 값을 가지지 않는다.",
+        "릴레이션에서 튜플을 구별할 수 있다.",
+        "외래키로 참조될 수 있다.",
+        "검색할 때 반드시 필요하다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q56",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "데이터 모델의 구성 요소 중 데이터 구조에 따라 개념 세계나 컴퓨터 세계에서 실제로 표현된 값들을 처리하는 작업을 의미하는 것은?",
+      "options": [
+        "Relation",
+        "Data Structure",
+        "Constraint",
+        "Operation",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q57",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 [조건]에 부합하는 SQL문을 작성하고자 할 때, [SQL문]의 빈칸에 들어갈 내용으로 옳은 것은? (단, '팀코드' 및 '이름'은 속성이며, '직원'은 테이블이다.)",
+      "options": [
+        "WHERE 이름 = '정도일'",
+        "SELECT 팀코드 FROM 이름WHERE 직원 = '정도일'",
+        "WHERE 직원 = '정도일'",
+        "SELECT 팀코드 FROM 직원WHERE 이름 = '정도일'",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m57.gif"
+    },
+    {
+      "id": "infopro_engineer_q58",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "무결성 제약조건 중 개체 무결성 제약조건에 대한 설명으로 옳은 것은?",
+      "options": [
+        "릴레이션 내의 튜플들이 각 속성의 도메인에 정해진 값만을 가져야 한다.",
+        "기본키는 NULL 값을 가져서는 안되며 릴레이션 내에 오직 하나의 값만 존재해야 한다.",
+        "자식 릴레이션의 외래키는 부모 릴레이션의 기본키와 도메인이 동일해야 한다.",
+        "자식 릴레이션의 값이 변경될 때 부모 릴레이션의 제약을 받는다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q59",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "관계 데이터 모델에서 릴레이션(Relation)에 포함되어 있는 튜플(Tuple)의 수를 무엇이라고 하는가?",
+      "options": [
+        "Degree",
+        "Cardinality",
+        "Attribute",
+        "Cartesian product",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q60",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "사용자 'PARK'에게 테이블을 생성할 수 있는 권한을 부여하기 위한 SQL문의 구성으로 빈칸에 적합한 내용은?",
+      "options": [
+        "CREATE TABLE TO",
+        "CREATE TO",
+        "CREATE FROM",
+        "CREATE TABLE FROM",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m60.gif"
+    },
+    {
+      "id": "infopro_engineer_q61",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "C언어에서 문자열 처리 함수의 서식과 그 기능의 연결로 틀린 것은?",
+      "options": [
+        "strlen(s) - s의 길이를 구한다.",
+        "strcpy(s1, s2) - s2를 s1으로 복사한다.",
+        "strcmp(s1, s2) - s1과 s2를 연결한다.",
+        "strrev(s)－s를 거꾸로 변환한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q62",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 C언어 프로그램이 실행되었을 때, 실행 결과는?",
+      "options": [
+        "０",
+        "２",
+        "５",
+        "14",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m62.gif"
+    },
+    {
+      "id": "infopro_engineer_q63",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 C언어 프로그램이 실행되었을 때, 실행 결과는?",
+      "options": [
+        "30",
+        "60",
+        "80",
+        "120",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m63.gif"
+    },
+    {
+      "id": "infopro_engineer_q64",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "IP 프로토콜에서 사용하는 필드와 해당 필드에 대한 설명으로 틀린 것은?",
+      "options": [
+        "Header Length는 IP 프로토콜의 헤더 길이를 32비트 워드 단위로 표시한다.",
+        "Packet Length는 IP 헤더를 제외한 패킷 전체의 길이를 나타내며 최대 크기는 232－1비트이다.",
+        "Time To Live는 송신 호스트가 패킷을 전송하기 전 네트워크에서 생존할 수 있는 시간을 지정한 것이다.",
+        "Version Number는 IP 프로토콜의 버전번호를 나타낸다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q65",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 Python 프로그램의 실행 결과가 [실행결과]와 같을 때, 빈칸에 적합한 것은?",
+      "options": [
+        "either",
+        "elif",
+        "else if",
+        "else",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m65.gif"
+    },
+    {
+      "id": "infopro_engineer_q66",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "RIP 라우팅 프로토콜에 대한 설명으로 틀린 것은?",
+      "options": [
+        "경로 선택 메트릭은 홉 카운트(hop count)이다.",
+        "라우팅 프로토콜을 IGP와 EGP로 분류했을 때 EGP에 해당한다.",
+        "최단 경로 탐색에 Bellman-Ford 알고리즘을 사용한다.",
+        "각 라우터는 이웃 라우터들로부터 수신한 정보를 이용하여 라우팅 표를 갱신한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q67",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음에서 설명하는 프로세스 스케줄링은?",
+      "options": [
+        "FIFO 스케줄링",
+        "RR 스케줄링",
+        "HRN 스케줄링",
+        "MQ 스케줄링",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m67.gif"
+    },
+    {
+      "id": "infopro_engineer_q68",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "UNIX 운영체제에 관한 특징으로 틀린 것은?",
+      "options": [
+        "하나 이상의 작업에 대하여 백그라운드에서 수행이 가능하다.",
+        "Multi-User는 지원하지만 Multi-Tasking은 지원하지 않는다.",
+        "트리 구조의 파일 시스템을 갖는다.",
+        "이식성이 높으며 장치 간의 호환성이 높다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q69",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "UDP 프로토콜의 특징이 아닌 것은?",
+      "options": [
+        "비연결형 서비스를 제공한다.",
+        "단순한 헤더 구조로 오버헤드가 적다.",
+        "주로 주소를 지정하고, 경로를 설정하는 기능을 한다.",
+        "TCP와 같이 트랜스포트 계층에 존재한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q70",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "Python 데이터 타입 중 시퀀스(Sequence) 데이터 타입에 해당하며 다양한 데이터 타입들을 주어진 순서에 따라 저장할 수 있으나 저장된 내용을 변경할 수 없는 것은?",
+      "options": [
+        "복소수(complex) 타입",
+        "리스트(list) 타입",
+        "사전(dict) 타입",
+        "튜플(tuple) 타입",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q71",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 JAVA 프로그램이 실행되었을 때, 실행결과는?",
+      "options": [
+        "1 2 3 4",
+        "0 1 2 3",
+        "1 2 3",
+        "0 1 2",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m71.gif"
+    },
+    {
+      "id": "infopro_engineer_q72",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 JAVA 프로그램이 실행되었을 때의 결과는?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m72.gif"
+    },
+    {
+      "id": "infopro_engineer_q73",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 중 Myers가 구분한 응집도(Cohesion)의 정도에서 가장 낮은 응집도를 갖는 단계는?",
+      "options": [
+        "순차적 응집도(Sequential Cohesion)",
+        "기능적 응집도(Functional Cohesion)",
+        "시간적 응집도(Temporal Cohesion)",
+        "우연적 응집도(Coincidental Cohesion)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q74",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 C언어 프로그램이 실행되었을 때, 실행 결과는?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m74.gif"
+    },
+    {
+      "id": "infopro_engineer_q75",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "IP 프로토콜의 주요 특징에 해당하지 않는 것은?",
+      "options": [
+        "체크섬(Checksum) 기능으로 데이터 체크섬(Data Checksum)만 제공한다.",
+        "패킷을 분할, 병합하는 기능을 수행하기도 한다.",
+        "비연결형 서비스를 제공한다.",
+        "Best Effort 원칙에 따른 전송 기능을 제공한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q76",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "4개의 페이지를 수용할 수 있는 주기억장치가 있으며, 초기에는 모두 비어 있다고 가정한다. 다음의 순서로 페이지 참조가 발생할 때, LRU 페이지 교체 알고리즘을 사용할 경우 몇 번의 페이지 결함이 발생하는가?",
+      "options": [
+        "5회",
+        "6회",
+        "7회",
+        "8회",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m76.gif"
+    },
+    {
+      "id": "infopro_engineer_q77",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "사용자 수준에서 지원되는 스레드(thread)가 커널에서 지원되는 스레드에 비해 가지는 장점으로 옳은 것은?",
+      "options": [
+        "한 프로세스가 운영체제를 호출할 때 전체 프로세스가 대기할 필요가 없으므로 시스템 성능을 높일 수 있다.",
+        "동시에 여러 스레드가 커널에 접근할 수 있으므로 여러 스레드가 시스템 호출을 동시에 사용할 수 있다.",
+        "각 스레드를 개별적으로 관리할 수 있으므로 스레드의 독립적인 스케줄링이 가능하다.",
+        "커널 모드로의 전환 없이 스레드 교환이 가능하므로 오버헤드가 줄어든다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q78",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "한 모듈이 다른 모듈의 내부 기능 및 그 내부 자료를 참조하는 경우의 결합도는?",
+      "options": [
+        "내용 결합도(Content Coupling)",
+        "제어 결합도(Control Coupling)",
+        "공통 결합도(Common Coupling)",
+        "스탬프 결합도(Stamp Coupling)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q79",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "a[0]의 주소값이 10일 경우 다음 C언어 프로그램이 실행되었을 때의 결과는? (단, int 형의 크기는 4Byte로 가정한다.)",
+      "options": [
+        "14, 10",
+        "14, 14",
+        "18, 10",
+        "18, 14",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m79.gif"
+    },
+    {
+      "id": "infopro_engineer_q80",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "모듈화(Modularity)와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "시스템을 모듈로 분할하면 각각의 모듈을 별개로 만들고 수정할 수 있기 때문에 좋은 구조가 된다.",
+        "응집도는 모듈과 모듈 사이의 상호의존 또는 연관 정도를 의미한다.",
+        "모듈 간의 결합도가 약해야 독립적인 모듈이 될 수 있다.",
+        "모듈 내 구성 요소들 간의 응집도가 강해야 좋은 모듈 설계이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q81",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "소프트웨어 개발에서 정보보안 3요소에 해당 하지 않는 설명은?",
+      "options": [
+        "기밀성 : 인가된 사용자에 대해서만 자원 접근이 가능하다.",
+        "무결성 : 인가된 사용자에 대해서만 자원 수정이 가능하며 전송중인 정보는 수정되지 않는다.",
+        "가용성 : 인가된 사용자는 가지고 있는 권한 범위 내에서 언제든 자원 접근이 가능하다.",
+        "휘발성 : 인가된 사용자가 수행한 데이터는 처리 완료 즉시 폐기 되어야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q82",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "어떤 외부 컴퓨터가 접속되면 접속 인가 여부를 점검해서 인가된 경우에는 접속이 허용되고, 그 반대의 경우에는 거부할 수 있는 접근제어 유틸리티는?",
+      "options": [
+        "tcp wrapper",
+        "trace checker",
+        "token finder",
+        "change detector",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q83",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "기기를 키오스크에 갖다 대면 원하는 데이터를 바로 가져올 수 있는 기술로 10㎝ 이내 근접 거리에서 기가급 속도로 데이터 전송이 가능한 초고속 근접무선통신(NFC : Near Field Communication) 기술은?",
+      "options": [
+        "BcN(Broadband Convergence Network)",
+        "Zing",
+        "Marine Navi",
+        "C-V2X(Cellular Vehicle To Everything)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q84",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "취약점 관리를 위한 응용 프로그램의 보안 설정과 가장 거리가 먼 것은?",
+      "options": [
+        "서버 관리실 출입 통제",
+        "실행 프로세스 권한 설정",
+        "운영체제의 접근 제한",
+        "운영체제의 정보 수집 제한",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q85",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "소프트웨어 개발 프레임워크와 관련한 설명으로 가장 적절하지 않은 것은?",
+      "options": [
+        "반제품 상태의 제품을 토대로 도메인별로 필요한 서비스 컴포넌트를 사용하여 재사용성 확대와 성능을 보장 받을 수 있게 하는 개발 소프트웨어이다.",
+        "라이브러리와는 달리 사용자 코드에서 프레임워크를 호출해서 사용하고, 그에 대한 제어도 사용자 코드가 가지는 방식이다.",
+        "설계 관점에 개발 방식을 패턴화시키기 위한 노력의 결과물인 소프트웨어 디자인 패턴을 반제품 소프트웨어 상태로 집적화시킨 것으로 볼 수 있다.",
+        "프레임워크의 동작 원리를 그 제어 흐름의 일반적인 프로그램 흐름과 반대로 동작한다고 해서 IoC(Inversion of Control)이라고 설명하기도 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q86",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "클라우드 기반 HSM(Cloud-based Hardware Security Module)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "클라우드(데이터센터) 기반 암호화 키 생성, 처리, 저장 등을 하는 보안 기기이다.",
+        "국내에서는 공인인증제의 폐지와 전자서명법 개정을 추진하면서 클라우드 HSM 용어가 자주 등장하였다.",
+        "클라우드에 인증서를 저장하므로 기존 HSM 기기나 휴대폰에 인증서를 저장해 다닐 필요가 없다.",
+        "하드웨어가 아닌 소프트웨어적으로만 구현되기 때문에 소프트웨어식 암호 기술에 내재된 보안 취약점을 해결할 수 없다는 것이 주요 단점이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q87",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 내용이 설명하는 기술로 가장 적절한 것은?",
+      "options": [
+        "Virtual Local Area Network",
+        "Simple Station Network",
+        "Mesh Network",
+        "Modem Network",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m87.gif"
+    },
+    {
+      "id": "infopro_engineer_q88",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "물리적 위협으로 인한 문제에 해당하지 않는 것은?",
+      "options": [
+        "화재, 홍수 등 천재지변으로 인한 위협",
+        "하드웨어 파손, 고장으로 인한 장애",
+        "방화, 테러로 인한 하드웨어와 기록장치를 물리적으로 파괴하는 행위",
+        "방화벽 설정의 잘못된 조작으로 인한 네트워크, 서버 보안 위협",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q89",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "악성코드의 유형 중 다른 컴퓨터의 취약점을 이용하여 스스로 전파하거나 메일로 전파되며 스스로를 증식하는 것은?",
+      "options": [
+        "Worm",
+        "Rogue Ware",
+        "Adware",
+        "Reflection Attack",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q90",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 설명에 해당하는 공격기법은?",
+      "options": [
+        "Ping of Death",
+        "Session Hijacking",
+        "Piggyback Attack",
+        "XSS",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m90.gif"
+    },
+    {
+      "id": "infopro_engineer_q91",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 설명에 해당하는 소프트웨어는?",
+      "options": [
+        "전역 함수 라이브러리",
+        "소프트웨어 개발 프레임워크",
+        "컨테이너 아키텍처",
+        "어휘 분석기",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m91.gif"
+    },
+    {
+      "id": "infopro_engineer_q92",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "소프트웨어 개발 방법론 중 애자일(Agile) 방법론의 특징과 가장 거리가 먼 것은?",
+      "options": [
+        "각 단계의 결과가 완전히 확인된 후 다음 단계 진행",
+        "소프트웨어 개발에 참여하는 구성원들 간의 의사소통 중시",
+        "환경 변화에 대한 즉시 대응",
+        "프로젝트 상황에 따른 주기적 조정",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q93",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "대칭 암호 알고리즘과 비대칭 암호 알고리즘에 대한 설명으로 틀린 것은?",
+      "options": [
+        "대칭 암호 알고리즘은 비교적 실행 속도가 빠르기 때문에 다양한 암호의 핵심 함수로 사용될 수 있다.",
+        "대칭 암호 알고리즘은 비밀키 전달을 위한 키 교환이 필요하지 않아 암호화 및 복호화의 속도가 빠르다.",
+        "비대칭 암호 알고리즘은 자신만이 보관하는 비밀키를 이용하여 인증, 전자서명 등에 적용이 가능하다.",
+        "대표적인 대칭키 암호 알고리즘으로는 AES, IDEA 등이 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q94",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "두 명의 개발자가 5개월에 걸쳐 10000 라인의 코드를 개발하였을 때, 월별(man-month) 생산성 측정을 위한 계산 방식으로 가장 적합한 것은?",
+      "options": [
+        "10000／2",
+        "10000／(5×2)",
+        "10000／5",
+        "(2×10000)／5",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q95",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "접근 통제 방법 중 조직 내에서 직무, 직책 등 개인의 역할에 따라 결정하여 부여하는 접근 정책은?",
+      "options": [
+        "RBAC",
+        "DAC",
+        "MAC",
+        "QAC",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q96",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "COCOMO(Constructive Cost Model) 모형의 특징이 아닌 것은?",
+      "options": [
+        "프로젝트를 완성하는데 필요한 man-month로 산정 결과를 나타낼 수 있다.",
+        "보헴(Boehm)이 제안한 것으로 원시코드 라인 수에 의한 비용 산정 기법이다.",
+        "비교적 작은 규모의 프로젝트 기록을 통계 분석하여 얻은 결과를 반영한 모델이며 중소 규모 소프트웨어 프로젝트 비용 추정에 적합하다.",
+        "프로젝트 개발유형에 따라 object, dynamic, function의 3가지 모드로 구분한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q97",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "각 사용자 인증의 유형에 대한 설명으로 가장 적절하지 않은 것은?",
+      "options": [
+        "지식 : 주체는 '그가 알고 있는 것'을 보여주며 예시로는 패스워드, PIN 등이 있다.",
+        "소유 : 주체는 '그가 가지고 있는 것'을 보여주며 예시로는 토큰, 스마트카드 등이 있다.",
+        "존재 : 주체는 '그를 대체하는 것'을 보여주며 예시로는 패턴, QR 등이 있다.",
+        "행위 : 주체는 '그가 하는 것'을 보여주며 예시로는 서명, 움직임, 음성 등이 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q98",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "시스템의 사용자가 로그인하여 명령을 내리는 과정에 대한 시스템의 동작 중 다음 설명에 해당하는 것은?",
+      "options": [
+        "Aging",
+        "Accounting",
+        "Authorization",
+        "Authentication",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m98.gif"
+    },
+    {
+      "id": "infopro_engineer_q99",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음에서 설명하는 IT 기술은?",
+      "options": [
+        "SDN(Software Defined Networking)",
+        "NFS(Network File System)",
+        "Network Mapper",
+        "AOE Network",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220424/iz20220424m99.gif"
+    },
+    {
+      "id": "infopro_engineer_q100",
+      "subject": "정보처리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "프로젝트 일정 관리 시 사용하는 PERT 차트에 대한 설명에 해당하는 것은?",
+      "options": [
+        "각 작업들이 언제 시작하고 언제 종료되는지에 대한 일정을 막대 도표를 이용하여 표시한다.",
+        "시간선(Time-line) 차트라고도 한다.",
+        "수평 막대의 길이는 각 작업의 기간을 나타낸다.",
+        "작업들 간의 상호 관련성, 결정경로, 경계시간, 자원할당 등을 제시한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q101",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "User Interface 설계 시 오류 메시지나 경고에 관한 지침으로 가장 거리가 먼 것은?",
+      "options": [
+        "메시지는 이해하기 쉬워야 한다.",
+        "오류로부터 회복을 위한 구체적인 설명이 제공되어야 한다.",
+        "오류로 인해 발생 될 수 있는 부정적인 내용을 적극적으로 사용자들에게 알려야 한다.",
+        "소리나 색의 사용을 줄이고 텍스트로만 전달하도록 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q102",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 중 애자일(Agile) 소프트웨어 개발에 대한 설명으로 틀린 것은?",
+      "options": [
+        "공정과 도구보다 개인과의 상호작용을 더 가치 있게 여긴다.",
+        "동작하는 소프트웨어보다는 포괄적인 문서를 가치 있게 여긴다.",
+        "계약 협상보다는 고객과의 협력을 가치 있게 여긴다.",
+        "계획을 따르기보다 변화에 대응하기를 가치 있게 여긴다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q103",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "소프트웨어 설계에서 요구사항 분석에 대한 설명으로 틀린 것은?",
+      "options": [
+        "소프트웨어가 무엇을 해야하는가를 추적하여 요구사항 명세를 작성하는 작업이다.",
+        "사용자의 요구를 추출하여 목표를 정하고 어떤 방식으로 해결할 것인지 결정하는 단계이다.",
+        "소프트웨어 시스템이 사용되는 동안 발견되는 오류를 정리하는 단계이다.",
+        "소프트웨어 개발의 출발점이면서 실질적인 첫 번째 단계이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q104",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "객체지향 기법에서 상위 클래스의 메소드와 속성을 하위 클래스가 물려받는 것을 의미하는 것은?",
+      "options": [
+        "Abstraction",
+        "Polymorphism",
+        "Encapsulation",
+        "Inheritance",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q105",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "설계 기법 중 하향식 설계 방법과 상향식 설계 방법에 대한 비교 설명으로 가장 옳지 않은 것은?",
+      "options": [
+        "하향식 설계에서는 통합 검사 시 인터페이스가 이미 정의되어 있어 통합이 간단하다.",
+        "하향식 설계에서 레벨이 낮은 데이터 구조의 세부 사항은 설계초기 단계에서 필요하다.",
+        "상향식 설계는 최하위 수준에서 각각의 모듈들을 설계하고 이러한 모듈이 완성되면 이들을 결합하여 검사한다.",
+        "상향식 설계에서는 인터페이스가 이미 성립되어 있지 않더라도 기능 추가가 쉽다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q106",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "자료흐름도(DFD)의 각 요소별 표기 형태의 연결이 옳지 않은 것은?",
+      "options": [
+        "Process : 원",
+        "Data Flow : 화살표",
+        "Data Store : 삼각형",
+        "Terminator : 사각형",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q107",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "소프트웨어 개발에 이용되는 모델(Model)에 대한 설명 중 거리가 먼 것은?",
+      "options": [
+        "모델은 개발 대상을 추상화하고 기호나 그림 등으로 시각적으로 표현한다.",
+        "모델을 통해 소프트웨어에 대한 이해도를 향상시킬 수 있다.",
+        "모델을 통해 이해 당사자 간의 의사소통이 향상된다.",
+        "모델을 통해 향후 개발될 시스템의 유추는 불가능하다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q108",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음의 설명에 해당하는 언어는?",
+      "options": [
+        "JAVA",
+        "C",
+        "UML",
+        "Python",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m8.gif"
+    },
+    {
+      "id": "infopro_engineer_q109",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 내용이 설명하는 UI설계 도구는?",
+      "options": [
+        "스토리보드(Storyboard)",
+        "목업(Mockup)",
+        "프로토타입(Prototype)",
+        "유스케이스(Usecase)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m9.gif"
+    },
+    {
+      "id": "infopro_engineer_q110",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "애자일(Agile) 기법 중 스크럼(Scrum)과 관련된 용어에 대한 설명이 틀린 것은?",
+      "options": [
+        "스크럼 마스터(Scrum Master)는 스크럼 프로세스를 따르고, 팀이 스크럼을 효과적으로 활용할 수 있도록 보장하는 역할 등을 맡는다.",
+        "제품 백로그(Product Backlog)는 스크럼 팀이 해결해야 하는 목록으로 소프트웨어 요구사항, 아키텍처 정의 등이 포함될 수 있다.",
+        "스프린트(Sprint)는 하나의 완성된 최종 결과물을 만들기 위한 주기로 3달 이상의 장기간으로 결정된다.",
+        "속도(Velocity)는 한 번의 스프린트에서 한 팀이 어느 정도의 제품 백로그를 감당할 수 있는지에 대한 추정치로 볼 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q111",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "UML 다이어그램 중 정적 다이어그램이 아닌 것은?",
+      "options": [
+        "컴포넌트 다이어그램",
+        "배치 다이어그램",
+        "순차 다이어그램",
+        "패키지 다이어그램",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q112",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "LOC기법에 의하여 예측된 총 라인수가 36000라인, 개발에 참여할 프로그래머가 6명, 프로그래머들의 평균 생산성이 월간 300라인일 때 개발에 소요되는 기간을 계산한 결과로 가장 옳은 것은?",
+      "options": [
+        "5개월",
+        "10개월",
+        "15개월",
+        "20개월",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q113",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "클래스 설계원칙에 대한 바른 설명은?",
+      "options": [
+        "단일 책임원칙 : 하나의 클래스만 변경 가능 해야한다.",
+        "개방-폐쇄의 원칙 : 클래스는 확장에 대해 열려 있어야 하며 변경에 대해 닫혀 있어야 한다.",
+        "리스코프 교체의 원칙 : 여러 개의 책임을 가진 클래스는 하나의 책임을 가진 클래스로 대체되어야 한다.",
+        "의존관계 역전의 원칙 : 클라이언트는 자신이 사용하는 메소드와 의존관계를 갖지 않도록 해야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q114",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "GoF(Gangs of Four) 디자인 패턴에서 생성(Creational) 패턴에 해당하는 것은?",
+      "options": [
+        "컴퍼지트(Composite)",
+        "어댑터(Adapter)",
+        "추상 팩토리(Abstract Factory)",
+        "옵서버(Observer)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q115",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "아키텍처 설계과정이 올바른 순서로 나열된 것은?",
+      "options": [
+        "㉮ → ㉯ → ㉰ → ㉱ → ㉲",
+        "㉲ → ㉮ → ㉯ → ㉱ → ㉰",
+        "㉮ → ㉲ → ㉯ → ㉱ → ㉰",
+        "㉮ → ㉯ → ㉰ → ㉲ → ㉱",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m15.gif"
+    },
+    {
+      "id": "infopro_engineer_q116",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "사용자 인터페이스를 설계할 경우 고려해야 할 가이드라인과 가장 거리가 먼 것은?",
+      "options": [
+        "심미성을 사용성보다 우선하여 설계해야 한다.",
+        "효율성을 높이게 설계해야 한다.",
+        "발생하는 오류를 쉽게 수정할 수 있어야 한다.",
+        "사용자에게 피드백을 제공해야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q117",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "소프트웨어 설계에서 자주 발생하는 문제에 대한 일반적이고 반복적인 해결 방법을 무엇이라고 하는가?",
+      "options": [
+        "모듈 분해",
+        "디자인 패턴",
+        "연관 관계",
+        "클래스 도출",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q118",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "객체지향 분석기법의 하나로 객체 모형, 동적 모형, 기능 모형의 3개 모형을 생성하는 방법은?",
+      "options": [
+        "Wirfs-Block Method",
+        "Rumbaugh Method",
+        "Booch Method",
+        "Jacobson Method",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q119",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "입력되는 데이터를 컴퓨터의 프로세서가 처리하기 전에 미리 처리하여 프로세서가 처리하는 시간을 줄여주는 프로그램이나 하드웨어를 말하는 것은?",
+      "options": [
+        "EAI",
+        "FEP",
+        "GPL",
+        "Duplexing",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q120",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "객체 지향 개념 중 하나 이상의 유사한 객체들을 묶어 공통된 특성을 표현한 데이터 추상화를 의미하는 것은?",
+      "options": [
+        "Method",
+        "Class",
+        "Field",
+        "Message",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q121",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "클린 코드(Clean Code)를 작성하기 위한 원칙으로 틀린 것은?",
+      "options": [
+        "추상화 : 하위 클래스/메소드/함수를 통해 애플리케이션의 특성을 간략하게 나타내고, 상세 내용은 상위 클래스/메소드/함수에서 구현한다.",
+        "의존성 : 다른 모듈에 미치는 영향을 최소화하도록 작성한다.",
+        "가독성 : 누구든지 읽기 쉽게 코드를 작성한다.",
+        "중복성 : 중복을 최소화 할 수 있는 코드를 작성한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q122",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "단위 테스트에서 테스트의 대상이 되는 하위 모듈을 호출하고, 파라미터를 전달하는 가상의 모듈로 상향식 테스트에 필요한 것은?",
+      "options": [
+        "테스트 스텁(Test Stub)",
+        "테스트 드라이버(Test Driver)",
+        "테스트 슈트(Test Suites)",
+        "테스트 케이스(Test Case)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q123",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "스택(Stack)에 대한 옳은 내용으로만 나열된 것은?",
+      "options": [
+        "㉠, ㉡",
+        "㉡, ㉢",
+        "㉣",
+        "㉠, ㉡, ㉢, ㉣",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m23.gif"
+    },
+    {
+      "id": "infopro_engineer_q124",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "소프트웨어 모듈화의 장점이 아닌 것은?",
+      "options": [
+        "오류의 파급 효과를 최소화한다.",
+        "기능의 분리가 가능하여 인터페이스가 복잡하다.",
+        "모듈의 재사용 가능으로 개발과 유지보수가 용이하다.",
+        "프로그램의 효율적인 관리가 가능하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q125",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "소프트웨어 프로젝트 관리에 대한 설명으로 가장 옳은 것은?",
+      "options": [
+        "개발에 따른 산출물 관리",
+        "소요인력은 최대화하되 정책 결정은 신속하게 처리",
+        "주어진 기간은 연장하되 최소의 비용으로 시스템을 개발",
+        "주어진 기간 내에 최소의 비용으로 사용자를 만족시키는 시스템을 개발",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q126",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "정형 기술 검토(FTR)의 지침으로 틀린 것은?",
+      "options": [
+        "의제를 제한한다.",
+        "논쟁과 반박을 제한한다.",
+        "문제 영역을 명확히 표현한다.",
+        "참가자의 수를 제한하지 않는다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q127",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "소프트웨어 재공학의 주요 활동 중 기존 소프트웨어 시스템을 새로운 기술 또는 하드웨어 환경에서 사용할 수 있도록 변환하는 작업을 의미하는 것은?",
+      "options": [
+        "Analysis",
+        "Migration",
+        "Restructuring",
+        "Reverse Engineering",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q128",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "정보시스템 개발 단계에서 프로그래밍 언어 선택 시 고려할 사항으로 가장 거리가 먼 것은?",
+      "options": [
+        "개발 정보시스템의 특성",
+        "사용자의 요구사항",
+        "컴파일러의 가용성",
+        "컴파일러의 독창성",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q129",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "소프트웨어 패키징에 대한 설명으로 틀린 것은?",
+      "options": [
+        "패키징은 개발자 중심으로 진행한다.",
+        "신규 및 변경 개발소스를 식별하고, 이를 모듈화하여 상용제품으로 패키징한다.",
+        "고객의 편의성을 위해 매뉴얼 및 버전관리를 지속적으로 한다.",
+        "범용 환경에서 사용이 가능하도록 일반적인 배포 형태로 패키징이 진행된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q130",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "자료 구조의 분류 중 선형 구조가 아닌 것은?",
+      "options": [
+        "트리",
+        "리스트",
+        "스택",
+        "데크",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q131",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "아주 오래되거나 참고문서 또는 개발자가 없어 유지보수 작업이 아주 어려운 프로그램을 의미하는 것은?",
+      "options": [
+        "Title Code",
+        "Source Code",
+        "Object Code",
+        "Alien Code",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q132",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "소프트웨어를 재사용함으로써 얻을 수 있는 이점으로 가장 거리가 먼 것은?",
+      "options": [
+        "생산성 증가",
+        "프로젝트 문서 공유",
+        "소프트웨어 품질 향상",
+        "새로운 개발 방법론 도입 용이",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q133",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "인터페이스 간의 통신을 위해 이용되는 데이터 포맷이 아닌 것은?",
+      "options": [
+        "AJTML",
+        "JSON",
+        "XML",
+        "YAML",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q134",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "프로그램 설계도의 하나인 NS Chart에 대한 설명으로 가장 거리가 먼 것은?",
+      "options": [
+        "논리의 기술에 중점을 두고 도형을 이용한 표현 방법이다.",
+        "이해하기 쉽고 코드 변환이 용이하다.",
+        "화살표나 GOTO를 사용하여 이해하기 쉽다.",
+        "연속, 선택, 반복 등의 제어 논리 구조를 표현한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q135",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "순서가 A, B, C, D로 정해진 입력자료를 push, push, pop, push, push, pop, pop, pop 순서로 스택연산을 수행하는 경우 출력 결과는?",
+      "options": [
+        "B D C A",
+        "A B C D",
+        "B A C D",
+        "A B D C",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q136",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "분할 정복(Divide and Conquer)에 기반한 알고리즘으로 피벗(pivot)을 사용하며 최악의 경우  회의 비교를 수행해야 하는 정렬(Sort)은?",
+      "options": [
+        "Selection Sort",
+        "Bubble Sort",
+        "Insert Sort",
+        "Quick Sort",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m36m1.gif"
+    },
+    {
+      "id": "infopro_engineer_q137",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "화이트 박스 검사 기법에 해당하는 것으로만 짝지어진 것은?",
+      "options": [
+        "㉠, ㉡",
+        "㉠, ㉣",
+        "㉡, ㉤",
+        "㉢, ㉥",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m37.gif"
+    },
+    {
+      "id": "infopro_engineer_q138",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "소프트웨어 품질 관련 국제 표준인 ISO/IEC 25000에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "소프트웨어 품질 평가를 위한 소프트웨어 품질평가 통합모델 표준이다.",
+        "System and Software Quality Requirements and Evaluation으로 줄여서 SQuaRE라고도 한다.",
+        "ISO/IEC 2501n에서는 소프트웨어의 내부 측정, 외부측정, 사용품질 측정, 품질 측정 요소 등을 다룬다.",
+        "기존 소프트웨어 품질 평가 모델과 소프트웨어 평가 절차 모델인 ISO/IEC 9126과 ISO/IEC 14598을 통합하였다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q139",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "코드 인스펙션과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "프로그램을 수행시켜보는 것 대신에 읽어보고 눈으로 확인하는 방법으로 볼 수 있다.",
+        "코드 품질 향상 기법 중 하나이다.",
+        "동적 테스트 시에만 활용하는 기법이다.",
+        "결함과 함께 코딩 표준 준수 여부, 효율성 등의 다른 품질 이슈를 검사하기도 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q140",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "프로젝트에 내재된 위험 요소를 인식하고 그 영향을 분석하여 이를 관리하는 활동으로서, 프로젝트를 성공시키기 위하여 위험 요소를 사전에 예측, 대비하는 모든 기술과 활동을 포함하는 것은?",
+      "options": [
+        "Critical Path Method",
+        "Risk Analysis",
+        "Work Breakdown Structure",
+        "Waterfall Model",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q141",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "데이터베이스 설계 단계 중 물리적 설계 시 고려 사항으로 적절하지 않은 것은?",
+      "options": [
+        "스키마의 평가 및 정제",
+        "응답 시간",
+        "저장 공간의 효율화",
+        "트랜잭션 처리량",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q142",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "DELETE 명령에 대한 설명으로 틀린 것은?",
+      "options": [
+        "테이블의 행을 삭제할 때 사용한다.",
+        "WHERE 조건절이 없는 DELETE 명령을 수행하면 DROP TABLE 명령을 수행했을 때와 동일한 효과를 얻을 수 있다.",
+        "SQL을 사용 용도에 따라 분류할 경우 DML에 해당한다.",
+        "기본 사용 형식은 “DELETE FROM 테이블 [WHERE 조건];” 이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q143",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "어떤 릴레이션 R의 모든 조인 종속성의 만족이 R의 후보 키를 통해서만 만족될 때, 이 릴레이션 R이 해당하는 정규형은?",
+      "options": [
+        "제5정규형",
+        "제4정규형",
+        "제3정규형",
+        "제1정규형",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q144",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "E-R 모델에서 다중값 속성의 표기법은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q145",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다른 릴레이션의 기본키를 참조하는 키를 의미하는 것은?",
+      "options": [
+        "필드키",
+        "슈퍼키",
+        "외래키",
+        "후보키",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q146",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "관계해석에서 '모든 것에 대하여'의 의미를 나타내는 논리 기호는?",
+      "options": [
+        "∃",
+        "∈",
+        "∀",
+        "⊂",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q147",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 릴레이션의 Degree와 Cardinality는?",
+      "options": [
+        "Degree : 4, Cardinality : 3",
+        "Degree : 3, Cardinality : 4",
+        "Degree : 3, Cardinality : 12",
+        "Degree : 12, Cardinality : 3",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m47.gif"
+    },
+    {
+      "id": "infopro_engineer_q148",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "뷰(View)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "뷰 위에 또 다른 뷰를 정의할 수 있다.",
+        "DBA는 보안성 측면에서 뷰를 활용할 수 있다.",
+        "사용자가 필요한 정보를 요구에 맞게 가공하여 뷰로 만들 수 있다.",
+        "SQL을 사용하면 뷰에 대한 삽입, 갱신, 삭제 연산 시 제약 사항이 없다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q149",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "관계 대수식을 SQL 질의로 옳게 표현한 것은?",
+      "options": [
+        "SELECT 학생 FROM 이름 WHERE 학과='교육';",
+        "SELECT 이름 FROM 학생 WHERE 학과='교육';",
+        "SELECT 교육 FROM 학과 WHERE 이름='학생';",
+        "SELECT 학과 FROM 학생 WHERE 이름='교육';",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m49.gif"
+    },
+    {
+      "id": "infopro_engineer_q150",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "정규화 과정에서 함수 종속이 A→B 이고 B→C 일 때 A→C인 관계를 제거하는 단계는?",
+      "options": [
+        "1NF → 2NF",
+        "2NF → 3NF",
+        "3NF → BCNF",
+        "BCNF → 4NF",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q151",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "CREATE TABLE문에 포함되지 않는 기능은?",
+      "options": [
+        "속성 타입 변경",
+        "속성의 NOT NULL 여부 지정",
+        "기본키를 구성하는 속성 지정",
+        "CHECK 제약조건의 정의",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q152",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "SQL과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "REVOKE 키워드를 사용하여 열 이름을 다시 부여할 수 있다.",
+        "데이터 정의어는 기본 테이블, 뷰 테이블, 또는 인덱스 등을 생성, 변경, 제거하는데 사용되는 명령어이다.",
+        "DISTINCT를 활용하여 중복 값을 제거할 수 있다.",
+        "JOIN을 통해 여러 테이블의 레코드를 조합하여 표현할 수 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q153",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 SQL문의 실행결과로 생성되는 튜플 수는?",
+      "options": [
+        "1",
+        "3",
+        "4",
+        "5",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m53.gif"
+    },
+    {
+      "id": "infopro_engineer_q154",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 SQL문에서 사용된 BETWEEN 연산의 의미와 동일한 것은?",
+      "options": [
+        "점수 ＞= 90 AND 점수 ＜= 95",
+        "점수 ＞ 90 AND 점수 ＜ 95",
+        "점수 ＞ 90 AND 점수 ＜= 95",
+        "점수 ＞= 90 AND 점수 ＜ 95",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m54.gif"
+    },
+    {
+      "id": "infopro_engineer_q155",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "트랜잭션의 상태 중 트랜잭션의 수행이 실패하여 Rollback 연산을 실행한 상태는?",
+      "options": [
+        "철회(Aborted)",
+        "부분 완료(Partially Committed)",
+        "완료(Commit)",
+        "실패(Fail)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q156",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "데이터 제어어(DCL)에 대한 설명으로 옳은 것은?",
+      "options": [
+        "ROLLBACK : 데이터의 보안과 무결성을 정의한다.",
+        "COMMIT : 데이터베이스 사용자의 사용 권한을 취소한다.",
+        "GRANT : 데이터베이스 사용자의 사용 권한을 부여한다.",
+        "REVOKE : 데이터베이스 조작 작업이 비정상적으로 종료되었을 때 원래 상태로 복구한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q157",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "테이블 R과 S에 대한 SQL에 대한 SQL문이 실행되었을 때, 실행결과로 옳은 것은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m57.gif"
+    },
+    {
+      "id": "infopro_engineer_q158",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "분산 데이터베이스 시스템(Distributed Database System)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "분산 데이터베이스는 논리적으로는 하나의 시스템에 속하지만 물리적으로는 여러 개의 컴퓨터 사이트에 분산되어 있다.",
+        "위치 투명성, 중복 투명성, 병행 투명성, 장애 투명성을 목표로 한다.",
+        "데이터베이스의 설계가 비교적 어렵고, 개발 비용과 처리 비용이 증가한다는 단점이 있다.",
+        "분산 데이터베이스 시스템의 주요 구성 요소는 분산 처리기, P2P 시스템, 단일 데이터베이스 등이 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q159",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "테이블 두 개를 조인하여 뷰 V_1을 정의하고, V_1을 이용하여 뷰 V_2를 정의하였다. 다음 명령 수행 후 결과로 옳은 것은?",
+      "options": [
+        "V_1만 삭제된다.",
+        "V_2만 삭제된다.",
+        "V_1과 V_2 모두 삭제된다.",
+        "V_1과 V_2 모두 삭제되지 않는다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m59.gif"
+    },
+    {
+      "id": "infopro_engineer_q160",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "데이터베이스에서 병행제어의 목적으로 틀린 것은?",
+      "options": [
+        "시스템 활용도 최대화",
+        "사용자에 대한 응답시간 최소화",
+        "데이터베이스 공유 최소화",
+        "데이터베이스 일관성 유지",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q161",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "IP 주소체계와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "IPv6의 패킷 헤더는 32 octet의 고정된 길이를 가진다.",
+        "IPv6는 주소 자동설정(Auto Configuration) 기능을 통해 손쉽게 이용자의 단말을 네트워크에 접속시킬 수 있다.",
+        "IPv4는 호스트 주소를 자동으로 설정하며 유니캐스트(Unicast)를 지원한다.",
+        "IPv4는 클래스별로 네트워크와 호스트 주소의 길이가 다르다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q162",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 C언어 프로그램이 실행되었을 때, 실행 결과는?",
+      "options": [
+        "7, 5",
+        "8, 5",
+        "8, 9",
+        "7, 9",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m62.gif"
+    },
+    {
+      "id": "infopro_engineer_q163",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "OSI 7계층 중 데이터링크 계층에 해당되는 프로토콜이 아닌 것은?",
+      "options": [
+        "HTTP",
+        "HDLC",
+        "PPP",
+        "LLC",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q164",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "C언어에서 두 개의 논리 값 중 하나라도 참이면 1을, 모두 거짓이면 0을 반환하는 연산자는?",
+      "options": [
+        "||",
+        "&&",
+        "**",
+        "!=",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q165",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "IPv6에 대한 특성으로 틀린 것은?",
+      "options": [
+        "표시방법은 8비트씩 4부분의 10진수로 표시한다.",
+        "2128개의 주소를 표현할 수 있다.",
+        "등급별, 서비스별로 패킷을 구분할 수 있어 품질보장이 용이하다.",
+        "확장기능을 통해 보안기능을 제공한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q166",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "JAVA의 예외(exception)와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "문법 오류로 인해 발생한 것",
+        "오동작이나 결과에 악영향을 미칠 수 있는 실행 시간 동안에 발생한 오류",
+        "배열의 인덱스가 그 범위를 넘어서는 경우 발생하는 오류",
+        "존재하지 않는 파일을 읽으려고 하는 경우에 발생하는 오류",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q167",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "TCP/IP 계층 구조에서 IP의 동작 과정에서의 전송 오류가 발생하는 경우에 대비해 오류 정보를 전송하는 목적으로 사용하는 프로토콜은?",
+      "options": [
+        "ECP(Error Checking Protocol)",
+        "ARP(Address Resolution Protocol)",
+        "ICMP(Internet Control Message Protocol)",
+        "PPP(Point-to-Point Protocol)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q168",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "좋은 소프트웨어 설계를 위한 소프트웨어의 모듈간의 결합도(Coupling)와 모듈 내 요소 간 응집도(Cohesion)에 대한 설명으로 옳은 것은?",
+      "options": [
+        "응집도는 낮게 결합도는 높게 설계한다.",
+        "응집도는 높게 결합도는 낮게 설계한다.",
+        "양쪽 모두 낮게 설계한다.",
+        "양쪽 모두 높게 설계한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q169",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음과 같은 형태로 임계 구역의 접근을 제어하는 상호배제 기법은?",
+      "options": [
+        "Dekker Algorithm",
+        "Lamport Algorithm",
+        "Peterson Algorithm",
+        "Semaphore",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m69.gif"
+    },
+    {
+      "id": "infopro_engineer_q170",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "소프트웨어 개발에서 모듈(Module)이 되기 위한 주요 특징에 해당하지 않는 것은?",
+      "options": [
+        "다른 것들과 구별될 수 있는 독립적인 기능을 가진 단위(Unit)이다.",
+        "독립적인 컴파일이 가능하다.",
+        "유일한 이름을 가져야 한다.",
+        "다른 모듈에서의 접근이 불가능해야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q171",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "빈 기억공간의 크기가 20KB, 16KB, 8KB, 40KB 일 때 기억장치 배치 전략으로 “Best Fit\"을 사용하여 17KB의 프로그램을 적재할 경우 내부단편화의 크기는 얼마인가?",
+      "options": [
+        "3KB",
+        "23KB",
+        "64KB",
+        "67KB",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q172",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 C언어프로그램이 실행되었을 때, 실행 결과는?",
+      "options": [
+        "i = 0",
+        "i = 1",
+        "i = 3",
+        "i = 4",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m72.gif"
+    },
+    {
+      "id": "infopro_engineer_q173",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 JAVA 프로그램이 실행되었을 때, 실행 결과는?",
+      "options": [
+        "BCDABCA",
+        "BCDABCC",
+        "CDDACCC",
+        "CDDACCA",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m73.gif"
+    },
+    {
+      "id": "infopro_engineer_q174",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "개발 환경 구성을 위한 빌드(Build) 도구에 해당하지 않는 것은?",
+      "options": [
+        "Ant",
+        "Kerberos",
+        "Maven",
+        "Gradle",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q175",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "3개의 페이지 프레임을 갖는 시스템에서 페이지 참조 순서가 1, 2, 1, 0, 4, 1, 3 일 경우 FIFO 알고리즘에 의한 페이지 교체의 경우 프레임의 최종 상태는?",
+      "options": [
+        "1, 2, 0",
+        "2, 4, 3",
+        "1, 4, 2",
+        "4, 1, 3",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q176",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 C언어 프로그램이 실행되었을 때, 실행 결과는?",
+      "options": [
+        "E",
+        "V",
+        "R",
+        "O",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m76.gif"
+    },
+    {
+      "id": "infopro_engineer_q177",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 Python 프로그램이 실행되었을 때, 실행 결과는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m77.gif"
+    },
+    {
+      "id": "infopro_engineer_q178",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "C언어에서 정수 변수 a, b에 각각 1, 2가 저장되어 있을 때 다음 식의 연산 결과로 옳은 것은?",
+      "options": [
+        "0",
+        "1",
+        "3",
+        "5",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m78.gif"
+    },
+    {
+      "id": "infopro_engineer_q179",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 Python 프로그램이 실행되었을 때, 실행 결과는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m79.gif"
+    },
+    {
+      "id": "infopro_engineer_q180",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "UNIX 시스템의 쉘(shell)의 주요 기능에 대한 설명이 아닌 것은?",
+      "options": [
+        "사용자 명령을 해석하고 커널로 전달하는 기능을 제공한다.",
+        "반복적인 명령 프로그램을 만드는 프로그래밍 기능을 제공한다.",
+        "쉘 프로그램 실행을 위해 프로세스와 메모리를 관리한다.",
+        "초기화 파일을 이용해 사용자 환경을 설정하는 기능을 제공한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q181",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "소프트웨어 생명주기 모델 중 나선형 모델(Spiral Model)과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "소프트웨어 개발 프로세스를 위험 관리(Risk Management) 측면에서 본 모델이다.",
+        "위험 분석(Risk Analysis)은 반복적인 개발 진행 후 주기의 마지막 단계에서 최종적으로 한 번 수행해야 한다.",
+        "시스템을 여러 부분으로 나누어 여러 번의 개발 주기를 거치면서 시스템이 완성된다.",
+        "요구사항이나 아키텍처를 이해하기 어렵다거나 중심이 되는 기술에 문제가 있는 경우 적합한 모델이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q182",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "정보시스템과 관련한 다음 설명에 해당하는 것은?",
+      "options": [
+        "고가용성 솔루션(HACMP)",
+        "점대점 연결 방식(Point-to-Point Mode)",
+        "스턱스넷(Stuxnet)",
+        "루팅(Rooting)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m82.gif"
+    },
+    {
+      "id": "infopro_engineer_q183",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "위조된 매체 접근 제어(MAC) 주소를 지속적으로 네트워크로 흘려보내, 스위치 MAC 주소 테이블의 저장 기능을 혼란시켜 더미 허브(Dummy Hub)처럼 작동하게 하는 공격은?",
+      "options": [
+        "Parsing",
+        "LAN Tapping",
+        "Switch Jamming",
+        "FTP Flooding",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q184",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 내용이 설명하는 스토리지 시스템은?",
+      "options": [
+        "DAS",
+        "NAS",
+        "BSA",
+        "NFC",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m84.gif"
+    },
+    {
+      "id": "infopro_engineer_q185",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "취약점 관리를 위해 일반적으로 수행하는 작업이 아닌 것은?",
+      "options": [
+        "무결성 검사",
+        "응용 프로그램의 보안 설정 및 패치(Patch) 적용",
+        "중단 프로세스 및 닫힌 포트 위주로 확인",
+        "불필요한 서비스 및 악성 프로그램의 확인과 제거",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q186",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "소프트웨어 생명주기 모델 중 V 모델과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "요구 분석 및 설계단계를 거치지 않으며 항상 통합 테스트를 중심으로 V 형태를 이룬다.",
+        "Perry에 의해 제안되었으며 세부적인 테스트 과정으로 구성되어 신뢰도 높은 시스템을 개발하는데 효과적이다.",
+        "개발 작업과 검증 작업 사이의 관계를 명확히 드러내 놓은 폭포수 모델의 변형이라고 볼 수 있다.",
+        "폭포수 모델이 산출물 중심이라면 V 모델은 작업과 결과의 검증에 초점을 둔다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q187",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "블루투스(Bluetooth) 공격과 해당 공격에 대한 설명이 올바르게 연결된 것은?",
+      "options": [
+        "블루버그(BlueBug) - 블루투스의 취약점을 활용하여 장비의 파일에 접근하는 공격으로 OPP를 사용하여 정보를 열람",
+        "블루스나프(BlueSnarf) - 블루투스를 이용해 스팸처럼 명함을 익명으로 퍼뜨리는 것",
+        "블루프린팅(BluePrinting) - 블루투스 공격 장치의 검색 활동을 의미",
+        "블루재킹(BlueJacking) - 블루투스 장비사이의 취약한 연결 관리를 악용한 공격",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q188",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "DoS(Denial of Service) 공격과 관련한 내용으로 틀린 것은?",
+      "options": [
+        "Ping of Death 공격은 정상 크기보다 큰 ICMP 패킷을 작은 조각(Fragment)으로 쪼개어 공격 대상이 조각화 된 패킷을 처리하게 만드는 공격 방법이다.",
+        "Smurf 공격은 멀티캐스트(Multicast)를 활용하여 공격 대상이 네트워크의 임의의 시스템에 패킷을 보내게 만드는 공격이다.",
+        "SYN Flooding은 존재하지 않는 클라이언트가 서버별로 한정된 접속 가능 공간에 접속한 것처럼 속여 다른 사용자가 서비스를 이용하지 못하게 하는 것이다.",
+        "Land 공격은 패킷 전송 시 출발지 IP주소와 목적지 IP주소 값을 똑같이 만들어서 공격 대상에게 보내는 공격 방법이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q189",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 설명에 해당하는 시스템은?",
+      "options": [
+        "Apache",
+        "Hadoop",
+        "Honeypot",
+        "MapReduce",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m89.gif"
+    },
+    {
+      "id": "infopro_engineer_q190",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음이 설명하는 IT 기술은?",
+      "options": [
+        "StackGuard",
+        "Docker",
+        "Cipher Container",
+        "Scytale",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m90.gif"
+    },
+    {
+      "id": "infopro_engineer_q191",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "간트 차트(Gantt Chart)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "프로젝트를 이루는 소작업 별로 언제 시작되고 언제 끝나야 하는지를 한 눈에 볼 수 있도록 도와준다.",
+        "자원 배치 계획에 유용하게 사용된다.",
+        "CPM 네트워크로부터 만드는 것이 가능하다.",
+        "수평 막대의 길이는 각 작업(Task)에 필요한 인원수를 나타낸다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q192",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "Python 기반의 웹 크롤링(Web Crawling) 프레임워크로 옳은 것은?",
+      "options": [
+        "Li-fi",
+        "Scrapy",
+        "CrawlCat",
+        "SBAS",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q193",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "Secure 코딩에서 입력 데이터의 보안 약점과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "SQL 삽입 : 사용자의 입력 값 등 외부 입력 값이 SQL 쿼리에 삽입되어 공격",
+        "크로스사이트 스크립트 : 검증되지 않은 외부 입력 값에 의해 브라우저에서 악의적인 코드가 실행",
+        "운영체제 명령어 삽입 : 운영체제 명령어 파라미터 입력 값이 적절한 사전검증을 거치지 않고 사용되어 공격자가 운영체제 명령어를 조작",
+        "자원 삽입 : 사용자가 내부 입력 값을 통해 시스템 내에 사용이 불가능한 자원을 지속적으로 입력함으로써 시스템에 과부하 발생",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q194",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "Windows 파일 시스템인 FAT와 비교했을 때의 NTFS의 특징이 아닌 것은?",
+      "options": [
+        "보안에 취약",
+        "대용량 볼륨에 효율적",
+        "자동 압축 및 안정성",
+        "저용량 볼륨에서의 속도 저하",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q195",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "DES는 몇 비트의 암호화 알고리즘인가?",
+      "options": [
+        "8",
+        "24",
+        "64",
+        "132",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q196",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "리눅스에서 생성된 파일 권한이 644일 경우 umask 값은?",
+      "options": [
+        "022",
+        "666",
+        "777",
+        "755",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q197",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 내용이 설명하는 로그 파일은?",
+      "options": [
+        "tapping",
+        "xtslog",
+        "linuxer",
+        "wtmp",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20220305/iz20220305m97.gif"
+    },
+    {
+      "id": "infopro_engineer_q198",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "상향식 비용 산정 기법 중 LOC(원시 코드 라인 수) 기법에서 예측치를 구하기 위해 사용하는 항목이 아닌 것은?",
+      "options": [
+        "낙관치",
+        "기대치",
+        "비관치",
+        "모형치",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q199",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "OSI 7 Layer 전 계층의 프로토콜과 패킷 내부의 콘텐츠를 파악하여 침입 시도, 해킹 등을 탐지하고 트래픽을 조정하기 위한 패킷 분석 기술은?",
+      "options": [
+        "PLCP(Packet Level Control Processor)",
+        "Traffic Distributor",
+        "Packet Tree",
+        "DPI(Deep Packet Inspection)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q200",
+      "subject": "정보처리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "소프트웨어 개발 방법론의 테일러링(Tailoring)과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "프로젝트 수행 시 예상되는 변화를 배제하고 신속히 진행하여야 한다.",
+        "프로젝트에 최적화된 개발 방법론을 적용하기 위해 절차, 산출물 등을 적절히 변경하는 활동이다.",
+        "관리 측면에서의 목적 중 하나는 최단기간에 안정적인 프로젝트 진행을 위한 사전 위험을 식별하고 제거하는 것이다.",
+        "기술적 측면에서의 목적 중 하나는 프로젝트에 최적화된 기술 요소를 도입하여 프로젝트 특성에 맞는 최적의 기법과 도구를 사용하는 것이다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q201",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "요구사항 검증(Requirements Validation)과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "요구사항이 고객이 정말 원하는 시스템을 제대로 정의하고 있는지 점검하는 과정이다.",
+        "개발완료 이후에 문제점이 발견될 경우 막대한 재작업 비용이 들 수 있기 때문에 요구사항 검증은 매우 중요하다.",
+        "요구사항이 실제 요구를 반영하는지, 문서상의 요구사항은 서로 상충되지 않는지 등을 점검한다.",
+        "요구사항 검증 과정을 통해 모든 요구사항 문제를 발견할 수 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q202",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "UML 모델에서 한 사물의 명세가 바뀌면 다른사물에 영향을 주며, 일반적으로 한 클래스가 다른 클래스를 오퍼레이션의 매개변수로 사용하는 경우에 나타나는 관계는?",
+      "options": [
+        "Association",
+        "Dependency",
+        "Realization",
+        "Generalization",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q203",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "익스트림 프로그래밍 (XP)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "빠른 개발을 위해 테스트를 수행하지 않는다.",
+        "사용자의 요구사항은 언제든지 변할 수있다.",
+        "고객과 직접 대면하며 요구사항을 이야기하기 위해 사용자 스토리(User Story)를 활용할 수 있다.",
+        "기존의 방법론에 비해 실용성(Pragmatism)을 강조한 것이라고 볼 수있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q204",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "소프트웨어 설계에서 사용되는 대표적인 추상화(Abstraction) 기법이 아닌 것은?",
+      "options": [
+        "자료 추상화",
+        "제어 추상화",
+        "과정 추상화",
+        "강도 추상화",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q205",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "객체지향 설계에서 정보 은닉(Information Hiding)과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "필요하지 않은 정보는 접근할 수 없도록 하여 한 모듈 또는 하부시스템이 다른 모듈의 구현에 영향을 받지 않게 설계되는것을 의미한다.",
+        "모듈들 사이의 독립성을 유지시키는 데 도움이 된다.",
+        "설계에서 은닉되어야 할 기본 정보로는 IP주소와 같은 물리적 코드, 상세 데이터 구조 등이 있다.",
+        "모듈 내부의 자료 구조와 접근 동작들에만 수정을 국한하기 때문에 요구사항 등 변화에 따른 수정이 불가능하다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q206",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "소프트웨어 공학에서 모델링 (Modeling)과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "개발팀이 응용문제를 이해하는 데 도움을 줄 수 있다.",
+        "유지보수 단계에서만 모델링 기법을 활용한다.",
+        "개발될 시스템에 대하여 여러 분야의 엔지니어들이 공통된 개념을 공유하는 데 도움을 준다.",
+        "절차적인 프로그램을 위한 자료흐름도는 프로세스 위주의 모델링 방법이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q207",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "요구 분석(Requirement Analysis)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "요구 분석은 소프트웨어 개발의 실제적인 첫 단계로 사용자의 요구에 대해 이해하는 단계라 할 수 있다.",
+        "요구 추출(Requirement Elicitation)은 프로젝트 계획 단계에 정의한 문제의 범위 안에 있는 사용자의 요구를 찾는 단계이다.",
+        "도메인 분석(Domain Analysis)은 요구에 대한 정보를 수집하고 배경을 분석하여 이를 토대로 모델링을 하게 된다.",
+        "기능적(Functional) 요구에서 시스템 구축에 대한 성능, 보안, 품질, 안정 등에 대한 요구사항을 도출한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q208",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "클래스 다이어그램의 요소로 다음 설명에 해당하는 용어는?",
+      "options": [
+        "Instance",
+        "Operation",
+        "Item",
+        "Hiding",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m8.gif"
+    },
+    {
+      "id": "infopro_engineer_q209",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "분산 시스템을 위한 마스터-슬레이브(Master-Slave) 아키텍처에 대한 설명으로 틀린 것은?",
+      "options": [
+        "일반적으로 실시간 시스템에서 사용된다.",
+        "마스터 프로세스는 일반적으로 연산, 통신, 조정을 책임진다.",
+        "슬레이브 프로세스는 데이터 수집 기능을 수행할 수 없다.",
+        "마스터 프로세스는 슬레이브 프로세스들을 제어할 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q210",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "요구 사항 정의 및 분석·설계의 결과물을 표현하기 위한 모델링 과정에서 사용되는 다이어그램(Diagram)이 아닌 것은?",
+      "options": [
+        "Data Flow Diagram",
+        "UML Diagram",
+        "E-R Diagram",
+        "AVL Diagram",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q211",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "객체지향의 주요 개념에 대한 설명으로 틀린 것은?",
+      "options": [
+        "캡슐화는 상위클래스에서 속성이나 연산을 전달받아 새로운 형태의 클래스로 확장하여 사용하는 것을 의미한다.",
+        "객체는 실세계에 존재하거나 생각할 수 있는 것을 말한다.",
+        "클래스는 하나 이상의 유사한 객체들을 묶어 공통된 특성을 표현한 것이다.",
+        "다형성은 상속받은 여러 개의 하위 객체들이 다른 형태의 특성을 갖는 객체로 이용될 수 있는 성질이다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q212",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "사용자 인터페이스(User Interface)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "사용자와 시스템이 정보를 주고받는 상호작용이 잘 이루어지도록 하는 장치나 소프트웨어를 의미한다.",
+        "편리한 유지보수를 위해 개발자 중심으로 설계되어야 한다.",
+        "배우기가 용이하고 쉽게 사용할 수 있도록 만들어져야 한다.",
+        "사용자 요구사항이 UI에 반영될 수 있도록 구성해야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q213",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "GoF(Gang of Four) 디자인 패턴과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "디자인 패턴을 목적(Purpose)으로 분류할 때 생성, 구조, 행위로 분류할 수 있다.",
+        "Strategy 패턴은 대표적인 구조 패턴으로 인스턴스를 복제하여 사용하는 구조를 말한다.",
+        "행위 패턴은 클래스나 객체들이 상호작용하는 방법과 책임을 분산하는 방법을 정의한다.",
+        "Singleton 패턴은 특정 클래스의 인스턴스가 오직 하나임을 보장하고, 이 인스턴스에 대한 접근 방법을 제공한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q214",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "애자일 개발 방법론과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "빠른 릴리즈를 통해 문제점을 빠르게 파악할 수 있다.",
+        "정확한 결과 도출을 위해 계획 수립과 문서화에 중점을 둔다.",
+        "고객과의 의사소통을 중요하게 생각한다.",
+        "진화하는 요구사항을 수용하는데 적합하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q215",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "럼바우(Rumbaugh)의 객체지향 분석 기법 중 자료 흐름도(DFD)를 주로 이용하는 것은?",
+      "options": [
+        "기능 모델링",
+        "동적 모델링",
+        "객체 모델링",
+        "정적 모델링",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q216",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "순차 다이어그램(Sequence Diagram)과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "객체들의 상호 작용을 나타내기 위해 사용한다.",
+        "시간의 흐름에 따라 객체들이 주고 받는 메시지의 전달 과정을 강조한다.",
+        "동적 다이어그램보다는 정적 다이어그램에 가깝다.",
+        "교류 다이어그램(Interaction Diagram)의 한 종류로 볼 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q217",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "객체지향 분석 기법과 관련한 설명으로 틀린것은?",
+      "options": [
+        "동적 모델링 기법이 사용될 수 있다.",
+        "기능 중심으로 시스템을 파악하며 순차적인처리가 중요시되는 하향식(Top-down)방식으로 볼 수 있다.",
+        "데이터와 행위를 하나로 묶어 객체를 정의내리고 추상화시키는 작업이라 할 수 있다.",
+        "코드 재사용에 의한 프로그램 생산성 향상 및 요구에 따른 시스템의 쉬운 변경이 가능하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q218",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "대표적으로 DOS 및 Unix 등의 운영체제에서 조작을 위해 사용하던 것으로, 정해진 명령문자열을 입력하여 시스템을 조작하는 사용자인터페이스(User Interface)는?",
+      "options": [
+        "GUI(Graphical User Interface)",
+        "CLI(Command Line Interface)",
+        "CUI(Cell User Interface)",
+        "MUI(Mobile User Interface)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q219",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "분산 시스템에서의 미들웨어 (Middleware)와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "분산 시스템에서 다양한 부분을 관리하고 통신하며 데이터를 교환하게 해주는 소프트웨어로 볼 수 있다.",
+        "위치 투명성(Location Transparency)을 제공한다.",
+        "분산 시스템의 여러 컴포넌트가 요구하는 재사용가능한 서비스의 구현을 제공한다.",
+        "애플리케이션과 사용자 사이에서만 분산서비스를 제공한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q220",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "소프트웨어 아키텍처와 관련한 설명으로 틀린것은?",
+      "options": [
+        "파이프 필터 아키텍처에서 데이터는 파이프를 통해 양방향으로 흐르며, 필터 이동 시 오버헤드가 발생하지 않는다.",
+        "외부에서 인식할 수 있는 특성이 담긴 소프트웨어의 골격이 되는 기본 구조로 볼수 있다.",
+        "데이터 중심 아키텍처는 공유 데이터저장소를 통해 접근자 간의 통신이 이루어지므로 각 접근자의 수정과 확장이 용이하다.",
+        "이해 관계자들의 품질 요구사항을 반영하여 품질 속성을 결정한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q221",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "테스트를 목적에 따라 분류했을 때,강도(Stress) 테스트에 대한 설명으로 옳은것은?",
+      "options": [
+        "시스템에 고의로 실패를 유도하고 시스템이 정상적으로 복귀하는지 테스트한다.",
+        "시스템에 과다 정보량을 부과하여 과부하 시에도 시스템이 정상적으로 작동되는지를 테스트한다.",
+        "사용자의 이벤트에 시스템이 응답하는 시간,특정 시간 내에 처리하는 업무량, 사용자 요구에 시스템이 반응하는 속도 등을 테스트한다.",
+        "부당하고 불법적인 침입을 시도하여 보안시스템이 불법적인 침투를 잘 막아내는지 테스트한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q222",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 자료를 버블 정렬을 이용하여오름차순으로 정렬할 경우 PASS 3의 결과는?",
+      "options": [
+        "6, 3, 5, 7, 9",
+        "3, 5, 6, 7, 9",
+        "6, 7, 3, 5, 9",
+        "3, 5, 9, 6, 7",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m22.gif"
+    },
+    {
+      "id": "infopro_engineer_q223",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 그래프에서 정점 A를 선택하여 깊이우선탐색(DFS)으로 운행한 결과는?",
+      "options": [
+        "ABECDFG",
+        "ABECFDG",
+        "ABCDEFG",
+        "ABEFGCD",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m23.gif"
+    },
+    {
+      "id": "infopro_engineer_q224",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 설명에 부합하는 용어로 옳은 것은?",
+      "options": [
+        "통합 프로그램",
+        "저장소",
+        "모듈",
+        "데이터",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m24.gif"
+    },
+    {
+      "id": "infopro_engineer_q225",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "테스트 드라이버(Test Driver)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "시험대상 모듈을 호출하는 간이 소프트웨어이다.",
+        "필요에 따라 매개 변수를 전달하고 모듈을 수행한 후의 결과를 보여줄 수 있다.",
+        "상향식 통합 테스트에서 사용된다.",
+        "테스트 대상 모듈이 호출하는 하위 모듈의 역할을 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q226",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 중 선형 구조로만 묶인 것은?",
+      "options": [
+        "스택, 트리",
+        "큐, 데크",
+        "큐, 그래프",
+        "리스트, 그래프",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q227",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음은 스택의 자료 삭제 알고리즘이다. ⓐ에 들어 갈 내용으로 옳은 것은? (단, Top: 스택포인터, S: 스택의 이름)",
+      "options": [
+        "Overflow",
+        "Top = Top + 1",
+        "Underflow",
+        "Top = Top",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m27.gif"
+    },
+    {
+      "id": "infopro_engineer_q228",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "제품 소프트웨어의 사용자 매뉴얼 작성절차로 (가)~(다)와 [보기]의 기호를 바르게 연결한 것은?",
+      "options": [
+        "(가)-㉠, (나)-㉡, (다)-㉢",
+        "(가)-㉢, (나)-㉡, (다)-㉠",
+        "(가)-㉠, (나)-㉢, (다)-㉡",
+        "(가)-㉢, (나)-㉠, (다)-㉡",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m28.gif"
+    },
+    {
+      "id": "infopro_engineer_q229",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "순서가 A, B, C, D로 정해진 입력 자료를 스택에 입력한 후 출력한 결과로 불가능한 것은?",
+      "options": [
+        "D, C, B, A",
+        "B, C, D, A",
+        "C, B, A, D",
+        "D, B, C, A",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q230",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "소프트웨어 테스트에서 검증(Verification)과 확인 (Validation)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "소프트웨어 테스트에서 검증과 확인을 구별하면 찾고자 하는 결함 유형을 명확하게 하는 데 도움이 된다.",
+        "검증은 소프트웨어 개발 과정을 테스트하는 것이고, 확인은 소프트웨어 결과를 테스트 하는 것이다.",
+        "검증은 작업 제품이 요구 명세의 기능, 비기능 요구사항을 얼마나 잘 준수하는지 측정하는 작업이다.",
+        "검증은 작업 제품이 사용자의 요구에 적합한지 측정하며, 확인은 작업 제품이 개발자의 기대를 충족시키는지를 측정한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q231",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "개별 모듈을 시험하는 것으로 모듈이 정확하게 구현되었는지, 예정한 기능이 제대로 수행되는지를 점검하는 것이 주요 목적인 테스트는?",
+      "options": [
+        "통합 테스트(Integration Test)",
+        "단위 테스트(Unit Test)",
+        "시스템 테스트(System Test)",
+        "인수 테스트(Acceptance Test)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q232",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "형상 관리의 개념과 절차에 대한 설명으로 틀린 것은?",
+      "options": [
+        "형상 식별은 형상 관리 계획을 근거로 형상관리의 대상이 무엇인지 식별하는 과정이다.",
+        "형상 관리를 통해 가시성과 추적성을 보장함으로써 소프트웨어의 생산성과 품질을 높일 수 있다.",
+        "형상 통제 과정에서는 형상 목록의 변경 요구를 즉시 수용 및 반영해야 한다.",
+        "형상 감사는 형상 관리 계획대로 형상관리가 진행되고 있는지, 형상 항목의 변경이 요구 사항에 맞도록 제대로 이뤄졌는지 등을 살펴보는 활동이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q233",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "소스코드 정적 분석(Static Analysis)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "소스 코드를 실행시키지 않고 분석한다.",
+        "코드에 있는 오류나 잠재적인 오류를 찾아내기 위한 활동이다.",
+        "하드웨어적인 방법으로만 코드 분석이 가능하다.",
+        "자료 흐름이나 논리 흐름을 분석하여 비정상적인 패턴을 찾을 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q234",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "소프트웨어 개발 활동을 수행함에 있어서 시스템이 고장(Failure)을 일으키게 하며, 오류(Error)가 있는 경우 발생하는 것은?",
+      "options": [
+        "Fault",
+        "Testcase",
+        "Mistake",
+        "Inspection",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q235",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "코드의 간결성을 유지하기 위해 사용되는 지침으로 틀린 것은?",
+      "options": [
+        "공백을 이용하여 실행문 그룹과 주석을 명확히 구분한다.",
+        "복잡한 논리식과 산술식은 괄호와 들여쓰기(Indentation)를 통해 명확히 표현한다.",
+        "빈 줄을 사용하여 선언부와 구현부를 구별한다.",
+        "한 줄에 최대한 많은 문장을 코딩한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q236",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "소프트웨어 품질 목표 중 하나 이상의 하드웨어 환경에서 운용되기 위해 쉽게 수정될 수 있는 시스템 능력을 의미하는 것은?",
+      "options": [
+        "Portability",
+        "Efficiency",
+        "Usability",
+        "Correctness",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q237",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 중 최악의 경우 검색 효율이 가장 나쁜트리 구조는?",
+      "options": [
+        "이진 탐색트리",
+        "AVL 트리",
+        "2-3 트리",
+        "레드-블랙 트리",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q238",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 트리에 대한 중위 순회 운행 결과는?",
+      "options": [
+        "ABDCEF",
+        "ABCDEF",
+        "DBECFA",
+        "DBAECF",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m38.gif"
+    },
+    {
+      "id": "infopro_engineer_q239",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "테스트 케이스 자동 생성 도구를 이용하여 테스트 데이터를 찾아내는 방법이 아닌 것은?",
+      "options": [
+        "스터브(Stub)와 드라이버(Driver)",
+        "입력 도메인 분석",
+        "랜덤(Random) 테스트",
+        "자료 흐름도",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q240",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "저작권 관리 구성 요소 중 패키저(Packager)의 주요 역할로 옳은 것은?",
+      "options": [
+        "콘텐츠를 제공하는 저작권자를 의미한다.",
+        "콘텐츠를 메타 데이터와 함께 배포 가능한 단위로 묶는다.",
+        "라이선스를 발급하고 관리한다.",
+        "배포된 콘텐츠의 이용 권한을 통제한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q241",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "데이터베이스의 무결성 규정(Integrity Rule)과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "무결성 규정에는 데이터가 만족해야 될 제약 조건, 규정을 참조할 때 사용하는 식별자 등의 요소가 포함될 수 있다.",
+        "무결성 규정의 대상으로는 도메인, 키, 종속성 등이 있다.",
+        "정식으로 허가 받은 사용자가 아닌 불법적인 사용자에 의한 갱신으로부터 데이터베이스를 보호하기 위한 규정이다.",
+        "릴레이션 무결성 규정(Relation Integrity Rules)은 릴레이션을 조작하는 과정에서의 의미적 관계(Semantic Relationship)을 명세한 것이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q242",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "데이터베이스에서 하나의 논리적 기능을 수행하기 위한 작업의 단위 또는 한꺼번에 모두 수행되어야 할 일련의 연산들을 의미하는 것은?",
+      "options": [
+        "트랜잭션",
+        "뷰",
+        "튜플",
+        "카디널리티",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q243",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 두 릴레이션 Rl과 R2의 카티션 프로덕트(cartesian product) 수행 결과는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m43.gif"
+    },
+    {
+      "id": "infopro_engineer_q244",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "물리적 데이터베이스 설계에 대한 설명으로 거리가 먼 것은?",
+      "options": [
+        "물리적 설계의 목적은 효율적인 방법으로 데이터를 저장하는 것이다.",
+        "트랜잭션 처리량과 응답시간, 디스크 용량 등을 고려해야 한다.",
+        "저장 레코드의 형식, 순서, 접근 경로와 같은 정보를 사용하여 설계한다.",
+        "트랜잭션의 인터페이스를 설계하며, 데이터 타입 및 데이터 타입들 간의 관계로 표현한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q245",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 중 기본키는 NULL 값을 가져서는 안되며, 릴레이션 내에 오직 하나의 값만 존재해야 한다는 조건을 무엇이라 하는가?",
+      "options": [
+        "개체 무결성 제약조건",
+        "참조 무결성 제약조건",
+        "도메인 무결성 제약조건",
+        "속성 무결성 제약조건",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q246",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "SQL문에서 HAVING을 사용할 수 있는 절은?",
+      "options": [
+        "LIKE 절",
+        "WHERE 절",
+        "GROUP BY 절",
+        "ORDER BY 절",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q247",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "관계 데이터베이스에 있어서 관계 대수 연산이 아닌 것은?",
+      "options": [
+        "디비전(Division)",
+        "프로젝트(Project)",
+        "조인(Join)",
+        "포크(Fork)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q248",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "학적 테이블에서 전화번호가 Null값이 아닌 학생명을 모두 검색할 때, SQL 구문으로 옳은 것은?",
+      "options": [
+        "SELECT 학생명 FROM 07 WHERE 전화번호 DON'T NULL;",
+        "SELECT 학생명 FROM WHERE 전화번호 != NOT NULL;",
+        "SELECT 학생명 FROM 학적 WHERE 전화번호 IS NOT NULL;",
+        "SELECT 학생명 FROM WHERE 전화번호 IS NULL;",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q249",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "관계형 데이터베이스에서 다음 설명에 해당하는 키(Key)는?",
+      "options": [
+        "후보키",
+        "대체키",
+        "슈퍼키",
+        "외래키",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m49.gif"
+    },
+    {
+      "id": "infopro_engineer_q250",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "데이터베이스에서 인덱스(Index)와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "인덱스의 기본 목적은 검색 성능을 최적화하는 것으로 볼 수 있다.",
+        "B-트리 인덱스는 분기를 목적으로 하는 Branch Block을 가지고 있다.",
+        "BETWEEN 등 범위(Range) 검색에 활용될 수 있다.",
+        "시스템이 자동으로 생성하여 사용자가 변경할 수 없다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q251",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "로킹 단위(Locking Granularity)에 대한 설명으로 옳은 것은?",
+      "options": [
+        "로킹 단위가 크면 병행성 수준이 낮아진다.",
+        "로킹 단위가 크면 병행 제어 기법이 복잡해진다.",
+        "로킹 단위가 작으면 로크(lock)의 수가 적어진다.",
+        "로킹은 파일 단위로 이루어지며, 레코드와 필드는 로킹 단위가 될 수 없다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q252",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "관계 대수에 대한 설명으로 틀린 것은?",
+      "options": [
+        "원하는 릴레이션을 정의하는 방법을 제공하며 비절차적 언어이다.",
+        "릴레이션 조작을 위한 연산의 집합으로 피연산자와 결과가 모두 릴레이션이다.",
+        "일반 집합 연산과 순수 관계 연산으로 구분된다.",
+        "질의에 대한 해를 구하기 위해 수행해야 할 연산의 순서를 명시한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q253",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "데이터의 중복으로 인하여 관계연산을 처리할 때 예기치 못한 곤란한 현상이 발생하는 것을 무엇이라 하는가?",
+      "options": [
+        "이상(Anomaly)",
+        "제한 (Restriction)",
+        "종속성(Dependency)",
+        "변환(Translation)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q254",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 중 SQL에서의 DDL 문이 아닌 것은?",
+      "options": [
+        "CREATE",
+        "DELETE",
+        "ALTER",
+        "DROP",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q255",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "정규화에 대한 설명으로 적절하지 않은 것은?",
+      "options": [
+        "데이터베이스의 개념적 설계 단계 이전에 수행한다.",
+        "데이터 구조의 안정성을 최대화한다.",
+        "중복을 배제하여 삽입, 삭제, 갱신 이상의 발생을 방지한다.",
+        "데이터 삽입 시 릴레이션을 재구성할 필요성을 줄인다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q256",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "트랜잭션의 주요 특성 중 하나로 둘 이상의 트랜잭션이 동시에 병행 실행되는 경우 어느 하나의 트랜잭션 실행 중에 다른 트랜잭션의 연산이 끼어들 수 없음을 의미하는 것은?",
+      "options": [
+        "Log",
+        "Consistency",
+        "Isolation",
+        "Durability",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q257",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "SQL의 논리 연산자가 아닌 것은?",
+      "options": [
+        "AND",
+        "OTHER",
+        "OR",
+        "NOT",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q258",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "동시성 제어를 위한 직렬화 기법으로 트랜잭션 간의 처리 순서를 미리 정하는 방법은?",
+      "options": [
+        "로킹 기법",
+        "타임스탬프 기법",
+        "검증 기법",
+        "배타 로크 기법",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q259",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "이전 단계의 정규형을 만족하면서 후보키를 통하지 않는 조인 종속(JD : Join Dependency)을 제거해야 만족하는 정규형은?",
+      "options": [
+        "제3정규형",
+        "제4정규형",
+        "제5정규형",
+        "제6정규형",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q260",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "어떤 릴레이션 R에서 X와 Y를 각각 R의 애트리뷰트 집합의 부분 집합이라고 할 경우 애트리뷰트 X의 값 각각에 대해 시간에 관계없이 항상 애트리뷰트 Y의 값이 오직 하나만 연관되어 있을 때 Y는 X에 함수 종속이라고 한다. 이 함수 종속의 표기로 옳은 것은?",
+      "options": [
+        "Y → X",
+        "Y ⊂ X",
+        "X → Y",
+        "X ⊂ Y",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q261",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "모듈 내 구성 요소들이 서로 다른 기능을 같은 시간대에 함께 실행하는 경우의 응집도(Cohesion)는?",
+      "options": [
+        "Temporal Cohesion",
+        "Logical Cohesion",
+        "Coincidental Cohesion",
+        "Sequential Cohesion",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q262",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "오류 제어에 사용되는 자동반복 요청방식(ARQ)이 아닌 것은?",
+      "options": [
+        "Stop-and-wait ARQ",
+        "Go-back-N ARQ",
+        "Selective-Repeat ARQ",
+        "Non-Acknowledge ARQ",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q263",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 파이썬(Python) 프로그램이 실행되었을 때의 결과는?",
+      "options": [
+        "45",
+        "55",
+        "66",
+        "78",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m63.gif"
+    },
+    {
+      "id": "infopro_engineer_q264",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 C언어 프로그램이 실행되었을 때의 결과는?",
+      "options": [
+        "nation",
+        "nationalter",
+        "alter",
+        "alternation",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m64.gif"
+    },
+    {
+      "id": "infopro_engineer_q265",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "JAVA에서 힙(Heap)에 남아있으나 변수가 가지고 있던 참조값을 잃거나 변수 자체가 없어짐으로써 더 이상 사용되지 않는 객체를 제거해주는 역할을 하는 모듈은?",
+      "options": [
+        "Heap Collector",
+        "Garbage Collector",
+        "Memory Collector",
+        "Variable Collector",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q266",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 C언어 프로그램이 실행되었을 때의 결과는?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m66.gif"
+    },
+    {
+      "id": "infopro_engineer_q267",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 중 JAVA에서 우선순위가 가장 낮은 연산자는?",
+      "options": [
+        "--",
+        "%",
+        "&",
+        "=",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q268",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "사용자가 요청한 디스크 입·출력 내용이 다음과 같은 순서로 큐에 들어 있을 때 SSTF 스케쥴링을 사용한 경우의 처리 순서는? (단, 현재 헤드 위치는 53 이고, 제일 안쪽이 1번, 바깥쪽이 200번 트랙이다.)",
+      "options": [
+        "53-65-67-37-14-98-122-124-183",
+        "53-98-183-37-122-14-124-65-67",
+        "53-37-14-65-67-98-122-124-183",
+        "53-67-65-124-14-122-37-183-98",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m68.gif"
+    },
+    {
+      "id": "infopro_engineer_q269",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "192.168.1.0/24 네트워크를 FLSM 방식을 이용하여 4개의 Subnet으로 나누고 IP Subnet-zero를 적용했다. 이 때 Subnetting 된 네트워크 중 4번째 네트워크의 4번째 사용가능한 IP는 무엇인가?",
+      "options": [
+        "192.168.1.192",
+        "192.168.1.195",
+        "192.168.1.196",
+        "192.168.1.198",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q270",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "C Class에 속하는 IP address는?",
+      "options": [
+        "200.168.30.1",
+        "10.3.2.1",
+        "225.2.4.1",
+        "172.16.98.3",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q271",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 C언어 프로그램이 실행되었을 때의 결과는?",
+      "options": [
+        "0",
+        "4",
+        "8",
+        "12",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m71.gif"
+    },
+    {
+      "id": "infopro_engineer_q272",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "귀도 반 로섬(Guido van Rossum)이 발표한 언어로 인터프리터 방식이자 객체지향적이며, 배우기 쉽고 이식성이 좋은 것이 특징인 스크립트 언어는?",
+      "options": [
+        "C++",
+        "JAVA",
+        "C#",
+        "Python",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q273",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 JAVA 프로그램이 실행되었을 때의 결과를 쓰시오.",
+      "options": [
+        "13",
+        "21",
+        "34",
+        "55",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m73.gif"
+    },
+    {
+      "id": "infopro_engineer_q274",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "프로세스와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "프로세스가 준비 상태에서 프로세서가 배당되어 실행 상태로 변화하는 것을 디스패치(Dispatch)라고 한다.",
+        "프로세스 제어 블록(PCB, Process Control Block)은 프로세스 식별자, 프로세스 상태 등의 정보로 구성된다.",
+        "이전 프로세스의 상태 레지스터 내용을 보관하고 다른 프로세스의 레지스터를 적재하는 과정을 문맥 교환(Context Switching)이라고 한다.",
+        "프로세스는 스레드(Thread) 내에서 실행되는 흐름의 단위이며, 스레드와 달리 주소 공간에 실행 스택(Stack)이 없다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q275",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "모듈의 독립성을 높이기 위한 결합도(Coupling)와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "오류가 발생했을 때 전파되어 다른 오류의 원인이 되는 파문 효과(Ripple Effect)를 최소화해야 한다.",
+        "인터페이스가 정확히 설정되어 있지 않을 경우 불필요한 인터페이스가 나타나 모듈 사이의 의존도는 높아지고 결합도가 증가한다.",
+        "모듈들이 변수를 공유하여 사용하게 하거나 제어 정보를 교류하게 함으로써 결합도를 낮추어야 한다.",
+        "다른 모듈과 데이터 교류가 필요한 경우 전역변수(Global Variable)보다는 매개변수(Parameter)를 사용하는 것이 결합도를 낮추는 데 도움이 된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q276",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "TCP헤더와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "순서번호(Sequence Number)는 전달하는 바이트마다 번호가 부여된다.",
+        "수신번호확인(Acknowledgement Number)은 상대편 호스트에서 받으려는 바이트의 번호를 정의한다.",
+        "체크섬(Checksum)은 데이터를 포함한 세그먼트의 오류를 검사한다.",
+        "윈도우 크기는 송수신 측의 버퍼 크기로 최대크기는 32767bit 이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q277",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "모듈화(Modularity)와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "소프트웨어의 모듈은 프로그래밍 언어에서 Subroutine, Function 등으로 표현될 수 있다.",
+        "모듈의 수가 증가하면 상대적으로 각 모듈의 크기가 커지며, 모듈 사이의 상호교류가 감소하여 과부하(Overload) 현상이 나타난다.",
+        "모듈화는 시스템을 지능적으로 관리할 수 있도록 해주며, 복잡도 문제를 해결하는 데 도움을 준다.",
+        "모듈화는 시스템의 유지보수와 수정을 용이하게 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q278",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 중 페이지 교체(Page Replacement)알고리즘이 아닌 것은?",
+      "options": [
+        "FIFO(First-In-First-Out)",
+        "LUF(Least Used First)",
+        "Optimal",
+        "LRU(Least Recently Used)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q279",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "C언어에서의 변수 선언으로 틀린 것은?",
+      "options": [
+        "int else;",
+        "int Test2;",
+        "int pc;",
+        "int True;",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q280",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "파일 디스크립터(File Descriptor)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "파일 관리를 위해 시스템이 필요로 하는 정보를 가지고 있다.",
+        "보조기억장치에 저장되어 있다가 파일이 개방(open)되면 주기억장치로 이동된다.",
+        "사용자가 파일 디스크립터를 직접 참조할 수 있다.",
+        "파일 제어 블록(File Control Block)이라고도 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q281",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "침입탐지 시스템(IDS : Intrusion Detection System)과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "이상 탐지 기법(Anomaly Detection)은 Signature Base나 Knowledge Base라고도 불리며 이미 발견되고 정립된 공격 패턴을 입력해두었다가 탐지 및 차단한다.",
+        "HIDS(Host-Based Intrusion Detection)는 운영체제에 설정된 사용자 계정에 따라 어떤 사용자가 어떤 접근을 시도하고 어떤 작업을 했는지에 대한 기록을 남기고 추적한다.",
+        "NIDS(Network-Based Intrusion Detection System)로는 대표적으로 Snort가 있다.",
+        "외부 인터넷에 서비스를 제공하는 서버가 위치하는 네트워크인 DMZ(Demilitarized Zone)에는 IDS가 설치될 수 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q282",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "정보 시스템 내에서 어떤 주체가 특정 개체에 접근하려 할 때 양쪽의 보안 레이블(Security Label)에 기초하여 높은 보안 수준을 요구하는 정보(객체)가 낮은 보안 수준의 주체에게 노출되지 않도록 하는 접근 제어 방법은?",
+      "options": [
+        "Mandatory Access Control",
+        "User Access Control",
+        "Discretionary Access Control",
+        "Data-Label Access Control",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q283",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "구글의 구글 브레인 팀이 제작하여 공개한 기계 학습(Machine learning)을 위한 오픈소스 소프트웨어 라이브러리는?",
+      "options": [
+        "타조(Tajo)",
+        "원 세그(One Seg)",
+        "포스퀘어(Foursquare)",
+        "텐서플로(TensorFlow)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q284",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "국내 IT 서비스 경쟁력 강화를 목표로 개발되었으며 인프라 제어 및 관리 환경, 실행 환경, 개발 환경, 서비스 환경, 운영환경으로 구성되어 있는 개방형 클라우드 컴퓨팅 플랫폼은?",
+      "options": [
+        "N20S",
+        "PaaS-TA",
+        "KAWS",
+        "Metaverse",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q285",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "정보 보안을 위한 접근 제어(Access Control)과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "적절한 권한을 가진 인가자만 특정 시스템이나 정보에 접근할 수 있도록 통제하는 것이다.",
+        "시스템 및 네트워크에 대한 접근 제어의 가장 기본적인 수단은 IP와 서비스 포트로 볼 수 있다.",
+        "DBMS에 보안 정책을 적용하는 도구인 XDMCP를 통해 데이터베이스에 대한 접근제어를 수행할 수 있다.",
+        "네트워크 장비에서 수행하는 IP에 대한 접근 제어로는 관리 인터페이스의 접근제어와 ACL(Access Control List) 등 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q286",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "소프트웨어 개발 프레임워크와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "반제품 상태의 제품을 토대로 도메인별로 필요한 서비스 컴포넌트를 사용하여 재사용성 확대와 성능을 보장 받을 수 있게하는 개발 소프트웨어이다.",
+        "개발해야 할 애플리케이션의 일부분이 이미구현되어 있어 동일한 로직 반복을 줄일 수있다.",
+        "라이브러리와 달리 사용자 코드가 직접호출하여 사용하기 때문에 소프트웨어 개발프레임워크가 직접 코드의 흐름을 제어할수 없다.",
+        "생산성 향상과 유지보수성 향상 등의 장점이 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q287",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "물리적 배치와 상관없이 논리적으로 LAN을구성하여 Broadcast Domain을 구분할 수있게 해주는 기술로 접속된 장비들의 성능향상 및 보안성 증대 효과가 있는 것은?",
+      "options": [
+        "VLAN",
+        "STP",
+        "L2AN",
+        "ARP",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q288",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "SQL Injection 공격과 관련한 설명으로 틀린것은?",
+      "options": [
+        "SQL Injection은 임의로 작성한 SQL 구문을 애플리케이션에 삽입하는 공격방식이다.",
+        "SQL Injection 취약점이 발생하는 곳은 주로웹 애플리케이션과 데이터베이스가 연동되는 부분이다.",
+        "DBMS의 종류와 관계없이 SQL Injection공격 기법은 모두 동일하다.",
+        "로그인과 같이 웹에서 사용자의 입력 값을 받아 데이터베이스 SQL문으로 데이터를요청하는 경우 SQL Injection을 수행할 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q289",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "비대칭 암호화 방식으로 소수를 활용한암호화 알고리즘은?",
+      "options": [
+        "DES",
+        "AES",
+        "SMT",
+        "RSA",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q290",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음에서 설명하는 IT 스토리지 기술은?",
+      "options": [
+        "Software Defined Storage",
+        "Distribution Oriented Storage",
+        "Network Architected Storage",
+        "Systematic Network Storage",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m90.gif"
+    },
+    {
+      "id": "infopro_engineer_q291",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "Cocomo model 중 기관 내부에서 개발된 중소규모의 소프트웨어로 일괄 자료 처리나 과학기술계산용, 비즈니스 자료 처리용으로 5만 라인이하의 소프트웨어를 개발하는 유형은?",
+      "options": [
+        "Embeded",
+        "Organic",
+        "Semi-detached",
+        "Semi-embeded",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q292",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 내용이 설명하는 것은?",
+      "options": [
+        "Format String",
+        "Ransomware",
+        "Buffer overflow",
+        "Adware",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210814/iz20210814m92.gif"
+    },
+    {
+      "id": "infopro_engineer_q293",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "생명주기 모형 중 가장 오래된 모형으로 많은적용 사례가 있지만 요구사항의 변경이어렵고 각 단계의 결과가 확인 되어야 다음단계로 넘어갈 수 있는 선형 순차적, 고전적생명 주기 모형이라고도 하는 것은?",
+      "options": [
+        "Waterfall Model",
+        "Prototype Model",
+        "Cocomo Model",
+        "Spiral Model",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q294",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "소프트웨어 생명주기 모형 중 Spiral Model에 대한 설명으로 틀린 것은?",
+      "options": [
+        "비교적 대규모 시스템에 적합하다.",
+        "개발 순서는 계획 및 정의, 위험 분석, 공학적 개발, 고객 평가 순으로 진행된다.",
+        "소프트웨어를 개발하면서 발생할 수 있는 위험을 관리하고 최소화하는 것을 목적으로 한다.",
+        "계획, 설계, 개발, 평가의 개발 주기가 한번만 수행된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q295",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "특정 사이트에 매우 많은 ICMP Echo를 보내면, 이에 대한 응답(Respond)을 하기 위해 시스템 자원을 모두 사용해버려 시스템이 정상적으로 동작하지 못하도록 하는 공격방법은?",
+      "options": [
+        "Role-Based Access Control",
+        "Ping Flood",
+        "Brute-Force",
+        "Trojan Horses",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q296",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "TCP/IP 기반 네트워크에서 동작하는 발행-구독 기반의 메시징 프로토콜로 최근 IoT 환경에서 자주 사용되고 있는 프로토콜은?",
+      "options": [
+        "MLFQ",
+        "MQTT",
+        "Zigbee",
+        "MTSP",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q297",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "시스템이 몇 대가 되어도 하나의 시스템에서 인증에 성공하면 다른 시스템에 대한 접근권한도 얻는 시스템을 의미하는 것은?",
+      "options": [
+        "SOS",
+        "SBO",
+        "SSO",
+        "SOA",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q298",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "시스템에 저장되는 패스워드들은 Hash 또는 암호화 알고리즘의 결과 값으로 저장된다. 이때 암호공격을 막기 위해 똑같은 패스워드들이 다른 암호 값으로 저장되도록 추가되는 값을 의미하는 것은?",
+      "options": [
+        "Pass flag",
+        "Bucket",
+        "Opcode",
+        "Salt",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q299",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "S/W 각 기능의 원시 코드 라인수의 비관치, 낙관치, 기대치를 측정하여 예측치를 구하고 이를 이용하여 비용을 산정하는 기법은?",
+      "options": [
+        "Effort Per Task기법",
+        "전문가 감정 기법",
+        "델파이기법",
+        "LOC기법",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q300",
+      "subject": "정보처리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "오픈소스 웹 애플리케이션 보안 프로젝트로서 주로 웹을 통한 정보 유출, 악성 파일 및 스크립트, 보안 취약점 등을 연구하는 곳은?",
+      "options": [
+        "WWW",
+        "OWASP",
+        "WBSEC",
+        "ITU",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q301",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "시스템의 구성요소로 볼 수 없는 것은?",
+      "options": [
+        "Process",
+        "Feedback",
+        "Maintenance",
+        "Control",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q302",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "유스케이스(Usecase)에 대한 설명 중 옳은 것은?",
+      "options": [
+        "유스케이스 다이어그램은 개발자의 요구를 추출하고 분석하기 위해 주로 사용한다.",
+        "액터는 대상 시스템과 상호 작용하는 사람이나 다른 시스템에 의한 역할이다.",
+        "사용자 액터는 본 시스템과 데이터를 주고받는 연동 시스템을 의미한다.",
+        "연동의 개념은 일방적으로 데이터를 파일이나 정해진 형식으로 넘겨주는 것을 의미한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q303",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "요구사항 개발 프로세스의 순서로 옳은 것은?",
+      "options": [
+        "㉠ - ㉡ - ㉢ - ㉣",
+        "㉠ - ㉢ - ㉡ - ㉣",
+        "㉠ - ㉣ - ㉡ - ㉢",
+        "㉠ - ㉡ - ㉣ - ㉢",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m3.gif"
+    },
+    {
+      "id": "infopro_engineer_q304",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "객체지향 기법에서 같은 클래스에 속한 각각의 객체를 의미하는 것은?",
+      "options": [
+        "instance",
+        "message",
+        "method",
+        "module",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q305",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "객체지향 설계에서 객체가 가지고 있는 속성과 오퍼레이션의 일부를 감추어서 객체의 외부에서는 접근이 불가능하게 하는 개념은? (문제 오류로 가답안 발표시 3번으로 발표되었지만 확정 답안 발표시 2, 3번이 정답처리 되었습니다. 여기서는 가답안인 3번을 누르면 정답 처리 됩니다.)",
+      "options": [
+        "조직화(Organizing)",
+        "캡슐화(Encapsulation)",
+        "정보은닉(Infomation Hiding)",
+        "구조화(Structuralization)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q306",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "GoF (Gangs of Four) 디자인 패턴에 대한 설명으로 틀린 것은?",
+      "options": [
+        "factory method pattern은 상위클래스에서 객체를 생성하는 인터페이스를 정의하고, 하위클래스에서 인스턴스를 생성하도록 하는 방식이다.",
+        "prototype pattern은 prototype을 먼저 생성하고 인스턴스를 복제하여 사용하는 구조이다.",
+        "bridge pattern은 기존에 구현되어 있는 클래스에 기능 발생 시 기존 클래스를 재사용할 수 있도록 중간에서 맞춰주는 역할을 한다.",
+        "mediator pattern은 객체간의 통제와 지시의 역할을 하는 중재자를 두어 객체지향의 목표를 달성하게 해준다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q307",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "요구사항 분석이 어려운 이유가 아닌 것은?",
+      "options": [
+        "개발자와 사용자 간의 지식이나 표현의 차이가 커서 상호 이해가 쉽지 않다.",
+        "사용자의 요구는 예외가 거의 없어 열거와 구조화가 어렵지 않다.",
+        "사용자의 요구사항이 모호하고 불명확하다.",
+        "소프트웨어 개발 과정 중에 요구사항이 계속 변할 수 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q308",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "소프트웨어 아키텍처 설계에서 시스템 품질속성이 아닌 것은?",
+      "options": [
+        "가용성 (Availability)",
+        "독립성 (Isolation)",
+        "변경 용이성 (Modifiability)",
+        "사용성(Usability)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q309",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 설명에 해당하는 시스템으로 옳은 것은?",
+      "options": [
+        "연계 서버",
+        "중계 서버",
+        "송신 시스템",
+        "수신 시스템",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m9.gif"
+    },
+    {
+      "id": "infopro_engineer_q310",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "CASE(Computer-Aided Software Engineering)의 원천 기술이 아닌 것은?",
+      "options": [
+        "구조적 기법",
+        "프로토타이핑 기술",
+        "정보 저장소 기술",
+        "일괄처리 기술",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q311",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "객체에게 어떤 행위를 하도록 지시하는 명령은?",
+      "options": [
+        "Class",
+        "Package",
+        "Object",
+        "Message",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q312",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "서브시스템이 입력 데이터를 받아 처리하고 결과를 다른 시스템에 보내는 작업이 반복되는 아키텍처 스타일은?",
+      "options": [
+        "클라이언트 서버 구조",
+        "계층 구조",
+        "MVC 구조",
+        "파이프 필터 구조",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q313",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "럼바우(Rumbaugh)의 객체지향 분석에서 사용하는 분석 활동으로 옳은 것은?",
+      "options": [
+        "객체 모델링, 동적 모델링, 정적 모델링",
+        "객체 모델링, 동적 모델링, 기능 모델링",
+        "동적 모델링, 기능 모델링, 정적 모델링",
+        "정적 모델링, 객체 모델링, 기능 모델링",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q314",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "UML 다이어그램이 아닌 것은?",
+      "options": [
+        "액티비티 다이어그램(Activity diagram)",
+        "절차 다이어그램(Procedural diagram)",
+        "클래스 다이어그램(Class diagram)",
+        "시퀀스 다이어그램(Sequence diagram)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q315",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "UML 모델에서 한 객체가 다른 객체에게 오퍼레이션을 수행하도록 지정하는 의미적 관계로 옳은 것은?",
+      "options": [
+        "Dependency",
+        "Realization",
+        "Generalization",
+        "Association",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q316",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 상위 CASE 도구가 지원하는 주요기능으로 볼 수 없는 것은?",
+      "options": [
+        "모델들 사이의 모순검사 기능",
+        "전체 소스코드 생성 기능",
+        "모델의 오류검증 기능",
+        "자료흐름도 작성 기능",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q317",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "요구사항 관리 도구의 필요성으로 틀린 것은?",
+      "options": [
+        "요구사항 변경으로 인한 비용 편익 분석",
+        "기존 시스템과 신규 시스템의 성능 비교",
+        "요구사항 변경의 추적",
+        "요구사항 변경에 따른 영향 평가",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q318",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "애자일 개발 방법론이 아닌 것은?",
+      "options": [
+        "스크럼(Scrum)",
+        "익스트림 프로그래밍(XP, eXtreme Programming)",
+        "기능 주도 개발(FDD, Feature Driven Development)",
+        "하둡(Hadoop)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q319",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "GoF(Gangs of Four) 디자인 패턴 중 생성패턴으로 옳은 것은?",
+      "options": [
+        "singleton pattern",
+        "adapter pattern",
+        "decorator pattern",
+        "state pattern",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q320",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "사용자 인터페이스(UI)의 특징으로 틀린 것은?",
+      "options": [
+        "구현하고자 하는 결과의 오류를 최소화한다.",
+        "사용자의 편의성을 높임으로써 작업시간을 증가시킨다.",
+        "막연한 작업 기능에 대해 구체적인 방법을 제시하여 준다.",
+        "사용자 중심의 상호 작용이 되도록 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q321",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "힙 정렬(Heap Sort)에 대한 설명으로 틀린것은?",
+      "options": [
+        "정렬할 입력 레코드들로 힙을 구성하고 가장 큰 키 값을 갖는 루트 노드를 제거하는 과정을 반복하여 정렬하는 기법이다.",
+        "평균 수행 시간은 O(nlog2n)이다.",
+        "완전 이진트리(complete binary tree)로 입력자료의 레코드를 구성한다.",
+        "최악의 수행 시간은 O(2n4)이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q322",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 단위 테스트를 통해 발견할 수 있는 오류가 아닌 것은?",
+      "options": [
+        "알고리즘 오류에 따른 원치 않는 결과",
+        "탈출구가 없는 반복문의 사용",
+        "모듈 간의 비정상적 상호작용으로 인한 원치 않는 결과",
+        "틀린 계산 수식에 의한 잘못된 결과",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q323",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 설명의 소프트웨어 테스트의 기본원칙은?",
+      "options": [
+        "살충제 패러독스",
+        "결함 집중",
+        "오류 부재의 궤변",
+        "완벽한 테스팅은 불가능",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m23.gif"
+    },
+    {
+      "id": "infopro_engineer_q324",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "버전 관리 항목 중 저장소에 새로운 버전의 파일로 갱신하는 것을 의미하는 용어는?",
+      "options": [
+        "형상 감사(Configuration Audit)",
+        "롤백 (Rollback)",
+        "단위 테스트(Unit Test)",
+        "체크인(Check-In)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q325",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "소프트웨어 테스트와 관련한 설명으로 틀린것은?",
+      "options": [
+        "화이트 박스 테스트는 모듈의 논리적인 구조를 체계적으로 점검할 수 있다.",
+        "블랙박스 테스트는 프로그램의 구조를 고려하지 않는다.",
+        "테스트 케이스에는 일반적으로 시험 조건,테스트 데이터, 예상 결과가 포함되어야한다.",
+        "화이트박스 테스트에서 기본 경로(BasisPath)란 흐름 그래프의 시작 노드에서 종료노드까지의 서로 독립된 경로로 싸이클을 허용하지 않는 경로를 말한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q326",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "애플리케이션의 처리량, 응답시간, 경과시간, 자원사용률에 대해 가상의 사용자를 생성하고 테스트를 수행함으로써 성능 목표를 달성하였는지를 확인하는 테스트 자동화 도구는?",
+      "options": [
+        "명세 기반 테스트 설계 도구",
+        "코드 기반 테스트 설계 도구",
+        "기능 테스트 수행 도구",
+        "성능 테스트 도구",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q327",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "소프트웨어 형상 관리에 대한 설명으로 거리가 먼 것은?",
+      "options": [
+        "소프트웨어에 가해지는 변경을 제어하고 관리한다.",
+        "프로젝트 계획, 분석서, 설계서, 프로그램, 테스트 케이스 모두 관리 대상이다.",
+        "대표적인 형상관리 도구로 Ant, Maven, Gradle 등이 있다.",
+        "유지 보수 단계뿐만 아니라 개발 단계에도 적용할 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q328",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "디지털 저작권 관리(DRM) 구성 요소가 아닌 것은?",
+      "options": [
+        "Dataware house",
+        "DRM Controller",
+        "Packager",
+        "Contents Distributor",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q329",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 설명의 소프트웨어 버전 관리도구 방식은?",
+      "options": [
+        "단일 저장소 방식",
+        "분산 저장소 방식",
+        "공유폴더 방식",
+        "클라이언트·서버 방식",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m29.gif"
+    },
+    {
+      "id": "infopro_engineer_q330",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "블랙박스 테스트를 이용하여 발견할 수 있는 오류가 아닌 것은?",
+      "options": [
+        "비정상적인 자료를 입력해도 오류 처리를 수행하지 않는 경우",
+        "정상적인 자료를 입력해도 요구된 기능이 제대로 수행되지 않는 경우",
+        "반복 조건을 만족하는데도 루프 내의 문장이 수행되지 않는 경우",
+        "경계값을 입력할 경우 요구된 출력 결과가 나오지 않는 경우",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q331",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 자료를 버블 정렬을 이용하여 오름차순으로 정렬할 경우 Pass 2의 결과는?",
+      "options": [
+        "3, 5, 6, 7, 9",
+        "6, 7, 3, 5, 9",
+        "3, 5, 9, 6, 7",
+        "6, 3, 5, 7, 9",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m31.gif"
+    },
+    {
+      "id": "infopro_engineer_q332",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "정렬된 N개의 데이터를 처리하는 데 O(Nlog2N)의 시간이 소요되는 정렬 알고리즘은?",
+      "options": [
+        "합병정렬",
+        "버블정렬",
+        "선택정렬",
+        "삽입정렬",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q333",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 postfix로 표현된 연산식의 연산 결과로 옳은 것은?",
+      "options": [
+        "35",
+        "42",
+        "81",
+        "360",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m33.gif"
+    },
+    {
+      "id": "infopro_engineer_q334",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "EAI(Enterprise Application Integration) 구축 유형에서 애플리케이션 사이에 미들웨어를 두어 처리하는 것은? (문제 오류로 가답안 발표시 1번으로 발표되었지만 확정 답안 발표시 1, 3, 4번이 정답처리 되었습니다. 여기서는 가답안인 1번을 누르면 정답 처리 됩니다.)",
+      "options": [
+        "Message Bus",
+        "Point-to-point",
+        "Hub & Spoke",
+        "Hybrid",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q335",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "인터페이스 구현 검증 도구가 아닌 것은?",
+      "options": [
+        "Foxbase",
+        "STAF",
+        "watir",
+        "xUnit",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q336",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "클린코드 작성원칙에 대한 설명으로 틀린 것은?",
+      "options": [
+        "코드의 중복을 최소화 한다.",
+        "코드가 다른 모듈에 미치는 영향을 최대화하도록 작성한다.",
+        "누구든지 코드를 쉽게 읽을 수 있도록 작성한다.",
+        "간단하게 코드를 작성한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q337",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "소프트웨어 패키징에 대한 설명으로 틀린 것은?",
+      "options": [
+        "패키징은 개발자 중심으로 진행한다.",
+        "신규 및 변경 개발소스를 식별하고, 이를 모듈화하여 상용제품으로 패키징 한다.",
+        "고객의 편의성을 위해 매뉴얼 및 버전관리를 지속적으로 한다.",
+        "범용 환경에서 사용이 가능하도록 일반적인 배포 형태로 패키징이 진행된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q338",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "공학적으로 잘된 소프트웨어(Well Engineered Software)의 설명 중 틀린 것은?",
+      "options": [
+        "소프트웨어는 유지보수가 용이해야 한다.",
+        "소프트웨어는 신뢰성이 높아야 한다.",
+        "소프트웨어는 사용자 수준에 무관하게 일관된 인터페이스를 제공해야 한다.",
+        "소프트웨어는 충분한 테스팅을 거쳐야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q339",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "테스트와 디버그의 목적으로 옳은 것은?",
+      "options": [
+        "테스트는 오류를 찾는 작업이고 디버깅은 오류를 수정하는 작업이다.",
+        "테스트는 오류를 수정하는 작업이고 디버깅은 오류를 찾는 작업이다.",
+        "둘 다 소프트웨어의 오류를 찾는 작업으로 오류 수정은 하지 않는다.",
+        "둘 다 소프트웨어 오류의 발견, 수정과 무관하다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q340",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 스택을 이용한 연산과 거리가 먼 것은?",
+      "options": [
+        "선택정렬",
+        "재귀호출",
+        "후위표현(Post-fix expression)의 연산",
+        "깊이우선탐색",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q341",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "병렬 데이터베이스 환경 중 수평 분할에서 활용되는 분할 기법이 아닌 것은?",
+      "options": [
+        "라운드-로빈",
+        "범위 분할",
+        "예측 분할",
+        "해시 분할",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q342",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "시스템 카탈로그에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "사용자가 직접 시스템 카탈로그의 내용을 갱신하여 데이터베이스 무결성을 유지한다.",
+        "시스템 자신이 필요로 하는 스키마 및 여러가지 객체에 관한 정보를 포함하고 있는 시스템 데이터베이스이다.",
+        "시스템 카탈로그에 저장되는 내용을 메타데이터라고도 한다.",
+        "시스템 카탈로그는 DBMS가 스스로 생성하고 유지한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q343",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "SQL 문에서 SELECT에 대한 설명으로 옳지않은 것은?",
+      "options": [
+        "FROM 절에는 질의에 의해 검색될 데이터들을 포함하는 테이블명을 기술한다.",
+        "검색결과에 중복되는 레코드를 없애기위해서는 WHERE 절에 'DISTINCT'키워드를 사용한다.",
+        "HAVING 절은 GROUP BY 절과 함께 사용되며, 그룹에 대한 조건을 지정한다.",
+        "ORDER BY 절은 특정 속성을 기준으로 정렬하여 검색할 때 사용한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q344",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "SQL에서 VIEW를 삭제할 때 사용하는 명령은?",
+      "options": [
+        "ERASE",
+        "KILL",
+        "DROP",
+        "DELETE",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q345",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "DDL(Data Define Language)의 명령어 중 스키마, 도메인, 인덱스 등을 정의할 때 사용하는 SQL문은?",
+      "options": [
+        "ALTER",
+        "SELECT",
+        "CREATE",
+        "INSERT",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q346",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "테이블 R1, R2에 대하여 다음 SQL문의결과는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m46.gif"
+    },
+    {
+      "id": "infopro_engineer_q347",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "데이터베이스 설계 시 물리적 설계 단계에서 수행하는 사항이 아닌 것은?",
+      "options": [
+        "레코드 집중의 분석 및 설계",
+        "접근 경로 설계",
+        "저장 레코드의 양식 설계",
+        "목표 DBMS에 맞는 스키마 설계",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q348",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "릴레이션에서 기본 키를 구성하는 속성은　널(Null)값이나 중복 값을 가질 수 없다는　것을 의미하는 제약조건은?",
+      "options": [
+        "참조 무결성",
+        "보안 무결성",
+        "개체 무결성",
+        "정보 무결성",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q349",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "병행제어 기법의 종류가 아닌 것은?",
+      "options": [
+        "로킹 기법",
+        "시분할 기법",
+        "타임 스탬프 기법",
+        "다중 버전 기법",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q350",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 R1과 R2의 테이블에서 아래의　실행 결과를 얻기 위한 SQL문은?",
+      "options": [
+        "SELECT 과목번호, 과목이름 FROM R1, R2 WHERE R1.학번 = R2. 학번 AND R1.학과='전자공학' AND R1.이름 = '강남길’;",
+        "SELECT 과목번호, 과목이름 FROM R1, R2 WHERE R1.학번 = R2.학번 OR R1.학과='전자공학' OR R1.이름 = '홍길동';",
+        "SELECT 과목번호, 과목이름 FROM R1, R2 WHERE R1.학번 = R2.학번 AND R1.학과=‘컴퓨터공학' AND R1.이름 '강남길’;",
+        "SELECT 과목번호, 과목이름 FROM R1, R2 WHERE R1.학번 = R2.학번 OR R1.학과='컴퓨터공학' OR R1.이름 = '홍길동';",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m50.gif"
+    },
+    {
+      "id": "infopro_engineer_q351",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 관계 대수 중 순수 관계 연산자가 아닌 것은?",
+      "options": [
+        "차집합(difference)",
+        "프로젝트(project)",
+        "조인(join)",
+        "디비전 (division)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q352",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "관계형 데이터 모델의 릴레이션에 대한 설명으로 틀린 것은?",
+      "options": [
+        "모든 속성 값은 원자 값을 갖는다.",
+        "한 릴레이션에 포함된 튜플은 모두 상이하다.",
+        "한 릴레이션에 포함된 튜플 사이에는 순서가 없다.",
+        "한 릴레이션을 구성하는 속성 사이에는 순서가 존재한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q353",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "릴레이션 R의 차수가 4이고 카디널리티가 5이며, 릴레이션 S의 차수가 6이고 카디널리티가 7일 때, 두 개의 릴레이션을 카티션 프로덕트한 결과의 새로운 릴레이 션의 차수와 카디널리티는 얼마인가?",
+      "options": [
+        "24, 35",
+        "24, 12",
+        "10, 35",
+        "10, 12",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q354",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "속성(attribute)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "속성은 개체의 특성을 기술한다.",
+        "속성은 데이터베이스를 구성하는 가장 작은 논리적 단위이다.",
+        "속성은 파일 구조상 데이터 항목 또는 데이터 필드에 해당된다.",
+        "속성의 수를 \"cardinality\" 라고 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q355",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 SQL 문에서 (   ) 안에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "SET",
+        "FROM",
+        "INTO",
+        "IN",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m55.gif"
+    },
+    {
+      "id": "infopro_engineer_q356",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "관계 데이터베이스 모델에서 차수(Degree)의 의미는?",
+      "options": [
+        "튜플의 수",
+        "테이블의 수",
+        "데이터베이스의 수",
+        "애트리뷰트의 수",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q357",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "개체-관계 모델(E-R)의 그래픽 표현으로 옳지 않은 것은?",
+      "options": [
+        "개체타입 – 사각형",
+        "속성 - 원형",
+        "관계타입 - 마름모",
+        "연결 - 삼각형",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q358",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "트랜잭션의 실행이 실패하였음을 알리는 연산자로 트랜잭션이 수행한 결과를 원래의 상태로 원상 복귀 시키는 연산은?",
+      "options": [
+        "COMMIT 연산",
+        "BACKUP 연산",
+        "LOG 연산",
+        "ROLLBACK 연산",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q359",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "데이터 속성 간의 종속성에 대한 엄밀한 고려없이 잘못 설계된 데이터베이스에서는 데이터 처리 연산 수행 시 각종 이상 현상이 발생할 수 있는데, 이러한 이상 현상이 아닌 것은?",
+      "options": [
+        "검색 이상",
+        "삽입 이상",
+        "삭제 이상",
+        "갱신 이상",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q360",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "제3정규형 (3NF)에서 BCNF(Boyce-Codd Normal Form)가 되기 위한 조건은?",
+      "options": [
+        "결정자가 후보키가 아닌 함수 종속 제거",
+        "이행적 함수 종속 제거",
+        "부분적 함수 종속 제거",
+        "원자값이 아닌 도메인 분해",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q361",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 설명에 해당하는 방식은?",
+      "options": [
+        "STA",
+        "Collision Domain",
+        "CSMA/CA",
+        "CSMA/CD",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m61.gif"
+    },
+    {
+      "id": "infopro_engineer_q362",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 가장 약한 결합도(Coupling)는?",
+      "options": [
+        "Common Coupling",
+        "Content Coupling",
+        "External Coupling",
+        "Stamp Coupling",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q363",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 C언어 프로그램이 실행되었을 때의 결과는?",
+      "options": [
+        "3",
+        "4",
+        "7",
+        "10",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m63.gif"
+    },
+    {
+      "id": "infopro_engineer_q364",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 파이썬(Python) 프로그램이 실행되었을 때의 결과는?",
+      "options": [
+        "0",
+        "2",
+        "4",
+        "6",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m64.gif"
+    },
+    {
+      "id": "infopro_engineer_q365",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "교착상태의 해결 방법 중 은행원 알고리즘(Banker's Algorithm)이 해당되는 기법은?",
+      "options": [
+        "Detection",
+        "Avoidance",
+        "Recovery",
+        "Prevention",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q366",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "CIDR(Classless Inter-Domain Routing) 표기로 203.241.132.82/27과 같이 사용되었다면, 해당 주소의 서브넷 마스크(subnet mask)는?",
+      "options": [
+        "255.255.255.0",
+        "255.255.255.224",
+        "255.255.255.240",
+        "255.255.255.248",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q367",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 JAVA 프로그램이 실행되었을 때의 결과는?",
+      "options": [
+        "5, 5, 5",
+        "5, 6, 5",
+        "6, 5, 5",
+        "5, 6, 4",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m67.gif"
+    },
+    {
+      "id": "infopro_engineer_q368",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "프로세스 적재 정책과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "반복, 스택, 부프로그램은 시간 지역성(Temporal Locality)과 관련이 있다.",
+        "공간 지역성(Spatial Locality)은 프로세스가 어떤 페이지를 참조했다면 이후 가상주소공간상 그 페이지와 인접한 페이지들을 참조할 가능성이 높음을 의미한다.",
+        "일반적으로 페이지 교환에 보내는 시간보다 프로세스 수행에 보내는 시간이 더 크면 스레싱(Thrashing)이 발생한다.",
+        "스레싱(Thrashing) 현상을 방지하기 위해서는 각 프로세스가 필요로 하는 프레임을 제공할 수 있어야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q369",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "프레임워크(Framework)에 대한 설명으로 옳은 것은?",
+      "options": [
+        "소프트웨어 구성에 필요한 기본 구조를 제공함으로써 재사용이 가능하게 해준다",
+        "소프트웨어 개발 시 구조가 잡혀 있기 때문에 확장이 불가능하다.",
+        "소프트웨어 아키텍처(Architecture)와 동일한 개념이다.",
+        "모듈화(Modularity)가 불가능하다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q370",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 JAVA 프로그램이 실행되었을 때의 결과는?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m70.gif"
+    },
+    {
+      "id": "infopro_engineer_q371",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "리눅스 Bash 쉘(Shell)에서 export와 관련한 설명으로 틀린 것은?",
+      "options": [
+        "변수를 출력하고자 할 때는 export를 사용해야 한다.",
+        "export가 매개변수 없이 쓰일 경우 현재 설정된 환경변수들이 출력된다.",
+        "사용자가 생성하는 변수는 export 명령어 표시하지 않는 한 현재 쉘에 국한된다.",
+        "변수를 export 시키면 전역(Global)변수처럼 되어 끝까지 기억된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q372",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 C언어 프로그램이 실행되었을 때의 결과는?",
+      "options": [
+        "1",
+        "11",
+        "66",
+        "98",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m72.gif"
+    },
+    {
+      "id": "infopro_engineer_q373",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 C언어 프로그램이 실행되었을 때의 결과는?",
+      "options": [
+        "55",
+        "77",
+        "121",
+        "132",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m73.gif"
+    },
+    {
+      "id": "infopro_engineer_q374",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "페이징 기법에서 페이지 크기가 작아질수록 발생하는 현상이 아닌 것은?",
+      "options": [
+        "기억장소 이용 효율이 증가한다.",
+        "입·출력 시간이 늘어난다.",
+        "내부 단편화가 감소한다.",
+        "페이지 맵 테이블의 크기가 감소한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q375",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 가장 강한 응집도(Cohesion)는?",
+      "options": [
+        "Sequential Cohesion",
+        "Procedural Cohesion",
+        "Logical Cohesion",
+        "Coincidental Cohesion",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q376",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "TCP 프로토콜과 관련한 설명으로 틀린 것은?",
+      "options": [
+        "인접한 노드 사이의 프레임 전송 및 오류를 제어한다.",
+        "흐름 제어(Flow Control)의 기능을 수행한다.",
+        "전이중(Full Duplex) 방식의 양방향 가상회선을 제공한다.",
+        "전송 데이터와 응답 데이터를 함께 전송할 수 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q377",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "C언어에서 연산자 우선순위가 높은 것에서 낮은 것으로 바르게 나열된 것은?",
+      "options": [
+        "㉠, ㉥, ㉣, ㉢, ㉡, ㉤",
+        "㉠, ㉣, ㉥, ㉢, ㉡, ㉤",
+        "㉠, ㉣, ㉥, ㉢, ㉤, ㉡",
+        "㉠, ㉥, ㉣, ㉤, ㉡, ㉢",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m77.gif"
+    },
+    {
+      "id": "infopro_engineer_q378",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "C언어 라이브러리 중 stdlib.h에 대한설명으로 옳은 것은?",
+      "options": [
+        "문자열을 수치 데이터로 바꾸는 문자 변환함수와 수치를 문자열로 바꿔주는 변환함수 등이 있다.",
+        "문자열 처리 함수로 strlen()이 포함되어 있다.",
+        "표준 입출력 라이브러리이다.",
+        "삼각 함수, 제곱근, 지수 등 수학적인 함수를 내장하고 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q379",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "자바스크립트(JavaScript)와 관련한 설명으로 틀린 것은? (문제 오류로 가답안 발표시 2번으로 발표되었지만 확정 답안 발표시 모두 정답처리 되었습니다. 여기서는 가답안인 2번을 누르면 정답 처리 됩니다.)",
+      "options": [
+        "프로토타입(Prototype)의 개념이 존재한다.",
+        "클래스 기반으로 객체 상속을 지원한다.",
+        "Prototype Link와 Prototype Object를 활용할 수 있다.",
+        "객체지향 언어이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q380",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "OSI 7계층 중 네트워크 계층에 대한 설명으로 틀린 것은?",
+      "options": [
+        "패킷을 발신지로부터 최종 목적지까지 전달하는 책임을 진다.",
+        "한 노드로부터 다른 노드로 프레임을 전송하는 책임을 진다.",
+        "패킷에 발신지와 목적지의 논리 주소를 추가한다.",
+        "라우터 또는 교환기는 패킷 전달을 위해 경로를 지정하거나 교환 기능을 제공한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q381",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 내용이 설명하는 것은?",
+      "options": [
+        "SAN",
+        "MBR",
+        "NAC",
+        "NIC",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m81.gif"
+    },
+    {
+      "id": "infopro_engineer_q382",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "SSH(Secure Shell)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "SSH의 기본 네트워크 포트는 220번을 사용한다",
+        "전송되는 데이터는 암호화 된다.",
+        "키를 통한 인증은 클라이언트의 공개키를 서버에 등록해야 한다.",
+        "서로 연결되어 있는 컴퓨터 간 원격 명령실행이나 셀 서비스 등을 수행한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q383",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "CBD(Component Based Development) SW개발 표준 산출물 중 분석 단계에 해당하는 것은?",
+      "options": [
+        "클래스 설계서",
+        "통합시험 결과서",
+        "프로그램 코드",
+        "사용자 요구사항 정의서",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q384",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 내용이 설명하는 접근 제어 모델은?",
+      "options": [
+        "Clark-Wilson Integrity Model",
+        "PDCA Model",
+        "Bell-Lapadula Model",
+        "Chinese Wall Model",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m84.gif"
+    },
+    {
+      "id": "infopro_engineer_q385",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "하둡(Hadoop)과 관계형 데이터베이스간에 데이터를 전송할 수 있도록 설계된 도구는?",
+      "options": [
+        "Apnic",
+        "Topology",
+        "Sqoop",
+        "SDB.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q386",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "라우팅 프로토콜인 OSPF(Open Shortest Path First)에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "네트워크 변화에 신속하게 대처할 수 있다.",
+        "거리 벡터 라우팅 프로토콜이라고 한다.",
+        "멀티캐스팅을 지원한다.",
+        "최단 경로 탐색에 Dijkstra 알고리즘을 사용한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q387",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "소프트웨어 비용 추정 모형(estimation models)이 아닌 것은?",
+      "options": [
+        "COCOMO",
+        "Putnam",
+        "Function-Point",
+        "PERT",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q388",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "코드의 기입 과정에서 원래 '12536‘으로 기입되어야 하는데 ’12936‘으로 표기되었을 경우, 어떤 코드 오류에 해당하는가?",
+      "options": [
+        "Addition Error",
+        "Omission Error",
+        "Sequence Error",
+        "Transcription Error",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q389",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "ISO 12207 표준의 기본 생명주기의 주요 프로세스에 해당하지 않는 것은?",
+      "options": [
+        "획득 프로세스",
+        "개발 프로세스",
+        "성능평가 프로세스",
+        "유지보수 프로세스",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q390",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "소프트웨어 비용 산정 기법 중 개발 유형으로 organic, semi-detached, embedded로 구분되는 것은?",
+      "options": [
+        "PUTNAM",
+        "COCOMO",
+        "FP",
+        "SLIM",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q391",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "SPICE 모델의 프로세스 수행능력 수준의 단계별 설명이 틀린 것은?",
+      "options": [
+        "수준 7 - 미완성 단계",
+        "수준 5 - 최적화 단계",
+        "수준 4 - 예측 단계",
+        "수준 3 - 확립 단계",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q392",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "PC, TV, 휴대폰에서 원하는 콘텐츠를 끊김없이 자유롭게 이용할 수 있는 서비스는?",
+      "options": [
+        "Memristor",
+        "MEMS",
+        "SNMP",
+        "N-Screen",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q393",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "해쉬(Hash) 기법에 대한 설명으로 틀린 것은?",
+      "options": [
+        "임의의 길이의 입력 데이터를 받아 고정된 길이의 해쉬 값으로 변환한다.",
+        "주로 공개키 암호화 방식에서 키 생성을 위해 사용한다.",
+        "대표적인 해쉬 알고리즘으로 HAVAL, SHA-1 등이 있다.",
+        "해쉬 함수는 일방향 함수(One-way function)이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q394",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "IPSec(IP Security)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "암호화 수행시 일방향 암호화만 지원한다.",
+        "ESP는 발신지 인증, 데이터 무결성, 기밀성 모두를 보장한다.",
+        "운영 모드는 Tunnel 모드와 Transport 모드로 분류된다.",
+        "AH는 발신지 호스트를 인증하고, IP 패킷의 무결성을 보장한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q395",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "메모리상에서 프로그램의 복귀 주소와 변수 사이에 특정 값을 저장해 두었다가 그 값이 변경되었을 경우 오버플로우 상태로 가정하여 프로그램 실행을 중단하는 기술은?",
+      "options": [
+        "Stack Guard",
+        "Bridge",
+        "ASLR",
+        "FIN",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q396",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "침입차단 시스템(방화벽) 중 다음과 같은 형태의 구축 유형은?",
+      "options": [
+        "Block Host",
+        "Tree Host",
+        "Screened Subnet",
+        "Ring Homed",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/iz/iz20210515/iz20210515m96.gif"
+    },
+    {
+      "id": "infopro_engineer_q397",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "Secure OS의 보안 기능으로 거리가 먼 것은?",
+      "options": [
+        "식별 및 인증",
+        "임의적 접근 통제",
+        "고가용성 지원",
+        "강제적 접근 통제",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q398",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "서버에 열린 포트 정보를 스캐닝해서 보안취약점을 찾는데 사용하는 도구는?",
+      "options": [
+        "type",
+        "mkdir",
+        "ftp",
+        "nmap",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q399",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "서로 다른 네트워크 대역에 있는 호스트들 상호간에 통신할 수 있도록 해주는 네트워크 장비는?",
+      "options": [
+        "L2 스위치",
+        "HIPO",
+        "라우터",
+        "RAD.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_engineer_q400",
+      "subject": "정보처리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "암호화 키와 복호화 키가 동일한 암호화 알고리즘은?",
+      "options": [
+        "RSA",
+        "AES",
+        "DSA",
+        "ECC",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    }
+  ]
+}

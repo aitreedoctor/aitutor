@@ -1,0 +1,3605 @@
+{
+  "pack_name": "위험물기능사 기출 팩",
+  "questions": [
+    {
+      "id": "dangerous_craftsman_q1",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음과 같은 반응에서 5m3의 탄산가스를 만들기 위해 필요한 탄산수소나트륨이 양은 약 몇 kg인가? (단, 표준 상태이고 나트륨이 원자량은 23이다.)",
+      "options": [
+        "18.75",
+        "37.5",
+        "56.25",
+        "75",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jy/jy20160710/jy20160710m1.gif"
+    },
+    {
+      "id": "dangerous_craftsman_q2",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "연소에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "산화되기 쉬운 것일수록 타기 쉽다.",
+        "산소와의 접촉면적이 큰 것일수록 타기 쉽다.",
+        "충분한 산소가 있어야 타기 쉽다.",
+        "열전도율이 큰 것일수록 타기 쉽다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q3",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물의 자연발화를 방지하는 방법으로 가장 거리가 먼 것은?",
+      "options": [
+        "통풍을 잘 시킬 것",
+        "저장실의 온도를 낮출 것",
+        "습도가 높은 곳에서 저장할 것",
+        "정촉매 작용을 하는 물질과의 접촉을 피할 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q4",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "탄화칼슘은 물과 반응 시 위험성이 증가하는 물질이다. 주수 소화 시 물과 반응하면 어떤 가스가 발생하는가?",
+      "options": [
+        "수소",
+        "메탄",
+        "에탄",
+        "아세틸렌",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q5",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물안전관리법령상 제3류 위험물 중 금수성 물질의 제조소에 설치하는 주의사항 게시판의 바탕색과 문자색을 옳게 나타낸 것은?",
+      "options": [
+        "청색바탕에 황색문자",
+        "황색바탕에 청색문자",
+        "청색바탕에 백색문자",
+        "백색바탕에 청색문자",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q6",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 제5류 위험물의 화재시에 가장 적당한 소화방법은?",
+      "options": [
+        "물에 의한 냉각소화",
+        "질소에 의한 질식소화",
+        "사염화탄소에 의한 부촉매 소화",
+        "이산화탄소에 의한 질식소화",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q7",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "공기 중의 산소농도를 한계산소량 이하로 낮추어 연소를 중지시키는 소화방법은?",
+      "options": [
+        "냉각소화",
+        "제거소화",
+        "억제소화",
+        "질식소화",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q8",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "폭굉 유도거리(DID)가 짧아지는 경우는?",
+      "options": [
+        "정상 연소속도가 작은 혼합가스일수록 짧아진다.",
+        "압력이 높을수록 짧아진다.",
+        "관지름이 넓을수록 짧아진다.",
+        "점화원 에너지가 약할수록 짧아진다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q9",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "연소의 3요소인 산소의 공급원이 될 수 없는 것은?",
+      "options": [
+        "H2O2",
+        "KNO3",
+        "HNO3",
+        "CO2",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q10",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "인화칼슘이 물과 반응하였을 때  발생하는 가스는?",
+      "options": [
+        "수소",
+        "포스겐",
+        "포스핀",
+        "아세틸렌",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q11",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "수성막포소화약제에 사용되는 계면활성제는?",
+      "options": [
+        "염화단백포 계면활성제",
+        "산소계 계면활성제",
+        "황산계 계면활성제",
+        "불소계 계면활성제",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q12",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "질소와 아르곤과 이산화탄소의 용량비가 50대40대8인 혼합물 소화약제에 해당하는 것은?",
+      "options": [
+        "IG-541",
+        "HCFC BLEND A",
+        "HFC-125",
+        "HFC-23",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q13",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물안전관리법령상 알칼리금속 과산화물에 적응성이 있는 소화설비는?",
+      "options": [
+        "할로겐화합물소화설비",
+        "탄산수소염류분말소화설비",
+        "물분무소화설비",
+        "스프링클러설비",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q14",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "이산화탄소 소화약제에 관한 설명 중 틀린 것은?",
+      "options": [
+        "소화약제에 의한 오손이 없다.",
+        "소화약제 중 증발잠열이 가장 크다.",
+        "전기 절연성이 있다.",
+        "장기간 저장이 가능하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q15",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "Halon 1001 의 화학식에서 수소 원자의 수는?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q16",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 강화액 소화약제의 주된 소화원리에 해당하는 것은?",
+      "options": [
+        "냉각소화",
+        "절연소화",
+        "제거소화",
+        "발포소화",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q17",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 탄산칼륨을 물에 용해시킨 강화액 소화약제의 pH에 가장 가까운 것은?",
+      "options": [
+        "1",
+        "4",
+        "7",
+        "12",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q18",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "불활성가스 청정소화약제의 기본 성분이 아닌 것은?(관련 규정 개정전 문제로 여기서는 기존 정답인 3번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "헬륨",
+        "질소",
+        "불소",
+        "아르곤",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q19",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물안전관리법령상 제4류 위험물에 적응성이 있는 소화가 아닌 것은?",
+      "options": [
+        "이산화탄소소화기",
+        "봉상강화액소화기",
+        "포소화기",
+        "인산염류분말소화기",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q20",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "물과 친화력이 있는 수용성 용매의 화재에 보통의 포소화약제를 사용하면 포가 파괴되기 때문에 소화 효과를 잃게 된다. 이와 같은 단점을 보완한 소화약제로 가연성인 수용성 용매의 화재에 유효한 효과를 가지고 있는 것은?",
+      "options": [
+        "알코올형포소화약제",
+        "단백포소화약제",
+        "합성계면활성제포소화약제",
+        "수성막포소화약제",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q21",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "알루미늄분의 성질에 대한 설명으로 옳은 것은?",
+      "options": [
+        "금속 중에서 연소열량이 가장 작다.",
+        "끓는 물과 반응해서 수소를 발생한다.",
+        "산화나트륨 수용액과 반응해서 산소를 발생한다.",
+        "안전한 저장을 위해 할로겐 원소와 혼합한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q22",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물안전관리법령에서는 특수인화물을 1기압에서 발화점이 100℃ 이하인 것 또는 인화점이 얼마 이하이고 비점이 40℃ 이하인 것으로 정의하는가?",
+      "options": [
+        "-10℃",
+        "-20℃",
+        "-30℃",
+        "-40℃",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q23",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "트리니트로톨루엔의 작용기에 해당하는 것은?",
+      "options": [
+        "-NO",
+        "-NO2",
+        "-NO3",
+        "-NO4",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q24",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물의 성질에 대한 설명중 틀린 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "황린은 공기 중에서 산화할 수 있다.",
+        "적린은 KClO3 와 혼합하면 위험하다.",
+        "황린은 물에 매우 잘 녹는다.",
+        "황화인은 가연성 고체이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q25",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "피리딘의 일반적인 성질에 대한 설명 중 틀린 것은?",
+      "options": [
+        "순수한 것은 무색 액체이다.",
+        "약알칼리성을 나타낸다.",
+        "물보다 가볍고, 증기는 공기보다 무겁다.",
+        "흡습성이 없고, 비수용성이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q26",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "니트로글리세린에 대한 설명으로 옳은 것은?",
+      "options": [
+        "물에 매우 잘 녹는다.",
+        "공기 중에서 점화하면 연소하나 폭발의 위험은 없다.",
+        "충격에 대하여 민감하여 폭발을 일으키기 쉽다.",
+        "제5류 위험물의 니트로화합물에 속한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q27",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 물질 중 과염소산칼륨과 혼합하였을 때 발화폭발의 위험이 가장 높은 것은?",
+      "options": [
+        "석면",
+        "금",
+        "유리",
+        "목탄",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q28",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "메틸리튬과 물의 반응 생성물로 옳은 것은?",
+      "options": [
+        "메탄, 수소화리튬",
+        "메탄, 수산화리튬",
+        "에탄, 수소화리튬",
+        "에탄, 수산화리튬",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q29",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 위험물 중 물보다 가벼운 것은?",
+      "options": [
+        "메틸에틸케톤",
+        "니트로벤젠",
+        "에틸렌글리콜",
+        "글리세린",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q30",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "제4류 위험물의 일반적인 성질에 대한 설명 중 틀린 것은?",
+      "options": [
+        "대부분 유기화합물이다.",
+        "액체 상태이다.",
+        "대부분 물보다 가볍다.",
+        "대부분 물에 녹기 쉽다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q31",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "질산과 과염소산의 공통성질이 아닌 것은?",
+      "options": [
+        "가연성이며 강산화제이다.",
+        "비중이 1 보다 크다.",
+        "가연물과 혼합으로 발화의 위험이 있다.",
+        "물과 접촉하면 발열한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q32",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "과산화나트륨에 대한 설명으로 틀린 것은?",
+      "options": [
+        "알코올에 잘 녹아서 산소와 수소를 발생시킨다.",
+        "상온에서 물과 격렬하게 반응하다.",
+        "비중이 약 2.8 이다.",
+        "조해성 물질이다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q33",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 제5류 위험물로만 나열되지 않은 것은?",
+      "options": [
+        "과산화벤조일, 질산메틸",
+        "과산화초산, 디니트로벤젠",
+        "과산화요소, 니트로글리콜",
+        "아세토니트릴, 트리니트로톨루엔",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q34",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "아조화합물 800kg, 히드록실아민 300kg, 유기과산화물 40kg 의 총 양은 지정수량의 몇배에 해당하는가?(관련 규정 개정전 문제로 여기서는 기존 정답인 4번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "7배",
+        "9배",
+        "10배",
+        "11배",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q35",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "물과 반응하여 가연성 가스를 발생하지 않는 것은?",
+      "options": [
+        "칼륨",
+        "과산화칼륨",
+        "탄화알루미늄",
+        "트리에틸알루미늄",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q36",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 인화점이 가장 높은 것은?",
+      "options": [
+        "등유",
+        "벤젠",
+        "아세톤",
+        "아세트알데히드",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q37",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 제6류 위험물이 아닌 것은?",
+      "options": [
+        "할로겐간화합물",
+        "과염소산",
+        "아염소산",
+        "과산화수소",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q38",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "제4류 위험물인 클로로벤젠의 지정수량으로 옳은 것은?",
+      "options": [
+        "200L",
+        "400L",
+        "1000L",
+        "2000L",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q39",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 제1류 위험물에 해당되지 않는 것은?",
+      "options": [
+        "염소산칼륨",
+        "과염소산암모늄",
+        "과산화바륨",
+        "질산구아니딘",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q40",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 위험물 중 지정수량이 나머지 셋과 다른 하나는?",
+      "options": [
+        "마그네슘",
+        "금속분",
+        "철분",
+        "유황",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q41",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "아염소산나트륨의 저장 및 취급 시 주의사항으로 가장 거리가 먼 것은?",
+      "options": [
+        "물 속에 넣어 냉암소에 저장한다.",
+        "강산류와의 접촉을 피한다.",
+        "취급시 충격, 마찰을 피한다.",
+        "가연성 물질과 접촉을 피한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q42",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물안전관리법령상 연면적이 450m2인 저장소의 건축물 외벽이 내화구조가 아닌 경우 이 저장소의 소화기 소요단위는?",
+      "options": [
+        "3",
+        "4.5",
+        "6",
+        "9",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q43",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물안전관리법령상 주유취급소에 설치ㆍ운영할 수 없는 건축물 또는 시설은?",
+      "options": [
+        "주유취급소를 출입하는 사람을 대상으로 하는 그림 전시장",
+        "주유취급소를 출입하는 사람을 대상으로 하는 일반 음식점",
+        "주유원 주거시설",
+        "주유취급소를 출입하는 사람을 대상으로 하는 휴게음식점",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q44",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물관리법령상 옥외저장소 중 덩어리상태의 유황만을 지반면에 설치한 경계표시의 안쪽에서 저장 또는 취급할 때 경계표시의 높이는 몇 m 이하로 하여야 하는가?",
+      "options": [
+        "1",
+        "1.5",
+        "2",
+        "2.5",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q45",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물옥외저장탱크의 통기관에 관한 사항으로 옳지 않은 것은?",
+      "options": [
+        "밸브없는 통기관의 직경은 30 mm 이상으로 한다.",
+        "대기밸브부착 통기관은 항시 열려 있어야 한다.",
+        "밸브 없는 통기관의 선단은 수평면보다 45도 이상 구부려 빗물 등의 침투를 막는 구조로 한다.",
+        "대기밸브부착 통기관은 5kPa 이하의 압력차이로 작동할 수 있어야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q46",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물안전관리법령상 주유취급소 중 건축물의 2층을 휴게음식점의 용도로 사용하는 것에 있어 해당 건축물의 2층으로 부터 직접 주유취급소의 부지 밖으로 통하는 출입구와 해당 출입구로 통하는 통로ㆍ계단에 설치하여야 하는 것은?",
+      "options": [
+        "비상경보설비",
+        "유도등",
+        "비상조명등",
+        "확성장치",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q47",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물안전관리법령상 소화전용물통 8L 의 능력 단위는?",
+      "options": [
+        "0.3",
+        "0.5",
+        "1.0",
+        "1.5",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q48",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물안전관리법령상 위험물제조소에 설치하는 배출설비에 대한 내용으로 틀린 것은?",
+      "options": [
+        "배출설비는 예외적인 경우를 제외하고는 국소방식으로 하여야 한다.",
+        "배출설비는 강제배출 방식으로 한다.",
+        "급기구는 낮은 장소에 설치하고 인화방지망을 설치한다.",
+        "배출구는 지상 2m 이상 높이에 연소의 우려가 없는 곳에 설치한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q49",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물안전관리법령상 옥내소화전설비의 기준에 따르면 펌프를 이용한 가압송수 장치에서 펌프의 토출량은 옥내소화전의 설치개수가 가장 많은 층에 대해 해당 설치개수(5개 이상인 경우에는 5개)에 얼마를 곱한 양 이상이 되도록 하여야 하는가?",
+      "options": [
+        "260 L/min",
+        "360 L/min",
+        "460 L/min",
+        "560 L/min",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q50",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물의 운반에 관한 기준에서 다음 ( ) 안에 알맞은 온도는 몇 ℃ 인가?",
+      "options": [
+        "40",
+        "50",
+        "55",
+        "60",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jy/jy20160710/jy20160710m50.gif"
+    },
+    {
+      "id": "dangerous_craftsman_q51",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물관리법령상 제4류 위험물의 품명에 따른 위험등급과 옥내저장소 하나의 저장창고 바닥면적 기준을 옳게 나열한 것은? (단, 전용의 독립된 단층건물에 설치하며, 구획된 실이 없는 하나의 저장창고인 경우에 한한다.)",
+      "options": [
+        "제1석유류:위험등급 I, 최대 바닥면적 1000m2",
+        "제2석유류:위험등급 I, 최대 바닥면적 2000m2",
+        "제3석유류:위험등급 II, 최대 바닥면적 1000m2",
+        "알코올류:위험등급 II, 최대 바닥면적 1000m2",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q52",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "인화점이 21℃ 미만인 액체위험물의 옥외저장탱크 주입구에 설치하는 \"옥외저장탱크 주입구\"라고 표시한 게시판의 바탕 및 문자색을 옳게 나타낸 것은?",
+      "options": [
+        "백색바탕 - 적색문자",
+        "적색바탕 - 백색문자",
+        "백색바탕 - 흑색문자",
+        "흑색바탕 - 백색문자",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q53",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물안전관리법령상 위험물안전관리자의 책무에 해당하지 않는 것은?",
+      "options": [
+        "화재 등의 재난이 발생할 경우 소방관서 등에 대한 연락 업무",
+        "화재 등의 재난이 발생할 경우 응급조치",
+        "위험물 취급에 관한 일지의 작성ㆍ기록",
+        "위험물안전관리자의 선임ㆍ신고",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q54",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물안전관리법령상 옥내탱크저장소의 기준에서 옥내저장탱크 상호간에는 몇 m 이상의 간격을 유지하여야 하는가?",
+      "options": [
+        "0.3",
+        "0.5",
+        "0.7",
+        "1.0",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q55",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "제2류 위험물 중 인화성 고체의 제조소에 설치하는 주의사항 게시판에 표시할 내용을 옳게 나타낸 것은?",
+      "options": [
+        "적색바탕에 백색문자로 \"화기엄금\" 표시",
+        "적색바탕에 백색문자로 \"화기주의\" 표시",
+        "백색바탕에 적색문자로 \"화기엄금\" 표시",
+        "백색바탕에 적색문자로 \"화기주의\" 표시",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q56",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물안전관리법령상 배출설비를 설치하여야 하는 옥내저장소의 기준에 해당하는 것은?",
+      "options": [
+        "가연성 증기가 액화할 우려가 있는 장소",
+        "모든 장소의 옥내저장소",
+        "가연성 미분이 체류할 우려가 있는 장소",
+        "인화점이 70℃ 미만인 위험물의 옥내저장소",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q57",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "이동저장탱크에 알킬알루미늄을 저장하는 경우에 불활성 기체를 봉입하는데 이때의 압력은 몇 kPa 이하이어야 하는가?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q58",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 위험물안전관리법령상 지정수량의 1/10 을 초과하는 위험물을 운반할 때 혼재할 수 없는 경우는?",
+      "options": [
+        "제1류 위험물과 제6류 위험물",
+        "제2류 위험물과 제4류 위험물",
+        "제4류 위험물과 제5류 위험물",
+        "제5류 위험물과 제3류 위험물",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q59",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "그림과 같은 위험물 저장탱크의 내용적은 약 몇 m3 인가?",
+      "options": [
+        "4681",
+        "5482",
+        "6283",
+        "7080",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jy/jy20160710/jy20160710m59.gif"
+    },
+    {
+      "id": "dangerous_craftsman_q60",
+      "subject": "위험물기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위험물 옥외저장소에서 지정수량 200배 초과의 위험물을 저장할 경우 경계표시 주위의 보유공지 너비는 몇 m 이상으로 하여야 하는가? (단, 제4류 위험물과 제6류 위험물이 아닌 경우이다.)",
+      "options": [
+        "0.5",
+        "2.5",
+        "10",
+        "15",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q61",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 제4류 위험물의 화재 시 물을 이용한 소화를 시도하기 전에 고려해야 하는 위험물의 성질로 가장 옳은 것은?",
+      "options": [
+        "수용성, 비중",
+        "중기비중, 끓는점",
+        "색상, 발화점",
+        "분해온도, 녹는점",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q62",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 점화에너지 중 물리적 변화에서 얻어지는 것은?",
+      "options": [
+        "압축열",
+        "산화열",
+        "중합열",
+        "분해열",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q63",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "금속분의 연소 시 주수소화 하면 위험한 원인으로 옳은 것은?",
+      "options": [
+        "물에 녹아 산이 된다.",
+        "물과 작용하여 유독가스를 발생한다.",
+        "물과 작용하여 수소가스를 발생한다.",
+        "물과 작용하여 산소가스를 발생한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q64",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 유류저장 탱크화재에서 일어나는 현상으로 거리가 먼 것은?",
+      "options": [
+        "보일오버",
+        "플래쉬오버",
+        "슬롭오버",
+        "bleve",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q65",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 정전기 방지대책으로 가장 거리가 먼 것은?",
+      "options": [
+        "접지를 한다.",
+        "공기를 이온화한다.",
+        "21% 이상의 산소농도를 유지하도록 한다.",
+        "공기의 상대습도를 70% 이상으로 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q66",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "폭발의 종류에 따른 물질이 잘못 짝지어진 것은?",
+      "options": [
+        "분해폭발 - 아세틸렌, 산화에틸렌",
+        "분진폭발 - 금속분. 밀가루",
+        "중합폭발 - 시안화수소, 염화비닐",
+        "산화폭발 - 히드라진, 과산화수소",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q67",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "착화 온도가 낮아지는 원인과 가장 관계가 있는 것은?",
+      "options": [
+        "발열량이 적을 때",
+        "압력이 높을 때",
+        "습도가 높을 때",
+        "산소와의 결합력이 나쁠 때",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q68",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "제5류 위험물의 화재예방상 유의사항 및 화재 시 소화방법에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "대 량의 주수에 의한 소화가 좋다.",
+        "화재초기에는 질식소화가 효과적이다.",
+        "일부 물질의 경우 운반 또는 저장시 안정제를 사용해야 한다.",
+        "가연물과 산소공급원이 같이 있는 상태이므로 점화원의 방지에 유의하여야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q69",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "과염소산의 화재 예방에 요구되는 주의사항에 대한 설명으로 옳은 것은?",
+      "options": [
+        "유기물과 접촉 시 발화의 위험이 있기 때문에 가연물과 접촉시키지 않는다.",
+        "자연발화의 위험이 높으므로 냉각시켜 보관한다.",
+        "공기 중 발화하므로 공기와의 접촉을 피해야 한다.",
+        "액체 상태는 위험하므로 고체 상태로 보관한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q70",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "15℃의 기름 100g에 8000J의 열량을 주면 기름의 온도는 몇 ℃가 되겠는가? (단, 기름의 비열은 2J/g·℃이다.)",
+      "options": [
+        "25",
+        "45",
+        "50",
+        "55",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q71",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "제6류 위험물의 화재에 적응성이 없는 소화설비는?",
+      "options": [
+        "옥내소화전설비",
+        "스프링클러설비",
+        "포소화설비",
+        "불활성가스소화설비",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q72",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "소화약제로서 물의 단점인 동결현상을 방지하기 위하여 주로 사용되는 물질은?",
+      "options": [
+        "에틸알콜",
+        "글리세린",
+        "에틸렌글리콜",
+        "탄산칼슘",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q73",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 D급 화재에 해당하는 것은?",
+      "options": [
+        "플라스틱 화재",
+        "휘발유 화재",
+        "나트륨 화재",
+        "전기 화재",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q74",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령상 철분, 금속분, 마그네슘에 적응성이 있는 소화설비는?",
+      "options": [
+        "불활성가스소화설비",
+        "할로겐화합물소화설비",
+        "포소화설비",
+        "탄산수소염류소화설비",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q75",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령상 제4류 위험물에 적응성이 없는 소화설비는?",
+      "options": [
+        "옥내소화전설비",
+        "포소화설비",
+        "불활성가스소화설비",
+        "할로겐화합물소화설비",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q76",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "물은 냉각소화가 주된 대표적인 소화약제이다. 물의 소화효과를 높이기 위하여 무상 주수를 함으로서 부가적으로 작용하는 소화효과로 이루어진 것은?",
+      "options": [
+        "질식소화작용, 제거소화작용",
+        "질식소화작용, 유화소화작용",
+        "타격소화작용. 유화소화작용",
+        "타격소화작용, 피복소화작용",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q77",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 소화약제 강화액의 주성분에 해당하는 것은?",
+      "options": [
+        "K2CO3",
+        "K2O2",
+        "CaO2",
+        "KBrO3",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q78",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령상 소화설비의 적응성에 관한 내용이다. 옳은 것은?",
+      "options": [
+        "마른모래는 대상물 중 제1류 ~ 제6류 위험물에 적응성이 있다.",
+        "팽창질석은 전기설비를 포함한 모든 대상물에 적응성이 있다.",
+        "분말소화약제는 셀룰로이드류의 화재에 가장 적당하다.",
+        "물분무소화설비는 전기설비에 사용할 수 없다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q79",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 공기포 소화약제가 아닌 것은?",
+      "options": [
+        "단백포 소화약제",
+        "합성계면활성제포 소화약제",
+        "화학포 소화약제",
+        "수성막포 소화약제",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q80",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "분말소화약제 중 제1종과 제2종 분말이 각각 열분해 될 때 공통적으로 생성되는 물질은?",
+      "options": [
+        "N2, CO2",
+        "N2, O2",
+        "H2O, CO2",
+        "H2O, N2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q81",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "포름산에 대 한 설명으로 옳지 않은 것은?",
+      "options": [
+        "물, 알코올, 에테르에 잘 녹는다.",
+        "개미산이라고도 한다.",
+        "강한 산화제이다.",
+        "녹는점이 상온보다 낮다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q82",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "제3류 위험물에 해당하는 것은?",
+      "options": [
+        "NaH",
+        "Al",
+        "Mg",
+        "P4S3",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q83",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "지방족 탄화수소가 아닌 것은?",
+      "options": [
+        "톨루엔",
+        "아세트알데히드",
+        "아세톤",
+        "디에틸에테르",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q84",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리 법령상 위험물의 지정수량으로 옳지 않은 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "니트로셀룰로오스 : 10kg",
+        "히드록실아민 : 100kg",
+        "아조벤젠 : 50kg",
+        "트리니트로페놀 : 200kg",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q85",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "셀룰로이드에 대한 설명으로 옳은 것은?",
+      "options": [
+        "질소가 함유된 무기물이다",
+        "질소가 함유된 유기물이다.",
+        "유기의 염화물이다.",
+        "무기의 염화물이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q86",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "에틸알코올의 증기 비중은 약 얼마인가?",
+      "options": [
+        "0.72",
+        "0.91",
+        "1.13",
+        "1.59",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q87",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "과염소산나트륨의 성질이 아닌 것은?",
+      "options": [
+        "물과 급격히 반응하여 산소를 발생한다.",
+        "가열하면 분해되어 조연성 가스를 방출한다.",
+        "융점은 400℃보다 높다.",
+        "비중은 물보다 무겁다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q88",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "인화칼슘이 물과 반응할 경우에 대한 설명 중 틀린 것은?",
+      "options": [
+        "발생 가스는 가연성이다.",
+        "포스겐 가스가 발생한다.",
+        "발생 가스는 독성이 강하다",
+        "Ca(OH)2 가 생성된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q89",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "화학적으로 알코올을 분류할 때 3가 알코올에 해당하는 것은?",
+      "options": [
+        "에탄올",
+        "메탄올",
+        "에틸렌글리콜",
+        "글리세린",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q90",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령상 품명이 다른 하나는?",
+      "options": [
+        "니트로글리콜",
+        "니트로글리세린",
+        "셀룰로이드",
+        "테트릴",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q91",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "주수소화를 할 수 없는 위험물은?",
+      "options": [
+        "금속분",
+        "적린",
+        "유황",
+        "과망간산칼륨",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q92",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "제1류 위험물 중 흑색화약의 원료로 사용되는 것은?",
+      "options": [
+        "KNO3",
+        "NaNO3",
+        "BaO2",
+        "NH4NO3",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q93",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 제6류 위험물에 해당하는 것은?",
+      "options": [
+        "IF5",
+        "HClO3",
+        "NO3",
+        "H2O",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q94",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 제4류 위험물에 해당하는 것은?",
+      "options": [
+        "Pb(N3)2",
+        "CH3ONO2",
+        "N2H4",
+        "NH2OH",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q95",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음의 분말은 모두 150마이크로미터의 체를 통과하는 것이 50중량퍼센트 이상이 된다. 이들 분말 중 위험물안전관리법령상 품명이 “금속분”으로 분류되는 것은?",
+      "options": [
+        "철분",
+        "구리분",
+        "알루미늄분",
+        "니켈분",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q96",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 분자량이 가장 큰 위험물은?",
+      "options": [
+        "과염소산",
+        "과산화수소",
+        "질산",
+        "히드라진",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q97",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "인화칼슘, 탄화알루미늄, 나트륨이 물과 반응하였을 때 발생하는 가스에 해당하지 않는 것은?",
+      "options": [
+        "포스핀가스",
+        "수소",
+        "이황화탄소",
+        "메탄",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q98",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "연소 시 발생하는 가스를 옳게 나타낸 것은?",
+      "options": [
+        "황린 - 황산가스",
+        "황 - 무수인산가스",
+        "적린 - 아황산가스",
+        "삼황화사인(삼황화린) - 아황산가스",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q99",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "염소산나트륨에 대한 설명으로 틀린 것은?",
+      "options": [
+        "조해성이 크므로 보관용기는 밀봉하는 것이 좋다.",
+        "무색. 무취의 고체이다.",
+        "산과 반응하여 유독성의 이산화나트륨 가스가 발생한다.",
+        "물, 알코올, 글리세린에 녹는다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q100",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "질산칼륨을 약 400℃에서 가열하여 열분해시킬 때 주로 생성되는 물질은?",
+      "options": [
+        "질산과 산소",
+        "질산과 칼륨",
+        "아질산칼륨과 산소",
+        "아질산칼륨과 질소",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q101",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령에서 정한 피난설비에 관한 내용이다. ( )에 알맞은 것은?",
+      "options": [
+        "피난사다리",
+        "유도등",
+        "공기호흡기",
+        "시각경보기",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jy/jy20160402/jy20160402m41.gif"
+    },
+    {
+      "id": "dangerous_craftsman_q102",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "옥내저장소에 제3류 위험물인 황린을 저장하면서 위험물안전관리 법령에 의한 최소한의 보유공지로 3m를 옥내저장소 주위에 확보하였다. 이 옥내저장소에 저장하고 있는 황린의 수량은? (단, 옥내저장소의 구조는 벽·기둥 및 바닥이 내화구조로 되어 있고 그 외의 다른 사항은 고려하지 않는다.)",
+      "options": [
+        "100kg 초과 500kg 이하",
+        "400kg 초과 1000kg 이하",
+        "500kg 초과 5000kg 이하",
+        "1000kg 초과 40000kg 이하",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q103",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령상 이동탱크저장소에 의한 위험물운송 시 위험물운송자는 장거리에 걸치는 운송을 하는 때에는 2명 이상의 운전자로 하여야 한다. 다음 중 그러하지 않아도 되는 경우가 아닌 것은?",
+      "options": [
+        "적린을 운송하는 경우",
+        "알루미늄의 탄화물을 운송하는 경우",
+        "이황화탄소를 운송하는 경우",
+        "운송도중에 2시간 이내마다 20분 이상씩 휴식하는 경우",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q104",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "각각 지정수량의 10배인 위험물을 운반할 경우 제5류 위험물과 혼재 가능한 위험물에 해당하는 것은?",
+      "options": [
+        "제1류 위험물",
+        "제2류 위험물",
+        "제3류 위험물",
+        "제6류 위험물",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q105",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령상 옥외탱크저장소의 기준에 따라 다음의 인화성 액체 위험물을 저장하는 옥외저장탱크 1~4호를 동일의 방유제 내에 설치하는 경우 방유제에 필요한 최소 용량으로서 옳은 것은? (단, 암반탱크 또는 특수액체위험물탱크의 경우는 제외한다.)",
+      "options": [
+        "1650kL",
+        "1500kL",
+        "500kL",
+        "250kL",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/jy/jy20160402/jy20160402m45.gif"
+    },
+    {
+      "id": "dangerous_craftsman_q106",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령상 사업소의 관계인이 자체소방대를 설치 하여야할 제조소등의 기준으로 옳은 것은?",
+      "options": [
+        "제4류 위험물을 지정수량의 3천배 이상 취급하는 제조소 또는 일반취급소",
+        "제4류 위험물을 지정수량의 5천배 이상 취급하는 제조소 또는 일반취급소",
+        "제4류 위험물 중 특수인화물을 지정수량의 3천배 이상 취급하는 제조소 또는 일반취급소",
+        "제4류 위험물 중 특수인화물을 지정수량의 5천배 이상 취급하는 제조소 또는 일반취급소",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q107",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "소화난이도등급Ⅱ의 제조소에 소화설비를 설치할 때 대형수동식소화기와 함께 설치하여 야 하는 소형수동식소화기등의 능력단위에 관한 설명으로 옳은 것은?",
+      "options": [
+        "위험물의 소요단위에 해당하는 능력단위의 소형수동식소화기등을 설치할 것",
+        "위험물의 소요단위의 1/2 이상에 해당하는 능력단위의 소형수동식소화기등을 설치할 것",
+        "위험물의 소요단위의 1/5 이상에 해당하는 능력단위의 소형수동식소화기등을 설치할 것",
+        "위험물의 소요단위의 10배 이상에 해당하는 능력단위의 소형수동식소화기등을 설치할 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q108",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 위험물안전관리법이 적용되는 영역은?",
+      "options": [
+        "항공기에 의한 대한민국 영공에서의 위험물의 저장, 취급 및 운반",
+        "궤도에 의한 위험물의 저장, 취급 및 운반",
+        "철도에 의한 위험물의 저장, 취급 및 운반",
+        "자가용승용차에 의한 지정수량 이하의‘ 위험물의 저장, 취급 및 운반",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q109",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령상 위험물의 운반 시 운반용기는 다음의 기준에 따라 수납 적재하여야 한다. 다음 중 틀린 것은?",
+      "options": [
+        "수납하는 위험물과 위험한 반응을 일으키지 않아야 한다.",
+        "고체 위험물은 운반용기 내용적의 95% 이하로 수납하여야 한다.",
+        "액체위험물은 운반용기 내용적의 95% 이하로 수납하여야 한다.",
+        "하나의 외장용기에는 다른 종류의 위험물을 수납하지 않는다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q110",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령상 위험물을 운반하기 위해 적재할 때 예를 들어 제6류 위험물은 1가지 유별(제1류 위험물)하고만 혼재할 수 있다. 다음 중 가장 많은 유별과 혼재가 가능한 것은? (단, 지정수량의 1/10을 초과하는 위험물이다.)",
+      "options": [
+        "제1류",
+        "제2류",
+        "제3류",
+        "제4류",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q111",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 위험물 중에서 옥외저장소에서 저장·취급할 수 없는 것은? (단, 특별시·광역시 또는 도의 조례에서 정하는 위험물과 IMDG Code에 적합한 용기에 수납된 위험물의 경우는 제외한다.)",
+      "options": [
+        "아세트산",
+        "에틸렌글리콜",
+        "크레오소트유",
+        "아세톤",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q112",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "디에틸에테르에 대한 설명으로 틀린 것은?",
+      "options": [
+        "일반식은 R-CO-R'이다.",
+        "연소범위는 약 1.9~48% 이다.",
+        "증기비중 값이 비중 값보다 크다.",
+        "휘발성이 높고 마취성을 가진다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q113",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법상 지하탱크저장소 탱크전용실의 안쪽과 지하저장탱크와의 사이는 몇 m 이상의 간격을 유지하여야 하는가?",
+      "options": [
+        "0.1",
+        "0.2",
+        "0.3",
+        "0.5",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q114",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 ( ) 안에 들어갈 수치를 순서대로 바르게 나열한 것은? (단, 제4류 위험물에 적응성을 갖기 위한 살수밀도기준을 적용하는 경우를 제외한다.)",
+      "options": [
+        "100, 80",
+        "120, 80",
+        "100, 100",
+        "120, 100",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/jy/jy20160402/jy20160402m54.gif"
+    },
+    {
+      "id": "dangerous_craftsman_q115",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령상 제조소등의 위치·구조 또는 설비 가운데 총리령이 정하는 사항을 변경허가를 받지 아니하고 제조소등의 위치·구조 또는 설비를 변경한 때 1차 행정처분기준으로 옳은 것은?",
+      "options": [
+        "사용정지 15일",
+        "경고 또는 사용정지 15일",
+        "사용정지 30일",
+        "경고 또는 업무정지 30일",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q116",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령상 제조소등의 관계인이 정기적으로 점검하여야 할 대상이 아닌 것은?",
+      "options": [
+        "지정수량의 10배 이상의 위험물을 취급하는 제조소",
+        "지하탱크저장소",
+        "이동탱크저장소",
+        "지정수량의 100배 이상의 위험물을 저장하는 옥외탱크저장소",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q117",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령상 위험물제조소의 옥외에 있는 하나의 액체위험물 취급탱크 주위에 설치하는 방유제의 용량은 해당 탱크용량의 몇 % 이상으로 하여야 하는가?",
+      "options": [
+        "50%",
+        "60%",
+        "100%",
+        "110%",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q118",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령상 이송취급소에 설치하는 경보설비의 기준에 따라 이송기지에 설치하여야 하는 경보설비로만 이루어진 것은?",
+      "options": [
+        "확성장치, 비상벨장치",
+        "비상방송설비, 비상경보설비",
+        "확성장치, 비상방송설비",
+        "비상방송설비, 자동화재탐지설비",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q119",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령상 위험물의 탱크 내용적 및 공간용적에 관한 기준으로 틀린 것은?",
+      "options": [
+        "위험물을 저장 또는 취급하는 탱크의 용량은 해당 탱크의 내용적에서 공간용적을 뺀 용적으로 한다.",
+        "탱크의 공간용적은 탱크의 내용적의 100분의 5 이상 100분의 10 이하의 용적으로 한다.",
+        "소화설비(소화약제 방출구를 탱크안의 윗부분에 설치하는 것에 한한다)를 설치하는 탱크의 공간용적은 해당 소화설비의 소화약제방출구 아래의 0.3m 이상 1m 미만 사이의 면으로부터 윗부분의 용적으로 한다.",
+        "암반탱크에 있어서는 해당 탱크 내에 용출하는 30일 간의 지하수의 양에 상당하는 용적과 해당 탱크의 내용적의 100분의 1의 용적 중에서 보다 큰 용적을 공간용적으로 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q120",
+      "subject": "위험물기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "위험물안전관리법령상 위험등급의 종류가 나머지 셋과 다른 하나는?",
+      "options": [
+        "제1류 위험물 중 중크롬산염류",
+        "제2류 위험물 중 인화성고체",
+        "제3류 위험물 중 금속의 인화물",
+        "제4류 위험물 중 알코올류",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q121",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "연소가 잘 이루어지는 조건으로 거리가 먼 것은?",
+      "options": [
+        "가연물의 발열량이 클 것",
+        "가연물의 열전도율이 클 것",
+        "가연물과 산소와의 접촉표면적이 클 것",
+        "가연물의 활성화에너지가 작을 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q122",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 위험등급Ⅰ의 위험물에 해당하는 것은?",
+      "options": [
+        "무기과산화물",
+        "황화린",
+        "제1석유류",
+        "유황",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q123",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 제6류 위험물에 적응성이 없는 것은?",
+      "options": [
+        "스프링클러설비",
+        "포소화설비",
+        "불활성가스소화설비",
+        "물분무소화설비",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q124",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "피크르산의 위험성과 소화방법에 대한 설명으로 틀린 것은?",
+      "options": [
+        "금속과 화합하여 예민한 금속염이 만들어질 수 있다.",
+        "운반시 건조한 것보다는 물에 젖게 하는 것이 안전하다.",
+        "알코올과 혼합된 것은 충격에 의한 폭발 위험이 있다.",
+        "화재시에는 질식소화가 효과적이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q125",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "석유류가 연소할 때 발생하는 가스로 강한 자극적인 냄새가 나며 취급하는 장치를 부식시키는 것은?",
+      "options": [
+        "H2",
+        "CH4",
+        "NH3",
+        "SO2",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q126",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 연소의 3요소를 모두 갖춘 것은?",
+      "options": [
+        "휘발유 + 공기 + 수소",
+        "적린 + 수소 + 성냥불",
+        "성냥불 + 황 + 염소산암모늄",
+        "알코올 + 수소 + 염소산암모늄",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q127",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물을 취급함에 있어서 정전기를 유효하게 제거하기 위한 설비를 설치하고자 한다. 위험물안전관리법령상 공기 중의 상대 습도를 몇 % 이상 되게 하여야 하는가?",
+      "options": [
+        "50",
+        "60",
+        "70",
+        "80",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q128",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "그림과 같이 횡으로 설치한 원통형 위험물탱크에 대하여 탱크의 용량을 구하면 약 몇 m3 인가? (단, 공간용적은 탱크 내용적의 100분의 5로 한다.)",
+      "options": [
+        "52.4",
+        "261.6",
+        "994.8",
+        "1047.2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jy/jy20160124/jy20160124m8.gif"
+    },
+    {
+      "id": "dangerous_craftsman_q129",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물제조소의 경우 연면적이 최소 몇 m2이면 자동화재탐지설비를 설치해야 하는가?(단, 원칙적인 경우에 한한다.)",
+      "options": [
+        "100",
+        "300",
+        "500",
+        "1000",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q130",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "제3종 분말소화약제의 열분해시 생성되는 메타인산의 화학식은?",
+      "options": [
+        "H3PO4",
+        "HPO3",
+        "H4P2O7",
+        "CO(NH2)2",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q131",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "주된 연소형태가 증발연소인 것은?",
+      "options": [
+        "나트륨",
+        "코크스",
+        "양초",
+        "니트로셀룰로오스",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q132",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 제조소등의 관계인은 예방규정을 정하여 누구에게 제출하여야 하는가?",
+      "options": [
+        "국민안전처장관 또는 행정자치부장관",
+        "국민안전처장관 또는 소방서장",
+        "시 ‧ 도지사 또는 소방서장",
+        "한국소방안전협회장 또는 국민안전처장관",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q133",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "금속화재에 마른모래를 피복하여 소화하는 방법은?",
+      "options": [
+        "제거소화",
+        "질식소화",
+        "냉각소화",
+        "억제소화",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q134",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "단층건물에 설치하는 옥내탱크저장소의 탱크전용실에 비수용성의 제2석유류 위험물을 저장하는 탱크 1개를 설치할 경우, 설치할 수 있는 탱크의 최대용량은?",
+      "options": [
+        "10,000ℓ",
+        "20,000ℓ",
+        "40,000ℓ",
+        "80,000ℓ",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q135",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "메틸알코올 8000리터에 대한 소화능력으로 삽을 포함한 마른모래를 몇 리터 설치하여야 하는가?",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q136",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 옥내저장소에서 기계에 의하여 하역하는 구조로 된 용기만을 겹쳐 쌓아 위험물을 저장하는 경우 그 높이는 몇 미터를 초과하지 않아야 하는가?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q137",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 위험물의 운반에 관한 기준에서 적재 시 혼재가 가능한 위험물을 옳게 나타낸 것은? (단, 각각 지정수량의 10배 이상인 경우이다.)",
+      "options": [
+        "제1류와 제4류",
+        "제3류와 제6류",
+        "제1류와 제5류",
+        "제2류와 제4류",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q138",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지정수량의 몇 배 이상의 위험물을 취급하는 제조소에는 화재발생시 이를 알릴 수 있는 경보설비를 설치하여야 하는가?",
+      "options": [
+        "5",
+        "10",
+        "20",
+        "100",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q139",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물제조소 표지 및 게시판에 대한 설명이다. 위험물안전관리법령상 옳지 않은 것은?",
+      "options": [
+        "표지는 한 변의 길이가 0.3 m, 다른 한 변의 길이가 0.6 m 이상으로 하여야 한다.",
+        "표지의 바탕은 백색, 문자는 흑색으로 하여야 한다.",
+        "취급하는 위험물에 따라 규정에 의한 주의사항을 표시한 게시판을 설치하여야 한다.",
+        "제2류 위험물(인화성고체 제외)은 “화기엄금” 주의사항 게시판을 설치하여야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q140",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 위험물옥외탱크저장소에 방화에 관하여 필요한 사항을 게시한 게시판에 기재하여야 하는 내용이 아닌 것은?",
+      "options": [
+        "위험물의 지정수량의 배수",
+        "위험물의 저장최대수량",
+        "위험물의 품명",
+        "위험물의 성질",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q141",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 자동화재탐지설비의 설치기준으로 옳지 않은 것은?",
+      "options": [
+        "경계구역은 건축물의 최소 2개 이상의 층에 걸치도록 할 것",
+        "하나의 경계구역의 면적은 600m2 이하로 할 것",
+        "감지기는 지붕 또는 벽의 옥내에 면한 부분에 유효하게 화재의 발생을 감지할 수 있도록 설치할 것",
+        "비상전원을 설치할 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q142",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "연소할 때 연기가 거의 나지 않아 밝은 곳에서 연소상태를 잘 느끼지 못하는 물질로 독성이 매우 강해, 먹으면 실명 또는 사망에 이를 수 있는 것은?",
+      "options": [
+        "메틸알코올",
+        "에틸알코올",
+        "등유",
+        "경유",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q143",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 옥내저장소 저장창고의 바닥은 물이 스며 나오거나 스며들지 아니하는 구조로 하여야 한다. 다음 중 반드시 이 구조로 하지 않아도 되는 위험물은?",
+      "options": [
+        "제1류 위험물 중 알칼리금속의 과산화물",
+        "제4류 위험물",
+        "제5류 위험물",
+        "제2류 위험물 중 철분",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q144",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 제조소에서 취급하는 제4류 위험물의 최대수량의 합이 지정수량의 12만배 미만인 사업소에 두어야 하는 화학소방자동차 및 자체소방대원의 수의 기준으로 옳은 것은?",
+      "options": [
+        "1대 – 5인",
+        "2대 – 10인",
+        "3대 – 15인",
+        "4대 – 20인",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q145",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "가솔린의 연소범위(vol%)에 가장 가까운 것은?",
+      "options": [
+        "1.4 ~ 7.6",
+        "8.3 ~ 11.4",
+        "12.5 ~ 19.7",
+        "22.3 ~ 32.8",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q146",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 품명이 나머지 셋과 다른 하나는?",
+      "options": [
+        "트리니트로톨루엔",
+        "니트로글리세린",
+        "니트로글리콜",
+        "셀룰로이드",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q147",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 위험물안전관리법에서 정의한 “제조소”의 의미로 가장 옳은 것은?",
+      "options": [
+        "“제조소”라 함은 위험물을 제조할 목적으로 지정수량 이상의 위험물을 취급하기 위하여 허가를 받은 장소임",
+        "“제조소”라 함은 지정수량 이상의 위험물을 제조할 목적으로 위험물을 취급하기 위하여 허가를 받은 장소임",
+        "“제조소”라 함은 지정수량 이상의 위험물을 제조할 목적으로 지정수량 이상의 위험물을 취급하기 위하여 허가를 받은 장소임",
+        "“제조소”라 함은 위험물을 제조할 목적으로 위험물을 취급하기 위하여 허가를 받은 장소임",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q148",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 위험물 운반 시 방수성 덮개를 하지 않아도 되는 위험물은?",
+      "options": [
+        "나트륨",
+        "적린",
+        "철분",
+        "과산화칼륨",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q149",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 운반차량에 혼재해서 적재할 수 없는 것은?(단, 각각의 지정수량은 10배인 경우이다.)",
+      "options": [
+        "염소화규소화합물 – 특수인화물",
+        "고형알코올 – 니트로화합물",
+        "염소산염류 – 질산",
+        "질산구아니딘 – 황린",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q150",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "제4류 위험물의 화재예방 및 취급방법으로 옳지 않은 것은?",
+      "options": [
+        "이황화탄소는 물 속에 저장한다.",
+        "아세톤은 일광에 의해 분해될 수 있으므로 갈색병에 보관한다.",
+        "초산은 내산성 용기에 저장하여야 한다.",
+        "건성유는 다공성 가연물과 함께 보관한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q151",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 운송책임자의 감독 ‧ 지원을 받아 운송하여야 하는 위험물에 해당하는 것은?",
+      "options": [
+        "특수인화물",
+        "알킬리튬",
+        "질산구아니딘",
+        "히드라진 유도체",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q152",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 산화성고체 위험물에 속하지 않는 것은?",
+      "options": [
+        "Na2O2",
+        "HCIO4",
+        "NH4CIO4",
+        "KCIO3",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q153",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "질산암모늄에 대한 설명으로 옳은 것은?",
+      "options": [
+        "물에 녹을 때 발열반응을 한다.",
+        "가열하면 폭발적으로 분해하여 산소와 암모니아를 생성한다.",
+        "소화방법으로 질식소화가 좋다.",
+        "단독으로도 급격한 가열, 충격으로 분해 ‧ 폭발할 수 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q154",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "상온에서 액체인 물질로만 조합된 것은?",
+      "options": [
+        "질산메틸, 니트로글리세린",
+        "피크린산, 질산메틸",
+        "트리니트로톨루엔, 디니트로벤젠",
+        "니트로글리콜, 테트릴",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q155",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 위험물 운반용기의 외부에 표시하여야 하는 사항에 해당하지 않는 것은?",
+      "options": [
+        "위험물에 따라 규정된 주의사항",
+        "위험물의 지정수량",
+        "위험물의 수량",
+        "위험물의 품명",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q156",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "니트로화합물, 니트로소화합물, 질산에스테르류, 히드록실아민을 각각 50킬로그램씩 저장하고 있을 때 지정수량의 배수가 가장 큰 것은?(관련 규정 개정전 문제로 여기서는 기존 정답인 3번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "니트로화합물",
+        "니트로소화합물",
+        "질산에스테르류",
+        "히드록실아민",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q157",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 위험물 중 착화온도가 가장 높은 것은?",
+      "options": [
+        "이황화탄소",
+        "디에틸에테르",
+        "아세트알데히드",
+        "산화프로필렌",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q158",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "저장 또는 취급하는 위험물의 최대수량이 지정수량의 500배 이하일 때 옥외저장탱크의 측면으로부터 몇 m 이상의 보유공지를 유지하여야 하는가?(단, 제6류 위험물은 제외한다.)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q159",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "적린이 연소하였을 때 발생하는 물질은?",
+      "options": [
+        "인화수소",
+        "포스겐",
+        "오산화인",
+        "이산화황",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q160",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "니트로글리세린은 여름철(30°C)과 겨울철(0°C)에 어떤 상태인가?",
+      "options": [
+        "여름-기체, 겨울-액체",
+        "여름-액체, 겨울-액체",
+        "여름-액체, 겨울-고체",
+        "여름-고체, 겨울-고체",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q161",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "동 ‧ 식물유류에 대한 설명 중 틀린 것은?",
+      "options": [
+        "연소하면 열에 의해 액온이 상승하여 화재가 커질 위험이 있다.",
+        "요오드값이 낮을수록 자연발화의 위험이 높다.",
+        "동유는 건성유이므로 자연발화의 위험이 있다.",
+        "요오드값이 100 ~ 130 인 것을 반건성유라고 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q162",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물의 인화점에 대한 설명으로 옳은 것은?",
+      "options": [
+        "톨루엔이 벤젠보다 낮다.",
+        "피리딘이 톨루엔보다 낮다.",
+        "벤젠이 아세톤보다 낮다.",
+        "아세톤이 피리딘보다 낮다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q163",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 지정수량이 50kg 인 것은?",
+      "options": [
+        "KMnO4",
+        "KCIO2",
+        "NaIO3",
+        "NH4NO3",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q164",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "특수인화물 200L 와 제4석유류 12000L를 저장할 때 각각의 지정수량 배수의 합은 얼마인가?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q165",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "저장하는 위험물의 최대수량이 지정수량의 15배일 경우, 건축물의 벽 ‧ 기둥 및 바닥이 내화구조로 된 위험물옥내저장소의 보유공지는 몇 m 이상이어야 하는가?",
+      "options": [
+        "0.5",
+        "1",
+        "2",
+        "3",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q166",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "제조소등의 위치 ‧ 구조 또는 설비의 변경 없이 해당 제조소등에서 저장하거나 취급하는 위험물의 품명 ‧ 수량 또는 지정수량의 배수를 변경하고자 하는 자는 변경하고자 하는 날의 며칠 전까지 총리령이 정하는 바에 따라 시 ‧ 도지사에게 신고하여야 하는가?(관련 규정 개정전 문제로 여기서는 기존 정답인 1번을 누르면 정답 처리 됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "7일",
+        "14일",
+        "21일",
+        "30일",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q167",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물의 저장방법에 대한 설명으로 옳은 것은?",
+      "options": [
+        "황화린은 알코올 또는 과산화물 속에 저장하여 보관한다.",
+        "마그네슘은 건조하면 분진폭발의 위험성이 있으므로 물에 습윤하여 저장한다.",
+        "적린은 화재예방을 위해 할로겐 원소와 혼합하여 저장한다.",
+        "수소화리튬은 저장용기에 아르곤과 같은 불활성 기체를 봉입한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q168",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "부틸리튬(n-Butyl lithium)에 대한 설명으로 옳은 것은?",
+      "options": [
+        "무색의 가연성고체이며 자극성이 있다.",
+        "증기는 공기보다 가볍고 점화원에 의해 산화의 위험이 있다.",
+        "화재발생시 이산화탄소소화설비는 적응성이 없다.",
+        "탄화수소나 다른 극성의 액체에 용해가 잘 되며 휘발성은 없다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q169",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "과산화벤조일과 과염소산의 지정수량의 합은 몇 kg 인가?",
+      "options": [
+        "310",
+        "350",
+        "400",
+        "500",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q170",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "질산과 과산화수소의 공통적인 성질을 옳게 설명한 것은?",
+      "options": [
+        "물보다 가볍다.",
+        "물에 녹는다.",
+        "점성이 큰 액체로서 환원제이다.",
+        "연소가 매우 잘된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q171",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "제3류 위험물 중 금수성 물질을 제외한 위험물에 적응성이 있는 소화설비가 아닌 것은?",
+      "options": [
+        "분말소화설비",
+        "스프링클러설비",
+        "옥내소화전설비",
+        "포소화설비",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q172",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령상 “연소의 우려가 있는 외벽”은 기산점이 되는 선으로부터 3m(2층 이상의 층에 대해서는 5m) 이내에 있는 제조소등의 외벽을 말하는데 이 기산점이 되는 선에 해당하지 않는 것은?",
+      "options": [
+        "동일 부지내의 다른 건축물과 제조소 부지 간의 중심선",
+        "제조소등에 인접한 도로의 중심선",
+        "제조소등이 설치된 부지의 경계선",
+        "제조소등의 외벽과 동일 부지내의 다른 건축물의 외벽간의 중심선",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q173",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물에 대한 설명으로 틀린 것은?",
+      "options": [
+        "과산화나트륨은 산화성이 있다.",
+        "과산화나트륨은 인화점이 매우 낮다.",
+        "과산화바륨과 염산을 반응시키면 과산화수소가 생긴다.",
+        "과산화바륨의 비중은 물보다 크다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q174",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물안전관리법령에 명기된 위험물의 운반용기 재질에 포함되지 않는 것은?",
+      "options": [
+        "고무류",
+        "유리",
+        "도자기",
+        "종이",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q175",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "염소산칼륨의 성질에 대한 설명으로 옳은 것은?",
+      "options": [
+        "가연성 고체이다.",
+        "강력한 산화제이다.",
+        "물보다 가볍다.",
+        "열분해하면 수소를 발생한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q176",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "황가루가 공기 중에 떠 있을 때의 주된 위험성에 해당하는 것은?",
+      "options": [
+        "수증기 발생",
+        "전기감전",
+        "분진폭발",
+        "인화성 가스 발생",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q177",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "위험물의 저장방법에 대한 설명 중 틀린 것은?",
+      "options": [
+        "황린은 공기와의 접촉을 피해 물속에 저장한다.",
+        "황은 정전기의 축적을 방지하여 저장한다.",
+        "알루미늄 분말은 건조한 공기 중에서 분진폭발의 위험이 있으므로 정기적으로 분무상의 물을 뿌려야 한다.",
+        "황화린은 산화제와의 혼합을 피해 격리해야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q178",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "정기점검 대상 제조소등에 해당하지 않는 것은?",
+      "options": [
+        "이동탱크저장소",
+        "지정수량 120배의 위험물을 저장하는 옥외저장소",
+        "지정수량 120배의 위험물을 저장하는 옥내저장소",
+        "이송취급소",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q179",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음은 P2S5 와 물의 화학반응이다. (  )에 알맞은 숫자를 차례대로 나열한 것은?",
+      "options": [
+        "2, 8, 5",
+        "2, 5, 8",
+        "8, 5, 2",
+        "8, 2, 5",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jy/jy20160124/jy20160124m59.gif"
+    },
+    {
+      "id": "dangerous_craftsman_q180",
+      "subject": "위험물기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "탄화칼슘의 성질에 대하여 옳게 설명한 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "공기 중에서 아르곤과 반응하여 불연성 기체를 발생한다.",
+        "공기 중에서 질소와 반응하여 유독한 기체를 낸다.",
+        "물과 반응하면 탄소가 생성된다.",
+        "물과 반응하여 아세틸렌 가스가 생성된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q181",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령상 옥내주유취급소에 있어서 해당 사무소 등의 출입구 및 피난구와 당해 피난구로 통하는 통로.계단 및 출입구에 무엇을 설치하게 하는가?",
+      "options": [
+        "화재감지기",
+        "스프링클러설비",
+        "자동화재탐지설비",
+        "유도등",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q182",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 스프링클러 설비의 소화작용으로 가장 거리가 먼 것은?",
+      "options": [
+        "질식작용",
+        "희석작용",
+        "냉각작용",
+        "억제작용",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q183",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 위험물안전관리법령에서 정한 지정수량이 나머지 셋과 다른 물질은?",
+      "options": [
+        "아세트산",
+        "히드라진",
+        "클로로벤젠",
+        "니트로벤젠",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q184",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "가연물이 되기 쉬운 조건이 아닌 것은?",
+      "options": [
+        "산소와 친화력이 클 것",
+        "열전도율이 클 것",
+        "발열량이 클 것",
+        "활성화에너지가 작을 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q185",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "Hallon 1211에 해당하는 물질의 분자식은?",
+      "options": [
+        "CBr2FCl",
+        "CF2ClBr",
+        "CCl2FBr",
+        "FC2BrCl",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q186",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령상 주유취급소에서의 위험물 취급 기준으로 옳지 않은 것은?",
+      "options": [
+        "자동차에 주유할 때에는 고정주유설비를 이용하여 직접 주유할 것",
+        "자동차에 경유 위험물을 주유할 때에는 자동차의 원동기를 반드시 정지시킬 것",
+        "고정주유설비에는 당해 주유설비에 접속한 전용탱크 또는 간이탱크의 배관 외의 것을 통하여서는 위험물을 공급하지 아니할 것",
+        "고정주유설비에 접속하는 탱크에 접속된 고정주유설비의 사용을 중지할 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q187",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "표준상태에서 탄소 1몰이 완전히 연소하면 몇 L의 이산화탄소가 생성되는가?",
+      "options": [
+        "11.2",
+        "22.4",
+        "44.8",
+        "56.8",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q188",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "제3류 위험물을 취급하는 제조소는 300명 이상을 수용할 수 있는 극장으로부터 몇 m 이상의 안전거리를 유지하여야 하는가?",
+      "options": [
+        "5",
+        "10",
+        "30",
+        "70",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q189",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 할로겐화합물 소화약제의 주된 소화효과는?",
+      "options": [
+        "부촉매효과",
+        "희석효과",
+        "파괴효과",
+        "냉각효과",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q190",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "과산화바륨과 물이 반응하였을 때 발생하는 것은?",
+      "options": [
+        "수소",
+        "산소",
+        "탄산가스",
+        "수성가스",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q191",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령에 따라 위험물을 유별로 정리하여 서로 1m 이상의 간격을 두었을 때 옥내저장소에서 함께 저장하는 것이 가능한 경우가 아닌 것은?",
+      "options": [
+        "제1류 위험물(알칼리금속의 과산화물 또는 이를 함유한 것을 제외한다)과 제5류 위험물을 저장하는 경우",
+        "제3류 위험물 중 알킬알루미늄과 제4류 위험물(알킬알루미늄 또는 알킬리튬을 함유한 것에 한한다)을 저장하는 경우",
+        "제1류 위험물과 제3류 위험물 중 금수성물질을 저장하는 경우",
+        "제2류 위험물 중 인화성고체와 제4류 위험물을 저장하는 경우",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q192",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "소화설비의 설치기준에서 유기과산화물 1,000kg은 몇 소요단위에 해당하는가?",
+      "options": [
+        "10",
+        "20",
+        "100",
+        "200",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q193",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리에 대한 설명 중 옳지 않은 것은?(관련 규정 개정전 문제로 여기서는 기존 정답인 4번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "이동탱크저장소는 위험물안전관리자 선임대상에 해당되지 않는다.",
+        "위험물안전관리자가 퇴직한 경우 퇴직한 날부터 30일 이내에 다시 안전관리자를 선임하여야 한다.",
+        "위험물안전관리자를 선임한 경우에는 선임한 날로부터 14일 이내에 소방본부장 또는 소방서장에게 신고하여야 한다.",
+        "위험물안전관리자가 일시적으로 직무를 수행할 수 없는 경우에는 안전교육을 받고 6개월 이상 실무 경력이 있는 사람을 대리자로 지정할 수 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q194",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "철분, 금속분, 마그네슘의 화재에 적응성이 있는 소화약제는?",
+      "options": [
+        "탄산수소염류분말",
+        "할로겐화합물",
+        "물",
+        "이산화탄소",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q195",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "주유취급소의 벽(담)에 유리를 부착할 수 있는 기준에 대한 설명으로 옳은 것은?",
+      "options": [
+        "유리 부착 위치는 주입구, 고정주유설비로부터 2m 이상 이격되어야 한다.",
+        "지반면으로부터 50센티미터를 초과하는 부분에 한하여 설치하여야 한다.",
+        "하나의 유리판 가로의 길이는 2m 이내로 한다.",
+        "유리의 구조는 기준에 맞는 강화유리로 하여야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q196",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령상 개방형 스프링클러 헤드를 이용하는 스프링클러설비에서 수동식 개방밸브를 개방 조작하는 데 필요한 힘은 얼마 이하가 되도록 설치하여야 하는가?",
+      "options": [
+        "5kg",
+        "10kg",
+        "15kg",
+        "20kg",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q197",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "제조소의 옥외에 모두 3개의 휘발유 취급탱크를 설치하고 그 주위에 방유제를 설치하고자 한다. 방유제 안에 설치하는 각 취급탱크의 용량이 5만L, 3만L, 2만L 일 때 필요한 방유제의 용량은 몇 L 이상인가?",
+      "options": [
+        "66000",
+        "60000",
+        "33000",
+        "30000",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q198",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "제1종 분말소화약제의 주성분으로 사용하는 것은?",
+      "options": [
+        "KHCO3",
+        "H2SO4",
+        "NaHCO3",
+        "NH4H2PO4",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q199",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "트리에틸알루미늄의 화재시 사용할 수 있는 소화약제(설비)가 아닌 것은?",
+      "options": [
+        "마른모래",
+        "팽창질석",
+        "팽창진주암",
+        "이산화탄소",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q200",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "금속화재를 옳게 설명한 것은?",
+      "options": [
+        "C급 화재이고, 표시색상은 청색이다.",
+        "C급 화재이고, 표시색상은 없다.",
+        "D급 화재이고, 표시색상은 청색이다.",
+        "D급 화재이고, 표시색상은 없다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q201",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "CH3COC2H5의 명칭 및 지정수량을 옳게 나타낸 것은?",
+      "options": [
+        "메틸에틸케톤, 50L",
+        "메틸에틸케톤, 200L",
+        "메틸에틸에테르, 50L",
+        "메틸에틸에테르, 200L",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q202",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령상 정기점검 대상인 제조소 등의 조건이 아닌 것은?",
+      "options": [
+        "예방규정 작성대상인 제조소 등",
+        "지하탱크저장소",
+        "이동탱크저장소",
+        "지정수량 5배의 위험물을 취급하는 옥외탱크를 둔 제조소",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q203",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물제조소 등의 종류가 아닌 것은?",
+      "options": [
+        "간이탱크저장소",
+        "일반취급소",
+        "이송취급소",
+        "이동판매취급소",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q204",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 물질 중 물에 대한 용해도가 가장 낮은 것은?",
+      "options": [
+        "아크릴산",
+        "아세트알데히드",
+        "벤젠",
+        "글리세린",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q205",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "니트로글리세린에 관한 설명으로 틀린 것은?",
+      "options": [
+        "상온에서 액체 상태이다.",
+        "물에는 잘 녹지만 유기용제에는 녹지 않는다.",
+        "충격 및 마찰에 민감하므로 주의해야 한다.",
+        "다이너마이트의 원료로 쓰인다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q206",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "1차 알코올에 대한 설명으로 가장 적절한 것은?",
+      "options": [
+        "OH기의 수가 하나이다.",
+        "OH기가 결합된 탄소 원자에 붙은 알킬기의 수가 하나이다.",
+        "가장 간단한 알코올이다.",
+        "탄소의 수가 하나인 알코올이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q207",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령상 제4류 위험물 운반용기의 외부에 표시하여야 하는 주의사항을 모두 옳게 나타낸 것은?",
+      "options": [
+        "화기엄금 및 충격주의",
+        "가연물 접촉주의",
+        "화기엄금",
+        "화기주의 및 충격주의",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q208",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 지정수량이 가장 큰 것은?(관련 규정 개정전 문제로 여기서는 기존 정답인 2번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "과염소산칼륨",
+        "트리니트로톨루엔",
+        "황린",
+        "유황",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q209",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "알루미늄분이 염산과 반응하였을 경우 생성되는 가연성가스는?",
+      "options": [
+        "산소",
+        "질소",
+        "메탄",
+        "수소",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q210",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령상 벌칙의 기준이 나머지 셋과 다른 하나는?(관련 규정 개정전 문제로 여기서는 기존 정답인 4번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "제조소등에 대한 긴급 사용정지 제한 명령을 위반한 자",
+        "탱크시험자로 등록하지 아니하고 탱크시험자의 업무를 한 자",
+        "저장소 또는 제조소 등이 아닌 장소에서 지정수량 이상의 위험물을 저장 또는 취급한 자",
+        "제조소 등의 완공검사를 받지 아니하고 위험물을 저장.취급한 자",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q211",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령상 운송책임자의 감독 지원을 받아 운송하여야 하는 위험물에 해당하는 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "알킬알루미늄, 산화프로필렌, 알킬리튬",
+        "알킬알루미늄, 산화프로필렌",
+        "알킬알루미늄, 알킬리튬",
+        "산화프로필렌, 알킬리튬",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q212",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음은 위험물을 저장하는 탱크의 공간용적 산정기준이다. ( )에 알맞은 수치로 옳은 것은?",
+      "options": [
+        "7, 1/100",
+        "7, 5/100",
+        "10, 1/100",
+        "10, 5/100",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/jy/jy20151010/jy20151010m32.gif"
+    },
+    {
+      "id": "dangerous_craftsman_q213",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "분자량이 약 110인 무기과산화물로 물과 접촉하여 발열하는 것은?",
+      "options": [
+        "과산화마그네슘",
+        "과산화벤젠",
+        "과산화칼슘",
+        "과산화칼륨",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q214",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령에서 정한 알킬알루미늄 등을 저장 또는 취급하는 이동탱크 저장소에 비치해야 하는 물품이 아닌 것은?",
+      "options": [
+        "방호복",
+        "고무장갑",
+        "비상조명등",
+        "휴대용확성기",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q215",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 산을 가하면 이산화염소를 발생시키는 물질로 분자량이 약 90.5인 것은?",
+      "options": [
+        "아염소산나트륨",
+        "브롬산나트륨",
+        "옥소산칼륨(요오드산칼륨)",
+        "중크롬산나트륨",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q216",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령에서 정한 주유취급소의 고정주유설비 주위에 보유하여야 하는 주유공지의 기준은?",
+      "options": [
+        "너비 10m 이상 길이 6m 이상",
+        "너비 15m 이상 길이 6m 이상",
+        "너비 10m 이상 길이 10m 이상",
+        "너비 15m 이상 길이 10m 이상",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q217",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령에서 정한 소화설비의 설치기준에 따라 다음 ( )에 알맞은 숫자를 차례대로 나타낸 것은?",
+      "options": [
+        "50, 1",
+        "50, 2",
+        "100, 1",
+        "100, 2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jy/jy20151010/jy20151010m37.gif"
+    },
+    {
+      "id": "dangerous_craftsman_q218",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "과산화벤조일 취급시 주의사항에 대한 설명 중 틀린 것은?",
+      "options": [
+        "수분을 포함하고 있으면 폭발하기 쉽다.",
+        "가열,충격,마찰을 피해야 한다.",
+        "저장용기는 차고 어두운 곳에 보관한다.",
+        "희석제를 첨가하여 폭발성을 낮출 수 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q219",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령상 다음 ( )에 알맞은 수치를 모두 합한 것은?",
+      "options": [
+        "349.36",
+        "549.36",
+        "337.49",
+        "537.49",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jy/jy20151010/jy20151010m39.gif"
+    },
+    {
+      "id": "dangerous_craftsman_q220",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령에서 정한 아세트알데히드 등을 취급하는 제조소의 특례에 따라 \"아세트 알데히드등을 취급하는 설비는 ( ) ,( ),동,(  ) 또는 이들을 성분으로 하는 합금으로 만들지 아니할것\"의 지문중 ( )에 해당하지 않는 것은?",
+      "options": [
+        "금",
+        "은",
+        "수은",
+        "마그네슘",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q221",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "C6H2(NO2)3OH와 CH3NO3의 공통성질에 해당하는 것은?",
+      "options": [
+        "니트로화합물이다.",
+        "인화성과 폭발성이 있는 액체이다.",
+        "무색의 방향성 액체이다.",
+        "에탄올에 녹는다",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q222",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "제4류 위험물에 대한 일반적인 설명으로 옳지 않은 것은?",
+      "options": [
+        "대부분 연소 하한값이 낮다.",
+        "발생증기는 가연성이며 대부분 공기보다 무겁다.",
+        "대부분 무기화합물이므로 정전기 발생에 주의한다.",
+        "인화점이 낮을수록 화재 위험성이 높다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q223",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "분말의 형태로서 150마이크로미터의 체를 통과하는 것이 50중량퍼센트 이상인 것만 위험물로 취급되는 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "Zn",
+        "Fe",
+        "Ni",
+        "Ca",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q224",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "과염소산칼륨의 성질에 관한 설명 중 틀린 것은?",
+      "options": [
+        "무색,무취의 결정이다.",
+        "알코올, 에테르에 잘 녹는다.",
+        "진한 황산과 접촉하면 폭발할 위험이 있다.",
+        "400℃ 이상으로 가열하면 분해하여 산소가 발생할 수 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q225",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물제조소의 환기설비 중 급기구는 급기구가 설치된 실의 바닥면적 몇 m2마다 1개 이상으로 설치하여야 하는가?",
+      "options": [
+        "100",
+        "150",
+        "200",
+        "800",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q226",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "살충제 원료로 사용되기도 하는 암회색 물질로 물과 반응하여 포스핀 가스를 발생할 위험이 있는 것은?",
+      "options": [
+        "인화아연",
+        "수소화나트륨",
+        "칼륨",
+        "나트륨",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q227",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령상 예방규정을 정하여야 하는 제조소 등의 관계인은 위험물제조소 등에 대하여 기술기준에 적합한지의 여부를 정기적으로 점검을 하여야 한다. 법적 최소 점검주기에 해당하는 것은?(단, 100만 리터 이상의 옥외탱크 저장소는 제외한다)",
+      "options": [
+        "월 1회 이상",
+        "6개월 1회 이상",
+        "연 1회 이상",
+        "2년 1회 이상",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q228",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령상 이동탱크저장소에 의한 위험물의 운송 시 장거리에 걸친 운송을 하는 때에는 2명 이상의 운전자로 하는 것이 원칙이다. 다음 중 예외적으로 1명의 운전자가 운송하여도 되는 경우의 기준으로 옳은 것은?",
+      "options": [
+        "운송도중에 2시간 이내마다 10분 이상씩 휴식하는 경우",
+        "운송도중에 2시간 이내마다 20분 이상씩 휴식하는 경우",
+        "운송도중에 4시간 이내마다 10분 이상씩 휴식하는 경우",
+        "운송도중에 4시간 이내마다 20분 이상씩 휴식하는 경우",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q229",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령상 산화성 액체에 대한 설명으로 옳은 것은?",
+      "options": [
+        "과산화수소는 농도와 밀도가 비례한다.",
+        "과산화수소는 농도가 높을수록 끓는점이 낮아진다.",
+        "질산은 상온에서 불연성이지만 고온으로 가열하면 스스로 발화한다.",
+        "질산을 황산과 일정 비율로 혼합하여 왕수를 제조할 수 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q230",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 물질 중 인화점이 가장 높은 것은?",
+      "options": [
+        "아세톤",
+        "디에틸에테르",
+        "에탄올",
+        "벤젠",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q231",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "니트로셀룰로오스의 위험성에 대하여 옳게 설명한 것은?",
+      "options": [
+        "물과 혼합하면 위험성이 감소한다.",
+        "공기 중에서 산화되지만 자연발화의 위험은 없다.",
+        "건조할수록 발화의 위험성이 낮다.",
+        "알코올과 반응하여 발화한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q232",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "휘발유의 성질 및 취급시의 주의사항에 관한 설명 중 틀린 것은?",
+      "options": [
+        "증기가 모여 있지 않도록 통풍을 잘 시킨다.",
+        "인화점이 상온이므로 상온 이상에서는 취급시 각별한 주의가 필요하다.",
+        "정전기 발생에 주의해야 한다.",
+        "강산화제 등과 혼촉시 발화할 위험이 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q233",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "제2류 위험물에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "대부분 물보다 가벼우므로 주수소화는 어려움이 있다.",
+        "점화원으로부터 멀리하고 가열을 피한다.",
+        "금속분은 물과의 접촉을 피한다.",
+        "용기파손으로 인한 위험물의 누설에 주의한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q234",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "아세트산에틸의 일반 성질 중 틀린 것은?",
+      "options": [
+        "과일냄새를 가진 휘발성 액체이다.",
+        "증기는 공기보다 무거워 낮은 곳에 체류한다.",
+        "강산화제와의 혼촉은 위험하다.",
+        "인화점은 -20℃ 이하이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q235",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령에서 정하는 위험등급 Ⅱ에 해당하지 않는 것은?",
+      "options": [
+        "제1류 위험물 중 질산염류",
+        "제2류 위험물 중 적린",
+        "제3류 위험물 중 유기금속화합물",
+        "제4류 위험물 중 제2석유류",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q236",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "유황의 특성 및 위험성에 대한 설명 중 틀린 것은?",
+      "options": [
+        "산화성 물질이므로 환원성 물질과 접촉을 피해야 한다.",
+        "전기의 부도체이므로 전기 절연체로 쓰인다.",
+        "공기 중 연소시 유해가스를 발생한다.",
+        "일반상태의 경우 분진폭발의 위험성이 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q237",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "공기를 차단하고 황린을 약 몇 ℃로 가열하면 적린이 생성되는가?",
+      "options": [
+        "60",
+        "100",
+        "150",
+        "260",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q238",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "위험물안전관리법령상 제4석유류를 저장하는 옥내저장탱크의 용량은 지정수량의 몇 배 이하이어야 하는가?",
+      "options": [
+        "20",
+        "40",
+        "100",
+        "150",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q239",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "알루미늄 분말의 저장 방법 중 옳은 것은?",
+      "options": [
+        "에틸알코올 수용액에 넣어 보관한다.",
+        "밀폐 용기에 넣어 건조한 것에 보관한다.",
+        "폴리에틸렌병에 넣어 수분이 많은 곳에 보관한다.",
+        "염산 수용액에 넣어 보관한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "dangerous_craftsman_q240",
+      "subject": "위험물기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "나트륨에 관한 설명으로 옳은 것은?",
+      "options": [
+        "물보다 무겁다.",
+        "융점이 100℃ 보다 높다.",
+        "물과 격렬히 반응하여 산소를 발생시키고 발열한다.",
+        "등유는 반응이 일어나지 않아 저장에 사용된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    }
+  ]
+}

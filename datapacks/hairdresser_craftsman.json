@@ -1,0 +1,3605 @@
+{
+  "pack_name": "미용사(일반) 기출 팩",
+  "questions": [
+    {
+      "id": "hairdresser_craftsman_q1",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "주로 짧은 헤어스타일의 헤어커트 시 두부 상부에 있는 두발은 길고 하부로 갈수록 짧게 커트해서 두발의 길이에 작은 단차가 생기게 한 커트 기법은?",
+      "options": [
+        "스퀘어 커트 (square cut)",
+        "원랭스 커트 (one length cut)",
+        "레이어 커트 (layer cut)",
+        "그라데이션 커트 (gradat cut)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q2",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "한국의 고대 미용의 발달사를 설명한 것 중 틀린 것 은?",
+      "options": [
+        "헤어스타일(모발형)에 관해서 문헌에 기록된 고구려 벽화는 없었다.",
+        "헤어스타일(모발형)은 신분의 귀천을 나타냈다.",
+        "헤어스타일(모발형)은 조선시대 때 쪽진머리, 큰머리, 조짐머리가 성행하였다.",
+        "헤어스타일(모발형)에 관해서 삼한시대에 기록된 내용이 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q3",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "미용의 필요성으로 가장 거리가 먼 것은?",
+      "options": [
+        "인간의 심리적 욕구를 만족시키고 생산의욕을 높이 는데 도움을 주므로 필요하다.",
+        "미용의 기술로 외모의 결점 부분까지도 보완하여 개 성미를 연출해주므로 필요하다,",
+        "노화를 전적으로 방지해주므로 필요하다.",
+        "현대생활에서는 상대방에게 불쾌감을 주지 않는 것이 중요하므로 필요하다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q4",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "프라이머의 사용 방법이 아닌 것은?",
+      "options": [
+        "프라이머는 한 번만 바른다.",
+        "주요 성분은 메타크릴릭산(methacrylic acid)이다.",
+        "피부에 닿지 않게 조심해서 다루어야 한다.",
+        "아크릴 볼이 잘 접착되도록 자연 손톱에 바른다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q5",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "동물의 부드럽고 긴 털을 사용한 것이 많고 얼굴이나 턱에 붙은 털이나 비듬 또는 백분을 떨어내는데 사용 하는 브러시는?",
+      "options": [
+        "포마드 브러시",
+        "쿠션 브러시",
+        "훼이스 브러시",
+        "롤 브러시",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q6",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "누에고치에서 추출한 성분과 난황성분을 함유한 샴푸제로서 모발에 영양을 공급해 주는 샴푸는?",
+      "options": [
+        "산성 샴푸 (acid shampoo)",
+        "컨디셔닝 샴푸 (conditioning shampoo)",
+        "프로테인 샴푸 (protein shampoo)",
+        "드라이 샴푸 (dry shampoo)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q7",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "전체적인 머리모양을 종합적으로 관찰하여 수정 보완시켜 완전히 끝맺도록 하는 것은?",
+      "options": [
+        "통칙",
+        "제작",
+        "보정",
+        "구상",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q8",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "과산화수소(산화제) 6%의 설명이 맞는 것은?",
+      "options": [
+        "10볼륨",
+        "20볼륨",
+        "30볼륨",
+        "40볼륨",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q9",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "헤어세트용 빗의 사용과 취급방법에 대한 설명 중 틀린 것은?",
+      "options": [
+        "두발의 흐름을 아름답게 매만질 때는 빗살이 고운살 로 된 세트빗을 사용한다.",
+        "엉킨 두발을 빗을 때는 빗살이 얼레살로 된 얼레빗을 사용한다.",
+        "빗은 사용 후 브러시로 털거나 비눗물에 담가 브러시 로 닦은 후 소독하도록 한다.",
+        "빗의 소독은 손님 약 5인에게 사용했을 때 1회씩 하는 것이 적합하다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q10",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "마셀웨이브 시술에 관한 설명 중 틀린 것은?",
+      "options": [
+        "프롱은 아래쪽, 그루브는 위쪽을 향하도록 한다.",
+        "아이론의 온도는 120~140℃를 유지시킨다.",
+        "아이론을 회전시키기 위해서는 먼저 아이론을 정확 하게 쥐고 반대쪽에 45˚ 각도로 위치시킨다.",
+        "아이론의 온도가 균일할 때 웨이브가 일률적으로 완성된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q11",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "모발의 결합 중 수분에 의해 일시적으로 변형되며, 드라이어의 열을 가하면 다시 재결합 되어 형태가 만들어지는 결합은?",
+      "options": [
+        "s-s 결합",
+        "펩타이드 결합",
+        "수소결합",
+        "염 결합",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q12",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 염색시술시 모표피의 안정과 염색의 퇴색 을 방지하기 위해 가장 적합한 것은?",
+      "options": [
+        "샴푸 (shampoo)",
+        "플레인 린스 (plain rinse)",
+        "알칼리 린스 (akali rinse)",
+        "산성균형 린스 (acid balanced rinse)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q13",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "원형 얼굴을 기본형에 가깝도록 하기 위한 각 부위 의 화장법으로 맞는 것은?",
+      "options": [
+        "얼굴의 양 관자놀이 부분을 화사하게 해준다.",
+        "이마와 턱의 중간부는 어둡게 해준다.",
+        "눈썹은 활모양이 되지 않도록 약간 치켜 올린듯하게 그린다.",
+        "콧등은 뚜렷하고 자연스럽게 뻗어 나가도록 어둡게 표현한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q14",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "두부 라인의 명칭 중에서 코의 중심을 통해 두부 전체를 수직으로 나누는 선은?",
+      "options": [
+        "정중선",
+        "측중선",
+        "수평선",
+        "측두선",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q15",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 스퀘어 파트에 대하여 설명한 것은?",
+      "options": [
+        "이마의 양쪽은 사이드 파트를 하고, 두정부 가까이 에서 얼굴의 두발이 난 가장자리와 수평이 되도록 모나게 가르마를 타는 것",
+        "이마의 양각에서 나누어진 선이 두정부에서 함께 만난 세모꼴의 가르마를 타는 것",
+        "사이드(side)파트로 나눈 것",
+        "파트의 선이 곡선으로 된 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q16",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "헤어 샴푸의 목적과 가장 거리가 먼 것은?",
+      "options": [
+        "두피와 두발에 영양을 공급",
+        "헤어트리트먼트를 쉽게 할 수 있는 기초",
+        "두발의 건전한 발육 촉진",
+        "청결한 두피와 두발을 유지",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q17",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "건강모발의 pH 범위는?",
+      "options": [
+        "pH 3-4",
+        "pH 4.5-5.5",
+        "pH 6.5-7.5",
+        "pH 8.5-9.5",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q18",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "옛 여인들의 머리 모양 중 뒤통수에 낮게 머리를 땋아 틀어 올리고 비녀를 꽂은 머리 모양은?",
+      "options": [
+        "민머리",
+        "얹은머리",
+        "풍기병식 머리",
+        "쪽진 머리",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q19",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "다음은 모발의 구조와 성질을 설명한 내용이다. 맞지 않는 것은?",
+      "options": [
+        "두발은 주요 부분을 구성하고 있는 모표피, 모피질, 모수질 등으로 이루어졌으며, 주로 탄력성이 풍부한 단백질로 이루어져 있다.",
+        "케라틴은 다른 단백질에 비하여 유황의 함유량이 많은데, 황(s)은 시스틴(cystine)에 함유되어 있다.",
+        "시스틴 결합 (-s-s)은 알칼리에는 강한 저항력을 갖고 있으나 물, 알코올, 약 산성이나 소금류에 대해서 약하다.",
+        "케라틴의 폴리펩타이드는 쇠사슬 구조로서, 두발의 장축방향(長軸方向)으로 배열되어있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q20",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "퍼머 2액의 취소산 염류의 농도로 맞는 것은?",
+      "options": [
+        "1 ~ 2%",
+        "3 ~ 5%",
+        "6 ~ 7.5%",
+        "8 ~ 9.5%",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q21",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "고기압 상태에서 올 수 있는 인체 장애는?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "안구 진탕증",
+        "잠함병",
+        "레이노이드병",
+        "섬유증식증",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q22",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "접촉자의 색출 및 치료가 가장 중요한 질병은?",
+      "options": [
+        "성병",
+        "암",
+        "당뇨병",
+        "일본뇌염",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q23",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 기생충 중 산란과 동시에 감염능력이 있으며 건조에 저항성이 커서 집단감염이 가장 잘되는 기생충은?",
+      "options": [
+        "회충",
+        "십이지장충",
+        "광절열두조충",
+        "요충",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q24",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "보건행정의 정의에 포함되는 내용과 가장 거리가 먼 것은?",
+      "options": [
+        "국민의 수명연장",
+        "질병예방",
+        "공적인 행정활동",
+        "수질 및 대기보전",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q25",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "생물학적 산소요구량(BOD)과 용존산소량(DO)의 값은 어떤 관계가 있는가?",
+      "options": [
+        "BOD와 DO는 무관하다.",
+        "BOD가 낮으면 DO는 낮다.",
+        "BOD가 높으면 DO는 낮다.",
+        "BOD가 높으면 DO도 높다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q26",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "장티푸스, 결핵, 파상풍 등의 예방접종은 어떤 면역 인가?",
+      "options": [
+        "인공 능동면역",
+        "인공 수동면역",
+        "자연 능동면역",
+        "자연 수동면역",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q27",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "식품을 통한 식중독 중 독소형 식중독은?",
+      "options": [
+        "포도상구균 식중독",
+        "살모넬라균에 의한 식중독",
+        "장염 비브리오 식중독",
+        "병원성 대장균 식중독",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q28",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "야간작업의 폐해가 아닌 것은?",
+      "options": [
+        "주야가 바뀐 부자연스런 생활",
+        "수면 부족과 불면증",
+        "피로회복 능력 강화와 영양 저하",
+        "식사시간, 습관의 파괴로 소화불량",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q29",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "일반적으로 이˙미용업소의 실내 쾌적 습도 범위로 가 장 알맞은 것은?",
+      "options": [
+        "10 ~ 20%",
+        "20 ~ 40%",
+        "40 ~ 70%",
+        "70 ~ 90%",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q30",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 환경보전에 영향을 미치는 공해 발생원인 으로 관계가 먼 것은?",
+      "options": [
+        "실내의 흡연",
+        "산업장 폐수방류",
+        "공사장의 분진 발생",
+        "공사장의 굴착작업",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q31",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "소독과 멸균에 관련된 용어 해설 중 틀린 것은?",
+      "options": [
+        "살균: 생활력을 가지고 있는 미생물을 여러 가지 물리. 화학적 작용에 의해 급속히 죽이는 것을 말한다.",
+        "방부: 병원성 미생물의 발육과 그 작용을 제거하거나 정지시켜서 음식물의 부패나 발효를 방지 하는 것을 말한다.",
+        "소독: 사람에게 유해한 미생물을 파괴시켜 감염의 위험성을 제거하는 비교적 강한 살균작용으로 세균의 포자까지 사멸하는 것을 말한다.",
+        "멸균: 병원성 또는 비병원성 미생물 및 포자를 가진 것을 전부 사멸 또는 제거하는 것을 말한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q32",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "이상적인 소독제의 구비조건과 거리가 먼 것은?",
+      "options": [
+        "생물학적 작용을 충분히 발휘할 수 있어야 한다.",
+        "빨리 효과를 내고 살균 소요시간이 짧을수록 좋다.",
+        "독성이 적으면서 사용자에게도 자극성이 없어야 한다.",
+        "원액 혹은 희석된 상태에서 화학적으로는 불안정된 것이라야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q33",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "소독약 10mL를 용액(물) 40mL에 혼합시키면 몇%의 수용액이 되는가?",
+      "options": [
+        "2%",
+        "10%",
+        "20%",
+        "50%",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q34",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "건열멸균법에 대한 설명 중 틀린 것은?",
+      "options": [
+        "드라이 오븐(dry oven)을 사용한다.",
+        "유리제품이나 주사기 등에 적합하다.",
+        "젖은 손으로 조작하지 않는다.",
+        "110 ~ 130℃에서 1시간 내에 실시한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q35",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "이·미용업소에서 종업원이 손을 소독할 때 가장 보편 적이고 적당한 것은?",
+      "options": [
+        "승홍수",
+        "과산화수소",
+        "역성비누",
+        "석탄수",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q36",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "살균력이 좋고 자극성이 적어서 상처소독에 많이 사용되는 것은?",
+      "options": [
+        "승홍수",
+        "과산화수소",
+        "포르말린",
+        "석탄산",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q37",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 음용수의 소독에 사용되는 소독제는?",
+      "options": [
+        "표백분",
+        "염산",
+        "과산화수소",
+        "요오드팅크",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q38",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 음료수의 소독방법으로 가장 적당한 방법은?",
+      "options": [
+        "일광소독",
+        "자외선등 사용",
+        "염소소독",
+        "증기소독",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q39",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "이·미용실의 기구(가위, 레이저) 소독으로 가장 적당한 약품은?",
+      "options": [
+        "70~80%의 알코올",
+        "100~200배 희석 역성비누",
+        "5% 크레졸비누액",
+        "50%의 페놀액",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q40",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "소독작용에 영향을 미치는 요인에 대한 설명으로 틀린 것은?",
+      "options": [
+        "온도가 높을수록 소독 효과가 크다.",
+        "유기물질이 많을수록 소독 효과가 크다.",
+        "접속시간이 길수록 소독 효과가 크다.",
+        "농도가 높을수록 소독 효과가 크다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q41",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 탄수화물, 지방, 단백질의 3가지 지칭하는 것은?",
+      "options": [
+        "구성영양소",
+        "열량영양소",
+        "조절영양소",
+        "구조영양소",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q42",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 기초화장품의 주된 사용 목적에 속하지 않는 것은?",
+      "options": [
+        "세안",
+        "피부정돈",
+        "피부보호",
+        "피부채색",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q43",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "상피조직의 신진대사에 관여하며 각화정상화 및 피부재생을 돕고 노화방지에 효과가 있는 비타민은?",
+      "options": [
+        "비타민 C",
+        "비타민 E",
+        "비타민 A",
+        "비타민 K",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q44",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 일반적으로 건강한 모발의 상태는?",
+      "options": [
+        "단백질 10~20%, 수분 10~15%, pH 2.5~4.5",
+        "단백질 20~30%, 수분 70~80%, pH 4.5~5.5",
+        "단백질 50~60%, 수분 25~40%, pH 7.5~8.5",
+        "단백질 70~80%, 수분 10~15%, pH 4.5~5.5",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q45",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 글리세린의 가장 중요한 작용은?",
+      "options": [
+        "소독작용",
+        "수분유지작용",
+        "탈수작용",
+        "금속염제거작용",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q46",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 멜라닌 색소를 함유하고 있는 부분은?",
+      "options": [
+        "모표피",
+        "모피질",
+        "모수질",
+        "모유두",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q47",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "피지선의 활성을 높여주는 호르몬은?",
+      "options": [
+        "안드로겐",
+        "에스트로겐",
+        "인슐린",
+        "멜라닌",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q48",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 식물성 오일이 아닌 것은?",
+      "options": [
+        "아보카도 오일",
+        "피마자 오일",
+        "올리브 오일",
+        "실리콘 오일",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q49",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "피부의 기능이 아닌 것은?",
+      "options": [
+        "피부는 강력한 보호 작용을 지니고 있다.",
+        "피부는 체온의 외부발산을 막고 외부온도 변화가 내 부로 전해지는 작용을 한다.",
+        "피부는 땀과 피지를 통해 노폐물을 분비, 배설 한다.",
+        "피부도 호흡한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q50",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "여러 가지 꽃 향의 혼합된 세련되고 로맨틱한 향으로 아름다운 꽃다발을 안고 있는 듯, 화려하면서도 우아한 느낌을 주는 향수의 타입은?",
+      "options": [
+        "싱글 플로럴 (single floral)",
+        "플로럴 부케 (floral boupuet)",
+        "우디 (woody)",
+        "오리엔탈 (oriental)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q51",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "공중위생관리법에서 규정하고 있는 공중위생영업의 종류에 해당되지 않는 것은?",
+      "options": [
+        "이·미용업",
+        "위생관리용영업",
+        "학원영업",
+        "세탁업",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q52",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "영업소 외의 장소에서 이·미용 업무를 행할 수 있는 경우가 아닌 것은?",
+      "options": [
+        "질병으로 영업소에 나올 수 없는 경우",
+        "결혼식 등의 의식 직전인 경우",
+        "손님의 간곡한 요청이 있을 경우",
+        "시장·군수·구청장이 인정하는 경우",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q53",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "영업자의 지위를 승계한 자로서 신고를 하지 아니하였을 경우 해당하는 처벌기준은?",
+      "options": [
+        "1년 이하의 징역 또는 1천만원 이하의 벌금",
+        "6월 이하의 징역 또는 500만원 이하의 벌금",
+        "200만원 이하의 벌금",
+        "100만원 이하의 벌금",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q54",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "공익상 또는 선량한 풍속유지를 위하여 필요하다고 인정하는 경우에 이·미용업의 영업시간 및 영업행위 에 관한 필요한 제한을 할 수 있는 자는?",
+      "options": [
+        "관련 전문기관 및 단체장",
+        "보건복지부장관",
+        "시·도지사",
+        "시장·군수·구청장",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q55",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 이·미용사 면허를 취득할 수 없는 자는?",
+      "options": [
+        "면허 취소 후 1년 경과자",
+        "독감환자",
+        "마약중독자",
+        "전과기록자",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q56",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "처분기준이 2백만원 이하의 과태료가 아닌 것은?",
+      "options": [
+        "규정을 위반하여 영업소 이외 장소에서 이·미용업무를 행한 자",
+        "위생교육을 받지 아니한 자",
+        "위생 관리 의무를 지키지 아니한 자",
+        "관계 공무원의 출입·검사·기타 조치를 거부·방해 또는 기피한 자",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q57",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 이·미용사 면허를 받을 수 없는 경우에 해당 하는 것은?",
+      "options": [
+        "전문대학 또는 동등 이상의 학력이 있다고 교육과학 기술부장관이 인정하는 학교에서 이용 또는 미용에 관한 학과 졸업자",
+        "교육과학기술부장관이 인정하는 인문계 학교에서 1년 이상 이·미용사자격을 취득한 자",
+        "국가기술자격법에 의한 이·미용사자격을 취득한 자",
+        "교육과학기술부장관이 인정한 고등기술학교에서 1년 이상 이·미용에 관한 소정의 과정을 이수한 자",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q58",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "이·미용기구의 소독기준 및 방법을 정한 것은?",
+      "options": [
+        "대통령령",
+        "보건복지부령",
+        "환경부령",
+        "보건소령",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q59",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "이·미용업자의 준수사항 중 틀린 것은?",
+      "options": [
+        "소독한 기구와 하지 아니한 기구는 각각 다른 용기에 넣어 보관할 것",
+        "조명은 75룩스 이상 유지되도록 할 것",
+        "신고증과 함께 면허증 사본을 게시할 것",
+        "1회용 면도날은 손님 1인에 한하여 사용할 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q60",
+      "subject": "미용사(일반)",
+      "round": "2011-10-09 기출",
+      "question_text": "공중위생관리법상의 위생교육에 대한 설명 중 옳은 것은?",
+      "options": [
+        "위생교육 대상자는 이·미용업 영업자이다.",
+        "위생교육 대상자는 이·미용사이다.",
+        "위생교육 시간은 매년 8시간이다.",
+        "위생교육은 공중위생관리법 위반자에 한하여 받는다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q61",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 용어의 설명으로 틀린 것은?",
+      "options": [
+        "버티컬 웨이브(vertical wave) : 웨이브 흐름이 수평",
+        "리세트(reset) : 세트를 다시 마는 것",
+        "호리존탈 웨이브(horizontal wave) : 웨이브 흐름이 가로 방향",
+        "오리지널 세트(original set) : 기초가 되는 최초의 세트",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q62",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "핑거 웨이브(finger wave)와 관계없는 것은?",
+      "options": [
+        "세팅로션, 물, 빗",
+        "크레스트(crest), 리지(ridge), 트로프(trough)",
+        "포워드비기닝(forward beginning), 리버스비기닝(reverse beginning)",
+        "테이퍼링(tapering), 싱글링(shingling)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q63",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "스캘프 트리트먼트(scalp treatment)의 시술과정에서 화학적 방법과 관련 없는 것은?",
+      "options": [
+        "양모제",
+        "헤어토닉",
+        "헤어크림",
+        "헤어스티머",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q64",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "빗(comb)의 손질법에 대한 설명으로 틀린 것은? (단, 금속 빗은 제외)",
+      "options": [
+        "빗살 사이의 때는 솔로 제거하거나 심한 경우는 비눗물에 담근 후 브러시로 닦고 나서 소독한다.",
+        "증기소독과 자비소독 등 열에 의한 소독과 알코올 소독을 해준다.",
+        "빗을 소독할 때는 크레졸수, 역성비누액 등이 이용되며 세정이 바람직하지 않은 재질은 자외선으로 소독한다.",
+        "소독용액에 오랫동안 담가두면 빗이 휘어지는 경우가 있어 주의하고 끄집어낸 후 물로 헹구고 물기를 제거 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q65",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 헤어블리치에 관한 설명으로 틀린 것은?",
+      "options": [
+        "과산화수소는 산화제이고 암모니아수는 알칼리제이다",
+        "헤어블리치는 산화제의 작용으로 두발의 색소를 옅게 한다.",
+        "헤어블리치제는 과산화수소에 암모니아수 소량을 더하여 사용한다.",
+        "과산화수소에서 방출된 수소가 멜라닌색소를 파괴시킨다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q66",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "네일 에나멜(nail enamel)에 함유된 주된 필름 형성제는?",
+      "options": [
+        "톨루엔(toluent)",
+        "메타크릴산(methacrylic acid)",
+        "니트로셀롤로우즈(nitro cellulose)",
+        "라놀린(lanoline)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q67",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "두발이 지나치게 건조해 있을 때나 두발의 염색에 실패했을 때의 가장 적합한 샴푸 방법은?",
+      "options": [
+        "플레인 샴푸",
+        "에그 샴푸",
+        "약산성 샴푸",
+        "토닉 샴푸",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q68",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "미용의 과정이 바른 순서로 나열된 것은?",
+      "options": [
+        "소재→구상→제작→보정",
+        "소재→보정→구상→제작",
+        "구상→소재→제작→보정",
+        "구상→제작→보정→소재",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q69",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 커트를 하기 위한 순서로 가장 옳은 것은?",
+      "options": [
+        "위그→수분→빗질→블로킹→슬라이스→스트랜드",
+        "위그→수분→빗질→블로킹→스트랜드→슬라이스",
+        "위그→수분→슬라이스→빗질→블로킹→스트랜드",
+        "위그→수분→스트랜드→빗질→블로킹→슬라이스",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q70",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "첩지에 대한 내용으로 틀린 것은?",
+      "options": [
+        "첩지의 모양은 봉과 개구리 등이 있다.",
+        "첩지는 조선시대 사대부의 예장 때 머리 위 가리마를 꾸미는 장식품이다.",
+        "왕비는 은 개구리첩지를 사용하였다.",
+        "첩지는 내명부나 외명부의 신분을 밝혀주는 중요한 표시이기도 했다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q71",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "레이어드 커트(layered cut) 의 특징이 아닌 것은?",
+      "options": [
+        "커트라인이 얼굴정면에서 네이프라인과 일직선인 스타일이다.",
+        "두피 면에서의 모발의 각도를 90도 이상으로 커트한다.",
+        "머리형이 가볍고 부드러워 다양한 스타일을 만들 수 있다.",
+        "네이프라인에서 탑 부분으로 올라가면서 모발의 길이가 점점 짧아지는 커트이다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q72",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "두발 커트시 두발 끝 1/3 정도를 테이퍼링 하는 것은?",
+      "options": [
+        "노멀 테이퍼링",
+        "딥 테이퍼링",
+        "앤드 테이퍼링",
+        "보스 사이드 테이퍼",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q73",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "시스테인 퍼머넌트에 대한 설명으로 틀린 것은?",
+      "options": [
+        "아미노산의 일종인 시스테인을 사용한 것이다",
+        "환원제로 티오글리콜산염이 사용 된다",
+        "모발에 대한 잔류성이 높아 주의가 필요하다",
+        "연모, 손상모의 시술에 적합하다",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q74",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "영구적 염모제에 대한 설명 중 틀린 것은?",
+      "options": [
+        "제 1액의 알칼리제로는 휘발성이라는 점에서 암모니아가 사용 된다.",
+        "제 2제인 산화제는 모피질내로 침투하여 수소를 발생시킨다.",
+        "제1제 속의 알칼리제가 모표피를 팽윤시켜 모피질내 인공색소와 과산화수소를 침투시킨다.",
+        "모피질내의 인공색소는 큰 입자의 유색 염료를 형성하여 영구적으로 착색된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q75",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "두피타입에 알맞은 스캘프 트리트먼트(scalp treatment)의 시술방법의 연결이 틀린 것은?",
+      "options": [
+        "건성두피- 드라이스캘프 트리트먼트",
+        "지성두피-오일리 스캘프 트리트먼트",
+        "비듬성두피-핫 오일스캘프 트리트먼트--댄드러프트리트먼트",
+        "정상두피-플레인 스캘프 트리트먼트",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q76",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "샴푸제의 성분이 아닌 것은?",
+      "options": [
+        "계면활성제",
+        "점증제",
+        "기포증진제",
+        "산화제",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q77",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "파운데이션 사용 시, 양 볼은 어두운색으로 이마 상단과 턱의 하부는 밝은 색으로 표현하면 좋은 얼굴형은?",
+      "options": [
+        "긴형",
+        "둥근형",
+        "사각형",
+        "삼각형",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q78",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "가위에 대한 설명 중 틀린 것은?",
+      "options": [
+        "양날의 견고함이 동일해야 한다.",
+        "가위의 길이나 무게가 미용사의 손에 맞아야 한다.",
+        "가위 날이 반듯하고 두꺼운 것이 좋다.",
+        "협신에서 날 끝으로 갈수록 약간 내곡선인 것이 좋다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q79",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "모발의 측쇄 결합으로 볼 수 없는 것은?",
+      "options": [
+        "시스틴결합(cystine bond)",
+        "염결합(salt bond)",
+        "수소결합(hydrogen bond)",
+        "폴리펩티드결합(Poly peptide bond)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q80",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "두발에서 퍼머넌트 웨이브의 형성과 직접 관련이 있는 아미노산은?",
+      "options": [
+        "시스틴(cystine)",
+        "알라닌(alanine)",
+        "멜라닌(melanin)",
+        "티로신(tyrosin)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q81",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "수질오염을 측정하는 지표로서 물에 녹아있는 유리산소를 의미하는 것은?",
+      "options": [
+        "용존산소(DO)",
+        "생물화학적산소요구량(BOD)",
+        "화학적산소요구량 (COD)",
+        "수소이온농도(pH)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q82",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "출생률보다 사망률이 낮으며 14세 이하인구가 65세 이상 인구의 2배를 초과하는 인구 구성형은?",
+      "options": [
+        "피라미드형",
+        "종형",
+        "항아리형",
+        "별형",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q83",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "보건행정에 대한 설명으로 가장 올바른 것은?",
+      "options": [
+        "공중보건의 목적을 달성하기 위해 공공의 책임하에 수행하는 행정활동",
+        "개인보건의 목적을 달성하기 위해 공공의 책임하에 수행하는 행정활동",
+        "국가 간의 질병교류를 막기 위해 공공의 책임하에 수행하는 행정활동",
+        "공중보건의 목적을 달성하기 위해 개인의 책임하에 수행하는 행정활동",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q84",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "콜레라 예방접종은 어떤 면역방법인가?",
+      "options": [
+        "인공수동면역",
+        "인공능동면역",
+        "자연수동면역",
+        "자연능동면역",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q85",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "기생충의 인체내 기생 부위 연결이 잘못된 것은?",
+      "options": [
+        "구충증- 폐",
+        "간흡충증-간의 담도",
+        "요충증- 직장",
+        "폐흡충 - 폐",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q86",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 불량 조명에 의해 발생되는 직업병이 아닌 것은?",
+      "options": [
+        "안정피로",
+        "근시",
+        "근육통",
+        "안구진탕증",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q87",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "주로 여름철에 발병하며 어패류 등에 생식이 원인이 되어 복통, 설사 등의 급성위장염 증상을 나타내는 식중독은?",
+      "options": [
+        "포도상구균식중독",
+        "병원성대장균식중독",
+        "장염비브리오식중독",
+        "보튤리누스균식중독",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q88",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 비타민(Vitamin)과 그 결핍증과의 연결이 틀린 것은?",
+      "options": [
+        "Vitamin B2-구순염",
+        "Vitamin D-구루병",
+        "Vitamin A-야맹증",
+        "Vitamin C-각기병",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q89",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "일반적으로 돼지고기 생식에 의해 감염될 수 없는 것은?",
+      "options": [
+        "유구조충",
+        "무구조충",
+        "선모충",
+        "살모넬라",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q90",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "실내에 다수인이 밀집한 상태에서 실내공기의 변화는?",
+      "options": [
+        "기온상승- 습도증가- 이산화탄소 감소",
+        "기온하강- 습도증가- 이산화탄소 감소",
+        "기온상승- 습도증가- 이산화탄소 증가",
+        "기온상승- 습도감소- 이산화탄소 증가",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q91",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "고압증기 멸균법에서 20파운드(Lbs)의 압력에서는 몇 분간 처리하는 것이 가장 적절한가?",
+      "options": [
+        "40분",
+        "30분",
+        "15분",
+        "5분",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q92",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "광견병의 병원체는 어디에 속하는가?",
+      "options": [
+        "세균 (bacteria)",
+        "바이러스(virus)",
+        "리케차(rickettsia)",
+        "진균(fungi)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q93",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 열에 대한 저항력이 커서 자비소독법으로 사멸되지 않는 균은?",
+      "options": [
+        "콜레라균",
+        "결핵균",
+        "살모넬라균",
+        "B형간염 바이러스",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q94",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "레이저(Razor) 사용 시 헤어살롱에서 교차 감염을 예방하기 위해 주의할 점이 아닌 것은?",
+      "options": [
+        "매 고객마다 새로 소독된 면도날을 사용해야 한다.",
+        "면도날을 매번 고객마다 갈아 끼우기 어렵지만, 하루에 한번은 반드시 새것으로 교체해야만 한다.",
+        "레이저 날이 한 몸체로 분리가 안 되는 경우 70%알코올을 적신 솜으로 반드시 소독 후 사용한다.",
+        "면도날을 재사용해서는 안 된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q95",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "손 소독과 주사할 때 피부소독 등에 사용되는 에틸알코올(ethylalcohol) 은 어느 정도의 농도에서 가장 많이 사용되는가?",
+      "options": [
+        "20%이하",
+        "60%이하",
+        "70~80%",
+        "90~100%",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q96",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "이ㆍ미용업소에서 일반적 상황에서의 수건 소독법으로 가장 적합한 것은?",
+      "options": [
+        "석탄산 소독",
+        "크레졸 소독",
+        "자비 소독",
+        "적외선 소독",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q97",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "이•미용업소에서 B형간염의 전염을 방지하려면 다음 중 어느 기구를 가장 철저히 소독하여야 하는가?",
+      "options": [
+        "수건",
+        "머리빗",
+        "면도칼",
+        "클리퍼(전동형)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q98",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "소독제의 살균력을 비교할 때 기준이 되는 소독약은?",
+      "options": [
+        "요오드",
+        "승호",
+        "석탄산",
+        "알코올",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q99",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "3%의 크레졸 비누액 900ml를 만드는 방법으로 옳은 것은?",
+      "options": [
+        "크레졸 원액 270ml 에 물 630ml를 가한다.",
+        "크레졸 원액27ml에 물 873ml를 가한다.",
+        "크레졸 원액 300ml에 물 600ml를 가한다.",
+        "크레졸 원액 200ml에 물 700ml를 가한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q100",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "소독약의 구비조건으로 틀린 것은?",
+      "options": [
+        "값이 비싸고 위험성이 없다.",
+        "인체에 해가 없으며 취급이 간편하다.",
+        "살균하고자 하는 대상물을 손상시키지 않는다.",
+        "살균력이 강하다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q101",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 피부의 각질, 털, 손톱, 발톱의 구성성분인 케라틴을 가장 많이 함유한 것은?",
+      "options": [
+        "동물성 단백질",
+        "동물성 지방질",
+        "식물성지방질",
+        "탄수화물",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q102",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "노화피부의 특징이 아닌 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "노화피부는 탄력이 없고 수분이 없다.",
+        "피지분비가 원활하지 못하다.",
+        "주름이 형성되어 있다.",
+        "색소침착 불균형이 나타난다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q103",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "피부진균에 의하여 발생하며 습한 곳에서 발생빈도가 가장 높은 것은?",
+      "options": [
+        "모낭염",
+        "족부백선",
+        "붕소염",
+        "티눈",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q104",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "기미를 악화시키는 주요한 원인이 아닌 것은?",
+      "options": [
+        "경구피임약의 복용",
+        "임신",
+        "자외선 차단",
+        "내분비 이상",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q105",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 피지선과 가장 관련이 깊은 질환은?",
+      "options": [
+        "사마귀",
+        "주사(rosacea)",
+        "한관종",
+        "백반증",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q106",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "박하(peppermint) 에 함유된 시원한 느낌으로 혈액순환 촉진 성분은?",
+      "options": [
+        "자이리톨 (xylitol)",
+        "멘돌 (menthol)",
+        "알코올(alcohol)",
+        "마조람오일(majoram oil)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q107",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 표피에 존재하며, 면역과 가장 관계가 깊은 세포는?",
+      "options": [
+        "멜라닌 세포",
+        "랑게르한스 세포",
+        "메컬 세포",
+        "섬유아 세포",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q108",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 필수 아미노산에 속하지 않는 것은?",
+      "options": [
+        "트립토판",
+        "트레오닌",
+        "발린",
+        "알라닌",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q109",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "AHA(alpha hydroxy acid)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "화학적 필링",
+        "글리콜산, 젖산, 주석산, 능금산, 구연산",
+        "각질세포의 응집력 강화",
+        "미백작용",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q110",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 정유(essential oil) 중에서 살균, 소독작용이 가장 강한 것은?",
+      "options": [
+        "타임 오일 (thyme oil)",
+        "주니퍼 오일 (juniper oil)",
+        "로즈마리 오일 (rosemary oil)",
+        "클라리세이지 오일 (clarysage oil)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q111",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "영업신고를 하지 아니하고 영업소의소재지를 변경한 때 행정처분은?",
+      "options": [
+        "경고",
+        "면허정지",
+        "면허취소",
+        "영업장 폐쇄명령",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q112",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "이. 미용업에 있어 청문을 실시하여야 하는 경우가 아닌 것은?",
+      "options": [
+        "면허취소처분을 하고자 하는 경우",
+        "면허정지 처분을 하고자 하는 경우",
+        "일부시설의 사용중지처분을 하고자 하는 경우",
+        "위생교육을 받지 아니하여 1차 위반한 경우",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q113",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "이ㆍ미용업소에서의 면도기 사용에 대한 설명으로 가장 옳은 것은?",
+      "options": [
+        "1회용 면도날만을 손님1인에 한하여 사용",
+        "정비용 면도기를 손님1인에 한하여 사용",
+        "정비용 면도기를 소독 후 계적 사용",
+        "매 손님마다. 소독한 정비용 면도기 교체사용",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q114",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "부득이한 사유가 없는 한 공중위생영업소를 개설할 자는 언제 위생교육을 받아야 하는가?",
+      "options": [
+        "영업개시 후 2월 이내",
+        "영업개시 후 1월 이내",
+        "영업개시 전",
+        "영업개시 후 3월 이내",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q115",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 공중위생영업을 하고자 할때 필요한 것은?",
+      "options": [
+        "허가",
+        "통보",
+        "인가",
+        "신고",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q116",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "공중위생영업자가 준수하여야 할 위생관리기준은 다음 중 어느 것으로 정하고 있는가?",
+      "options": [
+        "대통령령",
+        "국무총리령",
+        "고용노동부령",
+        "보건복지부령",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q117",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "이용 또는 미용의 면허가 취소된 후 계속하여 업무를 행자 자에 대한 벌칙사항은?",
+      "options": [
+        "6월 이하의 징역 또는 300만원 이하의 벌금",
+        "500만원 이하의 벌금",
+        "300만원 이하의 벌금",
+        "200만원 이하의 벌금",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q118",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "이. 미용영업자에게 과태료를 부과 징수 할 수 있는 처분권자에 해당되지 않는 자는?",
+      "options": [
+        "보건복지부장관",
+        "시장",
+        "군수",
+        "구청장",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q119",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "대통령령이 정하는 바에 의하여 관계전문기관 등에 공중위생관리 업무의 일부를 위탁 할 수 있는 자는?",
+      "options": [
+        "시. 도지사",
+        "시장, 군수, 구청장",
+        "보건복지부장관",
+        "보건소장",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q120",
+      "subject": "미용사(일반)",
+      "round": "2011-07-31 기출",
+      "question_text": "이. 미용사의 면허증을 재교부 받을 수 있는 자는 다음 중 누구인가?",
+      "options": [
+        "공중위생관리법의 규정에 의한 명령을 위반한 자",
+        "간질병자",
+        "면허증을 다른 사람에게 대여한 자",
+        "면허증이 헐어 못쓰게 된 자",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q121",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "물에 적신 모발을 와인딩 한 후 퍼머넌트 웨이브 1제를 도포하는 방법은?",
+      "options": [
+        "워터래핑",
+        "슬래핑",
+        "스파이럴 랩",
+        "크로키놀 랩",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q122",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "한국 현대 미용사에 대한 설명 중 옳은 것은?",
+      "options": [
+        "경술국치 이후 일본인들에 의해 미용이 발달했다.",
+        "1933년 일본인이 우리나라에 처음으로 미용원을 열었다.",
+        "해방 전 우리나라 최초의 미용교육기관은 정화고등기술학교이다.",
+        "오엽주씨가 화신 백화점 내에 미용원을 열었다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q123",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "퍼머 제1액 처리에 따른 프로세싱 중 언더 프로세싱의 설명으로 틀린 것은?",
+      "options": [
+        "언더프로세싱은 프로세싱 타임 이상으로 제1액을 두발에 방치한 것을 말한다,",
+        "언더프로세싱일 때에는 두발의 웨이브가 거의 나오지 않는다.",
+        "언더프로세싱일 때에는 처음에 사용한 솔루션 보다 약한 제1액을 다시 사용한다.",
+        "제1액의 처리 후 두발의 테스트컬로 언더프로세싱 여부가 판명된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q124",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "헤어 컬러링 기술에서 만족할 만한 색채효과를 얻기 위해서는 색채의 기본적인 원리를 이해하고 이를 응용할 수 있어야 하는데 색의 3속성 중의 명도만을 갖고 있는 무채색에 해당하는 것은?",
+      "options": [
+        "적색",
+        "황색",
+        "청색",
+        "백색",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q125",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "아이론의 열을 이용하여 웨이브를 형성하는 것은?",
+      "options": [
+        "마셀 웨이브",
+        "콜드 웨이브",
+        "핑거 웨이브",
+        "새도우 웨이브",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q126",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 중 산성 린스의 종류가 아닌 것은?",
+      "options": [
+        "레몬 린스",
+        "비니거 린스",
+        "오일 린스",
+        "구연산 린스",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q127",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 중 블런트 커트와 같은 의미인 것은?",
+      "options": [
+        "클럽커트",
+        "싱글링",
+        "클리핑",
+        "트리밍",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q128",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "브러시 세정법으로 옳은 것은?",
+      "options": [
+        "세정 후 털은 아래로 하여 양지에서 말린다.",
+        "세정 후 털은 아래로 하여 응달에서 말린다.",
+        "세정 후 털은 위로 하여 양지에서 말린다.",
+        "세정 후 털은 위로 하여 응달에서 말린다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q129",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "콜드 퍼머넌트시 제1액을 바르고 비닐캡을 씌우는 이유로 거리가 가장 먼 것은?",
+      "options": [
+        "체온으로 솔루션의 작용을 빠르게 하기 위하여",
+        "제1액의 작용이 두발 전체에 골고루 행하여지게 하기 위하여",
+        "휘발성 알칼리의 휘산작용을 방지하기 위하여",
+        "두발을 구부러진 형태대로 정착시키기 위하여",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q130",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "미용의 특수성에 해당하지 않는 것은?",
+      "options": [
+        "자유롭게 소재를 선택한다.",
+        "시간적 제한을 받는다.",
+        "손님의 의사를 존중한다.",
+        "여러 가지 조건에 제한을 받는다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q131",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "염모제로서 해나를 처음으로 사용했던 나라는?",
+      "options": [
+        "그리스",
+        "이집트",
+        "로마",
+        "중국",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q132",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "빗의 보관 및 관리에 관한 설명 중 옳은 것은?",
+      "options": [
+        "빗은 사용 후 소독액에 계속 담가 보관한다.",
+        "소독액에서 빗을 꺼낸 후 물로 닦지 않고 그대로 사용해야한다.",
+        "증기소독은 자주 해주는 것이 좋다.",
+        "소독액은 석탄산수 ,크레졸비누액 등이 좋다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q133",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "유기합성 염모제에 대한 설명 중 틀린 것은?",
+      "options": [
+        "유기합성 염모제 제품은 알칼리성의 제1액과 산화제인 제 2액으로 나누어진다.",
+        "제1액은 산화염료가 암모니아수에 녹아있다.",
+        "제1액의 용액은 산성을 띄고 있다.",
+        "제2액은 과산화수소로서 멜라닌색소의 파괴와 산화염료를 산화시켜 발색시킨다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q134",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "비듬이 없고 두피가 정상적인 상태일 때 실시하는 것은?",
+      "options": [
+        "댄드러프 스캘프 트린트먼트",
+        "오일리 스캘프 트린트 먼트",
+        "플레인 스캘프 트린트 먼트",
+        "드라이 스캘프 트린트 먼트",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q135",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "땋거나 스타일링 하기에 쉽도록 3가닥 혹은 1가닥으로 만들어진 헤어피스는?",
+      "options": [
+        "웨프트",
+        "스위치",
+        "폴",
+        "위글렛",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q136",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 중 옳게 짝지어진 것은?",
+      "options": [
+        "아이론 웨이브- 1830년 프랑스의 무슈끄로와뜨",
+        "콜드 웨이브 - 1936년 영국의 스피크먼",
+        "스파이럴 퍼머넌트 웨이브 - 1925년 영국의 조셉메이어",
+        "크로키놀식 웨이브 - 1875년 프랑스의 마셀그라또",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q137",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "헤어스타일 또는 메이크업에서 개성미를 발휘하기 위한 첫 단계는?",
+      "options": [
+        "구상",
+        "보정",
+        "소재의확인",
+        "제작",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q138",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "두정부의 가마로부터 방사상으로 나눈 파트는?",
+      "options": [
+        "카우릭 파트",
+        "이어투이어 파트",
+        "센터 파트",
+        "스퀘어 파트",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q139",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "컬의 목적으로 가장 옳은 것은?",
+      "options": [
+        "텐션, 루프, 스템을 만들기 위해",
+        "웨이브, 볼륨, 플러프를 만들기 위해",
+        "슬라이싱, 스퀴어, 베이스를 만들기 위해",
+        "세팅, 뱅을 만들기 위해",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q140",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "코의 화장법으로 좋지 않은 방법은?",
+      "options": [
+        "큰 코는 전체가 드러나지 않도록 코 전체를 다른 부분보다 연한색으로 펴바른다.",
+        "낮은 코는 코의 양측면에 세로로 진한 크림파우더 또는 다갈색의 아이새도우를 바르고 콧등에 엷은 색을 바른다.",
+        "코끝이 둥근 경우 코끝의 양측면에 진한색을 펴바르고 코끝에는 엷은색을 펴바른다.",
+        "너무 높은 코는 코 전체에 진한색을 펴바른 후 양측면에 엷은 색을 바른다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q141",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "간 흡충중(디스토마)의 제1중간 숙주는?",
+      "options": [
+        "다슬기",
+        "쇠우렁",
+        "피라미",
+        "게",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q142",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "납중독과 가장 거리가 먼 증상은?",
+      "options": [
+        "빈혈",
+        "신경마비",
+        "뇌중독증상",
+        "과다행동장애",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q143",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "간헐적으로 유행할 가능성이 있어 지속적으로 그 발생을 감시하고 방역대책의 수림이 필요한 감염병은?",
+      "options": [
+        "말라리아",
+        "콜레라",
+        "디프테리아",
+        "유행성이하선염",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q144",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "수질오염의 지표로 사용하는 “생물학적 산소요구량”을 나타내는 용어는?",
+      "options": [
+        "BOD",
+        "DO",
+        "COD",
+        "SS",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q145",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "국가의 건강 수준을 나타내는 지표로서 가장 대표적으로 사용하고 있는 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "인구증가율",
+        "조사망률",
+        "영아사망률",
+        "질병발생률",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q146",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "지역사회에서 노인층 인구에 가장 적절한 보건교육 방법은?",
+      "options": [
+        "신문",
+        "집단교육",
+        "개별접촉",
+        "강연회",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q147",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "예방접종에서 생균제제를 사용하는 것은?",
+      "options": [
+        "장티푸스",
+        "파상풍",
+        "결핵",
+        "디프테리아",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q148",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "저온폭로에 의한 건강장애는?",
+      "options": [
+        "동상-무좀-전신체온 상승",
+        "참호족- 동상- 전신체온 하강",
+        "참호족-동상 -전신체온 상승",
+        "동상-기억력저하 - 참호족",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q149",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 식중독 중에서 치명률이 가장 높은 것은?",
+      "options": [
+        "살모넬라증",
+        "포도상구균중독",
+        "연쇄상구균중독",
+        "보툴리누스균중독",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q150",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 중 파리가 전파할 수 있는 소화기계 전염병은?",
+      "options": [
+        "페스트",
+        "일본뇌염",
+        "장티푸스",
+        "황열",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q151",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "소독의 정의로서 옳은 것은?",
+      "options": [
+        "모든 미생물 일체를 사멸하는 것",
+        "모든 미생물을 열과 약품으로 완전히 죽이거나 또는 제거하는 것",
+        "병원성 미생물의 생활력을 파괴하여 죽이거나 또는 제거하여 감염력을 없애는 것",
+        "균을 적극적으로 죽이지 못하더라고 발육을 저지하고 목적하는 것을 변화시키지 않고 보존하는 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q152",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "AIDS나 B형간염 등과 같은 질환의 전파를 예방하기 위한 이.미용기구의 가장 좋은 소독방법은?",
+      "options": [
+        "고압증기 멸균기",
+        "자외선 소독기",
+        "음이온계면활성제",
+        "알코올",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q153",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "일반적으로 사용되는 소독용 알콜의 적정 농도는?",
+      "options": [
+        "30%",
+        "70%",
+        "50%",
+        "100%",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q154",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 중 이.미용사의 손을 소독하려 할 때 가장 알맞은 것은?",
+      "options": [
+        "역성비누액",
+        "석탄산수",
+        "포르말린수",
+        "과산화수소수",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q155",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 중 음용수 소독에 사용되는 약품은?",
+      "options": [
+        "석탄산",
+        "액체염소",
+        "승홍",
+        "알코올",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q156",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "소독에 영향을 미치는 인자가 아닌 것은?",
+      "options": [
+        "온도",
+        "수분",
+        "시간",
+        "풍속",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q157",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "소독법의 구비 조건에 부적합 한 것은?",
+      "options": [
+        "장시간에 걸쳐 소독의 효과가 서서히 나타나야 한다.",
+        "소독대상물에 손상을 입혀서는 안 된다.",
+        "인체 및 가축에 해가 없어야 한다.",
+        "방법이 간단하고 비용이 적게 들어야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q158",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "소독제의 살균력 측정검사의 지표로 사용되는 것은?",
+      "options": [
+        "알코올",
+        "크레졸",
+        "석탄산",
+        "포르말린",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q159",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "화장실, 하수도, 쓰레기통 소독에 가장 적합한 것은?",
+      "options": [
+        "알콜",
+        "연소",
+        "승홍수",
+        "생석회",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q160",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "상처소독에 적당치 않은 것은?",
+      "options": [
+        "과산화수소",
+        "요오드딩크제",
+        "승홍수",
+        "머큐로크롬",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q161",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "생명력이 없는 상태의 무색, 무핵증으로서 손바닥과 발바닥에 주로 있는 층은?",
+      "options": [
+        "각질층",
+        "과립층",
+        "투명층",
+        "기저층",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q162",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "천연보습인자(NMF)에 속하지 않는 것은?",
+      "options": [
+        "아미노산",
+        "암모니아",
+        "젖산염",
+        "글리세린",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q163",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "즉시 색소 침착작용을 하는 광선으로 인공 선탠에 사용되는 것은?",
+      "options": [
+        "UV A",
+        "UV B",
+        "UV C",
+        "UV D",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q164",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "갑상선의 기능과 관계있으며 모세혈관 기능을 정상화시키는 것은?",
+      "options": [
+        "칼슘",
+        "인",
+        "철분",
+        "요오드",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q165",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "피부의 생리작용 중 지각 작용은?",
+      "options": [
+        "피부표면에 수증기가 발산한다.",
+        "피부에는 땀샘, 피지선 모근은 피부생리 작용을 한다.",
+        "피부 전체에 퍼져 있는 신경에 의해 촉각, 온각, 냉각, 통각 등을 느낀다.",
+        "피부의 생리작용에 의해 생긴 노폐물을 운반한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q166",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "교원섬유(collagen)와 탄력섬유(elastin)로 구성되어 있어 강한 탄력성을 지니고 있는 곳은?",
+      "options": [
+        "표피",
+        "진피",
+        "피하조직",
+        "근육",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q167",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "자외선의 영향으로 인한 부정적인 효과는?",
+      "options": [
+        "홍반반응",
+        "비타민D형성",
+        "살균효과",
+        "강장효과",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q168",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "피부에서 땀과 함께 분비되는 천연 자외선 흡수제는?",
+      "options": [
+        "우로칸산",
+        "글리콜산",
+        "글루탐산",
+        "레틴산",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q169",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "광노화와 거리가 먼 것은?",
+      "options": [
+        "피부두께가 두꺼워진다.",
+        "섬유아세포수의 양이 감소한다.",
+        "콜라겐이 비정상적으로 늘어난다.",
+        "점다당질이 증가한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q170",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "피지분비와 가장 관계가 있는 호르몬은?",
+      "options": [
+        "에스트로겐",
+        "프로게스트론",
+        "인슐린",
+        "안드로겐",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q171",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "이용 및 미용업 영업자의 지위를 승계한 자가 관계기관에 신고를 해야하는 기간은?",
+      "options": [
+        "1년 이내",
+        "3월 이내",
+        "6월 이내",
+        "1월 이내",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q172",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "이용업 및 미용업은 다음 중 어디에 속하는가?",
+      "options": [
+        "공중위생영업",
+        "위생관련영업",
+        "위생처리업",
+        "위생관리용역업",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q173",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "다음( )안에 알맞은 내용은?",
+      "options": [
+        "3월",
+        "6월",
+        "1년",
+        "2년",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jc/jc20110417/jc20110417m53.gif"
+    },
+    {
+      "id": "hairdresser_craftsman_q174",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "이.미용업소 내 반드시 게시하여야 할 사항으로 옳은 것은?",
+      "options": [
+        "요금표 및 준수사항만 게시하면 된다.",
+        "이.미용업 신고증만 게시하면 된다.",
+        "이.미용업 신고증 및 면허증사본, 요금표를 게시하면 된다.",
+        "이.미용업 신고증, 면허증원본, 요금표를 게시하여야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q175",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 중 이. 미용사의 면허정지를 명할 수 있는 자는?",
+      "options": [
+        "행정안전부 장관",
+        "시.도지사",
+        "시장. 군수. 구청장",
+        "경찰서장",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q176",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "이.미용 영업소에서 1회용 면도날을 손님 2인에게 사용한 때의 1차위반시 행정처분은?",
+      "options": [
+        "시정명령",
+        "개선명령",
+        "경고",
+        "영업정지 5일",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q177",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "관련법상 이.미용사의 위생교육에 대한 설명 중 옳은 것은?",
+      "options": [
+        "위생교육 대상자는 이.미용업 영업자이다.",
+        "위생교육 대상자에는 이.미용사의 면허를 가지고 이.미용업에 종사하는 모든 자가 포함된다.",
+        "위생교육은 시.군.구청장만이 할 수 있다.",
+        "위생교육 시간은 분기 당 4시간으로 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q178",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 중 이.미용사의 면허를 받을 수 없는 자는?",
+      "options": [
+        "전문대학의 이.미용에 관한 학과를 졸업한 자",
+        "교육인적자원부장관이 인정하는 고등기술학교에서 1년 이상 이.미용에 관한 소정의 과정을 이수한 자",
+        "국가기술자격법에 의한 이.미용사의 자격을 취득한 차",
+        "외국의 유명 이.미용학원에서 2년 이상 기술을 습득한 자",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q179",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "신고를 하지 않고 영업소 명칭(상호)을 바꾼 경우에 대한 1차 위반 시의 행정처분은?",
+      "options": [
+        "주의",
+        "경고 또는 개선명령",
+        "영업정지 15일",
+        "영업정지1월",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q180",
+      "subject": "미용사(일반)",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 중 과태료처분 대상에 해당되지 않는 자는?",
+      "options": [
+        "관계공무원의 출입. 검사 등 업무를 기피한 자",
+        "영업소 폐쇄명령을 받고도 영업을 계속한 자",
+        "이. 미용업소 위생관리 의무를 지키지 아니한 자",
+        "위생교육 대생자 중 위생교육을 받지 아니한 자",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q181",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 콜드 퍼머넌트 웨이브 시술 시 두발에 부착된 제1액을 씻어 내는데 가장 적합한 린스는?",
+      "options": [
+        "에그 린스(egg rinse)",
+        "산성 린스(acid rinse)",
+        "레몬 린스(lemon rinse)",
+        "플레인 린스(plain rinse)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q182",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "퍼머넌트 웨이브 시술 중 테스트 컬(test crl)을 하는 목적으로 가장 적합한 것은?",
+      "options": [
+        "2액의 작용 여부를 확인하기 위해서이다.",
+        "굵은 모발, 혹은 가는 두발에 로드가 제대로 선택 되었는지 확인하기 위해서이다.",
+        "산화제의 작용이 미묘하기 때문에 확인하기 위해서이다.",
+        "정확한 프로세싱 시간을 결정하고 웨이브 형성 정도를 조사하기 위해서이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q183",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "스트록커트(stroke cut) 테크닉에 사용하기 가장 적합한 것은?",
+      "options": [
+        "리버스 시저스(Reverse scissors)",
+        "미니 시저스(Mini scissors)",
+        "직선날 시저스(Cutting scissors)",
+        "곡선날 시저스(R-scissors)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q184",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 가는 로드를 사용한 콜드 퍼머넌트 직후에 나오 는 웨이브 로 가장 가까운 것은?",
+      "options": [
+        "내로우 웨이브(narrow wave)",
+        "와이드 웨이브(wide wave)",
+        "새도우 웨이브(shadow wave)",
+        "호리존탈 웨이브(horizontal wave)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q185",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "두발의 양이 많고, 굵은 경우 와인딩과 로드의 관계가 옳은 것은?",
+      "options": [
+        "스티랜드를 크게 하고, 로드의 직경도 큰 것을 사용.",
+        "스티랜드를 적게 하고, 로드의 직경도 작은 것을 사용.",
+        "스티랜드를 크게 하고, 로드의 직경도 작은 것을 사용.",
+        "스티랜드를 적게 하고, 로드의 직경도 큰 것을 사용.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q186",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "손톱을 자르는 기구는?",
+      "options": [
+        "큐티클 푸셔(Cuticle pusher)",
+        "큐티클 니퍼즈(Cuticle nippwes)",
+        "네일 파일(Nail file)",
+        "네일 니퍼즈(Nail nippers)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q187",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "두발을 탈색한 후 초록색으로 염색하고 얼마동안의 기간이 지난 후 다시 다른 색으로 바꾸고 싶을 때 보색관계를 이용하여 초록색의 흔적을 없애려면 어떤 색을 사용하면 좋은가?",
+      "options": [
+        "노란색",
+        "오렌지색",
+        "적색",
+        "청색",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q188",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "헤어린스의 목적과 관계없는 것은?",
+      "options": [
+        "두발의 엉킴 방지",
+        "모발의 윤기 부여",
+        "이물질 제거",
+        "알카리성을 약산성화",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q189",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "화장법으로는 흑색과 녹색의 두 가지 색으로 윗 눈꺼풀에 악센트를 넣었으며, 붉은 찰흙을 샤프란(꽃 이름임)을 조금씩 썩어서 이것을 볼에 붉게 칠하고 입술연지로도 사용한 시대는?",
+      "options": [
+        "고대 그리스",
+        "고대 로마",
+        "고대 이집트",
+        "중국 당나라",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q190",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "현대미용에 있어서 1920년대에 최초로 단발머리를 함으로 써 우리나라 여성들의 머리형에 혁신적인 변화를 일으키게 된 계기가 된 사람은?",
+      "options": [
+        "이숙종",
+        "김활란",
+        "김상진",
+        "오엽주",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q191",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "업스타일을 시술할 때 백코밍의 효과를 크게 하고자 세모난 모양의 파트로 섹션을 잡는 것은?",
+      "options": [
+        "스퀘어 파트",
+        "트라이앵귤러 파트",
+        "카우릭 파트",
+        "렉탱귤러 파트",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q192",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "원랭스의 정의로 가장 적합한 것은?",
+      "options": [
+        "두발의 길이에 단차가 있는 상태의 커트",
+        "완성된 두발을 빗으로 빗어 내렸을 때 모든 두발이 하나의 선상으로 떨어지도록 자르는 커트",
+        "전체의 머리 길이가 똑같은 커트",
+        "머릿결을 맞추지 않아도 되는 커트",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q193",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "고객이 추구하는 미용의 목적과 필요성을 시각적으로 느끼게 하는 과정은 어디에 해당하는가?",
+      "options": [
+        "소재",
+        "구상",
+        "제작",
+        "보정",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q194",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "플랫 컬의 특징을 가장 잘 표현한 것은?",
+      "options": [
+        "컬의 루프가 두피에 대하여 0도 각도로 평평하고 납작하게 형성되어진 컬을 말한다.",
+        "일반적 컬 전체를 말한다.",
+        "루프가 반드시 90도 각도로 두피 위에 세워진 컬로 볼륨을 내기 위한 헤어스타일에 주로 이용된다.",
+        "두발의 끝에서부터 말아온 컬을 말한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q195",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "다음의 눈썹에 대한 설명 중 틀린 것은?",
+      "options": [
+        "눈썹은 눈썹머리, 눈썹산, 눈썹꼬리로 크게 나눌 수 있다.",
+        "눈썹산의 표준 형태는 전체 눈썹의 1/2되는 지점에 위치하는 것이다.",
+        "눈썹산의 전체 눈썹의 1/2되는 지점에 위치해 있으면 볼이 넓게 보이게 된다.",
+        "수평상 눈썹은 긴 얼굴을 짧게 보이게 한때 효과적이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q196",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "완성된 두발선 위를 가볍게 다음에 커트하는 방법은?",
+      "options": [
+        "테이퍼링(tapering)",
+        "틴닝(thinning)",
+        "트리밍(trimming)",
+        "싱글링(shingling)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q197",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "레이저(razor)에 대한 설명 중 가장 거리가 먼 것은?",
+      "options": [
+        "세이핑 레이저를 이용하여 커팅하면 안정적이다.",
+        "초보자는 오디너리 레이저를 사용하는 것이 좋다.",
+        "솜털 등을 깎을 때 외곡선상의 날이 좋다.",
+        "녹이 슬지 않게 관리를 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q198",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "이마의 양쪽 끝과 턱의 끝 부분을 진하게, 뺨 부분을 엷게 화장하면 가장 잘 어울리는 얼굴형은?",
+      "options": [
+        "삼각형 얼굴",
+        "원형 얼굴",
+        "사각형 얼굴",
+        "역삼각형 얼굴",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q199",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "다공성 모발에 대한 사항 중 틀린 것은?",
+      "options": [
+        "다공성모란 두발의 간층 물질이 소실되어 두발 조직 중에 공동이 많고 보습작용이 적어져서 두발이 건조해 지기 쉬우므로 손상모를 말한다.",
+        "다공성모는 두발이 얼마나 빨리 유액을 흡수하느냐에 따라 그 정도가 결정된다.",
+        "다공성의 정도에 따라서 콜드웨이빙의 프로세싱 타임과 웨이빙의 용액의 정도가 결정된다.",
+        "다공성의 정도가 클수록 모발의 탄력이 적으므로 프로세싱 타임을 길게 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q200",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "언더 메이크업을 가장 잘 설명한 것은?",
+      "options": [
+        "베이스 컬러라고도 하며 피부색과 피부결을 정돈하여 자연스럽게 해준다.",
+        "유분과 수분, 색소의 양과 자르 제조 공정에 따라 여러 종류로 구분 된다.",
+        "효과적인 보호막을 결정해주며 피부의 결점을 감추려 할 때 효과적이다.",
+        "파운데이션이 고루 잘 펴지게 하며 화장이 오래 잘 지속 되게 해주는 작용을 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q201",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 특별한 장치를 설치하지 아니한 일반적인 경우에 실내의 자연적인 환기에 가장 큰 비중을 차지하는 요소는?",
+      "options": [
+        "실내외 공기 중 CO2의 함량의 차이",
+        "실내외 공기의 습도차이",
+        "실내외 공기의 기온차이 및 기류",
+        "실내외 공기의 불쾌지수 차이",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q202",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "비타민 결핍증인 불임증 및 생식불능과 피부의 노화방지 작용 등과 가장 관계가 깊은 것은?",
+      "options": [
+        "비타민A",
+        "비타민B 복합체",
+        "비타민E",
+        "비타민D",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q203",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "환경오염의 발생요인인 산성비의 가장 주요한 원인과 산도는?",
+      "options": [
+        "이산화탄소 pH 5.6이하",
+        "아황산가스 pH 5.6이하",
+        "염화불화탄소 pH 6.6이하",
+        "탄화수소 pH 6.6이하",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q204",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "세계보건기구(WHO)에서 규정된 건강의 정의를 가장 적절 하게 표현한 것은?",
+      "options": [
+        "육체적으로 완전히 양호한 상태",
+        "정신적으로 완전히 양호한 상태",
+        "질병이 없고 허약하지 않은 상태",
+        "육체적, 정신적, 사회적 안녕이 완전한 상태",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q205",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "주로 7~9월 사이에 많이 발생되며, 어패류가 원인이 되어 발병, 유행하는 식중독은?",
+      "options": [
+        "포도상구균 식중독",
+        "살모넬라 식중독",
+        "보툴리누스균 식중독",
+        "장염 비브리오 식중독",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q206",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "돼지와 관련이 있는 질환으로 거리가 먼 것은?",
+      "options": [
+        "유구조충",
+        "살모넬라증",
+        "일본뇌염",
+        "발진티푸스",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q207",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "한 국가가 지역사회의 건강수준을 나타내는 지표로서 대표적인 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "질병이환률",
+        "영아사망률",
+        "신생아사망률",
+        "조사망률",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q208",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "위생해충의 구제방법으로 가장 효과적이고 근본적인 방법 은?",
+      "options": [
+        "성충 구제",
+        "살충제 사용",
+        "유충 구제",
+        "발생원제거",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q209",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "파리에 의해 주로 전파될 수 있는 전염병은?",
+      "options": [
+        "페스트",
+        "장티푸스",
+        "사상충증",
+        "황열",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q210",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "기온측정 등에 관한 설명 중 틀린 것은?",
+      "options": [
+        "실내에서는 통풍이 잘 되는 직사광선을 받지 않은 곳에 매달아 놓고 측정하는 것이 좋다.",
+        "평균기온은 높이에 비례하여 하강하는데, 고도 11,000m 이하에서는 보통 100m 당 0.5~0.7도 정도이다.",
+        "측정할 때 수은주 높이와 측정자의 눈의 높이가 같아야 한다.",
+        "정상적인 날의 하루 중 기온이 가장 낮을 때는 밤 12시 경이고 가장 높을 때는 오후 2시경이 일반적이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q211",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "고압멸균기를 사용하여 소독하기에 가장 적합하지 않은 것은?",
+      "options": [
+        "유리기구",
+        "금속기구",
+        "약액",
+        "가죽제품",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q212",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 소독의 정의를 가장 잘 표현한 것은?",
+      "options": [
+        "미생물의 발육과 생활을 제지 또는 정지시켜 부패 또는 발효를 방지할 수 있는 것",
+        "병원성 미생물의 생활력을 파괴 또는 멸살시켜 감염 또 는 증식력을 없애는 조작",
+        "모든 미생물의 생활력을 파괴 또는 멸살 또는 파괴 시키는 조작",
+        "오염된 미생물을 깨끗이 씻어내는 작업",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q213",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "병원성 미생물이 일반적으로 증식이 가장 잘 되는 pH의 범위는?",
+      "options": [
+        "3.5~4.5",
+        "4.5~5.5",
+        "5.5~6.5",
+        "6.5~7.5",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q214",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 일회용 면도기를 사용함으로서 예방 가능한 질병은? (단, 정상적인 사용의 경우를 말한다.)",
+      "options": [
+        "옴(개선)병",
+        "일본뇌염",
+        "B형 간염",
+        "무좀",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q215",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "소독약의 살균력 지표로 가장 많이 이용되는 것은?",
+      "options": [
+        "알코올",
+        "크레졸",
+        "석탄산",
+        "포름알데이드",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q216",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "산소가 있어야만 잘 성장할 수 있는 균은?",
+      "options": [
+        "호기성균",
+        "혐기성균",
+        "통기혐기성균",
+        "호혐기성균",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q217",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 화학적 살균법이라고 할 수 없는 것은?",
+      "options": [
+        "자외선살균법",
+        "알콜살균법",
+        "염소살균법",
+        "과산화수소살균법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q218",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "소독약의 구비조건에 해당하지 않는 것은?",
+      "options": [
+        "높은 살균력을 가질 것",
+        "인축에 해가 없어야 할 것",
+        "저렴하고 구입과 사용이 간편할 것",
+        "기름, 알콜 등에 잘 용해되어야 할 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q219",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 세균의 단백질 변성과 응고작용에 의한 기전을 이용하여 살균하고자 할 때 주로 이용되는 방법은?",
+      "options": [
+        "가열",
+        "희석",
+        "냉각",
+        "여과",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q220",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "소독액을 표시 할 때 사용하는 단위로 용액 100ml속에 용질의 함량을 표시하는 수치는?",
+      "options": [
+        "푼",
+        "퍼센트",
+        "퍼밀리",
+        "피피엠",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q221",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "피부의 구조 중 진피에 속하는 것은?",
+      "options": [
+        "과립층",
+        "유극층",
+        "유두층",
+        "기저층",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q222",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "안면의 각질제거를 용이 하게 하는 것은?",
+      "options": [
+        "비타민C",
+        "토코페놀",
+        "AHA",
+        "비타민E",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q223",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "피부의 산성도가 외부의 충격으로 파괴된 후 자연재연 되는데 걸리는 최소한의 시간은?",
+      "options": [
+        "약 1시간 경과 후",
+        "약 2시간 경과 후",
+        "약 3시간 경과 후",
+        "약 4시간 경과 후",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q224",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 결핍 시 피부표면이 경화되어 거칠어지는 주된 영양물질은?",
+      "options": [
+        "단백질과 비타민A",
+        "비타민D",
+        "탄수화물",
+        "무기질",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q225",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "세포분열을 통해 새롭게 손·발톱을 생산해 내는 곳은?",
+      "options": [
+        "조체",
+        "조모",
+        "조소피",
+        "조하막",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q226",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "피부색소의 멜라닌을 만드는 색소형성세포는 어느 층에 위치하는가?",
+      "options": [
+        "과립층",
+        "유극층",
+        "각질층",
+        "기저층",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q227",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "한선(땀샘)의 설명으로 틀린 것은?",
+      "options": [
+        "체온을 조절한다.",
+        "땀은 피부의 피지막과 산성막을 형성한다.",
+        "땀을 많이 흘리면 영양분과 미네랄을 잃는다.",
+        "땀샘은 손, 발바닥에는 없다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q228",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 피부의 면역기능에 관계하는 것은?",
+      "options": [
+        "각질형성 세포",
+        "랑게르한스 세포",
+        "말피기 세포",
+        "머겔 세포",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q229",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "세포의 분영증식으로 모발이 만들어지는 곳은?",
+      "options": [
+        "모모(毛母)세포",
+        "모유두",
+        "모구",
+        "모소피",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q230",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "세안용 화장품의 구비조건으로 부적당한 것은?",
+      "options": [
+        "안정성 = 물이 묻거나 건조해지면 형과 질이 잘 변해야 한다.",
+        "용해성 = 냉수나 온탕에 잘 풀려야 한다.",
+        "기포성 = 거품이 잘나고 세정력이 있어야 한다.",
+        "자극성 = 피부를 자극시키지 않고 쾌적한 방향이 있어야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q231",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "이·미용사의 면허를 받을 수 없는 자는?",
+      "options": [
+        "전문대학에서 이용 또는 미용에 관한 학과를 졸업한 자",
+        "교육과학기술부장관이 인정하는 이·미용고등학교를 졸업한 자",
+        "교육과학기술부장관이 인정하는 고등기술학교에서 6개월 수학한 자",
+        "국가기술자격법에 의한 이·미용사 자격취득자",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q232",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 이·미용업 영업자가 변경신고를 해야 하는 것을 모두 고른 것은?",
+      "options": [
+        "ㄱ",
+        "ㄱ,ㄴ",
+        "ㄱ,ㄴ,ㄷ",
+        "ㄱ,ㄴ,ㄷ,ㄹ",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jc/jc20110213/jc20110213m52.gif"
+    },
+    {
+      "id": "hairdresser_craftsman_q233",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "영업소 외에서의 이용 및 미용업무를 할 수 없는 경우는?",
+      "options": [
+        "관할 소재동지역 내에서 주민에게 이·미용을 하는 경우",
+        "질병, 기타의 사유로 인하여 영업소에 나올 수 없는 자에 대하여 미용을 하는 경우",
+        "혼례나 기타 의식에 참여하는 자에 대하여 그 의식의 직전에 미용을 하는 경우",
+        "특별한 사정이 있다고 인정하여 시장 .군수.구청장이 인정하는 경우",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q234",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "시장.군수.구청장이 영업정지가 이용자에게 심한 불편을 주거나 그 밖에 공익을 해할 우려가 있는 경우에 영업정지처분에 갈음한 과징금을 부과할 수 있는 금액기준은?",
+      "options": [
+        "1천만 원 이하",
+        "2천만 원 이하",
+        "3천만 원 이하",
+        "4천만 원 이하",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q235",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "이·미용사 면허증을 분실하여 재교부를 받은 자가 분실한 면허증을 찾았을 때 취하여야 할 조치로 옳은 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "시·도지사에게 찾은 면허증을 반납한다.",
+        "시장.군수에게 찾은 면허증을 반납한다.",
+        "본인이 모두 소지하여도 무방하다.",
+        "재교부 받은 면허증을 반납한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q236",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "영업자의 지위를 승계한 자는 몇 월 이내에 시장.군수.구청장에게 신고를 하여야 하는가?",
+      "options": [
+        "1월",
+        "2월",
+        "6월",
+        "12월",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q237",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "이용사 또는 미용사의 면허를 받지 아니한 자 중, 이용사 또는 미용사 업무에 종사할 수 있는 자는?(관련 규정 개정전 문제로 여기서는 기존 정답인 3번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "이·미용 업무에 숙달된 자로 이·미용사 자격증이 없는 자",
+        "이·미용사로서 업무정지 처분 중에 있는 자",
+        "이미용업소에서 이·미용사의 감독을 받아 이·미용업무를 보조하고 있는 자",
+        "학원 설립·운영에 관한 법률에 의하여 설립된 학원에서 3월 이상 이용 또는 미용에 관한 강습을 받은 자",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q238",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "이·미용소의 조명시설은 얼마 이상이어야 하는가?",
+      "options": [
+        "50룩스",
+        "75룩스",
+        "100룩스",
+        "125룩스",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q239",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 위법사항 중 가장 무거운 벌칙기준에 해당하는 자?",
+      "options": [
+        "신고를 하지 아니하고 영업한 자",
+        "변경신고를 하지 아니하고 영업한 자",
+        "면허정지처분을 받고 그 정지 기간 중 업무를 행한 자",
+        "관계 공무원 출입, 검사를 거부한 자",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "hairdresser_craftsman_q240",
+      "subject": "미용사(일반)",
+      "round": "2011-02-13 기출",
+      "question_text": "이·미용업 영업자가 위생교육을 받지 아니한 때에 대한 1차 위반시 행정처분 기준은?",
+      "options": [
+        "경고",
+        "개선명령",
+        "영업정지 5일",
+        "영업정지 10일",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    }
+  ]
+}

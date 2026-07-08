@@ -1,0 +1,19 @@
+{
+  "pack_name": "조종면허 필기대비 팩 (Pilot Written Exam)",
+  "questions": [
+    {
+      "id": "pl_q1",
+      "subject": "항공기상",
+      "round": "조종면허 1회",
+      "question_text": "항공기 이착륙 시 윈드시어(Wind Shear)가 미치는 영향 중 가장 위험한 것은?",
+      "options": [
+        "가시거리 증가",
+        "기압의 완만한 하강",
+        "양력의 갑작스러운 상실 및 고도 저하",
+        "풍향의 안정화",
+        "기온의 상승"
+      ],
+      "correct_answer": "3"
+    }
+  ]
+}

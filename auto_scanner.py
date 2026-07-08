@@ -118,7 +118,10 @@ def extract_questions_from_image(image_path, subject, api_key, mode):
         ],
         "generationConfig": {
             "temperature": 0.3,
-            "responseMimeType": "application/json"
+            "responseMimeType": "application/json",
+            "thinkingConfig": {
+                "thinkingBudget": 0
+            }
         }
     }
     

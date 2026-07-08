@@ -1,0 +1,3605 @@
+{
+  "pack_name": "지게차운전기능사 기출 팩",
+  "questions": [
+    {
+      "id": "forklift_craftsman_q1",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "기관의 냉각팬에 대한 설명 중 틀린 것은?",
+      "options": [
+        "유체 커플링식은 냉각수의 온도에 따라서 작동된다.",
+        "전동팬은 냉각수의 온도에 따라 작동된다.",
+        "전동팬이 작동되지 않을 때는 물 펌프도 회전하지 않는다.",
+        "전동팬의 작동과 관계없이 물 펌프는 항상 회전한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q2",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "기관 과열의 주요 원인이 아닌 것은?",
+      "options": [
+        "라디에이터 코어의 막힘",
+        "냉각장치 내부의 물때 과다",
+        "냉각수의 부족",
+        "엔진 오일량 과다",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q3",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 연소 시 발생하는 질소산화물(NOx)의 발생 원인과 가장 밀접한 관계가 있는 것은?",
+      "options": [
+        "높은 연소 온도",
+        "가속 불량",
+        "흡입 공기 부족",
+        "소염 경계층",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q4",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "디젤기관에서 시동이 되지 않는 원인으로 맞는 것은?",
+      "options": [
+        "연료공급 펌프의 연료공급 압력이 높다.",
+        "가속 페달을 밟고 시동하였다.",
+        "배터리 방전으로 교체가 필요한 상태이다.",
+        "크랭크축 회전속도가 빠르다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q5",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "디젤기관에서 사용하는 분사노즐의 종류에 속하지 않는 것은?",
+      "options": [
+        "핀틀(pintle)형",
+        "스로틀(throttle)형",
+        "홀(hole)형",
+        "싱글 포인트(single point)형",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q6",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "디젤기관에서 부조 발생의 원인이 아닌 것은?",
+      "options": [
+        "발전기 고장",
+        "거버너 작용 불량",
+        "분사시기 조정 불량",
+        "연료의 압송 불량",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q7",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "디젤기관에서 연료장치 공기빼기 순서가 바른 것은?",
+      "options": [
+        "공급펌프 → 연료여과기 → 분사펌프",
+        "공급펌프 → 분사펌프 → 연료여과기",
+        "연료여과기 → 공급펌프 → 분사펌프",
+        "연료여과기 → 분사펌프 → 공급펌프",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q8",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "운전 중인 기관의 에어클리너가 막혔을 때 나타나는 현상으로 맞는 것은?",
+      "options": [
+        "배출가스 색은 검고, 출력은 저하한다.",
+        "배출가스 색은 희고, 출력은 정상이다.",
+        "배출가스 색은 청백색이고, 출력은 증가된다.",
+        "배출가스 색은 무색이고, 출력은 무관하다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q9",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "엔진의 윤활유 소비량이 과다해지는 가장 큰 원인은?",
+      "options": [
+        "기관의 과냉",
+        "피스톤 링 마멸",
+        "오일 여과기 필터 불량",
+        "냉각펌프 손상",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q10",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "흡·배기 밸브의 구비조건이 아닌 것은?",
+      "options": [
+        "열전도율이 좋을 것",
+        "열에 대한 팽창율이 적을 것",
+        "열에 대한 저항력이 작을 것",
+        "가스에 견디고, 고온에 잘 견딜 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q11",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "일반적으로 기관에 많이 사용되는 윤활 방법은?",
+      "options": [
+        "수 급유식",
+        "적하 급유식",
+        "압송 급유식",
+        "분무 급유식",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q12",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "기관 실린더(cylinder) 벽에서 마멸이 가장 크게 발생하는 부위는?",
+      "options": [
+        "상사점 부근",
+        "하사점 부근",
+        "중간 부분",
+        "하사점 이하",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q13",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "기동 전동기의 시험 항목으로 맞지 않는 것은?",
+      "options": [
+        "무부하 시험",
+        "회전력 시험",
+        "저항 시험",
+        "중부하 시험",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q14",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "전압 조정기의 종류에 해당하지 않는 것은?",
+      "options": [
+        "접점식",
+        "카본파일식",
+        "트랜지스터식",
+        "저항식",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q15",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "예열플러그를 빼서 보았더니 심하게 오염되어있다. 그 원인으로 가장 적합한 것은?",
+      "options": [
+        "불완전 연소 또는 노킹",
+        "엔진 과열",
+        "플러그의 용량 과다",
+        "냉각수 부족",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q16",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "충전 중 갑자기 계기판에 충전 경고등이 점등되었다. 그 현상으로 맞는 것은?",
+      "options": [
+        "정상적으로 충전이 되고 있음을 나타낸다.",
+        "충전이 되지 않고 있음을 나타낸다.",
+        "충전계통에 이상이 없음을 나타낸다.",
+        "주기적으로 점등되었다가 소등되는 것이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q17",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "납산 축전지가 방전되어 급속 충전을 할 때의 설명으로 틀린 것은?",
+      "options": [
+        "충전 중 전해액의 온도가 45℃가 넘지 않도록 한다.",
+        "충전 중 가스가 많이 발생되면 충전을 중단한다.",
+        "충전전류는 축전지 용량과 같게 한다.",
+        "충전시간은 가능한 짧게 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q18",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "건설기계에 사용하는 축전지 2개를 직렬로 연결하였을 때 변화 되는 것은?",
+      "options": [
+        "전압이 증가된다.",
+        "사용 전류가 증가된다.",
+        "비중이 증가된다.",
+        "전압 및 이용 전류가 증가된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q19",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "지게차 작업장치의 동력전달 기구가 아닌 것은?",
+      "options": [
+        "리프터 체인",
+        "틸트 실린더",
+        "리프트 실린더",
+        "트랜치호",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q20",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "운전 중 클러치가 미끄러질 때의 영향이 아닌 것은?",
+      "options": [
+        "속도 감소",
+        "견인력 감소",
+        "연료소비량 증가",
+        "엔진의 과냉",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q21",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "무한궤도식 굴착기와 타이어식 굴삭기의 운전 특성에 대한 설명으로 틀린 것은?",
+      "options": [
+        "무한궤도식은 기복이 심한 곳에서 작업이 불리하다.",
+        "타이어식은 변속 및 주행 속도가 빠르다.",
+        "무한궤도식은 습지, 사지에서 작업이 유리하다.",
+        "타이어식은 장거리 이동이 쉽고 기동성이 양호하다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q22",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "휠 로더의 붐과 버킷 레버를 동시에 당기면 작동은?",
+      "options": [
+        "붐만 상승한다.",
+        "버킷만 오무려 진다.",
+        "붐은 상승하고 버킷은 오무려 진다.",
+        "작동이 안 된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q23",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "파워스티어링에서 핸들이 매우 무거워 조작하기 힘든 상태일 때의 원인으로 맞는 것은?",
+      "options": [
+        "바퀴가 습지에 있다.",
+        "조향 펌프에 오일이 부족하다.",
+        "볼 조인트의 교환시기가 되었다.",
+        "핸들 유격이 크다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q24",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "진공식 제동 배력 장치의 설명 중에서 옳은 것은?",
+      "options": [
+        "진공 밸브가 새면 브레이크가 전혀 듣지 않는다.",
+        "릴레이 밸브의 다이어프램이 파손되면 브레이크가 듣지 않는다.",
+        "릴레이 밸브 피스톤 컵이 파손되어도 브레이크는 듣는다.",
+        "하이드로릭 피스톤의 체크 볼이 밀착 불량이면 브레이크가 듣지 않는다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q25",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "일반적으로 기중기 작업시 붐의 최대와 최소 제한각도로 가장 적합한 것은?",
+      "options": [
+        "최대 20°, 최소 30°",
+        "최대 78°, 최소 20°",
+        "최대 78°, 최소 55°",
+        "최대 180°, 최소 20°",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q26",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "자동변속기가 장착된 건설기계의 모든 변속단에서 출력이 떨어질 경우 점검해야 할 항목과 거리가 먼 것은?",
+      "options": [
+        "오일의 부족",
+        "토크컨버터 고장",
+        "엔진고장으로 출력 부족",
+        "추진축 휨",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q27",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "건설기계를 산(매수 한) 사람이 등록사항변경(소유권 이전) 신고를 하지 않아 등록사항 변경신고를 독촉하였으나 이를 이행하지 않을 경우 판(매도 한) 사람이 할 수 있는 조치로서 가장 적합한 것은?",
+      "options": [
+        "소유권 이전 신고를 조속히 하도록 매수 한 사람에게 재차 독촉한다.",
+        "매도 한 사람이 직접 소유권 이전 신고를 한다.",
+        "소유권 이전 신고를 조속히 하도록 소송을 제기한다.",
+        "아무런 조치도 할 수 없다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q28",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "덤프트럭이 건설기계 검사소 검사가 아닌 출장검사를 받을 수 있는 경우는?",
+      "options": [
+        "너비가 3m인 경우",
+        "최고 속도가 40km/h인 경우",
+        "차체중량이 25톤인 경우",
+        "축중이 5톤인 경우",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q29",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "노면이 얼어붙은 경우 또는 폭설로 가시거리가 100미터 이내인 경우 최고속도의 얼마나 감속 운행하여야 하는가?",
+      "options": [
+        "50/100",
+        "30/100",
+        "40/100",
+        "20/100",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q30",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 그림의 교통안전표지는 무엇인가?",
+      "options": [
+        "차간거리 최저 50m이다.",
+        "차간거리 최고 50m이다.",
+        "최저속도 제한표지이다.",
+        "최고속도 제한표지이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/jg/jg20111009/jg20111009m30.gif"
+    },
+    {
+      "id": "forklift_craftsman_q31",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "등록건설기계의 기종별 표시방법으로 옳은 것은?",
+      "options": [
+        "01 : 불도저",
+        "02 : 모터그레이더",
+        "03 : 지게차",
+        "04 : 덤프트럭",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q32",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "편도 4차로 일반도로의 경우 교차로 30m 전방에서 우회전을 하려면 몇 차로로 진입 통행해야 하는가?",
+      "options": [
+        "1차로로 통행한다.",
+        "2차로와 1차로로 통행한다.",
+        "4차로로 통행한다.",
+        "3차로만 통행 가능하다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q33",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "정차 및 주차금지 장소에 해당 되는 것은?",
+      "options": [
+        "건널목 가장자리로부터 15m 지점",
+        "정류장 표지판으로부터 12m 지점",
+        "도로의 모퉁이로부터 4m 지점",
+        "교차로 가장자리로부터 10m 지점",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q34",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "특별 표지판을 부착하여야 할 건설기계의 범위에 해당하지 않는 것은?",
+      "options": [
+        "높이가 5미터인 건설기계",
+        "총중량이 50톤인 건설기계",
+        "길이가 16미터인 건설기계",
+        "최소회전반경이 13미터인 건설기계",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q35",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "현장에 경찰 공무원이 없는 장소에서 인명사고와 물건의 손괴를 입힌 교통사고가 발생하였을 때 가장 먼저 취할 조치는?",
+      "options": [
+        "손괴한 물건 및 손괴 정도를 파악한다.",
+        "즉시 피해자 가족에게 알리고 합의한다.",
+        "즉시 사상자를 구호하고 경찰 공무원에게 신고한다.",
+        "승무원에게 사상자를 알리게 하고 회사에 알린다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q36",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "3톤 미만 지게차의 소형건설기계 조종 교육시간은?",
+      "options": [
+        "이론 6시간, 실습 6시간",
+        "이론 4시간, 실습 8시간",
+        "이론 12시간, 실습 12시간",
+        "이론 10시간, 실습 14시간",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q37",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "건설기계에 사용되는 유압 실린더 작용은 어떠한 것을 응용한 것인가?",
+      "options": [
+        "베르누이의 정리",
+        "파스칼의 정리",
+        "지렛대의 원리",
+        "후크의 법칙",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q38",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "공유압 기호 중 그림이 나타내는 것은?",
+      "options": [
+        "유압동력원",
+        "공기압동력원",
+        "전동기",
+        "원동기",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/jg/jg20111009/jg20111009m38.gif"
+    },
+    {
+      "id": "forklift_craftsman_q39",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "작동형, 평형피스톤형 등의 종류가 있으며 회로의 압력을 일정하게 유지시키는 밸브는?",
+      "options": [
+        "릴리프 밸브",
+        "메이크업 밸브",
+        "시퀀스 밸브",
+        "무부하 밸브",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q40",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "유압 실린더는 유체의 힘을 어떤 운동으로 바꾸는가?",
+      "options": [
+        "회전 운동",
+        "직선 운동",
+        "곡선 운동",
+        "비틀림 운동",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q41",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "유압 작동유의 점도가 너무 높을 때 발생되는 현상으로 맞는 것은?",
+      "options": [
+        "동력 손실의 증가",
+        "내부 누설의 증가",
+        "펌프 효율의 증가",
+        "마찰 마모 감소",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q42",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "일반적으로 오일탱크의 구성품이 아닌 것은?",
+      "options": [
+        "스트레이너",
+        "배플",
+        "드레인플러그",
+        "압력조절기",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q43",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 액추에이터의 입구 쪽 관로에 설치한 유량제어밸브로 흐름을 제어하여 속도를 제어하는 회로는?",
+      "options": [
+        "시스템 회로(system circuit)",
+        "블리드오프 회로(bled-off circuit)",
+        "미터인 회로(meter-in circuit)",
+        "미터아웃 회로(meter-out circuit)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q44",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "유압장치의 구성요소가 아닌 것은?",
+      "options": [
+        "유니버셜 조인트",
+        "오일탱크",
+        "펌프",
+        "제어밸브",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q45",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 그림과 같이 안쪽은 내·외측 로터로 바깥쪽은 하우징으로 구성되어 있는 오일펌프는?",
+      "options": [
+        "기어 펌프",
+        "베인 펌프",
+        "트로코이드 펌프",
+        "피스톤 펌프",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jg/jg20111009/jg20111009m45.gif"
+    },
+    {
+      "id": "forklift_craftsman_q46",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "유압에너지를 공급받아 회전운동을 하는 기기를 무엇이라 하는가?",
+      "options": [
+        "펌프",
+        "모터",
+        "밸브",
+        "롤러 리미트",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q47",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "볼트 등을 조일 때 조이는 힘을 측정하기 위하여 쓰는 렌치는?",
+      "options": [
+        "복스 렌치",
+        "오픈엔드 렌치",
+        "소켓 렌치",
+        "토크 렌치",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q48",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "크레인으로 무거운 물건을 위로 달아 올릴 때 주의할 점이 아닌 것은?",
+      "options": [
+        "달아 올릴 화물의 무게를 파악하여 제한하중 이하에서 작업한다.",
+        "매달린 화물이 불안전하다고 생각될 때는 작업을 중지한다.",
+        "신호의 규정이 없으므로 작업자가 적절히 한다.",
+        "신호자의 신호에 따라 작업한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q49",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "전기장치의 퓨즈가 끊어져서 다시 새것으로 교체하였으나 또 끊어졌다면 어떤 조치가 가장 옳은가?",
+      "options": [
+        "계속 교체한다.",
+        "용량이 큰 것으로 갈아 끼운다.",
+        "구리선이나 납선으로 바꾼다.",
+        "전기장치의 고장개소를 찾아 수리한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q50",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "산업안전보건표지에서 그림이 나타내는 것은?",
+      "options": [
+        "비상구 없음 표지",
+        "방사선 위험 표지",
+        "탑승금지 표지",
+        "보행금지 표지",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/jg/jg20111009/jg20111009m50.gif"
+    },
+    {
+      "id": "forklift_craftsman_q51",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "가동하고 있는 엔진에서 화재가 발생하였다. 불을 끄기 위한 조치 방법으로 가장 올바른 것은?",
+      "options": [
+        "원인분석을 하고 모래를 뿌린다.",
+        "포말 소화기를 사용 후 엔진 시동스위치를 끈다.",
+        "엔진 시동스위치를 끄고 ABC 소화기를 사용한다.",
+        "엔진을 급가속하여 팬의 강한 바람을 일으켜 불을 끈다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q52",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "동력 전달장치에서 가장 재해가 많이 발생하는 것은?",
+      "options": [
+        "차축",
+        "기어",
+        "피스톤",
+        "벨트",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q53",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "크레인으로 인양 시 물체의 중심을 측정하여 인양하여야 한다. 다음 중 잘못된 것은?",
+      "options": [
+        "형상이 복잡한 물체의 무게 중심을 확인한다.",
+        "인양 물체를 서서히 올려 지상 약 30cm지점에서 정지하여 확인한다.",
+        "인양 물체의 중심이 높으면 물체가 기울 수 있다.",
+        "와이어로프나 매달기용 체인이 벗겨질 우려가 있으면 되도록 높이 인양한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q54",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "구급처치 중에서 환자의 상태를 확인하는 사항과 가장 거리가 먼 것은?",
+      "options": [
+        "의식",
+        "상처",
+        "출혈",
+        "격리",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q55",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "작업장에서 전기가 예고 없이 정전 되었을 경우 전기로 작동하던 기계기구의 조치방법으로 틀린 것은?",
+      "options": [
+        "즉시 스위치를 끈다.",
+        "안전을 위해 작업장을 정리해 놓는다.",
+        "퓨즈의 단선 유, 무를 검사한다.",
+        "전기가 들어오는 것을 알기 위해 스위치를 켜둔다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q56",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "복스 렌치가 오픈 렌치보다 많이 사용되는 이유는?",
+      "options": [
+        "값이 싸며 적은 힘으로 작업할 수 있다.",
+        "가볍고 사용하는데 양손으로도 사용할 수 있다.",
+        "파이프 피팅 조임 등 작업용도가 다양하여 많이 사용된다.",
+        "볼트, 너트 주위를 완전히 감싸게 되어 사용 중에 미끄러지지 않는다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q57",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 한국전력의 송전선로 전압으로 맞는 것은?",
+      "options": [
+        "6.6kV",
+        "22.9kV",
+        "345kV",
+        "0.6kV",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q58",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "일반 도시가스 사업자의 지하배관 설치시 도로폭 8m 이상인 도로에서는 관련법상 어느 정도의 깊이에 배관이 설치되어 있는가?",
+      "options": [
+        "1.5m 이상",
+        "1.2m 이상",
+        "1.0m 이상",
+        "0.6m 이상",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q59",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "도시가스사업법에서 압축가스일 경우 중압이라 함은 얼마의 압력을 말하는가?",
+      "options": [
+        "0.1MPa ~ 1MPa 미만",
+        "0.02MPa ~ 1MPa 미만",
+        "1MPa ~ 10MPa 미만",
+        "10MPa ~ 100MPa 미만",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q60",
+      "subject": "지게차운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "굴착도중 전력케이블 표지시트가 나왔을 경우의 조치사항으로 적합한 것은?",
+      "options": [
+        "표지시트를 제거하고 계속 굴착한다.",
+        "표지시트를 제거하고 보호판이나 케이블이 확인될 때 까지 굴착한다.",
+        "즉시 굴착을 중지하고 해당 시설 관련기관에 연락한다.",
+        "표지시트를 원상태로 다시 덮고 인근 부위를 재 굴착한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q61",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "엔진의 윤활유 압력이 높아지는 이유는?",
+      "options": [
+        "윤활유 펌프의 성능이 좋지 않다.",
+        "윤활유량이 부족하다.",
+        "윤활유의 점도가 너무 높다.",
+        "기관 각부의 마모가 심하다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q62",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "디젤기관에서 터보차저를 부착하는 목적으로 맞는 것은?",
+      "options": [
+        "기관의 유효압력을 낮추기 위해서",
+        "기관의 냉각을 위해서",
+        "기관의 출력을 증대시키기 위해서",
+        "배기 소음을 줄이기 위해서",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q63",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "기관에서 크랭크축의 회전과 관계없이 작동되는 기구는?",
+      "options": [
+        "발전기",
+        "캠 샤프트",
+        "워터 펌프",
+        "스타트 모터",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q64",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "건설기계기관에 있는 팬벨트의 장력이 약할 때 생기는 현상으로 맞는 것은?",
+      "options": [
+        "발전기 출력이 저하될 수 있다.",
+        "물 펌프 베어링이 조기에 손상된다.",
+        "엔진이 과냉 된다.",
+        "엔진이 부조를 일으킨다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q65",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "운전 중 엔진오일 경고등이 점등되었을 때의 원인이 아닌 것은?",
+      "options": [
+        "오일 드레인 플러그가 열렸을 때",
+        "윤활계통이 막혔을 때",
+        "오일필터가 막혔을 때",
+        "오일 밀도가 낮을 때",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q66",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "기관 과열 시 일어날 수 있는 현상으로 가장 적합한 것은?",
+      "options": [
+        "연료가 응결될 수 있다.",
+        "실린더 헤드의 변형이 발생할 수 있다.",
+        "흡배기 밸브의 열림량이 많아진다.",
+        "밸브 개폐시기가 빨라진다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q67",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "기관의 피스톤이 고착되는 원인으로 틀린 것은?",
+      "options": [
+        "냉각수 량이 부족할 때",
+        "기관오일이 부족하였을 때",
+        "기관이 과열되었을 때",
+        "압축 압력이 너무 높았을 때",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q68",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "건설기계에서 사용하는 경유의 중요한 성질이 아닌 것은?",
+      "options": [
+        "옥탄가",
+        "비중",
+        "착화성",
+        "세탄가",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q69",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "건설기계에서 엔진부조가 발생되고 있다. 그 원인으로 맞는 것은?",
+      "options": [
+        "인젝트 공급파이프의 연료 누설",
+        "인젝터 연료 리턴 파이프의 연료 누설",
+        "가속페달 케이블의 조정 불량",
+        "자동변속기의 고장 발생",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q70",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "디젤기관에서 연료가 정상적으로 공급되지 않아 시동이 꺼지는 현상이 발생 되었다. 그 원인으로 적합하지 않는 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "연료파이프 손상",
+        "프라이밍 펌프 고장",
+        "연료 필터 막힘",
+        "자동변속기의 고장 발생",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q71",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "디젤기관과 관계없는 것은?",
+      "options": [
+        "경유를 연료로 사용한다.",
+        "점화장치 내에 배전기가 있다.",
+        "압축 착화한다.",
+        "압축비가 가솔린기관보다 높다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q72",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "운전 중 운전석 계기판에서 확인해야 하는 것이 아닌 것은?",
+      "options": [
+        "실린더 압력계",
+        "연료량 게이지",
+        "냉각수 온도게이지",
+        "충전 경고등",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q73",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "건설기계 엔진에 사용되는 시동모터가 회전이 안 되거나 회전력이 약한 원인이 아닌 것은?",
+      "options": [
+        "시동스위치 접촉 불량이다.",
+        "배터리 단자와 터미널의 접촉이 나쁘다.",
+        "브러시가 정류자에 잘 밀착되어 있다.",
+        "배터리 전압이 낮다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q74",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "야간작업 시 헤드라이트가 한쪽만 점등되었다. 고장 원인으로 가장 거리가 먼 것은?",
+      "options": [
+        "헤드라이트 스위치 불량",
+        "전구 접지불량",
+        "한 쪽 회로의 퓨즈 단선",
+        "전구 불량",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q75",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "AC 발전기에서 전류가 발생되는 곳은?",
+      "options": [
+        "로터 코일",
+        "레귤레이터",
+        "스테이터 코일",
+        "전기자 코일",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q76",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "축전지 터미널에 부식이 발생하였을 때 나타나는 현상과 가장거리가 먼 것은?",
+      "options": [
+        "기동 전동기의 회전력이 작아진다.",
+        "엔진 크랭킹이 잘 되지 않는다.",
+        "전압강하가 발생된다.",
+        "시동 스위치가 손상된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q77",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "실드 형 예열 플러그에 대한 설명으로 맞는 것은?",
+      "options": [
+        "히트 코일이 노출되어 있다.",
+        "발열량은 많으나 열용량은 적다.",
+        "열선이 병렬로 결선되어 있다.",
+        "축전지의 전압을 강하시키기 위하여 저항기를 직렬 접속한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q78",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "납산축전지를 오랫동안 방전상태로 두면 사용하지 못하게 되는 원인은?",
+      "options": [
+        "극판이 영구 황산납이 되기 때문이다.",
+        "극판에 산화납이 형성되기 때문이다.",
+        "극판에 수소가 형성되기 때문이다.",
+        "극판에 녹이 슬기 때문이다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q79",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "무한궤도식 건설기계에서 트랙 장력을 측정하는 부위로 가장 적합한 것은?",
+      "options": [
+        "아이들러와 스프로킷 사이",
+        "1번 상부롤러와 2번 상부롤러 사이",
+        "스프로킷과 1번 상부롤러 사이",
+        "아이들러와 1번 상부롤러 사이",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q80",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "굴삭기 붐의 자연 하강량이 많을 때의 원인이 아닌 것은?",
+      "options": [
+        "유압실린더의 내부누출이 있다.",
+        "콘트롤 밸브의 스풀에서 누출이 많다.",
+        "유압실린더 배관이 파손되었다.",
+        "유압작동 압력이 과도하게 높다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q81",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "일반적으로 기중기의 드럼 클러치로 사용되고 있는 것은?",
+      "options": [
+        "외부 확장식",
+        "외부 수축식",
+        "내부 확장식",
+        "내부 수축식",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q82",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "엔진에서 발생한 회전동력을 바퀴까지 전달할 때 마지막으로 감속작용을 하는 것은?",
+      "options": [
+        "클러치",
+        "트랜스미션",
+        "프로펠러샤프트",
+        "파이널드라이버기어",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q83",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "타이어식 건설기계에서 앞바퀴 정렬의 역할과 거리가 먼 것은?",
+      "options": [
+        "브레이크의 수명을 길게 한다.",
+        "타이어 마모를 최소로 한다.",
+        "방향 안정성을 준다.",
+        "조향핸들의 조작을 작은 힘으로 쉽게 할 수 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q84",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "지게차 작업시 안전 수칙으로 틀린 것은?",
+      "options": [
+        "주차 시에는 포크를 완전히 지면에 내려야 한다.",
+        "화물을 적재하고 경사지를 내려갈 때는 운전 시야 확보를 위해 전진으로 운행해야 한다.",
+        "포크를 이용하여 사람을 싣거나 들어 올리지 않아야 한다.",
+        "경사지를 오르거나 내려올 때는 급회전을 금해야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q85",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "크롤러형 로더로 작업을 할 수 있는 것을 나열한 것이다. 해당이 없는 것은?",
+      "options": [
+        "수직 굴토작업",
+        "포장로 제거",
+        "제설작업",
+        "골재의 처리작업",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q86",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "토크컨버터 구성품 중 스테이터의 기능으로 옳은 것은?",
+      "options": [
+        "오일의 방향을 바꾸어 회전력을 증대시킨다.",
+        "토크컨버터의 동력을 전달 또는 차단한다.",
+        "오일의 회전속도를 감속하여 견인력을 증대시킨다.",
+        "클러치판의 마찰력을 감소시킨다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q87",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "건설기계등록번호표의 색칠 기준으로 틀린 것은?(관련 규정 개정전 문제로 여기서는 기존 정답인 4번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "자가용 - 녹색 판에 흰색 문자",
+        "영업용 - 주황색 판에 흰색 문자",
+        "관용 - 흰색 판에 검은색 문자",
+        "수입용 - 적색 판에 흰색 문자",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q88",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "자동차에서 팔을 차체의 밖으로 내어45° 밑으로 펴서 상하로 흔들고 있을 때의 신호는?",
+      "options": [
+        "서행신호",
+        "정지신호",
+        "주의신호",
+        "앞지르기신호",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q89",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "차로가 설치된 도로에서통행방법 중 위반이 되는 것은?",
+      "options": [
+        "택시가 건설기계를 앞지르기 하였다.",
+        "차로를 따라 통행하였다.",
+        "경찰관의 지시에 따라 중앙 좌측으로 진행하였다.",
+        "두 개의 차로에 걸쳐 운행하였다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q90",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "교차로 통행방법 설명 중 틀린 것은?",
+      "options": [
+        "교차로 내는 차선이 없으므로 진행방향을 임의로 바꿀 수 있다.",
+        "좌회전할 때에는 교차로 중심 안쪽으로 서행한다.",
+        "교차로에서 직진하려는 차는 이미 교차로에 진입하여 좌회전하고 있는 차의 진로를 방해할 수 없다.",
+        "교차로에서 우회전할 때에는 서행하여야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q91",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "도로교통법에 의한 통고처분의 수령을 거부하거나 범칙금을 기간 안에 납부하지 못한 자는 어떻게 처리되는가?",
+      "options": [
+        "면허의 효력이 정지된다.",
+        "면허증이 취소된다.",
+        "연기신청을 한다.",
+        "즉결 심판에 회부된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q92",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "신규 등록일 부터 5년 경과된 트럭적재식 천공기의 정기검사 유효기간은?(2021년 02월 16일 변경된 규정 적용됨)",
+      "options": [
+        "6개월",
+        "1년",
+        "2년",
+        "3년",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q93",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "건설기계관리법령상 건설기계의 총 종류 수는?",
+      "options": [
+        "16종(15종 및 특수건설기계)",
+        "21종(20종 및 특수건설기계)",
+        "27종(26종 및 특수건설기계)",
+        "30종(27종 및 특수건설기계)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q94",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "폐기요청을 받은 건설기계를 폐기하지 아니하거나 등록번호표를 폐기하지 아니한 자에 대한 벌칙은?(2015년 08월 11일 개정된 규정 적용됨)",
+      "options": [
+        "2년 이하의 징역 또는 1천만원 이하의 벌금",
+        "1년 이하의 징역 또는 1천만원 이하의 벌금",
+        "2백만원 이하의 벌금",
+        "1백만원 이하의 벌금",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q95",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "주차.정차가 금지되어 있지 않은 장소는?",
+      "options": [
+        "교차로",
+        "건널목",
+        "횡단보도",
+        "경사로의 정상부근",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q96",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 항발기를 조종할 수 있는 건설기계 조종사 면허는?(2012년 03월 개정된 규정 적용됨)",
+      "options": [
+        "천공기",
+        "공기압축기",
+        "횡단보도",
+        "스크레이퍼",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q97",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "유압회로에서 유량제어를 통하여 작업속도를 조절하는 방식에 속하지 않는 것은?",
+      "options": [
+        "미터 인(meter in) 방식",
+        "미터 아웃(meter out) 방식",
+        "브리드 오프(bleed off) 방식",
+        "브리드 온(bleed on) 방식",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q98",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "유압장치에 부착되어 있는 오일탱크의 부속장치가 아닌 것은?",
+      "options": [
+        "주입구 캡",
+        "유면계",
+        "배플",
+        "피스톤 로드",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q99",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "밀폐된 용기에 채워진 유체의 일부에 압력을 가하면 유체 내의 모든 곳에 같은 크기로 전달된다는 원리는?",
+      "options": [
+        "파스칼의 원리",
+        "베르누이의 원리",
+        "보일샬의 원리",
+        "아르키메데스의 원리",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q100",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "구동되는 기어펌프의 회전수가 변하였을 때 가장 적합한 설명은?",
+      "options": [
+        "오일의 유량이 변한다.",
+        "오일의 압력이 변한다.",
+        "오일의 흐름 방향이 변한다.",
+        "회전 경사판의 각도가 변한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q101",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "유압장치에서 유압조정밸브의 조정방법은?",
+      "options": [
+        "압력조절밸브가 열리도록 하면 유압이 높아진다.",
+        "밸브스프링의 장력이 커지면 유압이 낮아진다.",
+        "조정 스크류를 조이면 유압이 높아진다.",
+        "조정 스크류를 풀면 유압이 높아진다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q102",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "축압기의 종류 중 공기 압축형이 아닌 것은?",
+      "options": [
+        "스프링 하중식(spring loaded type)",
+        "피스톤식(piston type)",
+        "다이어프램식(diaphragm type)",
+        "블래더식(bladder type)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q103",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "유압모터의 단점에 해당 되지 않는 것은?",
+      "options": [
+        "작동유에 먼지나 공기가 침입하지 않도록 특히 보수에 주의해야 한다.",
+        "작동유가 누출되면 작업 성능에 지장이 있다.",
+        "작동유의 점도변화에 의하여 유압모터의 사용에 제약이 있다.",
+        "릴리프 밸브를 부착하여 속도나 방향제어하기가 곤란하다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q104",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "유압유의 온도가 과도하게 상승하였을 때 나타날 수 있는 현상과 관계없는 것은?",
+      "options": [
+        "유압유의 산화작용을 촉진한다.",
+        "작동 불량 현상이 발생한다.",
+        "기계적인 마모가 발생할 수 있다.",
+        "유압기계의 작동이 원활해진다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q105",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "유압장치의 일상점검 항목이 아닌 것은?",
+      "options": [
+        "오일의 양 점검",
+        "변질상태 점검",
+        "오일의 누유 여부 점검",
+        "탱크 내부 점검",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q106",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "방향전환 밸브의 조작 방식에서 단동 솔레노이드 기호는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q107",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "안전?보건표지의 종류와 형태에서 그림의 안전 표지판이 나타내는 것은?",
+      "options": [
+        "사용금지",
+        "탑승금지",
+        "보행금지",
+        "물체이동금지",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/jg/jg20110731/jg20110731m47.gif"
+    },
+    {
+      "id": "forklift_craftsman_q108",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "크레인 작업 방법 중 적합하지 않은 것은?",
+      "options": [
+        "경우에 따라서는 수직 방향으로 달아 올린다.",
+        "신호수의 신호에 따라 작업한다.",
+        "제한하중 이상의 것은 달아 올리지 않는다.",
+        "항상 수평으로 달아 올려야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q109",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "높은 곳에 출입할 때는 안전장구를 착용하여야 하는데 안전대용 로프의 구비조건에 해당 되지 않는 것은?",
+      "options": [
+        "충격 및 인장 강도에 강할 것",
+        "내마모성이 높을 것",
+        "내열성이 높을 것",
+        "완충성이 적고, 매끄러울 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q110",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 크레인을 이용한 작업방법 중 안전기준에 해당하지 않는 것은?",
+      "options": [
+        "급회전하지 않는다.",
+        "작업 중 시계가 양호한 방향으로 선회한다.",
+        "작업 중인 크레인의 작업 반경 내에 접근하지 않는다.",
+        "크레인을 이용하여 화물을 운반할 때 붐의 각도는 20도 이하 또는 78도 이상으로 하여 작업 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q111",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 안전의 제일 이념에 해당하는 것은?",
+      "options": [
+        "품질 향상",
+        "재산 보호",
+        "인간 존중",
+        "생산성 향상",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q112",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "연삭 작업시 반드시 착용해야 하는 보호구는?",
+      "options": [
+        "방독면",
+        "장갑",
+        "보안경",
+        "마스크",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q113",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "감전되거나 전기화상을 입을 위험이 있는 작업에서 제일 먼저 작업자가 구비해야 할 것은?",
+      "options": [
+        "완강기",
+        "구급차",
+        "보호구",
+        "신호기",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q114",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "유해광선이 있는 작업장에 보호구로 가장 적절한 것은?",
+      "options": [
+        "보안경",
+        "안전모",
+        "귀마개",
+        "방독마스크",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q115",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "일반 수공구 사용시 주의사항으로 틀린 것은?",
+      "options": [
+        "용도 이외에는 사용하지 않는다.",
+        "사용 후에는 정해진 장소에 보관한다.",
+        "수공구는 손에 잘 잡고 떨어지지 않게 작업한다.",
+        "볼트 및 너트의 조임에 파이프렌치를 사용한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q116",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "추락 위험이 있는 장소에서 작업할 때 안전관리 상 어떻게 하는 것이 가장 좋은가?",
+      "options": [
+        "안전띠 또는 로프를 사용한다.",
+        "일반 공구를 사용한다.",
+        "이동식 사다리를 사용하여야 한다.",
+        "고정식 사다리를 사용하여야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q117",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "도로 굴착시 황색의 도시가스 보호포가 나왔다. 매설된 도시가스 배관의 압력은?",
+      "options": [
+        "고압",
+        "중압",
+        "저압",
+        "초고압",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q118",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "지중전선로 중에 직접 매설식에 의하여 시설 할 경우에는 토관이 깊이를 최소 몇 m 이상으로 하여야 하는가? (단, 차량 및 기타 중량물의 압력을 받을 우려는 없는 장소)",
+      "options": [
+        "0.6m",
+        "0.9m",
+        "1.0m",
+        "1.2m",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q119",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "가스배관과 수평거리 몇 cm 이내에서는 파일박기를 할 수 없도록 도시가스 사업법에 규정되어 있는가?",
+      "options": [
+        "30",
+        "60",
+        "90",
+        "120",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q120",
+      "subject": "지게차운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "굴착장비를 이용하여 도로 굴착작업 중 “고압선 위험” 표지시트가 발견되었다. 다음 중 맞는 것은?",
+      "options": [
+        "표지시트 좌측에 전력케이블이 묻혀 있다.",
+        "표지시트 우측에 전력케이블이 묻혀 있다.",
+        "표지시트와 직각방향에 전력케이블이 묻혀 있다.",
+        "표지시트 지하에 전력케이블이 묻혀 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q121",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "압력의 단위가 아닌 것은?",
+      "options": [
+        "kgf/cm2",
+        "dyne",
+        "psi",
+        "bar",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q122",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "디젤기관에서 압축압력이 저하되는 가장 큰 원인은?",
+      "options": [
+        "냉각수 부족",
+        "엔진오일 과다",
+        "기어오일의 열화",
+        "피스톤 링의 마모",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q123",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "엔진 윤활유의 기능이 아닌 것은?",
+      "options": [
+        "윤활작용",
+        "냉각작용",
+        "연소작용",
+        "방청작용",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q124",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "디젤기관에서 에어클리너가 막혔을 때 발생하는 현상은?",
+      "options": [
+        "배기색은 희고, 출력은 정상이다.",
+        "배기색은 희고, 출력은 증가한다.",
+        "배기색은 검고, 출력은 저하된다.",
+        "배기색은 검고, 출력은 증가한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q125",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "기관에서 밸브의 개폐를 돕는 것은?",
+      "options": [
+        "너클 암",
+        "스티어링 암",
+        "로커 암",
+        "방청작용",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q126",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "디젤기관에서 조속기의 기능으로 맞는 것은?",
+      "options": [
+        "연료 분사량 조절",
+        "연료 분사시기 조정",
+        "엔진 부하량 조정",
+        "엔진 부하시기 조정",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q127",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "디젤기관에서 연료 라인에 공기가 혼입되었을 때 현상으로 가장 적절한 것은?",
+      "options": [
+        "분사압력이 높아진다.",
+        "디젤 노크가 일어난다.",
+        "연료 분사량이 많아진다.",
+        "기관 부조 현상이 발생된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q128",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "건설기계 장비에서 기관을 시동한 후 정상운전 가능 상태를 확인하기 위해 운전자가 가장 먼저 점검해야 할 것은?",
+      "options": [
+        "주행속도계",
+        "엔진 오일량",
+        "냉각수온도계",
+        "오일압력계",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q129",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "사용 중인 엔진의 오일을 점검하였더니 오일량이 처음량 보다 증가하였다. 원인에 해당 될 수 있는 것은?",
+      "options": [
+        "냉각수 혼입",
+        "산화물 혼입",
+        "오일필터 막힘",
+        "배기가스 유입",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q130",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "실린더 헤드 등 면적이 넓은 부분에서 볼트를 조이는 방법으로 가장 적합한 것은?",
+      "options": [
+        "규정 토크로 한 번에 조인다.",
+        "중심에서 외측을 향하여 대각선으로 조인다.",
+        "외측에서 중심을 향하여 대각선으로 조인다.",
+        "조이기 쉬운 곳부터 조인다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q131",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "기관 과열의 원인과 가장 거리가 먼 것은?",
+      "options": [
+        "팬벨트가 헐거울 때",
+        "물 펌프 작동이 불량할 때",
+        "크랭크축 타이밍기어가 마모되었을 때",
+        "방열기 코어가 규정 이상으로 막혔을 때",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q132",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "기관 작동 중 냉각수의 온도가 정상적으로 올라가지 않을 때의 원인으로 맞는 것은?",
+      "options": [
+        "수온 조절기의 열림",
+        "팬벨트의 헐거움",
+        "물 펌프의 불량",
+        "냉각수 부족",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q133",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "납산축전지의 일반적인 충전 방법으로 가장 많이 사용되는 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "정전류 충전",
+        "정전압 충전",
+        "단별전류 충전",
+        "급속 충전",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q134",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "기동 전동기의 전기자 코일에 항상 일정한 방향으로 전류가 흐르도록 하기 위해 설치한 것은?",
+      "options": [
+        "다이오드",
+        "로터",
+        "정류자",
+        "슬립링",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q135",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "회로의 전압이 12V이고 저항이 6옴일 때 전류는 얼마인가?",
+      "options": [
+        "1A",
+        "2A",
+        "3A",
+        "4A",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q136",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "방향지시등의 한쪽 등이 빠르게 점멸하고 있을 때, 운전자가 가장 먼저 점검하여야 할 곳은?",
+      "options": [
+        "전구(램프)",
+        "플래셔 유닛",
+        "콤비네이션 스위치",
+        "배터리",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q137",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "건설기계에 사용하는 교류발전기의 구조에 해당하지 않는 것은?",
+      "options": [
+        "스테이터 코일",
+        "로터",
+        "마그네틱 스위치",
+        "다이오드",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q138",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "MF(Maintenance Free) 축전지에 대한 설명으로 적합하지 않는 것은?",
+      "options": [
+        "격자의 재질은 납과 칼슘합금이다.",
+        "무보수용 배터리이다.",
+        "밀봉 촉매 마개를 사용한다.",
+        "증류수는 매 15일마다 보충한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q139",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "무한궤도식 굴삭기의 하부 주행체를 구성하는 요소가 아닌 것은?",
+      "options": [
+        "선회고정 장치",
+        "주행 모터",
+        "스프로킷",
+        "트랙",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q140",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "유압식 모터그레이더의 블레이드 횡행 장치의 부품이 아닌 것은?",
+      "options": [
+        "상부레일",
+        "볼조인트",
+        "회전실린더",
+        "피스톤로드",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q141",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "타이어에서 고무로 피복된 코드를 여러 겹으로 겹친 층에 해당 되며 타이어 골격을 이루는 부분은?",
+      "options": [
+        "카커스(carcass)부",
+        "드레드(tread)부",
+        "숄더(shoulder)부",
+        "비드(bead)부",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q142",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "지게차에 관한 설명으로 틀린 것은?",
+      "options": [
+        "짐을 싣기 위해 마스트를 약간 전경시키고 포크를 끼워 물건을 싣는다.",
+        "틸트 레버는 앞으로 밀면 마스터가 앞으로 기울고 따라서 포크가 앞으로 기운다.",
+        "포크를 상승시킬 때는 리프트 레버를 뒤쪽으로, 하강시킬 때는 앞쪽으로 민다.",
+        "목적지에 도착 후 물건을 내리기 위해 틸트 실린더를 후경시켜 전진한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q143",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "하부 추진체가 휠로 되어 잇는 건설기계장비로 커브를 돌 때 선회를 원할 하게 해주는 장치는?",
+      "options": [
+        "변속기",
+        "차동 장치",
+        "최종 구동장치",
+        "트랜스퍼케이스",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q144",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "무한궤도식 건설기계에서 트랙 장력이 너무 팽팽하게 조정되었을 때 보기와 같은 부분에서 마모가 가속되는 부분(기호)을 모두 나열한 항은?",
+      "options": [
+        "a. c",
+        "a. b. d",
+        "a. b. c",
+        "a. b. c. d",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jg/jg20110417/jg20110417m24.gif"
+    },
+    {
+      "id": "forklift_craftsman_q145",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "토크 컨버터의 오일의 흐름 방향을 바꾸어 주는 것은?",
+      "options": [
+        "펌프",
+        "터빈",
+        "변속기축",
+        "스테이터",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q146",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "기중기의 안전한 작업방법으로 적합하지 않은 것은?",
+      "options": [
+        "제한 하중 이상의 것은 달아 올리지 말 것",
+        "하중은 항상 옆으로 달아 올릴 것",
+        "지정된 신호수의 신호에 따라 작업을 할 것",
+        "하물의 훅 위치는 무게 중심에 걸리도록 할 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q147",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "좌회전을 하기 위하여 교차로에 진입되어 있을 때 황색 등화로 바뀌면 어떻게 하여야 하는가?",
+      "options": [
+        "정지하여 정지선으로 후진한다.",
+        "그 자리에 정지하여야 한다.",
+        "신속히 좌회전하여 교차로 밖으로 진행한다.",
+        "좌회전을 중단하고 횡단보도 앞 정지선까지 후진하여야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q148",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "앞지르기를 할 수 없는 경우에 해당 되는 것은?",
+      "options": [
+        "앞차의 좌측에 다른 차가 나란히 진행하고 있을 때",
+        "앞차가 우측으로 진로를 변경하고 있을 때",
+        "앞차가 그 앞차와의 안전거리를 확보하고 있을 때",
+        "앞차가 양보 신호를 할 때",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q149",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "건설기계 등록의 말소 사유에 해당하지 않는 것은?",
+      "options": [
+        "건설기계를 폐기한 때",
+        "건설기계의 구조 변경을 했을 때",
+        "건설기계가 멸실 되었을 때",
+        "건설기계의 차대가 등록 시의 차대와 다른 때",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q150",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "건설기계 등록번호표의 색상 구분 중 틀린 것은?(관련규정 개정전 문제로 여기서는 기존 정답인 4번을 누르면 정답 처리 됩니다. 자세한 내용은 해설을 참고하세요)",
+      "options": [
+        "관용 번호판의 흰색판에 검정색 문자이다.",
+        "영업용 번호판은 주황색판에 흰색 문자이다.",
+        "자가용 번호판은 녹색판에 흰색 문자이다.",
+        "임시운행 번호표는 흰색판에 청색 문자이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q151",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "정기검사대상 건설기계의 정기검사 신청기간으로 맞는 것은?",
+      "options": [
+        "건설기계의 정기검사 유효기간 만료일 전후 45일 이내에 신청한다.",
+        "건설기계의 정기검사 유효기간 만료일 전 90일 이내에 신청한다.",
+        "건설기계의 정기검사 유효기간 만료일 전후 31일 이내에 신청한다.",
+        "건설기계의 정기검사 유효기간 만료일 후 60일 이내에 신청한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q152",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "신호등에 녹색 등화시 차마의 통행방법으로 틀린 것은?",
+      "options": [
+        "차마는 다른 교통에 방해되지 않을 때에 천천히 우회전 할 수 있다.",
+        "차마는 직진 할 수 있다.",
+        "차마는 비보호 좌회전 표시가 있는 곳에서는 언제든지 좌회전을 할 수 있다.",
+        "차마는 좌회전을 하여서는 아니 된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q153",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "도로교통법상 도로의 모퉁이로부터 몇 m 이내의 장소에 정차하여서는 안 되는가?",
+      "options": [
+        "2m",
+        "3m",
+        "5m",
+        "10m",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q154",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "대형 건설기계 특별 표지판 부착을 하지 않아도 되는 건설기계는?",
+      "options": [
+        "너비 3미터인 건설기계",
+        "길이 16미터인 건설기계",
+        "최소 회전반경 13미터인 건설기계",
+        "총중량 50톤인 건설기계",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q155",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "건설기계조종사 면허가 취소되었을 경우 그 사유가 발생한 날로부터 며칠 이내에 면허증을 반납해야 하는가?",
+      "options": [
+        "7일 이내",
+        "10일 이내",
+        "14일 이내",
+        "30일 이내",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q156",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "도로교통법상 폭우·폭설·안개 등으로 가시거리가 100m 이 내일 때 최고속도의 감속으로 맞는 것은?",
+      "options": [
+        "20%",
+        "50%",
+        "60%",
+        "80%",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q157",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "유압 에너지의 저장. 충격흡수 등에 이용되는 것은?",
+      "options": [
+        "축압기(accmulator)",
+        "스트레이너(strainer)",
+        "펌프(pump)",
+        "오일 탱크(oil tank)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q158",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "유압유의 압력에너지(힘를 기계적 에너지)일로 변환시키는 작용을 하는 것은?",
+      "options": [
+        "유압펌프",
+        "유압밸브",
+        "어큐뮬레이터",
+        "액추에이터",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q159",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "유압의 압력을 올바르게 나타낸 것은?",
+      "options": [
+        "압력 = 단면적x가해진 힘",
+        "압력 = 가해진 힘/단면적",
+        "압력 = 단면적/가해진 힘",
+        "압력 = 가해진힘-단면적",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q160",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "건설기계에 사용되는 유압펌프의 종류가 아닌 것은?",
+      "options": [
+        "베인 펌프",
+        "플런저 펌프",
+        "포막 펌프",
+        "기어 펌프",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q161",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "유량 제어 밸브가 아닌 것은?",
+      "options": [
+        "속도제어 밸브",
+        "체크 밸브",
+        "교축 밸브",
+        "급속배기 밸브",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q162",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "유압회로의 압력에 의해 유압 액추에이터의 작동 순서를 제어하는 밸브는?",
+      "options": [
+        "언로더 밸브",
+        "시퀸스 밸브",
+        "감압 밸브",
+        "릴리프 밸브",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q163",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "유압장치의 기본적인 구성요소가 아닌 것은?",
+      "options": [
+        "유압 발생 장치",
+        "유압 재순환장치",
+        "유압 제어장치",
+        "유압 구동장치",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q164",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "유압회로에서 유압유의 점도가 높을 때 발생 될 수 있는 현상이 아닌 것은?",
+      "options": [
+        "관내의 마찰 손실이 커진다.",
+        "동력 손실이 커진다.",
+        "열 발생의 원인이 될 수 있다.",
+        "유압이 낮아진다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q165",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "오일탱크 내의 오일을 전부 배출시킬 때 사용하는 것은?",
+      "options": [
+        "리턴 라인",
+        "배플",
+        "어큐뮬레이터",
+        "드레인 플러그",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q166",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "유압 라인에서 압력에 영향을 주는 요소로 가장 관계가 적은 것은?",
+      "options": [
+        "유체의 흐름 량",
+        "유체의 점도",
+        "관로 직경의 크기",
+        "관로의 좌·우 방향",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q167",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "벨트 취급에 대한 안전사항 중 틀린 것은?",
+      "options": [
+        "벨트 교환시 회전을 완전히 멈춘 상태에서 한다.",
+        "벨트의 회전을 정지시킬 때 손으로 잡는다.",
+        "벨트에는 적당한 장력을 유지하도록 한다.",
+        "고무벨트에는 기름이 묻지 않도록 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q168",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "화재가 발생하기 위해서는 3가지 요소가 있는데 모두 맞는 것으로 연결된 것은?",
+      "options": [
+        "가연성 물질 - 점화원 - 산소",
+        "산화 물질 - 소화원 - 산소",
+        "산화 물질 - 점화원 - 질소",
+        "가연성 물질 - 소화원 - 산소",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q169",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "작업장의 안전수칙 중 틀린 것은?",
+      "options": [
+        "공구는 오래 사용하기 위하여 기름을 묻혀서 사용한다.",
+        "작업복과 안전장구는 반드시 착용한다.",
+        "각종기계를 불필요하게 공회전 시키지 않는다.",
+        "기계의 청소나 손질은 운전을 정지 시킨 후 실시한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q170",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "수공구류의 일반적인 안전수칙이다. 해당 되지 않는 것은?",
+      "options": [
+        "손이나 공구에 묻은 기름, 물 등을 닦아낼 것",
+        "주위를 정리 정돈할 것",
+        "규격에 맞는 공구를 사용할 것",
+        "수공구는 그 목적 외에 다목적으로 사용할 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q171",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "안전제일에서 가장 먼저 선행되어야 할 이념으로 맞는 것은?",
+      "options": [
+        "재산 보호",
+        "생산성 향상",
+        "신뢰성 향상",
+        "인명 보호",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q172",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "보기의 조정렌치 사용상 안전수칙 중 옳은 것은?",
+      "options": [
+        "a, b",
+        "a, c",
+        "b, c",
+        "b, d",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jg/jg20110417/jg20110417m52.gif"
+    },
+    {
+      "id": "forklift_craftsman_q173",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "작업장에서 중량물을 들어 올리는 방법 중 안전상 가장 올바른 것은?",
+      "options": [
+        "최대한 사람의 힘을 모아 들어올린다.",
+        "지렛대를 이용한다.",
+        "로프로 묶고 잡아당긴다.",
+        "체인블록을 이용하여 들어올린다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q174",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "안전·보건표지의 종류와 형태에서 그림의 안전표지판이 나타내는 것은?",
+      "options": [
+        "응급구호 표지",
+        "비상구 표지",
+        "위험장소경고 표지",
+        "환경지역 표지",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/jg/jg20110417/jg20110417m54.gif"
+    },
+    {
+      "id": "forklift_craftsman_q175",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "전기 용접 아크 광선에 대한 설명 중 틀린 것은?",
+      "options": [
+        "전기 용접 아크에는 다량의 자외선이 포함되어 있다.",
+        "전기 용접 아크를 볼 때에는 헬멧이나 실드를 사용하여야한다.",
+        "전기 용접 아크 빛에 의해 눈이 따가울 때에는 따듯한 물로 눈을 닦는다.",
+        "전기 용접 아크 빛이 직접 눈으로 들어오면 전광성 안염 등의 눈병이 발생한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q176",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "일반적인 작업장에서 작업안전을 위한 복장으로 가장 적합하지 않은 것은?",
+      "options": [
+        "작업복의 착용",
+        "안전모의 착용",
+        "안전화의 착용",
+        "선글라스 착용",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q177",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "154kV 가공 송전선로 주변에서 건설장비로 작업 시 안전에 관한 설명으로 맞는 것은?",
+      "options": [
+        "건설 장비가 선로에 직접 접촉하지 않고 근접만 해도 사고가 발생 될 수 있다.",
+        "전력선은 피복으로 절연되어 있어 크레인 등이 접촉해도 단선되지 않는 이상 사고는 일어나지 않는다.",
+        "1 회선은 3 가닥으로 이루어져 있으며. 1 가닥 절단시에도 전력공급을 계속한다.",
+        "사고 발생시 복구공사비는 전력설비가 공공 재산임으로 배상하지 않는다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q178",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "전기시설에 접지공사가 되어 있는 경우 접지선의 표지색은?(관련 규정 개정전 문제로 여기서는 기존 정답인 2번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "적색",
+        "녹색",
+        "황색",
+        "백색",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q179",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "도로 지하에 매설된 도시가스배관의 색상은 맞는 것은?",
+      "options": [
+        "황색, 흑색",
+        "적색, 황색",
+        "황색, 남색",
+        "흑색, 청색",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q180",
+      "subject": "지게차운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "지하구조물이 설치된 지역에 도시가스가 공급되는 곳에서 굴삭기를 이용하여 굴착공사 중 지면에서 0.3m 깊이에서 물체가 발견되었다. 예측할 수 있는 것으로 맞는 것은?",
+      "options": [
+        "도시가스 입상관",
+        "도시가스 배관을 보호하는 보호관",
+        "가스 차단장치",
+        "수취기",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q181",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "디젤기관의 압축압력이 규정보다 저하되는 이유는?",
+      "options": [
+        "실린더 벽이 규정보다 많이 마모 되었다.",
+        "냉각수가 규정보다 작다.",
+        "엔진 오일량이 규정보다 많다.",
+        "점화시기가 규정보다 다소 느리다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q182",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "건식 공기청정기의 효율저하를 방지하기 위한 방법으로 가장 적합한 것은?",
+      "options": [
+        "기름으로 닦는다.",
+        "마른걸레로 닦아야 한다.",
+        "압축공기로 먼지 등을 털어낸다.",
+        "물로 깨끗이 세척한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q183",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "팬벨트에 대한 점검과정이다. 가장 적합하지 않은 것은?",
+      "options": [
+        "팬벨트는 눌러(약 10kgf) 처짐이 13~20mm 정도로 한다.",
+        "팬벨트는 풀리의 밑 부분에 접촉되어야 한다.",
+        "팬벨트의 조정은 발전기를 움직이면서 조정한다.",
+        "팬벨트가 너무 헐거우면 기관과열의 원인이 된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q184",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "기관의 연료분사펌프에 연료를 보내거나 공기빼기 작업을 할 때 필요한 장치는?",
+      "options": [
+        "체크 밸브(check valve)",
+        "프라이밍 펌프(priming pump)",
+        "오버플로 펌프(overflow pump)",
+        "드레인 펌프(drain pump)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q185",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "냉각수 순환용 물 펌프가 고장 났을 때 기관에 나타날 수 있는 현상으로 가장 적합한 것은?",
+      "options": [
+        "기관 과열",
+        "시동 불능",
+        "축전지의 비중 저하",
+        "발전기 작동 불능",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q186",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "기관의 밸브 간극이 너무 클 때 발생하는 현상에 관한 설명으로 올바른 것은?",
+      "options": [
+        "정상온도에서 밸브가 확실하게 닫히지 않는다.",
+        "밸브 스프링의 장력이 약해진다.",
+        "푸시로드가 변형된다.",
+        "정상온도에서 밸브가 완전히 개방되지 않는다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q187",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "기관에서 크랭크축의 역할은?",
+      "options": [
+        "원활한 직선운동을 하는 장치이다.",
+        "기관의 진동을 줄이는 장치이다.",
+        "직선운동을 회전운동으로 변환시키는 장치이다.",
+        "원운동을 직선운동으로 변환시키는 장치이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q188",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "엔진의 회전수를 나타낼 때 RPM이란?",
+      "options": [
+        "시간당 엔진회전수",
+        "분당 엔진회전수",
+        "초당 엔진회전수",
+        "10분간 엔진회전수",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q189",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "연료의 세탄가와 가장 밀접한 관련이 있는 것은?",
+      "options": [
+        "열효율",
+        "폭발압력",
+        "착화성",
+        "인화성",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q190",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "엔진오일이 우유 색을 띄고 있을 때의 주된 원인은?",
+      "options": [
+        "가솔린이 유입되었다.",
+        "연소가스가 섞여 있다.",
+        "경유가 유입되었다.",
+        "냉각수가 섞여 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q191",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "실린더 마모와 가장 거리가 먼 것은?",
+      "options": [
+        "출력의 감소",
+        "크랭크실의 윤활유 오손",
+        "불완전 연소",
+        "거버너의 작동불량",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q192",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "건설기계 기관에서 사용하는 윤활유의 주요 기능이 아닌 것은?",
+      "options": [
+        "기밀작용",
+        "방청작용",
+        "냉각작용",
+        "산화작용",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q193",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "축전지 급속 충전시 주의사항으로 잘못된 것은?",
+      "options": [
+        "통풍이 잘되는 곳에서 한다.",
+        "충전 중인 축전지에 충격을 가하지 않도록 한다.",
+        "전해액 온도가 45℃를 넘지 않도록 특별히 유의한다.",
+        "충전시간은 길게하고, 가능한 2주에 한 번씩 하도록 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q194",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "교류발전기에서 스테이터 코일에 발생한 교류는?",
+      "options": [
+        "실리콘에 의해 교류로 정류되어 내부로 나온다.",
+        "실리콘에 의해 교류로 정류되어 외부로 나온다.",
+        "실리콘 다이오드에 의해 교류로 정류시킨 뒤에 내부로 들어간다.",
+        "실리콘 다이오드에 의해 직류로 정류시킨 뒤에 외부로 끌어낸다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q195",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "트랜지스터의 회로작용이 아닌 것은?",
+      "options": [
+        "지연 회로",
+        "증폭 회로",
+        "발열 회로",
+        "스위칭 회로",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q196",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "일반적인 축전지 터미널의 식별법으로 적합하지 않은 것은?",
+      "options": [
+        "(+), (-)의 표시로 구분한다.",
+        "터미널의 요철로 구분한다.",
+        "굵고 가는 것으로 구분한다.",
+        "적색과 흑색 등 색으로 구분한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q197",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "건설기계의 전조등 성능을 유지하기 위하여 가장 좋은 방법은?",
+      "options": [
+        "단선으로 한다.",
+        "복선식으로 한다.",
+        "축전지와 직결시킨다.",
+        "굵은선으로 갈아 끼운다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q198",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "시동이 걸렸을 때 시동 키(key) 스위치를 계속 누르고 있을 때 나타나는 현상은?",
+      "options": [
+        "베어링이 소손된다.",
+        "전기자가 소손된다.",
+        "충전이 잘 된다.",
+        "피니언 기어가 소손된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q199",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "지게차의 운행사항으로 틀린 것은?",
+      "options": [
+        "틸트는 적재물이 백레스트에 완전히 닿도록 한 후 운행한다.",
+        "주행 중 노면상태에 주의하고 노면이 고르지 않는 곳에서 천천히 운행한다.",
+        "내리막길에서는 급회전을 삼가한다.",
+        "지게차의 중량제한은 필요에 따라 무시해도 된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q200",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "굴삭기로 작업할 때 주의사항으로 틀린 것은?",
+      "options": [
+        "땅을 깊이 팔 때는 붐의 호스나 버킷실린더의 호스가 지면에 닿지 않도록 한다.",
+        "암석, 토사 등을 평탄하게 고를 때는 선회관성을 이용하면 능률적이다.",
+        "암 레버의 조작시 잠깐 멈췄다 움직이는 것은 펌프의 토출량이 부족하기 때문이다.",
+        "작업 시는 실린더의 행정 끝에서 약간 여유를 남기도록 운전한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q201",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "무한궤도식 건설기계에서 트랙이 벗겨지는 주 원인은?",
+      "options": [
+        "트랙의 서행 회전",
+        "트랙이 너무 이완되었을 때",
+        "파이널 드라이브의 마모",
+        "보조 스프링이 파손되었을 때",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q202",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "동력전달장치에 사용되는 차동기어장치에 대한 설명으로 틀린 것은?",
+      "options": [
+        "선회할 때 좌ㆍ우 구동바퀴의 회전속도를 다르게 한다.",
+        "선회할 때 바깥쪽 바퀴의 회전속도를 증대 시킨다.",
+        "보통 차동 기어장치는 노면의 저항을 작게 받는 구동바퀴의 회전속도가 빠르게 될 수 있다.",
+        "기관의 회전력을 크게 하여 구동 바퀴에 전달한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q203",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "기중기 와이어로프의 마모원인이 아닌 것은?",
+      "options": [
+        "와이어로프의 윤활 부족",
+        "활차 홈이 과도하게 마모된 경우",
+        "활차 베어링의 급유 부족",
+        "로프 감는 드럼클러치의 슬립",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q204",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "모터그레이더의 탠덤 드라이브에 사용되는 오일로 가장 적합한 것은?",
+      "options": [
+        "엔진오일",
+        "기어오일",
+        "그리스",
+        "유압유",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q205",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "수동변속기가 장착된 건설기계의 동력전달장치에서 클러치판은 어떤 축의 스플라인에 끼워져 있는가?",
+      "options": [
+        "추진축",
+        "차동기어 장치",
+        "크랭크축",
+        "변속기 입력축",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q206",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "동력장치의 장점과 거리가 먼 것은?",
+      "options": [
+        "작은 조작력으로 조향조작이 가능하다.",
+        "조향 핸들의 시미현상을 줄일 수 있다.",
+        "설계·제작 시 조향 기어비를 조작력에 관계없이 선정할 수 있다.",
+        "조향핸들이 유격조정이 자동으로 되어 볼 죠인트 수명이 반영구적이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q207",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 건설기계의 범위에 해당 되지 않는 것은?",
+      "options": [
+        "자체중량 2톤 미만의 불도저",
+        "자체중량 1톤 미만의 굴삭기",
+        "자체중량 2톤 미만의 로더",
+        "자체중량 2톤 미만의 엔진식 지게차",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q208",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 특별 또는 경고표지 부착대상 건설기계에 관한 설명이 아닌 것은?",
+      "options": [
+        "대형건설기계에는 조종실 내부의 조종사가 보기 쉬운 곳에 경고 표지판을 부착하여야 한다.",
+        "길이가 16.7미터를 초과하는 건설기계는 특별표지 부착 대상이다.",
+        "특별표지판은 등록번호가 표시되어 있는 면에 부착해야 한다.",
+        "최소 회전반경 12미터를 초과하는 건설기계는 특별표지 부착 대상이 아니다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q209",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "앞지르기 금지 장소가 아닌 것은?",
+      "options": [
+        "터널 안, 앞지르기 금지표지 설치장소",
+        "버스정류장 부근, 주차금지 구역",
+        "경사로의 정상 부근, 급경사로의 마지막",
+        "교차로 도로의 구부러진 곳",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q210",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "도로교통법상에서 교통안전표지의 구분이 맞는 것은?",
+      "options": [
+        "주의표지, 통행표지, 규제표지, 지시표지, 차선표지",
+        "주의표지, 규제표지, 지시표지, 보조표지, 노면표지",
+        "도로표지, 주의표지, 규제표지, 지시표지, 노면표지",
+        "주의표지, 규제표지, 지시표지, 차선표지, 도로표지",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q211",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "건설기계소유자에게 등록번호표 제작명령을 할 수 있는 기관의 장은?",
+      "options": [
+        "국토해양부장관",
+        "행정안전부장관",
+        "경찰청장",
+        "시·도지사",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q212",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "도로교통법상 철길 건널목을 통과할 때 방법으로 가장 적합한 것은?",
+      "options": [
+        "신호등이 없는 철길 건널목을 통과할 때에는 서행으로 통과 하여야 한다.",
+        "신호등이 있는 철길 건널목을 통과할 때에는 건널목 앞에서 일시정지 하여 안전한지의 여부를 확인한 후에 통과하여야 한다.",
+        "신호가 없는 철길 건널목을 통과할 때에는 건널목 앞에서 일시정지 하여 안전한지의 여부를 확인한 후에 통과하여야 한다.",
+        "신호기와 관련 없이 철길 건널목을 통과할 때에는 건널목 앞에서 일시 정지하여 안전한지의 여부를 확인한 후에 통과 하여야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q213",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "건설기계 검사기준에서 원동기 성능검사 항목이 아닌 것은?",
+      "options": [
+        "토크 컨버터는 기름량이 적정하고 누출이 없을 것",
+        "작동 상태에서 심한 진동 및 이상 음이 없을 것",
+        "배출가스 허용기준에 적합할 것",
+        "원동기의 설치 상태가 확실 할 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q214",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "100만 원 이하의 벌금에 해당되는 것은?(관련 규정 개정전 문제로 여기서는 기존 정답인 2번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "건설기계를 도로나 타인의 토지에 방치한 자",
+        "형식승인 또는 확인검사를 받지 아니하고 건설기계의 제작 등을 한 자",
+        "조종사면허를 받지 않고 건설기계를 계속해서 조종한 자",
+        "조종사면허 취소 후에도 건설기계를 계속해서 조종한 자",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q215",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "자동차가 주행 중 서행하여야 하는 곳을 설명한 사항으로 맞지 않는 것은?",
+      "options": [
+        "4차로 주행차선에서 1차로 부근",
+        "도로가 구부러진 부근",
+        "가파른 비탈길의 내리막",
+        "비탈길의 고개 마루 부근",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q216",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "자동차의 승차 정원에 대한 내용으로 맞는 것은?",
+      "options": [
+        "등록증에 기재된 인원",
+        "화물자동차 4명",
+        "승용자동차 4명",
+        "운전자를 제외한 나머지 인원",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q217",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "오일의 압력이 낮아지는 원인과 가장 거리가 먼 것은?",
+      "options": [
+        "오일펌프 성능이 노후 되었을 때",
+        "오일의 점도가 높아졌을 때",
+        "오일의 점도가 낮아졌을 때",
+        "계통 내에서 누설이 있을 때",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q218",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "유압유의 흐름을 한쪽으로만 허용하고 반대방향의 흐름을 제어하는 밸브는?",
+      "options": [
+        "릴리프밸브",
+        "체크밸브",
+        "카운터 밸런스 밸브",
+        "매뉴얼 밸브",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q219",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 [보기]에서 유압작동유가 갖추어야 할 조건으로 모두 맞는 것은?",
+      "options": [
+        "ㄱㄴㄷㄹ",
+        "ㄴㄷㅁㅂ",
+        "ㄴㄹㅁㅂ",
+        "ㄱㄴㄷㅂ",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/jg/jg20110213/jg20110213m39.gif"
+    },
+    {
+      "id": "forklift_craftsman_q220",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "유압유의 점도에 대한 설명으로 틀린 것은?",
+      "options": [
+        "온도가 상승하면 점도는 저하된다.",
+        "점성의 점도를 나타내는 척도이다.",
+        "온도가 내려가면 점도는 높아진다.",
+        "점성계수를 밀도로 나눈 값이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q221",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "유압모터의 회전속도가 규정 속도보다 느릴 경우의 원인에 해당하지 않는 것은?",
+      "options": [
+        "유압펌프의 오일 토출량 과다",
+        "유압유의 유입량 부족",
+        "각 작동부의 마모 또는 파손",
+        "오일의 내부누설",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q222",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "유압회로 내의 유압을 설정압력으로 일정하게 유지하기 위한 압력제어 밸브는?",
+      "options": [
+        "릴리프 밸브",
+        "감압 밸브",
+        "릴레이 밸브",
+        "리턴 밸브",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q223",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "유압유 작동부에서 오일이 누출되고 있을 때 가장 먼저 점검 하여야 할 곳은?",
+      "options": [
+        "실(seal)",
+        "피스톤",
+        "기어",
+        "펌프",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q224",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "그림과 같은 유압기호는?",
+      "options": [
+        "유압밸브",
+        "차단밸브",
+        "오일탱크",
+        "유압실린더",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jg/jg20110213/jg20110213m44.gif"
+    },
+    {
+      "id": "forklift_craftsman_q225",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "유압실린더의 작동속도가 느릴 경우, 그 원인으로 옳은 것은?",
+      "options": [
+        "엔진오일 교환 시기가 경과 되었을 때",
+        "유압회로 내에 유량이 부족할 때",
+        "운전실에 있는 가속페달을 작동시켰을 때",
+        "릴리프 밸브의 셋팅 압력이 높을 때",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q226",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "기어식 유압펌프에서 회전수가 변하면 가장 크게 변화되는 것은?",
+      "options": [
+        "오일 압력",
+        "회전 경사단의 각도",
+        "오일흐름 용량",
+        "오일흐름 방향",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q227",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "산업안전보건에서 안전표지의 종류가 아닌 것은?",
+      "options": [
+        "위험표지",
+        "경고표지",
+        "지시표지",
+        "금지표지",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q228",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "배터리 전해액처럼 강산, 알칼리 등의 액체를 취급할 때 가장 적합한 복장은?",
+      "options": [
+        "면장갑 착용",
+        "면직으로 만든 옷",
+        "나일론으로 만든 옷",
+        "고무로 만든 옷",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q229",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 보호안경을 끼고 작업해야 하는 사항과 가장 거리가 먼 것은?",
+      "options": [
+        "산소용접 작업 시",
+        "그라인더 작업 시",
+        "건설기계 장비 일상점검 작업 시",
+        "클러치 탈, 부착 작업 시",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q230",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "스패너 작업 시 유의할 사항으로 틀린 것은?",
+      "options": [
+        "스패너의 입이 너트의 치수에 맞는 것을 사용해야 한다.",
+        "스패너의 자루에 파이프를 이어서 사용해서는 안 된다.",
+        "스패너와 너트 사이에는 쐐기를 넣고 사용하는 것이 편리하다.",
+        "너트에 스패너를 깊이 물리도록 하여 조금씩 앞으로 당기는 식으로 풀고 조인다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q231",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "물품을 운반할 때 주의할 사항으로 틀린 것은?",
+      "options": [
+        "가벼운 화물은 규정보다 많이 적재하여도 된다.",
+        "안전사고 예방에 가장 유의한다.",
+        "정밀한 물품을 쌓을 때는 상자에 넣도록 한다.",
+        "약하고 가벼운 것을 위에, 무거운 것을 밑에 쌓는다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q232",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "전등 스위치가 옥내에 있으면 안 되는 경우는?",
+      "options": [
+        "건설기계 장비 차고",
+        "절삭유 저장소",
+        "카바이드 저장소",
+        "기계류 저장소",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q233",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "산업재해의 통상적인 분류 중 통계적 분류를 설명한 것 중 틀린 것은?",
+      "options": [
+        "사망: 업무로 인해서 목숨을 잃게 되는 경우",
+        "중경상: 부상으로 인하여 30일 이상의 노동 상실을 가져온 상해정도",
+        "경상해: 부상으로 1일 이상 7일 이하의 노동 상실을 가져온 상해 정도",
+        "무상해 사고: 응급처치 이하의 상처로 작업에 종사하면서 치료를 받는 상해 정도",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q234",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "해머작업 시 안전수칙 설명으로 틀린 것은?",
+      "options": [
+        "열처리 된 재료는 해머로 때리지 않도록 주의한다.",
+        "녹이 있는 재료를 작업할 때는 보호안경을 착용하여야 한다.",
+        "자루가 불안정한 것(쐐기가 없는 것 등)은 사용하지 않는다.",
+        "장갑을 끼고 시작은 강하게, 점차 약하게 타격한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q235",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "가연성 액체, 유류 등 연소 후 재가 거의 없는 화재는 무슨 급별 화재인가?",
+      "options": [
+        "A급",
+        "B급",
+        "C급",
+        "D급",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q236",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "기계운전 및 작업 시 안전사항으로 맞는 것은?",
+      "options": [
+        "작업의 속도를 높이기 위해 레버 조작을 빨리 한다.",
+        "장비의 무게는 무시해도 된다.",
+        "작업도구나 적재물이 장애물에 걸려도 동력에 무리가 없으므로 그냥 작업한다.",
+        "장비 승· 하차 시에는 장비에 장착된 손잡이 및 발판을 사용한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q237",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "도로굴착공사로 인하여 가스배관이 20m 이상 누출 되면 가스누출 경보기를 설치하도록 규정되어 있다. 이 때 가스누출 경보기는 몇 m 마다 설치하도록 되어 있는 가?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q238",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "굴착작업 중 주변의 고압전선로 등에 주의할 사항으로 맞는 것은?",
+      "options": [
+        "고압선과 접촉해도 무관하다.",
+        "고압선과 안전거리를 확인한 후 작업 한다.",
+        "주차 시켜 놓았을 때 버켓 끝을 전주에 기대어 놓았다.",
+        "전주가 서있는 밑 부분을 굴착하여도 무관하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q239",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "굴착공사 중 적색으로 된 도시가스 배관을 손상하였으나 다행히 가스는 누출되지 않고 피복만 벗겨졌다. 조치사항으로 가장 적합한 것은?",
+      "options": [
+        "해당도시가스회사 직원에게 그 사실을 알려 보수토록 한다.",
+        "가스가 누출되지 않았으므로 그냥 되메우기 한다.",
+        "벗겨지거나 손상된 피복은 고무판이나 비닐테이프로 감은 후 되메우기 한다.",
+        "벗겨진 피복은 부식방지를 위하여 아스팔트를 칠하고 비닐테이프로 감은 후 직접 되메우기 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forklift_craftsman_q240",
+      "subject": "지게차운전기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "한전에서는 송전선로의 고장발생 예방 및 고장개소의 신속한 발견을 위하여 고장신고 제도를 운영하며 신고한 자에게는 일정한 사례금을 지급하고 있다. 다음 중 신고와 거리가 먼 것은?",
+      "options": [
+        "한전에서 고장개소를 발견하지 못한 상태에서 신고자가 고장개소를 발견하고 즉시 신고를 하는 경우(고장신고)",
+        "전기설비로 인한 인축사고의 발생이 우려되는 사항의 신고(예방신고)",
+        "한전에서 설비상태의 확인을 요청한 경우(확인신고)",
+        "고장개소를 발견하고 하루 뒤에 신고한 경우(지연신고)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    }
+  ]
+}

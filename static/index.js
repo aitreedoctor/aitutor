@@ -1,50 +1,190 @@
-// Client State Management
-let currentTab = 'dashboard';
+// Main Orchestrator & Bootloader (ES6 Module Entrypoint)
 
-// Format question text with html safety and support for bogey box
-function formatQuestionText(text) {
-    if (!text) return '';
-    
-    // Escape HTML tags to prevent broken rendering of brackets
-    let escaped = text
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;');
-        
-    // Format custom bogey tag placeholders
-    escaped = escaped
-        .replace(/\[BOGEY_START\]/g, '<div class="cbt-bogey-box">')
-        .replace(/\[BOGEY_END\]/g, '</div>');
-        
-    // Replace newlines with <br>
-    return escaped.replace(/\n/g, '<br>');
-}
-let examsList = [];
-let activeExam = null; // { round_name, questions: [] }
-let activeQuestionIdx = 0;
-let answersSheet = {}; // q_no -> selected_choice (string '1'~'5')
-let studentProfile = null;
-let examTimerInterval = null;
-let examSeconds = 0;
+import { state } from './modules/Config.js';
+import { 
+    safeMarkedParse, 
+    translateScientificNames, 
+    formatQuestionText, 
+    postProcessMarkdownHTML, 
+    showFloatingCoinToast 
+} from './modules/Utils.js';
+import { 
+    initAwakeningView, 
+    initRuneCanvas, 
+    drawRuneGuide, 
+    openProfileModal, 
+    closeProfileModal, 
+    saveProfileTitle, 
+    connectPastLifeConnection, 
+    startTypewriterNarrative,
+    extractPastLifeName,
+    getPersonaDates,
+    formatPastLifeStoryForCard
+} from './modules/IntroManager.js';
+import { 
+    filterCbtQuestions, 
+    renderCbtQuestion, 
+    selectCbtChoice, 
+    prevCbtQuestion, 
+    nextCbtQuestion, 
+    generateOmrBubbles, 
+    updateOmrProgress, 
+    toggleMobileOmr, 
+    submitCbtAnswer, 
+    gradeCbtExam, 
+    closeCbtReportModal, 
+    triggerAmuletFromReport 
+} from './modules/CbtManager.js';
+import { 
+    fetchStudentProfile, 
+    switchMember, 
+    openNewMemberModal, 
+    closeNewMemberModal, 
+    submitNewMember, 
+    loadMembersDropdown, 
+    loadDashboardPushes, 
+    handlePhotoUpload, 
+    severPastLifeConnection,
+    renderTalismanArchive,
+    downloadTalismanCard,
+    downloadTalismanFromModal,
+    closeTalismanSuccessModal
+} from './modules/Dashboard.js';
+import { 
+    toggleIncense, 
+    extinguishIncense, 
+    checkChatAvailability, 
+    handleChatSubmit, 
+    triggerLanternPayment, 
+    toggleMiniMeditation, 
+    toggleMainMeditation,
+    startBgm,
+    stopBgm,
+    speakGuidance
+} from './modules/Chat.js';
+import { 
+    loadAdminDashboard, 
+    executeAdminAction, 
+    fetchLibraryPacks, 
+    renderLibraryCards, 
+    filterLibraryCategory, 
+    filterLibrarySearch, 
+    activatePackFromLibrary, 
+    showPackDetail, 
+    closePackDetailModal,
+    switchImporterTab,
+    handleImportFileSelect,
+    submitImportOrScrape
+} from './modules/Admin.js';
+import { 
+    initWrongNotesView, 
+    renderWrongNotes, 
+    filterWrongNotesBySubject, 
+    toggleWrongNotesPrescription, 
+    openTwinQuestionModal, 
+    closeTwinQuestionModal, 
+    submitTwinChoice, 
+    initRemedialView, 
+    solveRemedialQuestion, 
+    toggleCategory, 
+    selectSubMenu, 
+    syncActiveSubMenu 
+} from './modules/WrongNotesManager.js';
 
-// Chart.js references
-let radarChartInstance = null;
-let barChartInstance = null;
-
-// DOM Elements
-document.addEventListener('DOMContentLoaded', () => {
+// Setup bootloader
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => {
+        initApp();
+        setupEventListeners();
+    });
+} else {
     initApp();
     setupEventListeners();
-});
-
-// App Initialization
-async function initApp() {
-    await fetchStudentProfile();
-    await fetchExamsList();
-    initCharts();
 }
 
-// Setup Event Listeners
+async function initApp() {
+    // Set default audio control states
+    const bgmCheck = document.getElementById('check-meditation-bgm');
+    const voiceCheck = document.getElementById('check-meditation-voice');
+    const autoplayCheck = document.getElementById('check-meditation-autoplay');
+    if (bgmCheck) bgmCheck.checked = true;
+    if (voiceCheck) voiceCheck.checked = true;
+    if (autoplayCheck) autoplayCheck.checked = true;
+
+    // Force one-time reset for user testing
+    const needForceReset = !localStorage.getItem('zeni_reset_v132');
+    if (needForceReset) {
+        localStorage.removeItem('zeni_awakened');
+        localStorage.removeItem('zeni_user_photo');
+        localStorage.removeItem('zeni_chat_count');
+        localStorage.removeItem('zeni_past_story');
+        localStorage.removeItem('zeni_student_title');
+        localStorage.removeItem('zeni_persona_type');
+        localStorage.removeItem('zeni_user_worry');
+        localStorage.setItem('zeni_reset_v132', 'true');
+    }
+    
+    // Sync localStorage profile back to server
+    const savedTitle = localStorage.getItem('zeni_student_title');
+    const savedPersona = localStorage.getItem('zeni_persona_type');
+    const savedWorry = localStorage.getItem('zeni_user_worry');
+    if (savedTitle && savedPersona && savedWorry) {
+        try {
+            await fetch('/api/student/reset', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({
+                    student_title: savedTitle,
+                    persona_type: savedPersona,
+                    user_worry: savedWorry
+                })
+            });
+        } catch(err) {
+            console.error("Failed to sync profile to server on init:", err);
+        }
+    }
+    
+    // Force zeni_awakened to true to completely bypass the Zeni summoning/awakening wizard screen
+    localStorage.setItem('zeni_awakened', 'true');
+    
+    document.getElementById('awakening-overlay').style.display = 'none';
+    try {
+        await loadMembersDropdown();
+    } catch(e) {
+        console.error("Failed loading members dropdown:", e);
+    }
+    try {
+        await fetchStudentProfile();
+    } catch(e) {
+        console.error("Failed fetching student profile:", e);
+    }
+    try {
+        await loadStudyPacks();
+    } catch(e) {
+        console.error("Failed loading study packs:", e);
+    }
+    try {
+        loadDashboardPushes();
+    } catch(e) {
+        console.error("Failed loading dashboard pushes:", e);
+    }
+
+    // Restore CRT effect state
+    try {
+        const crtState = localStorage.getItem('zeni_crt_effect');
+        const crtCheckbox = document.getElementById('crt-toggle-checkbox');
+        if (crtState === 'enabled') {
+            if (crtCheckbox) crtCheckbox.checked = true;
+            document.body.classList.add('crt-effect-active');
+        } else {
+            if (crtCheckbox) crtCheckbox.checked = false;
+            document.body.classList.remove('crt-effect-active');
+        }
+    } catch(e) {
+        console.error("Failed restoring CRT state:", e);
+    }
+}
+
 function setupEventListeners() {
     // Tab switching
     document.querySelectorAll('.nav-item').forEach(item => {
@@ -56,169 +196,37 @@ function setupEventListeners() {
     });
 
     // Profile Settings
-    document.getElementById('btn-edit-profile').addEventListener('click', openProfileModal);
+    const btnEdit = document.getElementById('btn-edit-profile');
+    if (btnEdit) {
+        btnEdit.addEventListener('click', openProfileModal);
+    }
     const btnMobileEdit = document.getElementById('btn-mobile-edit-profile');
     if (btnMobileEdit) {
         btnMobileEdit.addEventListener('click', openProfileModal);
     }
-    document.getElementById('btn-save-profile').addEventListener('click', saveProfileTitle);
+    const btnSave = document.getElementById('btn-save-profile');
+    if (btnSave) {
+        btnSave.addEventListener('click', saveProfileTitle);
+    }
 
-    // Exam Controls
-    document.getElementById('btn-start-exam').addEventListener('click', startCBTExam);
-    document.getElementById('btn-prev-q').addEventListener('click', () => navigateQuestion(-1));
-    document.getElementById('btn-next-q').addEventListener('click', () => navigateQuestion(1));
-    document.getElementById('btn-submit-exam').addEventListener('click', submitExamAnswers);
-
-    // Study Mode & Tutor Explanation Controls
-    document.getElementById('btn-show-tutor-explain').addEventListener('click', toggleTutorExplanation);
-    document.getElementById('cbt-study-mode').addEventListener('change', (e) => {
-        const tutorBox = document.getElementById('cbt-tutor-box');
-        const explainContent = document.getElementById('cbt-tutor-explain-content');
-        if (e.target.checked) {
-            if (activeExam) {
-                tutorBox.style.display = 'block';
+    // General Chatbot input submit
+    const btnSendChat = document.getElementById('btn-send-chat');
+    const chatInput = document.getElementById('chat-input');
+    if (btnSendChat && chatInput) {
+        btnSendChat.addEventListener('click', handleChatSubmit);
+        chatInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                handleChatSubmit();
             }
-        } else {
-            tutorBox.style.display = 'none';
-            explainContent.style.display = 'none';
-            explainContent.innerHTML = '';
-        }
-    });
-
-    // Mobile OMR Drawer Toggles
-    const btnToggleOMR = document.getElementById('btn-toggle-omr');
-    const btnCloseOMR = document.getElementById('btn-close-omr');
-    const omrCard = document.querySelector('.omr-card');
-    if (btnToggleOMR && omrCard) {
-        btnToggleOMR.addEventListener('click', () => {
-            omrCard.classList.add('show');
         });
-    }
-    if (btnCloseOMR && omrCard) {
-        btnCloseOMR.addEventListener('click', () => {
-            omrCard.classList.remove('show');
-        });
-    }
-
-    // Mobile Chat Back Navigation
-    const btnChatBack = document.getElementById('btn-chat-back');
-    const chatRoomLayout = document.querySelector('.chat-room-layout');
-    if (btnChatBack && chatRoomLayout) {
-        btnChatBack.addEventListener('click', () => {
-            chatRoomLayout.classList.remove('show-chat');
-        });
-    }
-
-    // Analysis sub-tab switching
-    document.querySelectorAll('.analysis-tab-btn').forEach(btn => {
-        btn.addEventListener('click', () => {
-            const subtabId = btn.getAttribute('data-subtab');
-            
-            // Toggle active tab button
-            document.querySelectorAll('.analysis-tab-btn').forEach(b => {
-                b.classList.toggle('active', b === btn);
-            });
-            
-            // Toggle active subpane
-            document.querySelectorAll('.analysis-subpane').forEach(pane => {
-                pane.classList.toggle('active', pane.id === `subtab-${subtabId}`);
-            });
-        });
-    });
-}
-
-// Fetch Student Profile & Refresh UI
-async function fetchStudentProfile() {
-    try {
-        const response = await fetch('/api/student/dashboard');
-        studentProfile = await response.json();
-        
-        // Update Title Display
-        document.getElementById('profile-title').innerText = studentProfile.student_title;
-        document.getElementById('welcome-name').innerText = studentProfile.student_title;
-        const mobileTitle = document.getElementById('mobile-profile-title');
-        if (mobileTitle) {
-            mobileTitle.innerText = studentProfile.student_title;
-        }
-        
-        // Update Stats Display
-        document.getElementById('stat-total-solved').innerText = studentProfile.total_solved_overall;
-        
-        // Calculate average accuracy
-        const vis = studentProfile.visualization;
-        const accuracies = vis.radar_chart_data.datasets[0].data;
-        const avgAcc = accuracies.length > 0 
-            ? (accuracies.reduce((a, b) => a + b, 0) / accuracies.length).toFixed(1) 
-            : '0.0';
-        document.getElementById('stat-overall-accuracy').innerText = `${avgAcc}%`;
-        
-        const remedialInfo = studentProfile.remedial_status;
-        document.getElementById('stat-remedial-count').innerText = remedialInfo.remedial_subjects.length;
-        
-        // Update Warning Banner & Badge Status
-        const banner = document.getElementById('warning-banner');
-        const statusBadge = document.getElementById('profile-status');
-        const remedialBadge = document.getElementById('remedial-badge');
-        const mobileRemedialBadge = document.getElementById('mobile-remedial-badge');
-        
-        if (remedialInfo.is_remedial_required) {
-            banner.style.display = 'flex';
-            document.getElementById('warning-message').innerText = remedialInfo.coaching_message;
-            statusBadge.innerText = '과락 위험';
-            statusBadge.className = 'status-badge status-warn';
-            if (remedialBadge) remedialBadge.style.display = 'inline-block';
-            if (mobileRemedialBadge) mobileRemedialBadge.style.display = 'inline-block';
-        } else {
-            banner.style.display = 'none';
-            statusBadge.innerText = '상태 양호';
-            statusBadge.className = 'status-badge status-good';
-            if (remedialBadge) remedialBadge.style.display = 'none';
-            if (mobileRemedialBadge) mobileRemedialBadge.style.display = 'none';
-        }
-        
-        // Update Sidebar Notifications for Wrong Answers in Chat Tab
-        updateWrongQuestionsList();
-        
-        // Update Charts
-        updateChartsData();
-        
-        // Load remedial questions if tab is active
-        if (currentTab === 'remedial') {
-            loadRemedialTab();
-        }
-        
-    } catch (e) {
-        console.error("Failed to load student profile:", e);
     }
 }
 
-// Fetch list of exams
-async function fetchExamsList() {
-    try {
-        const response = await fetch('/api/exams');
-        const data = await response.json();
-        examsList = data.exams;
-        
-        const select = document.getElementById('exam-select');
-        select.innerHTML = "<option value=''>기출문제를 선택해 주세요</option>";
-        
-        examsList.forEach(exam => {
-            const opt = document.createElement('option');
-            opt.value = exam.exam_name;
-            opt.innerText = `${exam.exam_name} (${exam.question_count}문항)`;
-            select.appendChild(opt);
-        });
-    } catch (e) {
-        console.error("Failed to fetch exams list:", e);
-    }
-}
-
-// Tab Switching Routing
 function switchTab(tabId) {
-    currentTab = tabId;
+    state.currentTab = tabId;
     
     // Toggle active menu class
-    document.querySelectorAll('.nav-item').forEach(item => {
+    document.querySelectorAll('.nav-menu .nav-item, .mobile-nav .nav-item').forEach(item => {
         if (item.getAttribute('data-tab') === tabId) {
             item.classList.add('active');
         } else {
@@ -231,822 +239,811 @@ function switchTab(tabId) {
         pane.classList.remove('active');
     });
     
-    document.getElementById(`${tabId}-tab`).classList.add('active');
+    const targetPane = document.getElementById(`${tabId}-tab`);
+    if (targetPane) targetPane.classList.add('active');
     
     // Tab specific load actions
     if (tabId === 'dashboard') {
         fetchStudentProfile();
+        loadDashboardPushes();
+    } else if (tabId === 'library') {
+        fetchLibraryPacks();
+    } else if (tabId === 'chat') {
+        checkChatAvailability();
+    } else if (tabId === 'cbt') {
+        loadStudyPacks();
+    } else if (tabId === 'wrong-notes') {
+        initWrongNotesView();
     } else if (tabId === 'remedial') {
-        loadRemedialTab();
+        initRemedialView();
+    } else if (tabId === 'admin') {
+        loadAdminDashboard();
     }
 }
 
-// Profile Modal Actions
-function openProfileModal() {
-    document.getElementById('input-student-title').value = studentProfile.student_title;
-    document.getElementById('profile-modal').style.display = 'flex';
-}
-
-function closeProfileModal() {
-    document.getElementById('profile-modal').style.display = 'none';
-}
-
-async function saveProfileTitle() {
-    const newTitle = document.getElementById('input-student-title').value.trim();
-    if (!newTitle) return;
-    
+async function loadStudyPacks() {
     try {
-        const response = await fetch('/api/student/reset', {
-            method: 'POST',
-            headers: {'Content-Type': 'application/json'},
-            body: JSON.stringify({ student_title: newTitle })
+        const response = await fetch('/api/tutor/packs');
+        const packs = await response.json();
+        
+        const select = document.getElementById('study-pack-select');
+        const sidebarSelect = document.getElementById('sidebar-study-pack-select');
+        
+        [select, sidebarSelect].forEach(sel => {
+            if (sel) {
+                sel.innerHTML = "";
+                packs.forEach(p => {
+                    const opt = document.createElement('option');
+                    opt.value = p.id;
+                    opt.innerText = getShortPackName(p.id, p.name);
+                    sel.appendChild(opt);
+                });
+            }
         });
-        const res = await response.json();
-        if (res.status === 'success') {
-            closeProfileModal();
-            fetchStudentProfile();
-            // Reset chat welcome message
-            document.getElementById('chat-messages').innerHTML = `
-                <div class="msg-bubble tutor-msg">
-                    <p>안녕하세요, <span class="host-title">${newTitle}</span>! AI Tutor 방에 오신 것을 환영합니다.</p>
-                    <p>CBT 모의고사에서 문제를 틀리면, 좌측 리스트에 즉시 취약 노드가 추가됩니다. 문제를 클릭하면 제가 <strong>인지 오류 원인</strong>을 진단해 드리고 <strong>쌍둥이 변형 문제</strong>를 처방해 드릴게요!</p>
-                </div>
-            `;
-        }
-    } catch (e) {
-        console.error("Failed to update profile title:", e);
-    }
-}
-
-// Chart.js Setup
-function initCharts() {
-    const radarCtx = document.getElementById('radarChart').getContext('2d');
-    const barCtx = document.getElementById('barChart').getContext('2d');
-    
-    radarChartInstance = new Chart(radarCtx, {
-        type: 'radar',
-        data: {
-            labels: [],
-            datasets: [{
-                label: '과목별 성취도 (%)',
-                data: [],
-                fill: true,
-                backgroundColor: 'rgba(99, 102, 241, 0.2)',
-                borderColor: 'rgb(99, 102, 241)',
-                pointBackgroundColor: 'rgb(99, 102, 241)',
-                pointBorderColor: '#fff',
-                pointHoverBackgroundColor: '#fff',
-                pointHoverBorderColor: 'rgb(99, 102, 241)'
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            scales: {
-                r: {
-                    angleLines: { color: 'rgba(255, 255, 255, 0.1)' },
-                    grid: { color: 'rgba(255, 255, 255, 0.1)' },
-                    pointLabels: { color: '#9ca3af', font: { family: 'Noto Sans KR', size: 12 } },
-                    ticks: { backdropColor: 'transparent', color: '#6b7280', showLabelBackdrop: false },
-                    suggestedMin: 0,
-                    suggestedMax: 100
-                }
-            },
-            plugins: {
-                legend: { labels: { color: '#f3f4f6', font: { family: 'Noto Sans KR' } } }
-            }
-        }
-    });
-
-    barChartInstance = new Chart(barCtx, {
-        type: 'bar',
-        data: {
-            labels: [],
-            datasets: [
-                {
-                    label: '정답 수',
-                    data: [],
-                    backgroundColor: 'rgba(16, 185, 129, 0.8)',
-                    borderColor: 'rgb(16, 185, 129)',
-                    borderWidth: 1
-                },
-                {
-                    label: '오답 수',
-                    data: [],
-                    backgroundColor: 'rgba(239, 68, 68, 0.8)',
-                    borderColor: 'rgb(239, 68, 68)',
-                    borderWidth: 1
-                }
-            ]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            scales: {
-                x: {
-                    grid: { color: 'rgba(255, 255, 255, 0.05)' },
-                    ticks: { color: '#9ca3af', font: { family: 'Noto Sans KR' } }
-                },
-                y: {
-                    grid: { color: 'rgba(255, 255, 255, 0.05)' },
-                    ticks: { color: '#9ca3af', stepSize: 1 }
-                }
-            },
-            plugins: {
-                legend: { labels: { color: '#f3f4f6', font: { family: 'Noto Sans KR' } } }
-            }
-        }
-    });
-}
-
-function updateChartsData() {
-    if (!studentProfile || !radarChartInstance || !barChartInstance) return;
-    
-    const vis = studentProfile.visualization;
-    
-    // Update Radar Chart
-    radarChartInstance.data.labels = vis.radar_chart_data.labels;
-    radarChartInstance.data.datasets[0].data = vis.radar_chart_data.datasets[0].data;
-    radarChartInstance.update();
-    
-    // Update Bar Chart
-    barChartInstance.data.labels = vis.bar_chart_data.labels;
-    barChartInstance.data.datasets[0].data = vis.bar_chart_data.correct;
-    barChartInstance.data.datasets[1].data = vis.bar_chart_data.incorrect;
-    barChartInstance.update();
-}
-
-// CBT Mock Exam: Load questions
-async function startCBTExam() {
-    const roundName = document.getElementById('exam-select').value;
-    if (!roundName) {
-        alert("시험을 치를 기출문제를 선택해 주세요.");
-        return;
-    }
-    
-    try {
-        const response = await fetch(`/api/exams/${encodeURIComponent(roundName)}`);
-        const data = await response.json();
         
-        activeExam = data;
-        activeQuestionIdx = 0;
-        answersSheet = {};
-        
-        // Reset splash screen and render exam pane
-        document.getElementById('cbt-splash').style.display = 'none';
-        document.getElementById('cbt-header').style.display = 'none';
-        document.getElementById('exam-panel').style.display = 'block';
-        
-        // Generate OMR marking circles
-        renderOMRGrid();
-        
-        // Load first question
-        loadQuestion(0);
-        
-        // Start Timer
-        startExamTimer();
-        
-    } catch (e) {
-        console.error("Failed to start CBT Exam:", e);
-    }
-}
-
-function startExamTimer() {
-    if (examTimerInterval) clearInterval(examTimerInterval);
-    examSeconds = 0;
-    
-    const timerEl = document.getElementById('exam-timer');
-    examTimerInterval = setInterval(() => {
-        examSeconds++;
-        const minutes = Math.floor(examSeconds / 60).toString().padStart(2, '0');
-        const seconds = (examSeconds % 60).toString().padStart(2, '0');
-        timerEl.innerHTML = `<i class="xi-time"></i> ${minutes}:${seconds}`;
-    }, 1000);
-}
-
-function loadQuestion(idx) {
-    if (!activeExam || idx < 0 || idx >= activeExam.questions.length) return;
-    
-    activeQuestionIdx = idx;
-    const q = activeExam.questions[idx];
-    
-    // Update UI elements
-    document.getElementById('exam-subject-badge').innerText = q.subject;
-    document.getElementById('cbt-question-text').innerHTML = formatQuestionText(q.question_text);
-    document.getElementById('cbt-progress-text').innerText = `${idx + 1} / ${activeExam.questions.length}`;
-    
-    // Render question image if exists
-    const imgEl = document.getElementById('cbt-question-image');
-    if (q.image_url) {
-        imgEl.src = q.image_url;
-        imgEl.style.display = 'inline-block';
-    } else {
-        imgEl.style.display = 'none';
-        imgEl.removeAttribute('src');
-    }
-    
-    // Render option buttons
-    const choicesList = document.getElementById('cbt-choices-list');
-    choicesList.innerHTML = '';
-    
-    q.options.forEach((optionText, choiceIdx) => {
-        if (!optionText.strip) optionText = optionText.trim();
-        if (!optionText) return; // Skip empty option paddings
-        
-        const btn = document.createElement('button');
-        const choiceNum = (choiceIdx + 1).toString();
-        btn.className = 'choice-btn';
-        
-        // Highlight if already marked
-        if (answersSheet[q.question_text] === choiceNum) {
-            btn.classList.add('selected');
-        }
-        
-        btn.innerHTML = `<strong>${choiceNum})</strong> ${optionText}`;
-        btn.onclick = () => markAnswer(q.question_text, choiceNum);
-        choicesList.appendChild(btn);
-    });
-    
-    // Highlight active row in OMR card
-    document.querySelectorAll('.omr-row').forEach((row, rowIdx) => {
-        if (rowIdx === idx) {
-            row.classList.add('active-row');
-            row.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-        } else {
-            row.classList.remove('active-row');
-        }
-    });
-
-    // Study Mode & Explanation Box reset
-    const studyModeChecked = document.getElementById('cbt-study-mode').checked;
-    const tutorBox = document.getElementById('cbt-tutor-box');
-    const explainContent = document.getElementById('cbt-tutor-explain-content');
-    
-    if (studyModeChecked) {
-        tutorBox.style.display = 'block';
-        explainContent.style.display = 'none';
-        explainContent.innerHTML = '';
-    } else {
-        tutorBox.style.display = 'none';
-    }
-}
-
-function renderOMRGrid() {
-    const grid = document.getElementById('omr-grid');
-    grid.innerHTML = '';
-    
-    activeExam.questions.forEach((q, idx) => {
-        const row = document.createElement('div');
-        row.className = 'omr-row';
-        row.innerHTML = `<span class="q-num">${idx + 1}</span>`;
-        
-        const choicesDiv = document.createElement('div');
-        choicesDiv.className = 'omr-choices';
-        
-        for (let choiceNum = 1; choiceNum <= 5; choiceNum++) {
-            const circle = document.createElement('span');
-            circle.className = 'omr-choice';
-            circle.innerText = choiceNum;
-            circle.setAttribute('data-q-idx', idx);
-            circle.setAttribute('data-choice', choiceNum);
-            
-            circle.onclick = () => {
-                markAnswer(q.question_text, choiceNum.toString());
-                loadQuestion(idx); // Go to this question
-                if (window.innerWidth <= 768) {
-                    const omrCard = document.querySelector('.omr-card');
-                    if (omrCard) omrCard.classList.remove('show');
-                }
+        // Render CBT Selection Hub Grid Dynamically
+        const hubContainer = document.getElementById('cbt-hub-grid-container');
+        if (hubContainer) {
+            const categories = {
+                craftsman: { title: "기능사", icon: "xi-branch", color: "var(--primary)", list: [] },
+                industrial: { title: "산업기사", icon: "xi-bookmark-o", color: "#60a5fa", list: [] },
+                engineer: { title: "기사", icon: "xi-bookmark-o", color: "#c084fc", list: [] },
+                national: { title: "전문국가자격증", icon: "xi-crown", color: "#fb923c", list: [] }
             };
             
-            choicesDiv.appendChild(circle);
-        }
-        row.appendChild(choicesDiv);
-        grid.appendChild(row);
-    });
-    
-    updateOMRProgressRatio();
-}
-
-function markAnswer(questionText, choiceNum) {
-    // If clicking already selected choice, unmark it
-    if (answersSheet[questionText] === choiceNum) {
-        delete answersSheet[questionText];
-    } else {
-        answersSheet[questionText] = choiceNum;
-    }
-    
-    // Re-highlight choice buttons in current question view
-    const q = activeExam.questions[activeQuestionIdx];
-    if (q.question_text === questionText) {
-        document.querySelectorAll('.choice-btn').forEach((btn, choiceIdx) => {
-            const cNum = (choiceIdx + 1).toString();
-            if (answersSheet[questionText] === cNum) {
-                btn.classList.add('selected');
-            } else {
-                btn.classList.remove('selected');
-            }
-        });
-    }
-    
-    // Re-highlight OMR circles
-    const qIdx = activeExam.questions.findIndex(item => item.question_text === questionText);
-    if (qIdx !== -1) {
-        const row = document.querySelectorAll('.omr-row')[qIdx];
-        row.querySelectorAll('.omr-choice').forEach(circle => {
-            const cNum = circle.getAttribute('data-choice');
-            if (answersSheet[questionText] === cNum) {
-                circle.classList.add('marked');
-            } else {
-                circle.classList.remove('marked');
-            }
-        });
-    }
-    
-    updateOMRProgressRatio();
-}
-
-function updateOMRProgressRatio() {
-    const total = activeExam ? activeExam.questions.length : 0;
-    const marked = Object.keys(answersSheet).length;
-    document.getElementById('omr-progress-ratio').innerText = `${marked} / ${total}`;
-}
-
-function navigateQuestion(direction) {
-    if (!activeExam) return;
-    const targetIdx = activeQuestionIdx + direction;
-    if (targetIdx >= 0 && targetIdx < activeExam.questions.length) {
-        loadQuestion(targetIdx);
-    }
-}
-
-async function toggleTutorExplanation() {
-    const explainContent = document.getElementById('cbt-tutor-explain-content');
-    if (explainContent.style.display === 'block') {
-        explainContent.style.display = 'none';
-        return;
-    }
-
-    const q = activeExam.questions[activeQuestionIdx];
-    if (!q) return;
-
-    // Show loading indicator
-    explainContent.style.display = 'block';
-    explainContent.innerHTML = `<i class="xi-spinner-5 xi-spin"></i> AI Tutor가 정답 확인 및 오개념 분석 해설을 준비 중입니다...`;
-
-    // Fetch user accuracy
-    let subAcc = 0.7;
-    if (studentProfile && studentProfile.visualization && studentProfile.visualization.radar_chart_data) {
-        const subAccMap = studentProfile.visualization.radar_chart_data;
-        const subIdx = subAccMap.labels.indexOf(q.subject);
-        subAcc = subIdx !== -1 ? subAccMap.datasets[0].data[subIdx] / 100 : 0.7;
-    }
-    const isRemedial = studentProfile ? studentProfile.remedial_status.is_remedial_required : false;
-    const selectedAns = answersSheet[q.question_text] || "0"; // "0" if not selected yet
-
-    try {
-        const response = await fetch('/api/tutor/diagnose', {
-            method: 'POST',
-            headers: {'Content-Type': 'application/json'},
-            body: JSON.stringify({
-                subject: q.subject,
-                question_text: q.question_text,
-                options: q.options,
-                selected_answer: selectedAns,
-                correct_answer: q.correct_answer,
-                round_name: q.round,
-                subject_accuracy: subAcc,
-                remedial_trigger: isRemedial
-            })
-        });
-        const data = await response.json();
-        
-        // Render response as HTML using marked.js
-        explainContent.innerHTML = marked.parse(data.tutor_response);
-    } catch (e) {
-        console.error("Failed to fetch tutor explanation:", e);
-        explainContent.innerHTML = `⚠️ 오류가 발생했습니다. AI 튜터 서버와의 연결 상태를 확인해 주세요. (${e.message})`;
-    }
-}
-
-// Final Submit CBT Exam Answers
-async function submitExamAnswers() {
-    if (!activeExam) return;
-    
-    const total = activeExam.questions.length;
-    const marked = Object.keys(answersSheet).length;
-    
-    if (marked < total) {
-        if (!confirm(`전체 ${total}문항 중 ${total - marked}문항을 마킹하지 않았습니다. 그래도 제출하시겠습니까?`)) {
-            return;
-        }
-    } else {
-        if (!confirm("답안지를 제출하고 채점을 진행하시겠습니까?")) {
-            return;
-        }
-    }
-    
-    // Stop Timer
-    if (examTimerInterval) clearInterval(examTimerInterval);
-    
-    // Submit each answer one-by-one to server for tracking
-    let corrects = 0;
-    
-    // Render full-screen submit loading indicator or block UI
-    document.getElementById('btn-submit-exam').innerText = "채점 중...";
-    document.getElementById('btn-submit-exam').disabled = true;
-    
-    for (const q of activeExam.questions) {
-        const selected = answersSheet[q.question_text] || ""; // Empty if not solved
-        
-        try {
-            const response = await fetch('/api/student/submit', {
-                method: 'POST',
-                headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({
-                    subject: q.subject,
-                    question_text: q.question_text,
-                    selected_answer: selected,
-                    correct_answer: q.correct_answer,
-                    round_name: q.round
-                })
-            });
-            const data = await response.json();
-            if (data.is_correct) {
-                corrects++;
-            }
-        } catch (e) {
-            console.error("Error submitting grading details:", e);
-        }
-    }
-    
-    const accuracy = ((corrects / total) * 100).toFixed(1);
-    alert(`제출이 완료되었습니다!\n득점: ${corrects} / ${total}문항\n성적: ${accuracy}%`);
-    
-    // Reset Exam views
-    document.getElementById('exam-panel').style.display = 'none';
-    document.getElementById('cbt-splash').style.display = 'flex';
-    document.getElementById('cbt-header').style.display = 'flex';
-    document.getElementById('btn-submit-exam').innerText = "최종 답안 제출";
-    document.getElementById('btn-submit-exam').disabled = false;
-    activeExam = null;
-    
-    // Switch to Dashboard
-    await fetchStudentProfile();
-    switchTab('dashboard');
-}
-
-// Update Chat history list for Wrong Answers
-function updateWrongQuestionsList() {
-    const listDiv = document.getElementById('wrong-questions-list');
-    listDiv.innerHTML = '';
-    
-    if (!studentProfile || studentProfile.total_solved_overall === 0) {
-        listDiv.innerHTML = '<p class="empty-text">최근 틀린 문항이 없습니다. 모의고사를 풀어보세요!</p>';
-        return;
-    }
-    
-    // Filter history for wrong attempts
-    const wrongAttempts = studentProfile.remedial_status.is_remedial_required 
-        ? getWrongAttemptsFromHistory()
-        : [];
-        
-    if (wrongAttempts.length === 0) {
-        listDiv.innerHTML = '<p class="empty-text">과락 과목이 없거나 오답 노드가 정리되었습니다. 상태가 우수합니다!</p>';
-        return;
-    }
-    
-    wrongAttempts.forEach((attempt, idx) => {
-        const item = document.createElement('div');
-        item.className = 'wrong-item';
-        item.innerHTML = `
-            <div class="wrong-meta">
-                <span class="wrong-subject">${attempt.subject}</span>
-                <span class="wrong-round">${attempt.round}</span>
-            </div>
-            <p title="${attempt.question_text}">${attempt.question_text}</p>
-        `;
-        item.onclick = () => requestTutorDiagnosis(attempt, item);
-        listDiv.appendChild(item);
-    });
-}
-
-function getWrongAttemptsFromHistory() {
-    // Extract unique wrong questions from student history
-    // Since history isn't returned fully, we can check solving history metadata or mock it.
-    // In our server.py, we only save history in memory, but we can fetch wrong history from dashboard or profile.
-    // Let's call endpoint to fetch history
-    // Wait, let's write a simple helper that filters history. 
-    // In `server.py`, the student model solving history is saved. Let's make an endpoint to fetch it.
-    // Wait, let's look at get_dashboard_api_data. It doesn't return full solving history to save size.
-    // Let's fetch it from a mock or let's create a route in server.py? No, we don't need another route, 
-    // we can add a route or we can just fetch wrong items.
-    // Wait, let's create a new route in server.py? We already wrote server.py.
-    // Ah, wait! In server.py, the profile contains wrong list? No, server.py did not have a separate wrong list endpoint,
-    // but the `demo.py` is fine. Wait, in `server.py`, the `/api/student/dashboard` returns:
-    // `remedial_status`: is_remedial_required, remedial_subjects, coaching_message.
-    // To list wrong items, we can write a quick endpoint, or just parse wrong questions from the remedial package!
-    // Yes! The remedial package returned by `/api/student/remedial` contains the exact wrong/unsolved questions for weak subjects!
-    // So we can use the remedial package questions to populate the list!
-    // Let's fetch `/api/student/remedial` and use those questions for our "최근 틀린 문항 진단" list! That is extremely clever.
-    return [];
-}
-
-// Fetch remedial list and render Chat sidebar
-async function updateWrongQuestionsList() {
-    const listDiv = document.getElementById('wrong-questions-list');
-    
-    try {
-        const response = await fetch('/api/student/remedial');
-        const data = await response.json();
-        
-        listDiv.innerHTML = '';
-        if (!data.triggered || data.remedial_questions.length === 0) {
-            listDiv.innerHTML = '<p class="empty-text">취약 오답 노드가 없습니다. 대시보드를 확인하세요!</p>';
-            return;
-        }
-        
-        data.remedial_questions.forEach((q) => {
-            const item = document.createElement('div');
-            item.className = 'wrong-item';
-            item.innerHTML = `
-                <div class="wrong-meta">
-                    <span class="wrong-subject">${q.subject}</span>
-                    <span class="wrong-round">${q.round}</span>
-                </div>
-                <p title="${q.question_text}">${q.question_text}</p>
-            `;
-            item.onclick = () => requestTutorDiagnosis(q, item);
-            listDiv.appendChild(item);
-        });
-    } catch (e) {
-        console.error("Failed to load remedial questions for sidebar:", e);
-    }
-}
-
-// AI Tutor Diagnosis API Call & Response render
-async function requestTutorDiagnosis(q, itemEl) {
-    // Highlight item
-    document.querySelectorAll('.wrong-item').forEach(el => el.classList.remove('active-row'));
-    itemEl.classList.add('active-row');
-    
-    // Slide in chat area on mobile
-    const chatRoomLayout = document.querySelector('.chat-room-layout');
-    if (chatRoomLayout && window.innerWidth <= 768) {
-        chatRoomLayout.classList.add('show-chat');
-    }
-    
-    const messagesDiv = document.getElementById('chat-messages');
-    
-    // Add user message
-    const userMsg = document.createElement('div');
-    userMsg.className = 'msg-bubble student-msg';
-    userMsg.innerText = `[질문] ${q.subject} 과목의 "${q.question_text.slice(0, 30)}..." 문항이 헷갈립니다. 제가 무엇을 놓치고 있는지 진단해 주세요!`;
-    messagesDiv.appendChild(userMsg);
-    messagesDiv.scrollTop = messagesDiv.scrollHeight;
-    
-    // Show tutor loading bubble
-    const loadingMsg = document.createElement('div');
-    loadingMsg.className = 'msg-bubble tutor-msg';
-    loadingMsg.id = 'tutor-loading-bubble';
-    loadingMsg.innerHTML = `<i class="xi-spinner-5 xi-spin"></i> 인지 오류 분석 및 쌍둥이 기출 변형 문항을 제작 중입니다...`;
-    messagesDiv.appendChild(loadingMsg);
-    messagesDiv.scrollTop = messagesDiv.scrollHeight;
-    
-    // Get subject accuracy to pass in payload
-    const subAccMap = studentProfile.visualization.radar_chart_data;
-    const subIdx = subAccMap.labels.indexOf(q.subject);
-    const subAcc = subIdx !== -1 ? subAccMap.datasets[0].data[subIdx] / 100 : 0.5;
-    
-    try {
-        const response = await fetch('/api/tutor/diagnose', {
-            method: 'POST',
-            headers: {'Content-Type': 'application/json'},
-            body: JSON.stringify({
-                subject: q.subject,
-                question_text: q.question_text,
-                options: q.options,
-                selected_answer: "1", // simulated selected answer (wrong)
-                correct_answer: q.correct_answer,
-                round_name: q.round,
-                subject_accuracy: subAcc,
-                remedial_trigger: studentProfile.remedial_status.is_remedial_required
-            })
-        });
-        
-        const data = await response.json();
-        
-        // Remove loading bubble
-        document.getElementById('tutor-loading-bubble').remove();
-        
-        // Render tutor diagnosis response
-        const tutorMsg = document.createElement('div');
-        tutorMsg.className = 'msg-bubble tutor-msg';
-        
-        // Render markdown content using marked.js
-        tutorMsg.innerHTML = marked.parse(data.tutor_response);
-        messagesDiv.appendChild(tutorMsg);
-        
-        // Inject Interactive Twin Question Widget
-        renderTwinQuestionWidget(data.tutor_response, messagesDiv);
-        
-        messagesDiv.scrollTop = messagesDiv.scrollHeight;
-        
-    } catch (e) {
-        document.getElementById('tutor-loading-bubble').remove();
-        console.error("Tutor diagnosis failed:", e);
-        const errMsg = document.createElement('div');
-        errMsg.className = 'msg-bubble tutor-msg';
-        errMsg.innerHTML = `⚠️ 오류가 발생했습니다. AI 튜터 서버와의 연결 상태를 확인해 주세요. (${e.message})`;
-        messagesDiv.appendChild(errMsg);
-        messagesDiv.scrollTop = messagesDiv.scrollHeight;
-    }
-}
-
-// Parses and injects a live interactive quiz for the twin question inside the chat
-function renderTwinQuestionWidget(tutorResponseText, containerEl) {
-    // Search for Twin Question in markdown text
-    // Structure: "### 🎯 적응형 쌍둥이 변형 문제" followed by questions and answers
-    // Let's parse standard choices from markdown text
-    const twinStartIdx = tutorResponseText.indexOf("### 🎯 적응형 쌍둥이 변형 문제");
-    if (twinStartIdx === -1) return;
-    
-    const twinText = tutorResponseText.substring(twinStartIdx);
-    
-    // Find choices
-    const choices = [];
-    const choiceRegex = /\d\)\s*(.*)/g;
-    let match;
-    while ((match = choiceRegex.exec(twinText)) !== null) {
-        choices.push(match[1].trim());
-    }
-    
-    // Find correct answer (e.g. "정답: 2" or "정답: 4" or "정답: 2)")
-    const ansMatch = reSearch(/정답:\s*(\d)/, twinText);
-    const correctAnsNum = ansMatch ? ansMatch[1] : "2"; // Default mockup
-    
-    if (choices.length < 3) return; // Not enough options to build quiz
-    
-    const widget = document.createElement('div');
-    widget.className = 'twin-widget';
-    widget.innerHTML = `
-        <h4>🎯 실시간 오개념 검증 퀴즈 (쌍둥이 변형)</h4>
-        <p>위 문제에 답해보세요. 정답 제출 시 즉각 피드백이 제공됩니다.</p>
-        <div class="twin-choices"></div>
-    `;
-    
-    const choicesDiv = widget.querySelector('.twin-choices');
-    
-    choices.forEach((optText, idx) => {
-        const choiceNum = (idx + 1).toString();
-        const btn = document.createElement('button');
-        btn.className = 'twin-choice-btn';
-        btn.innerHTML = `<strong>${choiceNum})</strong> ${optText}`;
-        
-        btn.onclick = () => {
-            // Disable all buttons in widget
-            choicesDiv.querySelectorAll('.twin-choice-btn').forEach((b, bIdx) => {
-                b.disabled = true;
-                const bNum = (bIdx + 1).toString();
-                if (bNum === correctAnsNum) {
-                    b.classList.add('correct');
-                } else if (bNum === choiceNum) {
-                    b.classList.add('incorrect');
+            // Group packs by parent category prefix
+            const groupedMap = {};
+            packs.forEach(p => {
+                let groupKey = p.id;
+                let baseName = p.name;
+                let suffix = "";
+                
+                if (p.id.startsWith("plant_protection")) {
+                    groupKey = "plant_protection";
+                    baseName = "🌿 식물보호 기출 팩";
+                } else if (p.id.startsWith("tree_doctor")) {
+                    groupKey = "tree_doctor";
+                    baseName = "🌳 나무의사 기출 팩";
+                } else if (p.id.startsWith("realtor_1")) {
+                    groupKey = "realtor_1";
+                    baseName = "🏠 공인중개사 1차 기출 팩";
+                } else if (p.id.startsWith("realtor_2")) {
+                    groupKey = "realtor_2";
+                    baseName = "🏠 공인중개사 2차 기출 팩";
+                } else {
+                    baseName = getShortPackName(p.id, p.name);
                 }
+                
+                const dashIdx = p.name.indexOf(" - ");
+                if (dashIdx !== -1) {
+                    suffix = p.name.substring(dashIdx + 3).trim();
+                } else {
+                    suffix = p.name;
+                }
+                
+                if (!groupedMap[groupKey]) {
+                    groupedMap[groupKey] = {
+                        id: groupKey,
+                        name: baseName,
+                        subpacks: []
+                    };
+                }
+                groupedMap[groupKey].subpacks.push({
+                    id: p.id,
+                    name: suffix
+                });
             });
             
-            // Append check feedback
-            const feedback = document.createElement('p');
-            feedback.style.marginTop = '12px';
-            feedback.style.fontSize = '12px';
-            feedback.style.fontWeight = 'bold';
+            const groupedList = Object.values(groupedMap);
             
-            if (choiceNum === correctAnsNum) {
-                feedback.style.color = 'var(--success)';
-                feedback.innerHTML = `✨ 정답입니다! 오개념 극복 완료! 병해충 방제 기작을 확실하게 이해하셨습니다.`;
-            } else {
-                feedback.style.color = 'var(--danger)';
-                feedback.innerHTML = `❌ 오답입니다. 정답은 ${correctAnsNum}번입니다. 위의 해설을 다시 한 번 확인해 주세요!`;
+            groupedList.forEach(g => {
+                let cat = 'national';
+                
+                if (g.id === 'plant_protection') {
+                    cat = 'industrial';
+                } else if (g.id === 'tree_doctor' || g.id.startsWith('realtor')) {
+                    cat = 'national';
+                } else if (g.id === 'driver_license' || g.name.includes('기능사')) {
+                    cat = 'craftsman';
+                } else if (g.name.includes('산업기사')) {
+                    cat = 'industrial';
+                } else if (g.name.includes('기사')) {
+                    cat = 'engineer';
+                }
+                categories[cat].list.push(g);
+            });
+            
+            let hubHtml = "";
+            for (const [key, cat] of Object.entries(categories)) {
+                let listHtml = "";
+                if (cat.list.length === 0) {
+                    listHtml = `
+                        <div style="flex-grow: 1; display: flex; align-items: center; justify-content: center; min-height: 120px;">
+                            <div style="text-align: center; color: var(--text-secondary); font-size: 13px; font-style: italic;">
+                                <i class="xi-lock-o" style="font-size: 24px; margin-bottom: 8px; display: block; color: var(--text-secondary);"></i>
+                                추가 과목 준비 중
+                            </div>
+                        </div>
+                    `;
+                } else {
+                    listHtml = '<div class="cbt-hub-pack-list" style="display: flex; flex-direction: column; gap: 10px;">';
+                    cat.list.forEach(g => {
+                        if (g.subpacks.length === 1) {
+                            listHtml += `
+                                <button class="btn btn-secondary pack-card-btn" onclick="changeStudyPack('${g.subpacks[0].id}'); switchTab('cbt');" style="width:100%; text-align:left; display:flex; justify-content:space-between; align-items:center;">
+                                    <span>${g.name}</span>
+                                    <i class="xi-angle-right" style="font-size:12px;"></i>
+                                </button>
+                            `;
+                        } else {
+                            listHtml += `
+                                <div class="pack-card-btn-group" style="width: 100%; display: flex; flex-direction: column; gap: 8px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.06); padding: 12px 14px; border-radius: 8px;">
+                                    <div style="font-size: 13px; font-weight: 600; color: #fff; display: flex; align-items: center; gap: 6px; margin-bottom: 2px;">
+                                        ${g.name}
+                                    </div>
+                                    <div style="display: flex; gap: 8px;">
+                                        <select class="cbt-subpack-select" style="flex-grow: 1; padding: 8px 10px; font-size: 12.5px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.08); background: rgba(17,24,39,0.85); color: #e2e8f0; cursor: pointer; outline: none; transition: border-color 0.2s;" onfocus="this.style.borderColor='var(--primary)'" onblur="this.style.borderColor='rgba(255,255,255,0.08)'">
+                                            ${g.subpacks.map(sp => `<option value="${sp.id}">${sp.name}</option>`).join("")}
+                                        </select>
+                                        <button class="btn btn-primary" onclick="const sel=this.previousElementSibling; changeStudyPack(sel.value); switchTab('cbt');" style="padding: 6px 12px; font-size: 12px; font-weight: bold; border-radius: 6px; white-space: nowrap; height: 35px; display: flex; align-items: center; justify-content: center;">
+                                            이동
+                                        </button>
+                                    </div>
+                                </div>
+                            `;
+                        }
+                    });
+                    listHtml += '</div>';
+                }
+                
+                hubHtml += `
+                    <div class="cbt-hub-card glass-card" style="padding: 24px; border-radius: 12px; display: flex; flex-direction: column; background: rgba(0,0,0,0.25); border: 1px solid rgba(255,255,255,0.06);">
+                        <h3 style="font-size: 16px; font-weight: bold; color: #fff; margin: 0 0 16px 0; display: flex; align-items: center; gap: 8px; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 10px;">
+                            <i class="${cat.icon}" style="color: ${cat.color}; font-size: 18px;"></i> ${cat.title}
+                        </h3>
+                        ${listHtml}
+                    </div>
+                `;
             }
-            widget.appendChild(feedback);
-        };
-        choicesDiv.appendChild(btn);
-    });
-    
-    containerEl.appendChild(widget);
-}
-
-// Regex Search Helper
-function reSearch(regex, text) {
-    const match = regex.exec(text);
-    return match;
-}
-
-// Load Special Remedial Tab Questions
-async function loadRemedialTab() {
-    const container = document.getElementById('remedial-container');
-    container.innerHTML = `<div class="splash-screen"><i class="xi-spinner-5 xi-spin splash-icon"></i><p>보충 처방 학습지를 생성 중입니다...</p></div>`;
-    
-    try {
-        const response = await fetch('/api/student/remedial');
-        const data = await response.json();
-        
-        container.innerHTML = '';
-        
-        if (!data.triggered || data.remedial_questions.length === 0) {
-            container.innerHTML = `
-                <div class="splash-screen glass-card">
-                    <i class="xi-check-circle splash-icon" style="color:var(--success);"></i>
-                    <h3>현재 보충 처방이 필요 없는 우수한 상태입니다!</h3>
-                    <p>성적 대시보드의 정답률이 60% 이상으로 안전하게 관리되고 있습니다.</p>
-                </div>
-            `;
-            return;
+            hubContainer.innerHTML = hubHtml;
         }
         
-        // Render remedial questions
-        data.remedial_questions.forEach((q, idx) => {
-            const card = document.createElement('div');
-            card.className = 'remedial-card glass-card';
-            
-            // Build choices HTML
-            let choicesHtml = '';
-            q.options.forEach((optText, optIdx) => {
-                if (!optText) return;
-                const choiceNum = (optIdx + 1).toString();
-                choicesHtml += `
-                    <button class="choice-btn" id="remedial-btn-${idx}-${choiceNum}" onclick="solveRemedialQuestion(${idx}, ${q.correct_answer}, '${choiceNum}', '${q.subject}', '${q.question_text.replace(/'/g, "\\'")}', '${q.round}')">
-                        <strong>${choiceNum})</strong> ${optText}
-                    </button>
-                `;
-            });
-            
-            card.innerHTML = `
-                <div class="card-header">
-                    <span class="badge" style="background:var(--warning); color:#0b0f19;">보충 처방 Q${idx + 1}</span>
-                    <span class="wrong-subject" style="color:var(--warning); font-size:12px; font-weight:600;">${q.subject}</span>
-                </div>
-                <h3>${formatQuestionText(q.question_text)}</h3>
-                <div class="choices-list">
-                    ${choicesHtml}
-                </div>
-                <div class="remedial-feedback" id="remedial-feedback-${idx}" style="margin-top:16px; display:none;"></div>
-            `;
-            container.appendChild(card);
-        });
-        
-    } catch (e) {
-        console.error("Failed to load remedial tab:", e);
-        container.innerHTML = `<div class="splash-screen"><i class="xi-warning splash-icon" style="color:var(--danger);"></i><p>보충 학습지를 가져오는 데 실패했습니다.</p></div>`;
+        if (packs.length > 0) {
+            const activePack = localStorage.getItem('active_study_pack') || packs[0].id;
+            if (sidebarSelect) sidebarSelect.value = activePack;
+            if (select) select.value = activePack;
+            await changeStudyPack(activePack);
+        }
+    } catch(err) {
+        console.error("Failed to load study packs:", err);
     }
 }
 
-// Solve remedial question in remedial tab
-async function solveRemedialQuestion(qIdx, correctAns, selectedAns, subject, questionText, roundName) {
-    const feedbackDiv = document.getElementById(`remedial-feedback-${qIdx}`);
-    const isCorrect = (selectedAns === correctAns.toString());
+async function changeStudyPack(packName) {
+    localStorage.setItem('active_study_pack', packName);
     
-    // Disable all options in the card
-    const cardOptions = document.querySelectorAll(`[id^="remedial-btn-${qIdx}-"]`);
-    cardOptions.forEach((btn, idx) => {
-        btn.disabled = true;
-        const bChoiceNum = (idx + 1).toString();
-        if (bChoiceNum === correctAns.toString()) {
-            btn.classList.add('selected'); // Highlight correct in primary
-            btn.style.borderColor = 'var(--success)';
-            btn.style.color = 'var(--success)';
-        } else if (bChoiceNum === selectedAns) {
-            btn.style.borderColor = 'var(--danger)';
-            btn.style.color = 'var(--danger)';
-        }
-    });
+    const select = document.getElementById('study-pack-select');
+    const sidebarSelect = document.getElementById('sidebar-study-pack-select');
+    if (select) select.value = packName;
+    if (sidebarSelect) sidebarSelect.value = packName;
     
-    // Submit answer to server to record and update stats
+    syncActiveSubMenu(packName);
+    
+    let newPersona = '자격증';
+    let newWorry = '식물보호기사 필기 합격';
+    
+    if (packName === 'tree_doctor_past') {
+        newPersona = '자격증';
+        newWorry = '나무의사 자격시험 합격';
+    } else if (packName === 'plant_protection') {
+        newPersona = '자격증';
+        newWorry = '식물보호기사 필기 합격';
+    } else if (packName === 'driver_license') {
+        newPersona = '자격증';
+        newWorry = '운전면허 필기시험 합격';
+    } else if (packName === 'pilot_license') {
+        newPersona = '자격증';
+        newWorry = '조종면허 필기시험 합격';
+    }
+    
     try {
-        await fetch('/api/student/submit', {
+        const studentTitle = (state.studentProfile && state.studentProfile.student_title) ? state.studentProfile.student_title : '대표님';
+        await fetch('/api/student/reset', {
             method: 'POST',
             headers: {'Content-Type': 'application/json'},
             body: JSON.stringify({
-                subject: subject,
-                question_text: questionText,
-                selected_answer: selectedAns,
-                correct_answer: correctAns.toString(),
-                round_name: roundName
+                student_id: state.activeStudentId,
+                student_title: studentTitle,
+                persona_type: newPersona,
+                user_worry: newWorry
             })
         });
-    } catch (e) {
-        console.error("Failed to submit remedial answer:", e);
+        
+        if (state.studentProfile) {
+            state.studentProfile.persona_type = newPersona;
+            state.studentProfile.user_worry = newWorry;
+        }
+        localStorage.setItem('zeni_persona_type', newPersona);
+        localStorage.setItem('zeni_user_worry', newWorry);
+        
+        await fetchStudentProfile();
+        
+    } catch(err) {
+        console.error("Failed to sync tutor persona on pack change:", err);
     }
     
-    // Render feedback message
-    feedbackDiv.style.display = 'block';
-    if (isCorrect) {
-        feedbackDiv.style.color = 'var(--success)';
-        feedbackDiv.style.fontWeight = 'bold';
-        feedbackDiv.innerHTML = `🎉 정답입니다! 학습자 이력에 정오답 기록이 실시간 갱신되어 반영되었습니다.`;
-    } else {
-        feedbackDiv.style.color = 'var(--danger)';
-        feedbackDiv.style.fontWeight = 'bold';
-        feedbackDiv.innerHTML = `❌ 오답입니다. 정답은 ${correctAns}번입니다. AI 튜터 방에 가서 오개념 진단을 요청하세요!`;
+    try {
+        const response = await fetch(`/api/tutor/cbt-questions?pack_name=${packName}`);
+        let questions = await response.json();
+        state.allPackQuestions = questions;
+        
+        showCbtSelectionScreen(packName);
+        
+    } catch(err) {
+        console.error("Error changing study pack: ", err);
     }
 }
+
+function applyCbtFilters(resetRound = true, resetSubject = true) {
+    const qMode = localStorage.getItem('active_question_mode') || 'all';
+    const modeSelect = document.getElementById('question-mode-select');
+    if (modeSelect) modeSelect.value = qMode;
+    
+    let modeQuestions = [];
+    if (qMode === 'past') {
+        modeQuestions = state.allPackQuestions.filter(q => q.round && q.round.includes('기출') && !q.round.includes('AI'));
+        if (modeQuestions.length === 0) {
+            modeQuestions = state.allPackQuestions;
+        }
+    } else if (qMode === 'ai') {
+        modeQuestions = state.allPackQuestions.filter(q => q.round && (q.round.includes('AI') || q.round.includes('예측') || q.round.includes('예상')));
+    } else {
+        modeQuestions = state.allPackQuestions;
+    }
+    
+    const roundSelect = document.getElementById('round-filter-select');
+    const prevRound = roundSelect ? roundSelect.value : '전체';
+    
+    if (roundSelect) {
+        const roundsSet = new Set();
+        modeQuestions.forEach(q => {
+            if (q.round) roundsSet.add(q.round);
+        });
+        
+        const sortedRounds = Array.from(roundsSet).sort((a, b) => {
+            const numA = parseInt(a.replace(/[^0-9]/g, ''), 10);
+            const numB = parseInt(b.replace(/[^0-9]/g, ''), 10);
+            if (!isNaN(numA) && !isNaN(numB)) {
+                return numA - numB;
+            }
+            return a.localeCompare(b);
+        });
+        
+        roundSelect.innerHTML = `<option value="전체">전체 회차</option>`;
+        sortedRounds.forEach(r => {
+            const opt = document.createElement('option');
+            opt.value = r;
+            opt.innerText = r;
+            roundSelect.appendChild(opt);
+        });
+        
+        if (resetRound) {
+            roundSelect.value = '전체';
+        } else {
+            if (sortedRounds.includes(prevRound)) {
+                roundSelect.value = prevRound;
+            } else {
+                roundSelect.value = '전체';
+            }
+        }
+    }
+    
+    const selectedRound = roundSelect ? roundSelect.value : '전체';
+    let roundQuestions = modeQuestions;
+    if (selectedRound !== '전체') {
+        roundQuestions = modeQuestions.filter(q => q.round === selectedRound);
+    }
+    
+    state.cbtQuestions = roundQuestions;
+    
+    const subjectSelect = document.getElementById('subject-filter-select');
+    const prevSubject = subjectSelect ? subjectSelect.value : '전체';
+    
+    if (subjectSelect) {
+        const subjects = new Set(["전체"]);
+        state.cbtQuestions.forEach(q => {
+            if (q.subject) subjects.add(q.subject);
+        });
+        
+        subjectSelect.innerHTML = "";
+        subjects.forEach(s => {
+            const opt = document.createElement('option');
+            opt.value = s;
+            opt.innerText = s;
+            subjectSelect.appendChild(opt);
+        });
+        
+        if (resetSubject) {
+            subjectSelect.value = '전체';
+        } else {
+            if (subjects.has(prevSubject)) {
+                subjectSelect.value = prevSubject;
+            } else {
+                subjectSelect.value = '전체';
+            }
+        }
+    }
+    
+    state.currentCbtIndex = 0;
+    state.userCbtAnswers = {};
+    state.cbtSolvedFeedbacks = {};
+    
+    const feedbackCard = document.getElementById('cbt-feedback-card');
+    if (feedbackCard) feedbackCard.style.display = 'none';
+    
+    generateOmrBubbles();
+    renderCbtQuestion();
+}
+
+function showCbtSelectionScreen(packName = null) {
+    if (!packName) {
+        const select = document.getElementById('study-pack-select');
+        packName = select ? select.value : 'tree_doctor_past';
+    }
+
+    const workspace = document.getElementById('cbt-questions-workspace');
+    if (workspace) workspace.style.display = 'none';
+
+    const selectionScreen = document.getElementById('cbt-selection-screen');
+    if (selectionScreen) selectionScreen.style.display = 'block';
+
+    const modeSelect = document.getElementById('question-mode-select');
+    const roundSelect = document.getElementById('round-filter-select');
+    const subjectSelect = document.getElementById('subject-filter-select');
+    const omrToggle = document.querySelector('.mobile-omr-toggle');
+    const backBtn = document.getElementById('btn-back-to-selection');
+
+    if (modeSelect) modeSelect.style.display = 'none';
+    if (roundSelect) roundSelect.style.display = 'none';
+    if (subjectSelect) subjectSelect.style.display = 'none';
+    if (omrToggle) omrToggle.style.display = 'none';
+    if (backBtn) backBtn.style.display = 'none';
+
+    const badge = document.getElementById('cbt-selection-pack-badge');
+    if (badge) {
+        const studyPackSelect = document.getElementById('study-pack-select');
+        const packText = studyPackSelect && studyPackSelect.selectedIndex >= 0 
+            ? studyPackSelect.options[studyPackSelect.selectedIndex].text 
+            : getShortPackName(packName, packName);
+        badge.innerText = packText;
+    }
+
+    const hasAiQuestions = state.allPackQuestions.some(q => 
+        q.round && (q.round.includes('AI') || q.round.includes('예측') || q.round.includes('예상'))
+    );
+
+    const aiCard = document.getElementById('mode-card-ai');
+    if (aiCard) {
+        if (hasAiQuestions) {
+            aiCard.classList.remove('disabled');
+            aiCard.style.pointerEvents = 'auto';
+            aiCard.querySelector('p').innerText = "AI 튜터가 출제 확률이 가장 높은 핵심 패턴을 분석하여 생성한 특화 모의고사 세트입니다.";
+        } else {
+            aiCard.classList.add('disabled');
+            aiCard.style.pointerEvents = 'none';
+            aiCard.querySelector('p').innerText = "이 패키지에는 AI 예상문제가 준비되어 있지 않습니다. (준비 중)";
+        }
+    }
+
+    let initialMode = localStorage.getItem('active_question_mode') || 'past';
+    if (initialMode === 'all') initialMode = 'past';
+    if (initialMode === 'ai' && !hasAiQuestions) {
+        initialMode = 'past';
+    }
+
+    selectCbtIntroMode(initialMode);
+}
+
+function selectCbtIntroMode(mode) {
+    state.selectedIntroMode = mode;
+    
+    const pastCard = document.getElementById('mode-card-past');
+    const aiCard = document.getElementById('mode-card-ai');
+    
+    if (mode === 'past') {
+        if (pastCard) pastCard.className = "mode-selection-card active";
+        if (aiCard) aiCard.className = "mode-selection-card" + (aiCard.classList.contains('disabled') ? " disabled" : "");
+        if (pastCard) {
+            const indPast = pastCard.querySelector('.active-indicator');
+            if (indPast) indPast.style.display = 'block';
+        }
+        if (aiCard) {
+            const indAi = aiCard.querySelector('.active-indicator');
+            if (indAi) indAi.style.display = 'none';
+        }
+    } else {
+        if (pastCard) pastCard.className = "mode-selection-card";
+        if (aiCard) aiCard.className = "mode-selection-card active active-ai";
+        if (pastCard) {
+            const indPast = pastCard.querySelector('.active-indicator');
+            if (indPast) indPast.style.display = 'none';
+        }
+        if (aiCard) {
+            const indAi = aiCard.querySelector('.active-indicator');
+            if (indAi) indAi.style.display = 'block';
+        }
+    }
+
+    populateIntroRounds(mode);
+}
+
+function populateIntroRounds(mode) {
+    let modeQuestions = [];
+    if (mode === 'past') {
+        modeQuestions = state.allPackQuestions.filter(q => q.round && q.round.includes('기출') && !q.round.includes('AI'));
+        if (modeQuestions.length === 0) {
+            modeQuestions = state.allPackQuestions;
+        }
+    } else if (mode === 'ai') {
+        modeQuestions = state.allPackQuestions.filter(q => q.round && (q.round.includes('AI') || q.round.includes('예측') || q.round.includes('예상')));
+    } else {
+        modeQuestions = state.allPackQuestions;
+    }
+
+    const roundsSet = new Set();
+    modeQuestions.forEach(q => {
+        if (q.round) roundsSet.add(q.round);
+    });
+
+    const sortedRounds = Array.from(roundsSet).sort((a, b) => {
+        const numA = parseInt(a.replace(/[^0-9]/g, ''), 10);
+        const numB = parseInt(b.replace(/[^0-9]/g, ''), 10);
+        if (!isNaN(numA) && !isNaN(numB)) {
+            return numA - numB;
+        }
+        return a.localeCompare(b);
+    });
+
+    const roundGrid = document.getElementById('cbt-selection-round-grid');
+    if (!roundGrid) return;
+
+    roundGrid.innerHTML = "";
+
+    const allOpt = document.createElement('div');
+    allOpt.className = "cbt-round-pill active" + (mode === 'ai' ? " active-ai" : "");
+    allOpt.innerText = "전체 회차";
+    allOpt.setAttribute('data-round', '전체');
+    allOpt.onclick = () => selectIntroRound('전체');
+    roundGrid.appendChild(allOpt);
+
+    state.selectedIntroRound = '전체';
+
+    sortedRounds.forEach(r => {
+        const opt = document.createElement('div');
+        opt.className = "cbt-round-pill";
+        opt.innerText = r;
+        opt.setAttribute('data-round', r);
+        opt.onclick = () => selectIntroRound(r);
+        roundGrid.appendChild(opt);
+    });
+}
+
+function selectIntroRound(roundName) {
+    state.selectedIntroRound = roundName;
+
+    const pills = document.querySelectorAll('#cbt-selection-round-grid .cbt-round-pill');
+    pills.forEach(p => {
+        p.classList.remove('active');
+        p.classList.remove('active-ai');
+    });
+
+    pills.forEach(p => {
+        if (p.getAttribute('data-round') === roundName) {
+            p.classList.add('active');
+            if (state.selectedIntroMode === 'ai') {
+                p.classList.add('active-ai');
+            }
+        }
+    });
+}
+
+function startCbtFromSelection() {
+    localStorage.setItem('active_question_mode', state.selectedIntroMode);
+
+    const modeSelect = document.getElementById('question-mode-select');
+    if (modeSelect) modeSelect.value = state.selectedIntroMode;
+
+    applyCbtFilters(false, true);
+
+    const roundSelect = document.getElementById('round-filter-select');
+    if (roundSelect) {
+        const options = Array.from(roundSelect.options).map(o => o.value);
+        if (options.includes(state.selectedIntroRound)) {
+            roundSelect.value = state.selectedIntroRound;
+        } else {
+            roundSelect.value = '전체';
+        }
+    }
+
+    applyCbtFilters(false, false);
+
+    const selectionScreen = document.getElementById('cbt-selection-screen');
+    if (selectionScreen) selectionScreen.style.display = 'none';
+
+    const workspace = document.getElementById('cbt-questions-workspace');
+    if (workspace) workspace.style.display = 'flex';
+
+    const modeSelectEl = document.getElementById('question-mode-select');
+    const roundSelectEl = document.getElementById('round-filter-select');
+    const subjectSelectEl = document.getElementById('subject-filter-select');
+    const omrToggle = document.querySelector('.mobile-omr-toggle');
+    const backBtn = document.getElementById('btn-back-to-selection');
+
+    if (modeSelectEl) modeSelectEl.style.display = 'block';
+    if (roundSelectEl) roundSelectEl.style.display = 'block';
+    if (subjectSelectEl) subjectSelectEl.style.display = 'block';
+    if (omrToggle) omrToggle.style.display = 'flex';
+    if (backBtn) backBtn.style.display = 'flex';
+}
+
+function getShortPackName(id, fullName) {
+    const idLower = id.toLowerCase();
+    
+    // Extract suffix if present (e.g. " - 농약학" or " - 2019-04-27 기출")
+    let suffix = "";
+    const dashIdx = fullName.indexOf(" - ");
+    if (dashIdx !== -1) {
+        suffix = fullName.substring(dashIdx).trim(); // Keeps the " - Suffix" part
+    }
+    
+    if (idLower.includes("tree_doctor")) return "🌳 나무의사" + (suffix || " 기출 팩");
+    if (idLower.includes("plant_protection")) return "🌿 식물보호" + (suffix || " 기출 팩");
+    if (idLower.includes("driver")) return "🚗 운전면허" + (suffix || " 필기대비");
+    if (idLower.includes("pilot")) return "✈️ 조종면허" + (suffix || " 필기대비");
+    
+    if (idLower.includes("gas")) return "🔥 가스 기능사 팩" + suffix;
+    if (idLower.includes("forest")) return "🌲 산림 기능사 팩" + suffix;
+    if (idLower.includes("electric")) return "⚡ 전기 기능사 팩" + suffix;
+    if (idLower.includes("landscape") && !idLower.includes("landscape_industrial")) return "🌿 조경 기능사 팩" + suffix;
+    
+    if (idLower.includes("dangerous")) return "🔥 위험물기능사" + (suffix || " 기출 팩");
+    if (idLower.includes("comlit_1")) return "💻 컴활 1급" + (suffix || " 기출 팩");
+    if (idLower.includes("comlit_2")) return "💻 컴활 2급" + (suffix || " 기출 팩");
+    if (idLower.includes("wordprocessor")) return "📝 워드프로세서" + (suffix || " 기출 팩");
+    if (idLower.includes("korean_cook")) return "🍳 한식조리" + (suffix || " 기출 팩");
+    if (idLower.includes("confectionery")) return "🥐 제과기능사" + (suffix || " 기출 팩");
+    if (idLower.includes("bakery")) return "🍞 제빵기능사" + (suffix || " 기출 팩");
+    if (idLower.includes("hairdresser")) return "💇 미용사(일반)" + (suffix || " 기출 팩");
+    
+    if (idLower.includes("infopro_engineer") || idLower === "infopro_engineer") return "💾 정보처리기사" + (suffix || " 기출 팩");
+    if (idLower.includes("indus_safety")) return "🛡️ 산업안전기사" + (suffix || " 기출 팩");
+    if (idLower.includes("realtor_1")) return "🏠 공인중개사 1차" + (suffix || " 기출 팩");
+    if (idLower.includes("realtor_2")) return "🏠 공인중개사 2차" + (suffix || " 기출 팩");
+    
+    if (idLower.includes("forklift")) return "🚜 지게차운전기능사" + (suffix || " 기출 팩");
+    if (idLower.includes("excavator")) return "🏗️ 굴착기운전기능사" + (suffix || " 기출 팩");
+    if (idLower.includes("landscape_industrial")) return "🌿 조경산업기사" + (suffix || " 기출 팩");
+    if (idLower.includes("office_automation")) return "💻 사무자동화산업기사" + (suffix || " 기출 팩");
+    if (idLower.includes("korean_history")) return "🇰🇷 한국사능력검정" + (suffix || " 기출 팩");
+    
+    if (idLower.includes("computer_graphics")) return "🎨 컴퓨터그래픽스" + (suffix || " 기출 팩");
+    if (idLower.includes("web_design")) return "🌐 웹디자인기능사" + (suffix || " 기출 팩");
+    if (idLower.includes("infosec_engineer")) return "🔒 정보보안기사" + (suffix || " 기출 팩");
+    if (idLower.includes("fire_fighting_electric")) return "🚒 소방설비기사(전기)" + (suffix || " 기출 팩");
+    if (idLower.includes("jisung_craftsman")) return "🗺️ 지적기능사" + (suffix || " 기출 팩");
+    if (idLower.includes("social_worker_1")) return "🤝 사회복지사 1급" + (suffix || " 기출 팩");
+    if (idLower.includes("barista_2")) return "☕ 바리스타 2급" + (suffix || " 기출 팩");
+    if (idLower.includes("network_admin_2")) return "🖥️ 네트워크관리사 2급" + (suffix || " 기출 팩");
+    if (idLower.includes("housing_manager_1")) return "🏢 주택관리사 1차" + (suffix || " 기출 팩");
+    if (idLower.includes("fat_1")) return "📊 FAT 1급" + (suffix || " 기출 팩");
+    
+    return fullName;
+}
+
+function triggerAmuletPayment() {
+    const btn = document.querySelector('.scarcity-amulet-box button');
+    if (!btn) return;
+    btn.disabled = true;
+    btn.innerText = "기세를 부적에 담는 중...";
+    
+    setTimeout(() => {
+        btn.innerText = "부적 발급 성공! (소장 완료)";
+        btn.style.background = "var(--success)";
+        btn.style.color = "#fff";
+        btn.style.borderColor = "var(--success)";
+        
+        alert("평행세계 자아의 인장이 현실 부적으로 발급되었습니다. 동조 기운이 후배님의 휴대폰 안으로 깃들 것입니다.");
+    }, 1500);
+}
+
+// Bind all imports and definitions to window for HTML compatibility
+window.initApp = initApp;
+window.switchTab = switchTab;
+window.loadStudyPacks = loadStudyPacks;
+window.changeStudyPack = changeStudyPack;
+window.applyCbtFilters = applyCbtFilters;
+window.showCbtSelectionScreen = showCbtSelectionScreen;
+window.selectCbtIntroMode = selectCbtIntroMode;
+window.populateIntroRounds = populateIntroRounds;
+window.selectIntroRound = selectIntroRound;
+window.startCbtFromSelection = startCbtFromSelection;
+window.triggerAmuletPayment = triggerAmuletPayment;
+
+window.initAwakeningView = initAwakeningView;
+window.initRuneCanvas = initRuneCanvas;
+window.drawRuneGuide = drawRuneGuide;
+window.openProfileModal = openProfileModal;
+window.closeProfileModal = closeProfileModal;
+window.saveProfileTitle = saveProfileTitle;
+window.connectPastLifeConnection = connectPastLifeConnection;
+window.startTypewriterNarrative = startTypewriterNarrative;
+window.extractPastLifeName = extractPastLifeName;
+window.getPersonaDates = getPersonaDates;
+window.formatPastLifeStoryForCard = formatPastLifeStoryForCard;
+
+window.filterCbtQuestions = filterCbtQuestions;
+window.renderCbtQuestion = renderCbtQuestion;
+window.selectCbtChoice = selectCbtChoice;
+window.prevCbtQuestion = prevCbtQuestion;
+window.nextCbtQuestion = nextCbtQuestion;
+window.generateOmrBubbles = generateOmrBubbles;
+window.updateOmrProgress = updateOmrProgress;
+window.toggleMobileOmr = toggleMobileOmr;
+window.submitCbtAnswer = submitCbtAnswer;
+window.gradeCbtExam = gradeCbtExam;
+window.closeCbtReportModal = closeCbtReportModal;
+window.triggerAmuletFromReport = triggerAmuletFromReport;
+
+window.fetchStudentProfile = fetchStudentProfile;
+window.switchMember = switchMember;
+window.openNewMemberModal = openNewMemberModal;
+window.closeNewMemberModal = closeNewMemberModal;
+window.submitNewMember = submitNewMember;
+window.loadMembersDropdown = loadMembersDropdown;
+window.loadDashboardPushes = loadDashboardPushes;
+window.handlePhotoUpload = handlePhotoUpload;
+window.severPastLifeConnection = severPastLifeConnection;
+
+function toggleCrtEffect(isActive) {
+    if (isActive) {
+        document.body.classList.add('crt-effect-active');
+        localStorage.setItem('zeni_crt_effect', 'enabled');
+    } else {
+        document.body.classList.remove('crt-effect-active');
+        localStorage.setItem('zeni_crt_effect', 'disabled');
+    }
+}
+window.toggleCrtEffect = toggleCrtEffect;
+
+window.toggleIncense = toggleIncense;
+window.extinguishIncense = extinguishIncense;
+window.checkChatAvailability = checkChatAvailability;
+window.handleChatSubmit = handleChatSubmit;
+window.triggerLanternPayment = triggerLanternPayment;
+window.toggleMiniMeditation = toggleMiniMeditation;
+window.toggleMainMeditation = toggleMainMeditation;
+window.startBgm = startBgm;
+window.stopBgm = stopBgm;
+window.speakGuidance = speakGuidance;
+
+window.loadAdminDashboard = loadAdminDashboard;
+window.executeAdminAction = executeAdminAction;
+window.fetchLibraryPacks = fetchLibraryPacks;
+window.renderLibraryCards = renderLibraryCards;
+window.filterLibraryCategory = filterLibraryCategory;
+window.filterLibrarySearch = filterLibrarySearch;
+window.activatePackFromLibrary = activatePackFromLibrary;
+window.showPackDetail = showPackDetail;
+window.closePackDetailModal = closePackDetailModal;
+
+window.initWrongNotesView = initWrongNotesView;
+window.renderWrongNotes = renderWrongNotes;
+window.filterWrongNotesBySubject = filterWrongNotesBySubject;
+window.toggleWrongNotesPrescription = toggleWrongNotesPrescription;
+window.openTwinQuestionModal = openTwinQuestionModal;
+window.closeTwinQuestionModal = closeTwinQuestionModal;
+window.submitTwinChoice = submitTwinChoice;
+window.initRemedialView = initRemedialView;
+window.solveRemedialQuestion = solveRemedialQuestion;
+window.toggleCategory = toggleCategory;
+window.selectSubMenu = selectSubMenu;
+window.syncActiveSubMenu = syncActiveSubMenu;
+window.switchImporterTab = switchImporterTab;
+window.handleImportFileSelect = handleImportFileSelect;
+window.submitImportOrScrape = submitImportOrScrape;
+window.renderTalismanArchive = renderTalismanArchive;
+window.downloadTalismanCard = downloadTalismanCard;
+window.downloadTalismanFromModal = downloadTalismanFromModal;
+window.closeTalismanSuccessModal = closeTalismanSuccessModal;
+
+export {
+    initApp,
+    switchTab,
+    loadStudyPacks,
+    changeStudyPack,
+    applyCbtFilters,
+    showCbtSelectionScreen,
+    selectCbtIntroMode,
+    populateIntroRounds,
+    selectIntroRound,
+    startCbtFromSelection,
+    triggerAmuletPayment,
+
+    initAwakeningView,
+    initRuneCanvas,
+    drawRuneGuide,
+    openProfileModal,
+    closeProfileModal,
+    saveProfileTitle,
+    connectPastLifeConnection,
+    startTypewriterNarrative,
+    extractPastLifeName,
+    getPersonaDates,
+    formatPastLifeStoryForCard,
+
+    filterCbtQuestions,
+    renderCbtQuestion,
+    selectCbtChoice,
+    prevCbtQuestion,
+    nextCbtQuestion,
+    generateOmrBubbles,
+    updateOmrProgress,
+    toggleMobileOmr,
+    submitCbtAnswer,
+    gradeCbtExam,
+    closeCbtReportModal,
+    triggerAmuletFromReport,
+
+    fetchStudentProfile,
+    switchMember,
+    openNewMemberModal,
+    closeNewMemberModal,
+    submitNewMember,
+    loadMembersDropdown,
+    loadDashboardPushes,
+    handlePhotoUpload,
+    severPastLifeConnection,
+    renderTalismanArchive,
+    downloadTalismanCard,
+    downloadTalismanFromModal,
+    closeTalismanSuccessModal,
+
+    toggleIncense,
+    extinguishIncense,
+    checkChatAvailability,
+    handleChatSubmit,
+    triggerLanternPayment,
+    toggleMiniMeditation,
+    toggleMainMeditation,
+    startBgm,
+    stopBgm,
+    speakGuidance,
+
+    loadAdminDashboard,
+    executeAdminAction,
+    fetchLibraryPacks,
+    renderLibraryCards,
+    filterLibraryCategory,
+    filterLibrarySearch,
+    activatePackFromLibrary,
+    showPackDetail,
+    closePackDetailModal,
+    switchImporterTab,
+    handleImportFileSelect,
+    submitImportOrScrape,
+    toggleCrtEffect,
+
+    initWrongNotesView,
+    renderWrongNotes,
+    filterWrongNotesBySubject,
+    toggleWrongNotesPrescription,
+    openTwinQuestionModal,
+    closeTwinQuestionModal,
+    submitTwinChoice,
+    initRemedialView,
+    solveRemedialQuestion,
+    toggleCategory,
+    selectSubMenu,
+    syncActiveSubMenu
+};
+

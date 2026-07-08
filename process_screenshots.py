@@ -78,7 +78,10 @@ def process_batch(image_paths, api_key):
         "contents": [{"parts": parts}],
         "generationConfig": {
             "temperature": 0.3,
-            "responseMimeType": "application/json"
+            "responseMimeType": "application/json",
+            "thinkingConfig": {
+                "thinkingBudget": 0
+            }
         }
     }
     

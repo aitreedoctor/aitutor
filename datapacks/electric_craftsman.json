@@ -1,0 +1,3605 @@
+{
+  "pack_name": "전기 기능사 기출 팩",
+  "questions": [
+    {
+      "id": "electric_craftsman_q1",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "2전력계법으로 3상 전력을 측정할 때 지시값이 P1=200W, P2=200W이었다. 부하전력(W)은?",
+      "options": [
+        "600",
+        "500",
+        "400",
+        "300",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q2",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음은 어떤 법칙을 설명한 것인가?",
+      "options": [
+        "쿨롱의 법칙",
+        "렌츠의 법칙",
+        "패러데이의 법칙",
+        "플레밍의 왼손 법칙",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jo/jo20160710/jo20160710m2.gif"
+    },
+    {
+      "id": "electric_craftsman_q3",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "플레밍의 왼손법칙에서 전류의 방향을 나타내는 손가락은?",
+      "options": [
+        "엄지",
+        "검지",
+        "중지",
+        "약지",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q4",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "진공 중에 10μC과 20μC의 점전하를 1m의 거리로 놓았을 때 작용하는 힘(N)은?",
+      "options": [
+        "18×10-1",
+        "2×10-2",
+        "9.8×10-9",
+        "98×10-9",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q5",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "어느 회로의 전류가 다음과 같을 때, 이 회로에 대한 전류의 실효값(A)은?",
+      "options": [
+        "11.6",
+        "23.2",
+        "32.2",
+        "48.3",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/jo/jo20160710/jo20160710m5.gif"
+    },
+    {
+      "id": "electric_craftsman_q6",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "전력량 1Wh와 그 의미가 같은 것은?",
+      "options": [
+        "1C",
+        "1J",
+        "3600C",
+        "3600J",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q7",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "평형 3상 회로에서 1상의 소비전력이 P(W)라면, 3상회로 전체 소비전력(W)은?",
+      "options": [
+        "2P",
+        "√2 P",
+        "3P",
+        "√3 P",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q8",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "어떤 교류회로의 순시값이 v=√2Vsinωt(V)인 전압에서 ωt=π/6(rad)일 때 100√2[V]이면 이 전압의 실효값(V)은?",
+      "options": [
+        "100",
+        "100√2",
+        "200",
+        "200√2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q9",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "공기 중에서 m(Wb)의 자극으로부터 나오는 자속수는?(문제 오류로 가답안 발표시 1번으로 발표하였지만 확정답안 발표시 1, 4번이 정답 처리되었습니다. 여기서는 4번을 누르면 정답 처리 됩니다.)",
+      "options": [
+        "m",
+        "μ0m",
+        "1/m",
+        "m/μ0",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q10",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "그림과 같은 RC 병렬회로의 위상각 θ는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jo/jo20160710/jo20160710m10.gif"
+    },
+    {
+      "id": "electric_craftsman_q11",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "0.2℧의 컨덕턴스 2개를 직렬로 접속하여 3A의 전류를 흘리려면 몇 V의 전압을 공급하면 되는가?",
+      "options": [
+        "12",
+        "15",
+        "30",
+        "45",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q12",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "비유전율 2.5의 유전체 내부의 전속밀도가 2×10-6C/m2되는 점의 전기장의 세기는 약 몇 V/m 인가?",
+      "options": [
+        "18×104",
+        "9×104",
+        "6×104",
+        "3.6×104",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q13",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "1차 전지로 가장 많이 사용되는 것은?",
+      "options": [
+        "니켈·카드뮴전지",
+        "연료전지",
+        "망간건전지",
+        "납축전지",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q14",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "그림과 같은 회로에서 a-b간에 E(V)의 전압을 가하여 일정하게 하고, 스위치 S를 닫았을 때의 전전류 I(A)가 닫기 전 전류의 3배가 되었다면 저항 Rx의 값은 약 몇 Ω인가?",
+      "options": [
+        "0.73",
+        "1.44",
+        "2.16",
+        "2.88",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/jo/jo20160710/jo20160710m14.gif"
+    },
+    {
+      "id": "electric_craftsman_q15",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "정상상태에서의 원자를 설명한 것으로 틀린 것은?",
+      "options": [
+        "양성자와 전자의 극성은 같다.",
+        "원자는 전체적으로 보면 전기적으로 중성이다.",
+        "원자를 이루고 있는 양성자의 수는 전자의 수와 같다.",
+        "양성자 1개가 지니는 전기량은 전자 1개가 지니는 전기량과 크기가 같다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q16",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "R1(Ω), R2(Ω), R3(Ω)의 저항 3개를 직렬 접속했을 때의 합성저항(Ω)은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/jo/jo20160710/jo20160710m16.gif"
+    },
+    {
+      "id": "electric_craftsman_q17",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "3kW의 전열기를 1시간 동안 사용할 때 발생하는 열량(kcal)은?",
+      "options": [
+        "3",
+        "180",
+        "860",
+        "2580",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q18",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "영구자석의 재료로서 적당한 것은?",
+      "options": [
+        "잔류자기가 적고 보자력이 큰 것",
+        "잔류자기와 보자력이 모두 큰 것",
+        "잔류자기와 보자력이 모두 작은 것",
+        "잔류자기가 크고 보자력이 작은 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q19",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "전기력선에 대한 설명으로 틀린 것은?",
+      "options": [
+        "같은 전기력선은 흡인한다.",
+        "전기력선은 서로 교차하지 않는다.",
+        "전기력선은 도체의 표면에 수직으로 출입한다.",
+        "전기력선은 양전하의 표면에서 나와서 음전하의 표면에서 끝난다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q20",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 설명 중 틀린 것은?",
+      "options": [
+        "같은 부호의 전하끼리는 반발력이 생긴다.",
+        "정전유도에 의하여 작용하는 힘은 반발력이다.",
+        "정전용량이란 콘덴서가 전하를 축적하는 능력을 말한다.",
+        "콘덴서는 전압을 가하는 순간은 콘덴서는 단락상태가 된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q21",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "고장 시의 불평형 차전류가 평형 전류의 어떤 비율 이상으로 되었을 때 동작하는 계전기는?",
+      "options": [
+        "과전압 계전기",
+        "과전류 계전기",
+        "전압 차동 계전기",
+        "비율 차동 계전기",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q22",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "단락비가 큰 동기 발전기에 대한 설명으로 틀린 것은?",
+      "options": [
+        "단락 전류가 크다.",
+        "동기 임피던스가 작다.",
+        "전기자 반작용이 크다.",
+        "공극이 크고 전압 변동률이 작다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q23",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "전압을 일정하게 유지하기 위해서 이용되는 다이오드는?",
+      "options": [
+        "발광 다이오드",
+        "포토 다이오드",
+        "제너 다이오드",
+        "바리스터 다이오드",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q24",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "변압기의 철심에서 실제 철의 단면적과 철심의 유효 면적과의 비를 무엇이라고 하는가?",
+      "options": [
+        "권수비",
+        "변류비",
+        "변동률",
+        "점적률",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q25",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "단상 유도 전동기의 기동 방법 중 기동 토크가 가장 큰 것은?",
+      "options": [
+        "반발 기동형",
+        "분상 기동형",
+        "반발 유도형",
+        "콘덴서 기동형",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q26",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "직류기의 파권에서 극수에 관계없이 병렬회로수 a는 얼마인가?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "6",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q27",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "변압기의 무부하 시험, 단락 시험에서 구할 수 없는 것은?",
+      "options": [
+        "동손",
+        "철손",
+        "절연내력",
+        "전압 변동률",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q28",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "주파수 60Hz를 내는 발전용 원동기인 터빈 발전기의 최고 속도(rpm)는?",
+      "options": [
+        "1800",
+        "2400",
+        "3600",
+        "4800",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q29",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "직류 전동기의 최저 절연 저항값(MΩ)은?",
+      "options": [
+        "정격전압(V) / (1000＋정격출력(kW))",
+        "정격출력(kW) / (1000＋정격입력(kW))",
+        "정격입력(kW) / (1000＋정격출력(kW))",
+        "정격전압(V) / (1000＋정격입력(kW))",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q30",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "동기 발전기의 병렬 운전 중 기전력의 크기가 다를 경우 나타나는 현상이 아닌 것은?",
+      "options": [
+        "권선이 가열된다.",
+        "동기화 전력이 생긴다.",
+        "무효 순환 전류가 흐른다.",
+        "고압 측에 감자 작용이 생긴다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q31",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "변압기의 권수비가 60일 때 2차측 저항이 0.1Ω이다. 이것을 1차로 환산하면 몇 Ω인가?",
+      "options": [
+        "310",
+        "360",
+        "390",
+        "410",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q32",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "전압 변동률 ε의 식은? (단, 정격 전압 Vn(V)무부하 전압 V0(V)이다.)",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q33",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "6극 36슬롯 3상 동기 발전기의 매극 매상당 슬롯수는?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q34",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "주파수 60Hz의 회로에 접속되어 슬립 3%, 회전수 1164rpm으로 회전하고 있는 유도전동기의 극수는?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q35",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "그림은 트랜지스터의 스위칭 작용에 의한 직류 전동기의 속도제어 회로이다. 전동기의 속도가  이라고 할 때, 이 회로에서 사용한 전동기의 속도제어법은?",
+      "options": [
+        "전압제어법",
+        "계자제어법",
+        "저항제어법",
+        "주파수제어법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/jo/jo20160710/jo20160710m35m1.gif"
+    },
+    {
+      "id": "electric_craftsman_q36",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "계자 권선이 전기자와 접속되어 있지 않은 직류기는?",
+      "options": [
+        "직권기",
+        "분권기",
+        "복권기",
+        "타여자기",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q37",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "대전류·고전압의 전기량을 제어할 수 있는 자기소호형 소자는?",
+      "options": [
+        "FET",
+        "Diode",
+        "Triac",
+        "IGBT",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q38",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "교류 전동기를 기동할 때 그림과 같은 기동 특성을 가지는 전동기는? (단, 곡선 (1)∼(5)는 기동 단계에 대한 토크 특성 곡선이다.)",
+      "options": [
+        "반발 유도 전동기",
+        "2중 농형 유도 전동기",
+        "3상 분권 정류자 전동기",
+        "3상 권선형 유도 전동기",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/jo/jo20160710/jo20160710m38.gif"
+    },
+    {
+      "id": "electric_craftsman_q39",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "1차 권수 6000, 2차 권수 200인 변압기의 전압비는?",
+      "options": [
+        "10",
+        "30",
+        "60",
+        "90",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q40",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "3상 유도 전동기의 정격 전압을 Vn(V), 출력을 P(kW), 1차 전류를 I1(A),역률을 cosθ라 하면 효율을 나타내는 식은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q41",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "합성수지 전선관 공사에서 관 상호간 접속에 필요한 부속품은?",
+      "options": [
+        "커플링",
+        "커넥터",
+        "리이머",
+        "노멀 밴드",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q42",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 배선기구가 아닌 것은?",
+      "options": [
+        "배전반",
+        "개폐기",
+        "접속기",
+        "배선용차단기",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q43",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "전기설비기술기준의 판단기준에서 가공전선로의 지지물에 하중이 가하여 지는 경우에 그 하중을 받는 지지물의 기초의 안전율은 얼마 이상인가?",
+      "options": [
+        "0.5",
+        "1",
+        "1.5",
+        "2",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q44",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "최대 사용 전압이 220V인 3상 유도전동기가 있다. 이것의 절연 내력 시험 전압은 몇 V로 하여야 하는가?",
+      "options": [
+        "330",
+        "500",
+        "750",
+        "1050",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q45",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "피뢰기의 약호는?",
+      "options": [
+        "LA",
+        "PF",
+        "SA",
+        "COS",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q46",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "배전반을 나타내는 그림 기호는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q47",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "조명공학에서 사용되는 칸델라(cd)는 무엇의 단위인가?",
+      "options": [
+        "광도",
+        "조도",
+        "광속",
+        "휘도",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q48",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "케이블 공사에서 비닐 외장 케이블을 조영재의 옆면에 따라 붙이는 경우 전선의 지지점 간의 거리는 최대 몇 m인가?",
+      "options": [
+        "1.0",
+        "1.5",
+        "2.0",
+        "2.5",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q49",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "흥행장의 저압 옥내배선, 전구선 또는 이동 전선의 사용전압은 최대 몇 V 미만인가?",
+      "options": [
+        "400",
+        "440",
+        "450",
+        "750",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q50",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "누전차단기의 설치목적은 무엇인가?",
+      "options": [
+        "단락",
+        "단선",
+        "지락",
+        "과부하",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q51",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "절연물 중에서 가교폴리에틸렌(XLPE)과 에틸렌 프로필렌고무혼합물(EPR)의 허용온도(℃)는?",
+      "options": [
+        "70(전선)",
+        "90(전선)",
+        "95(전선)",
+        "105(전선)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q52",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "금속덕트를 조영재에 붙이는 경우에는 지지점간의 거리는 최대 몇 m 이하로 하여야 하는가?",
+      "options": [
+        "1.5",
+        "2.0",
+        "3.0",
+        "3.5",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q53",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "금속 전선관 공사에서 사용되는 후강 전선관의 규격이 아닌 것은?",
+      "options": [
+        "16",
+        "28",
+        "36",
+        "50",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q54",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "완전 확산면은 어느 방향에서 보아도 무엇이 동일한가?",
+      "options": [
+        "광속",
+        "휘도",
+        "조도",
+        "광도",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q55",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "전기설비기술기준의 판단기준에서 교통신호등 회로의 사용전압이 몇 V를 초과하는 경우에는 지락 발생 시 자동적으로 전로를 차단하는 장치를 시설하여야 하는가?",
+      "options": [
+        "50",
+        "100",
+        "150",
+        "200",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q56",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "구리 전선과 전기 기계기구 단자를 접속하는 경우에 진동 등으로 인하여 헐거워질 염려가 있는 곳에는 어떤 것을 사용하여 접속하여야 하는가?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "정 슬리브를 끼운다.",
+        "평와셔 2개를 끼운다.",
+        "코드 패스너를 끼운다.",
+        "스프링 와셔를 끼운다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q57",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "금속관을 구부릴 때 그 안쪽의 반지름은 관안지름의 최소 몇 배 이상이 되어야 하는가?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q58",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "옥내 배선을 합성수지관 공사에 의하여 실시 할 때 사용할 수 있는 단선의 최대 굵기(mm2)는?",
+      "options": [
+        "4",
+        "6",
+        "10",
+        "16",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q59",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "450/750V 일반용 단심 비닐절연전선의 약호는?",
+      "options": [
+        "NRI",
+        "NF",
+        "NFI",
+        "NR",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q60",
+      "subject": "전기 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "차단기 문자 기호 중 “OCB”는?",
+      "options": [
+        "진공 차단기",
+        "기중 차단기",
+        "자기 차단기",
+        "유입 차단기",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q61",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 ( )안의 알맞은 내용으로 옳은 것은?",
+      "options": [
+        "㉮ 비례, ㉯ 비례",
+        "㉮ 비례, ㉯ 반비례",
+        "㉮ 반비례, ㉯ 비례",
+        "㉮ 반비례, ㉯ 반비례",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jo/jo20160402/jo20160402m1.gif"
+    },
+    {
+      "id": "electric_craftsman_q62",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "초산은(AgNO3) 용액에 1A의 전류를 2시간 동안 흘렸다. 이때 은의 석출량(g)은? (단, 은의 전기 화학당량은 1.1×10-3g/C이다.)",
+      "options": [
+        "5.44",
+        "6.08",
+        "7.92",
+        "9.84",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q63",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "평균 반지름이 10㎝이고 감은 횟수 10회의 원형 코일에 5A의 전류를 흐르게 하면 코일 중심의 자장의 세기(AT/m)는?",
+      "options": [
+        "250",
+        "500",
+        "750",
+        "1000",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q64",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "3V의 기전력으로 300C의 전기량이 이동할 때 몇 J의 일을 하게 되는가?",
+      "options": [
+        "1200",
+        "900",
+        "600",
+        "100",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q65",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "충전된 대전체를 대지(大地)에 연결하면 대전체는 어떻게 되는가?",
+      "options": [
+        "방전한다.",
+        "반발한다.",
+        "충전이 계속된다.",
+        "반발과 흡인을 반복한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q66",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "반자성체 물질의 특색을 나타낸 것은? (단, μs는 비투자율이다.)",
+      "options": [
+        "μs > 1",
+        "μs ≫ 1",
+        "μs = 1",
+        "μs < 1",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q67",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "비사인파 교류회로의 전력에 대한 설명으로 옳은 것은?",
+      "options": [
+        "전압의 제3고조파와 전류의 제3고조파 성분 사이에서 소비전력이 발생한다.",
+        "전압의 제2고조파와 전류의 제3고조파 성분 사이에서 소비전력이 발생한다.",
+        "전압의 제3고조파와 전류의 제5고조파 성분 사이에서 소비전력이 발생한다.",
+        "전압의 제5고조파와 전류의 제7고조파 성분 사이에서 소비전력이 발생한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q68",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "2μF, 3μF, 5μF인 3개의 콘덴서가 병렬로 접속되었을 때의 합성 정전용량(μF)은?",
+      "options": [
+        "0.97",
+        "3",
+        "5",
+        "10",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q69",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "PN접합 다이오드의 대표적인 작용으로 옳은 것은?",
+      "options": [
+        "정류작용",
+        "변조작용",
+        "증폭작용",
+        "발진작용",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q70",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "R=2Ω, L=10mH, C=4μF으로 구성되는 직렬 공진회로의 L과 C에서의 전압 확대율은?",
+      "options": [
+        "3",
+        "6",
+        "16",
+        "25",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q71",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "최대눈금 1A, 내부저항 10Ω의 전류계로 최대 101A까지 측정하려면 몇 Ω의 분류기가 필요 한가?",
+      "options": [
+        "0.01",
+        "0.02",
+        "0.05",
+        "0.1",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q72",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "전력과 전력량에 관한 설명으로 틀린 것은?",
+      "options": [
+        "전력은 전력량과 다르다.",
+        "전력량은 와트로 환산된다.",
+        "전력량은 칼로리 단위로 환산된다.",
+        "전력은 칼로리 단위로 환산할 수 없다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q73",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "전자 냉동기는 어떤 효과를 응용한 것인가?",
+      "options": [
+        "제벡효과",
+        "톰슨효과",
+        "펠티에효과",
+        "주울효과",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q74",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "자속밀도가 2Wb/m2인 평등 자기장 중에 자기장과 30°의 방향으로 길이 0.5m인 도체에 8A의 전류가 흐르는 경우 전자력(N)은?",
+      "options": [
+        "8",
+        "4",
+        "2",
+        "1",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q75",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "어떤 3상 회로에서 선간전압이 200V, 선전류 25A, 3상 전력이 7kW이었다. 이때의 역률은 약 얼마인가?",
+      "options": [
+        "0.65",
+        "0.73",
+        "0.81",
+        "0.97",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q76",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "3상 220V, Δ결선에서 1상의 부하가 Z=8+j6Ω이면 선전류(A)는?",
+      "options": [
+        "11",
+        "22√3",
+        "22",
+        "22 / √3",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q77",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "환상솔레노이드에 감겨진 코일에 권회수를 3배로 늘리면 자체 인덕턴스는 몇 배로 되는가?",
+      "options": [
+        "3",
+        "9",
+        "1/3",
+        "1/9",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q78",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "+Q1(C)과 -Q2(C)의 전하가 진공 중에서 r(m)의 거리에 있을 때 이들 사이에 작용하는 정전기력 F(N)는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q79",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음에서 나타내는 법칙은?",
+      "options": [
+        "줄의 법칙",
+        "렌츠의 법칙",
+        "플레밍의 법칙",
+        "패러데이의 법칙",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jo/jo20160402/jo20160402m19.gif"
+    },
+    {
+      "id": "electric_craftsman_q80",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "임피던스 Z=6+j8Ω에서 서셉턴스(℧)는?",
+      "options": [
+        "0.06",
+        "0.08",
+        "0.6",
+        "0.8",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q81",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "3상 유도전동기의 회전방향을 바꾸기 위한 방법으로 옳은 것은?",
+      "options": [
+        "전원의 전압과 주파수를 바꾸어 준다.",
+        "Δ-Y 결선으로 결선법을 바꾸어 준다.",
+        "기동보상기를 사용하여 권선을 바꾸어 준다.",
+        "전동기의 1차 권선에 있는 3개의 단자 중 어느 2개의 단자를 서로 바꾸어 준다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q82",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "발전기를 정격전압 220V로 전부하 운전하다가 무부하로 운전 하였더니 단자전압이 242V가 되었다. 이 발전기의 전압변동률(%)은?",
+      "options": [
+        "10",
+        "14",
+        "20",
+        "25",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q83",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "6극 직렬권 발전기의 전기자 도체 수 300, 매극 자속 0.02Wb, 회전수 900rpm일 때 유도기전력(V)은?",
+      "options": [
+        "90",
+        "110",
+        "220",
+        "270",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q84",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "동기조상기의 계자를 부족여자로 하여 운전하면?",
+      "options": [
+        "콘덴서로 작용",
+        "뒤진역률 보상",
+        "리액터로 작용",
+        "저항손의 보상",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q85",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "3상 교류 발전기의 기전력에 대하여  뒤진 전기자 전류가 흐르면 전기자 반작용은?",
+      "options": [
+        "횡축 반작용으로 기전력을 증가시킨다.",
+        "증자 작용을 하여 기전력을 증가시킨다.",
+        "감자 작용을 하여 기전력을 감소시킨다.",
+        "교차 자화작용으로 기전력을 감소시킨다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jo/jo20160402/jo20160402m25m1.gif"
+    },
+    {
+      "id": "electric_craftsman_q86",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "전기기기의 철심 재료로 규소 강판을 많이 사용하는 이유로 가장 적당한 것은?",
+      "options": [
+        "와류손을 줄이기 위해",
+        "구리손을 줄이기 위해",
+        "맴돌이 전류를 없애기 위해",
+        "히스테리시스손을 줄이기 위해",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q87",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "역병렬 결합의 SCR의 특성과 같은 반도체 소자는?",
+      "options": [
+        "PUT",
+        "UJT",
+        "Diac",
+        "Triac",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q88",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "전기기계의 효율 중 발전기의 규약 효율 ηG는 몇 %인가? (단, P는 입력, Q는 출력, L은 손실이다.)",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q89",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "20kVA의 단상 변압기 2대를 사용하여 V-V 결선으로 하고 3상 전원을 얻고자 한다. 이때 여기에 접속시킬 수 있는 3상 부하의 용량은 약 몇 kVA인가?",
+      "options": [
+        "34.6",
+        "44.6",
+        "54.6",
+        "66.6",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q90",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "동기 발전기의 병렬운전 조건이 아닌 것은?",
+      "options": [
+        "유도 기전력의 크기가 같을 것",
+        "동기발전기의 용량이 같을 것",
+        "유도 기전력의 위상이 같을 것",
+        "유도 기전력의 주파수가 같을 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q91",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "직류 분권전동기의 기동방법 중 가장 적당한 것은?",
+      "options": [
+        "기동 토크를 작게 한다.",
+        "계자 저항기의 저항값을 크게 한다.",
+        "계자 저항기의 저항값을 0으로 한다.",
+        "기동저항기를 전기자와 병렬접속 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q92",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "극수 10, 동기속도 600rpm인 동기 발전기에서 나오는 전압의 주파수는 몇 Hz인가?",
+      "options": [
+        "50",
+        "60",
+        "80",
+        "120",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q93",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "변압기유의 구비조건으로 틀린 것은?",
+      "options": [
+        "냉각효과가 클 것",
+        "응고점이 높을 것",
+        "절연내력이 클 것",
+        "고온에서 화학반응이 없을 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q94",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "동기기 손실 중 무부하손(no load loss)이 아닌 것은?",
+      "options": [
+        "풍손",
+        "와류손",
+        "전기자 동손",
+        "베어링 마찰손",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q95",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "직류 전동기의 제어에 널리 응용되는 직류-직류 전압 제어장치는?",
+      "options": [
+        "초퍼",
+        "인버터",
+        "전파정류회로",
+        "사이크로 컨버터",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q96",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "동기 와트 P2, 출력 P0, 슬립 s, 동기속도 Ns, 회전속도 N, 2차 동손 P2c일 때 2차 효율 표기로 틀린 것은?",
+      "options": [
+        "1-s",
+        "P2c/P2",
+        "P0/P2",
+        "N/Ns",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q97",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "변압기의 결선에서 제3고조파를 발생시켜 통신선에 유도장애를 일으키는 3상 결선은?",
+      "options": [
+        "Y-Y",
+        "Δ-Δ",
+        "Y-Δ",
+        "Δ-Y",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q98",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "부흐홀츠 계전기의 설치위치로 가장 적당한 곳은?",
+      "options": [
+        "콘서베이터 내부",
+        "변압기 고압측 부싱",
+        "변압기 주 탱크 내부",
+        "변압기 주 탱크와 콘서베이터 사이",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q99",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "3상 유도전동기의 운전 중 급속 정지가 필요할 때 사용하는 제동방식은?",
+      "options": [
+        "단상 제동",
+        "회생 제동",
+        "발전 제동",
+        "역상 제동",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q100",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "슬립 4%인 유도 전동기의 등가 부하 저항은 2차 저항의 몇 배인가?",
+      "options": [
+        "5",
+        "19",
+        "20",
+        "24",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q101",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "역률개선의 효과로 볼 수 없는 것은?",
+      "options": [
+        "전력손실 감소",
+        "전압강하 감소",
+        "감전사고 감소",
+        "설비 용량의 이용률 증가",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q102",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "옥내배선 공사에서 절연전선의 피복을 벗길 때 사용하면 편리한 공구는?",
+      "options": [
+        "드라이버",
+        "플라이어",
+        "압착펜치",
+        "와이어스트리퍼",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q103",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "전기설비기술기준의 판단기준에 의하여 애자사용공사를 건조한 장소에 시설하고자 한다. 사용 전압이 400V 미만인 경우 전선과 조영재 사이의 이격거리는 최소 몇 ㎝이상 이어야 하는가?",
+      "options": [
+        "2.5",
+        "4.5",
+        "6.0",
+        "12",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q104",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "전선 접속 방법 중 트위스트 직선 접속의 설명으로 옳은 것은?",
+      "options": [
+        "연선의 직선 접속에 적용된다.",
+        "연선의 분기 접속에 적용된다.",
+        "6mm2 이하의 가는 단선인 경우에 적용된다.",
+        "6mm2 초과의 굵은 단선인 경우에 적용된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q105",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "건축물에 고정되는 본체부와 제거할 수 있거나 개폐할 수 있는 커버로 이루어지며 절연전선, 케이블 및 코드를 완전하게 수용할 수 있는 구조의 배선설비의 명칭은?",
+      "options": [
+        "케이블 래더",
+        "케이블 트레이",
+        "케이블 트렁킹",
+        "케이블 브라킷",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q106",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "금속전선관 공사에서 금속관에 나사를 내기위해 사용하는 공구는?",
+      "options": [
+        "리머",
+        "오스터",
+        "프레서 툴",
+        "파이프 벤더",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q107",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "성냥을 제조하는 공장의 공사 방법으로 틀린 것은?",
+      "options": [
+        "금속관 공사",
+        "케이블 공사",
+        "금속 몰드 공사",
+        "합성수지관 공사(두께 2mm 미만 및 난연성이 없는 것은 제외)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q108",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "콘크리트 조영재에 볼트를 시설할 때 필요한 공구는?",
+      "options": [
+        "파이프 렌치",
+        "볼트 클리퍼",
+        "노크아웃 펀치",
+        "드라이브 이트",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q109",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "실내 면적 100m2인 교실에 전광속이 2500lm인 40W 형광등을 설치하여 평균조도를 150lx로 하려면 몇 개의 등을 설치하면 되겠는가? (단, 조명률은 50%, 감광 보상률은 1.25로 한다.)",
+      "options": [
+        "15개",
+        "20개",
+        "25개",
+        "30개",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q110",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "교류 배전반에서 전류가 많이 흘러 전류계를 직접 주 회로에 연결할 수 없을 때 사용하는 기기는?",
+      "options": [
+        "전류 제한기",
+        "계기용 변압기",
+        "계기용 변류기",
+        "전류계용 절환 개폐기",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q111",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "플로어 덕트 공사의 설명 중 틀린 것은?",
+      "options": [
+        "덕트의 끝 부분은 막는다.",
+        "플로어 덕트는 접지 공사를 하지 않는다.",
+        "덕트 상호 간 접속은 견고하고 전기적으로 완전하게 접속 하여야 한다.",
+        "덕트 및 박스 기타 부속품은 물이 고이는 부분이 없도록 시설하여야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q112",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "진동이 심한 전기 기계·기구의 단자에 전선을 접속할 때 사용되는 것은?",
+      "options": [
+        "커플링",
+        "압착단자",
+        "링 슬리브",
+        "스프링 와셔",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q113",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "전기설비기술기준의 판단기준에 의하여 가공전선에 케이블을 사용하는 경우 케이블은 조가용 선에 행거로 시설하여야 한다. 이 경우 사용전압이 고압인 때에는 그 행거의 간격은 몇 ㎝ 이하로 시설하여야 하는가?",
+      "options": [
+        "50",
+        "60",
+        "70",
+        "80",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q114",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "라이팅 덕트 공사에 의한 저압 옥내배선의 시설 기준으로 틀린 것은?",
+      "options": [
+        "덕트의 끝부분은 막을 것",
+        "덕트는 조영재에 견고하게 붙일 것",
+        "덕트의 개구부는 위로 향하여 시설할 것",
+        "덕트는 조영재를 관통하여 시설하지 아니할 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q115",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "전기설비기술기준의 판단기준에 의한 고압 가공전선로 철탑의 경간은 몇 m 이하로 제한하고 있는가?",
+      "options": [
+        "150",
+        "250",
+        "500",
+        "600",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q116",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "A종 철근 콘크리트주의 길이가 9m이고, 설계 하중이 6.8kN인 경우 땅에 묻히는 깊이는 최소 몇 m 이상이어야 하는가?",
+      "options": [
+        "1.2",
+        "1.5",
+        "1.8",
+        "2.0",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q117",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "전선의 접속법에서 두 개 이상의 전선을 병렬로 사용하는 경우의 시설기준으로 틀린 것은?",
+      "options": [
+        "각 전선의 굵기는 구리인 경우 50mm2 이상이어야 한다.",
+        "각 전선의 굵기는 알루미늄인 경우 70mm2 이상이어야 한다.",
+        "병렬로 사용하는 전선은 각각에 퓨즈를 설치할 것",
+        "동극의 각 전선은 동일한 터미널러그에 완전히 접속할 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q118",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "정격전류가 50A인 저압전로의 과전류차단기를 배선용차단기로 사용하는 경우 정격전류의 2배의 전류가 통과하였을 경우 몇 분 이내에 자동적으로 동작하여야 하는가?(2021년 변경된 KEC 규정 적용됨)",
+      "options": [
+        "2분",
+        "4분",
+        "60분",
+        "80분",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q119",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "서로 다른 굵기의 절연전선을 동일 관내에 넣는 경우 금속관의 굵기는 전선의 피복절연물을 포함한 단면적의 총합계가 관의 내 단면적의 몇 % 이하가 되도록 선정하여야 하는가?",
+      "options": [
+        "32",
+        "38",
+        "45",
+        "48",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q120",
+      "subject": "전기 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "제3종 접지공사를 시설하는 주된 목적은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "기기의 효율을 좋게 한다.",
+        "기기의 절연을 좋게 한다.",
+        "기기의 누전에 의한 감전을 방지한다.",
+        "기기의 누전에 의한 역률을 좋게 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q121",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "기전력 120V,내부저항(r)이 15Ω인 전원이 있다. 여기에 부하저항(R)을 연결하여 얻을 수 있는 최대 전력(W)은?(단,최대 전력 전달조건은 r=R 이다.)",
+      "options": [
+        "100",
+        "140",
+        "200",
+        "240",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q122",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "자기 인덕턴스에 축적되는 에너지에 대한 설명으로 가장 옳은 것은?",
+      "options": [
+        "자기 인덕턴스 및 전류에 비례한다.",
+        "자기 인덕턴스 및 전류에 반비례한다.",
+        "자기 인덕턴스와 전류의 제곱에 반비례한다.",
+        "자기 인덕턴스와 비례하고 전류의 제곱에 비례한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q123",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "권수 300회의 코일에 6A의 전류가 흘러서 0.05Wb의 자속이 코일을 지난다고 하면, 이 코일의 자체 인덕턴스는 몇 H 인가?",
+      "options": [
+        "0.25",
+        "0.35",
+        "2.5",
+        "3.5",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q124",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "RL 직렬회로에서 서셉턴스는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q125",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "전류에 의한 자기장과 직접적으로 관련이 없는 것은?",
+      "options": [
+        "줄의 법칙",
+        "플레밍의 왼손 법칙",
+        "비오-사바르의 법칙",
+        "앙페르의 오른나사의 법칙",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q126",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "C1=5μF, C2=10μF의 콘덴서를 직렬로, 접속하고 직류 30 V를 가했을 때, C1의 양단의 전압(V)은?",
+      "options": [
+        "5",
+        "10",
+        "20",
+        "30",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q127",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "3상 교류회로의 선간전압이 13200V, 선전류가 800A, 역률80% 부하의 소비전력은 약 몇 MW 인가?",
+      "options": [
+        "4.88",
+        "8.45",
+        "14.63",
+        "25.34",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q128",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "1Ω · m 는 몇 Ω · cm인가?",
+      "options": [
+        "102",
+        "10-2",
+        "106",
+        "10-6",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q129",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "자체인덕턴스가 1H인 코일에 200V, 60Hz 의 사인파 교류 전압을 가했을 때 전류와 전압의 위상차는?(단,저항성분은 무시한다.)",
+      "options": [
+        "전류는 전압보다 위상이 π/2 rad만큼 뒤진다",
+        "전류는 전압보다 위상이 π rad만큼 뒤진다",
+        "전류는 전압보다 위상이 π/2 rad만큼 앞선다",
+        "전류는 전압보다 위상이 π rad만큼 앞선다",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q130",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "알칼리 축전지의 대표적인 축전지로 널리 사용되고 있는 2차 전지는?",
+      "options": [
+        "망간전지",
+        "산화온 전지",
+        "페이퍼 전지",
+        "니켈 카드뮴 전지",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q131",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "파고율, 파형률이 모두 1인 파형은?",
+      "options": [
+        "사인파",
+        "고조파",
+        "구형파",
+        "삼각파",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q132",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "황산구리(CuSO4) 전해액에 2개의 구리판을 넣고 전원을 연결하였을 때 음극에서 나타나는 현상으로 옳은 것은?",
+      "options": [
+        "변화가 없다.",
+        "구리판이 두터워진다.",
+        "구리판이 얇아진다.",
+        "수소 가스가 발생한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q133",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "두 종류의 금속 접합부에 전류를 흘리면 전류의 방향에 따라 줄열 이외의 열의 흡수 또는 발생 현상이 생긴다. 이러한 현상을 무엇이라 하는가?",
+      "options": [
+        "제벡 효과",
+        "페란티 효과",
+        "펠티에 효과",
+        "초전도 효과",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q134",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "자극 가까이에 물체를 두었을 때 자화되는 물체와 자석이 그림과 같은 방향으로 자화되는 자성체는?",
+      "options": [
+        "상자성체",
+        "반자성체",
+        "강자성체",
+        "비자성체",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jo/jo20160124/jo20160124m14.gif"
+    },
+    {
+      "id": "electric_craftsman_q135",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다이오드의 정특성이란 무엇을 말하는가?",
+      "options": [
+        "PN 접합면에서의 반송자 이동 특성",
+        "소신호로 동작할 때의 전압과 전류의 관계",
+        "다이오드를 움직이지 않고 저항률을 측정한 것",
+        "직류전압을 걸었을 때 다이오드에 걸리는 전압과 전류의 관계",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q136",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "공기 중에 10μC과 20μC를 1m 간격으로 놓을 때 발생되는 정전력(N)은?",
+      "options": [
+        "1.8",
+        "2.2",
+        "4.4",
+        "6.3",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q137",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "200V, 2kW의 전열선 2개를 같은 전압에서 직렬로 접속한 경우의 전력은 병렬로 접속한 경우의 전력보다 어떻게 되는가?",
+      "options": [
+        "1/2 로 줄어든다",
+        "1/4 로 줄어든다",
+        "2배로 증가된다",
+        "4배로 증가된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q138",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "“회로의 접속점에서 볼 때, 접속점에 흘러 들어오는 전류의 합은 흘러 나가는 전류의 합과 같다.”라고 정의되는 법칙은?",
+      "options": [
+        "키르히호프의 제 1법칙",
+        "키르히호프의 제 2법칙",
+        "플레밍의 오른손 법칙",
+        "앙페르의 오른나사 법칙",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q139",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "그림과 같은 회로에서 저항 R1에 흐르는 전류는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jo/jo20160124/jo20160124m19.gif"
+    },
+    {
+      "id": "electric_craftsman_q140",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "동일한 저항 4개를 접속하여 얻을 수 있는 최대저항 값은 최소 저항 값의 몇 배인가?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q141",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "3상 교류 발전기의 기전력에 대하여 90°늦은 전류가 통할 때의 반작용 기자력은?",
+      "options": [
+        "자극축과 일치하고 감자작용",
+        "자극축보다 90° 빠른 증자작용",
+        "자극축보다 90° 늦은 감자작용",
+        "자극축과 직교하는 교차자화작용",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q142",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "반파 정류 회로에서 변압기 2차 전압의 실효치를 E(V) 라 하면 직류 전류 평균치는?(단, 정류기의 전압강하는 무시한다.)",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/jo/jo20160124/jo20160124m22.gif"
+    },
+    {
+      "id": "electric_craftsman_q143",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "1차 전압 6300 V, 2차 전압210 V, 주파수 60특수 의 변압기가 있다. 이 변압기의 권수비는?",
+      "options": [
+        "30",
+        "40",
+        "50",
+        "60",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q144",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "동기 전동기를 송전선의 전압 조정 및 역률 개선에 사용한 것을 무엇이라 하는가?",
+      "options": [
+        "댐퍼",
+        "동기이탈",
+        "제동권선",
+        "동기 조상기",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q145",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "3상 동기 발전기의 상간 접속을 Y결선으로 하는 이유 중 틀린 것은?",
+      "options": [
+        "중성점을 이용할 수 있다.",
+        "선간전압이 상전압의 √3배가 된다.",
+        "선간전압에 제 3고조파가 나타나지 않는다.",
+        "같은 선간전압의 결선에 비하여 절연이 어렵다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q146",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "동기기의 손실에서 고정손에 해당되는 것은?",
+      "options": [
+        "계자철심의 철손",
+        "브러시의 전기손",
+        "계자 권선의 저항손",
+        "전기자 권선의 저항손",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q147",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "60 Hz, 4극 유도 전동기가 1700rpm 으로 회전하고 있다. 이 전동기의 슬립은 약 얼마인가?",
+      "options": [
+        "3.42%",
+        "4.56%",
+        "5.56%",
+        "6.64%",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q148",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "발전기 권선의 층간단락보호에 가장 적합한 계전기는?",
+      "options": [
+        "차동 계전기",
+        "방향 계전기",
+        "온도 계전기",
+        "접지 계전기",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q149",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 (   ) 속에 들어갈 내용은?",
+      "options": [
+        "Y종 - 90",
+        "A종 - 105",
+        "E종 - 120",
+        "B종 - 130",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jo/jo20160124/jo20160124m29.gif"
+    },
+    {
+      "id": "electric_craftsman_q150",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "퍼센트 저항강하 3%, 리액턴스 강하 4%인 변압기의 최대 전압변동률(%)은?",
+      "options": [
+        "1",
+        "5",
+        "7",
+        "12",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q151",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 자기소호 기능이 가장 좋은 소자는?",
+      "options": [
+        "SCR",
+        "GTO",
+        "TRIAC",
+        "LASCR",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q152",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "3상 유도전동기의 속도제어 방법 중 인버터(inverter)를 이용한 속도 제어법은?",
+      "options": [
+        "극수 변환법",
+        "전압 제어법",
+        "초퍼 제어법",
+        "주파수 제어법",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q153",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "회전 변류기의 직류측 전압을 조정하려는 방법이 아닌 것은?",
+      "options": [
+        "직렬 리액턴스에 의한 방법",
+        "여자 전류를 조정하는 방법",
+        "동기 승압기를 사용하는 방법",
+        "부하시 전압 조정 변압기를 사용하는 방법",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q154",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "변압기의 규약 효율은?",
+      "options": [
+        "출력/입력",
+        "출력/(입력-손실)",
+        "출력/(출력+손실)",
+        "(입력+손실)/입력",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q155",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 권선저항 측정 방법은?(문제 오류로 가답안 발표시 3번으로 발표되었지만 확정답안 및 추후 논의를 통하여 2, 3, 4번이 정답으로 되었습니다. 여기서는 가답안인 3번을 누르면 정답 처리 됩니다.)",
+      "options": [
+        "메거",
+        "전압 전류계법",
+        "켈빈 더블 브리지법",
+        "휘이스톤브리지법",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q156",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "직류 발전기의 병렬 운전 중 한쪽 발전기의 여자를 늘리면 그 발전기는?",
+      "options": [
+        "부하 전류는 불변, 전압은 증가",
+        "부하 전류는 줄고, 전압은 증가",
+        "부하 전류는 늘고, 전압은 증가",
+        "부하 전류는 늘고, 전압은 불변",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q157",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "직류 전압을 직접 제어하는 것은?",
+      "options": [
+        "브리지형 인버터",
+        "단상 인버터",
+        "3상 인버터",
+        "초퍼형 인버터",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q158",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "전동기에 접지공사를 하는 주된 이유는?",
+      "options": [
+        "보안상",
+        "미관상",
+        "역률 증가",
+        "감전사고 방지",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q159",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "동기기를 병렬운전 할 때 순환전류가 흐르는 원인은?",
+      "options": [
+        "기전력의 저항이 다른 경우",
+        "기전력의 위상이 다른 경우",
+        "기전력의 전류가 다른 경우",
+        "기전력의 역률이 다른 경우",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q160",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "역률과 효율이 좋아서 가정용 선풍기, 전기세탁기, 냉장고 등에 주로 사용되는 것은?",
+      "options": [
+        "분상 기동형 전동기",
+        "반발 기동형 전동기",
+        "콘덴서 기동형 전동기",
+        "셰이딩 코일형 전동기",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q161",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "3상 4선식 380/220 V전로에서 전원의 중성극에 접속된 전선을 무엇이라 하는가?",
+      "options": [
+        "접지선",
+        "중성선",
+        "전원선",
+        "접지측선",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q162",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "플로어덕트 배선의 사용전압은 몇 V 미만으로 제한 되어지는가?",
+      "options": [
+        "220",
+        "400",
+        "600",
+        "700",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q163",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "자동화재탐지설비의 구성 요소가 아닌 것은?",
+      "options": [
+        "비상콘센트",
+        "발신기",
+        "수신기",
+        "감지기",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q164",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "셀룰로이드, 성냥, 석유류 등 기타 가연성 위험물질을 제조 또는 저장하는 장소의 배선으로 틀린 것은?",
+      "options": [
+        "금속관 배선",
+        "케이블 배선",
+        "플로어덕트 배선",
+        "합성수지관(CD관 제외) 배선",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q165",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "합성수지관을 새들 등으로 지지하는 경우 지지점간의 거리는 몇 m 이하인가?",
+      "options": [
+        "1.5",
+        "2.0",
+        "2.5",
+        "3.0",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q166",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "가요전선관 공사에서 접지공사 방법으로 틀린 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "사람이 접촉될 우려가 없도록 시설한 사용전압 400V 이상인 경우의 가요전선관 및 부속품에는 제3종 접지공사를 할 수 있다.",
+        "강전류회로의 전선과 약전류회로의 약전류 전선을 동일박스 내에 넣는 경우에는 격벽을 시설하고 제3종 접지공사를 하여야 한다.",
+        "사용전압 400V 미만인 경우의 가요전선관 및 부속품에는 제3종 접지공사를 하여야 한다.",
+        "1종 가요전선관은 단면적 2.5특수 이상의 나연동선을 접지선으로 하여 배관의 전체의 길이에 삽입 또는 첨가한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q167",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "금속관 공사를 할 경우 케이블 손상방지용으로 사용하는 부품은?",
+      "options": [
+        "부싱",
+        "엘보",
+        "커플링",
+        "로크너트",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q168",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "부하의 역률이 규정 값 이하인 경우 역률개선을 위하여 설치하는 것은?",
+      "options": [
+        "저항",
+        "리액터",
+        "컨덕턴스",
+        "진상용 콘덴서",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q169",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "전선을 종단겹침용 슬리브에 의해 종단 접속할 경우 소정의 압축공구를 사용하여 보통 몇 개소를 압착하는가?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q170",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "사람이 상시 통행하는 터널 내 배선의 사용전압이 저압일 때 배선 방법으로 틀린 것은?",
+      "options": [
+        "금속관 배선",
+        "금속덕트 배선",
+        "합성수지관 배선",
+        "금속제 가요전선관 배선",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q171",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "변압기 중성점에 2종 접지공사를 하는 이유는?(관련 규정 개정전 문제로 여기서는 기존 정답인 4번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "전류 변동의 방지",
+        "전압 변동의 방지",
+        "전력 변동의 방지",
+        "고저압 혼촉 방지",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q172",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "어느 가정집이 40W LED등 10개, 1kW 전자레인지 1개, 100W 컴퓨터 세트 2대, 1kW 세탁기 1대를 사용하고, 하루 평균 사용 시간이 LED등은 5시간, 전자레인지 30분, 컴퓨터 5시간, 세탁기 1시간이라면 1개월(30일)간의 사용 전력량(kWh)은?",
+      "options": [
+        "115",
+        "135",
+        "155",
+        "175",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q173",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "고압 가공전선로의 지지물로 철탑을 사용하는 경우 경간은 몇 m 이하로 제한하는가?",
+      "options": [
+        "150",
+        "300",
+        "500",
+        "600",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q174",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "금속관 구부리기에 있어서 관의 굴곡이 3개소가 넘거나 관의 길이가 30m를 초과하는 경우 적용하는 것은?",
+      "options": [
+        "커플링",
+        "풀박스",
+        "로크너트",
+        "링 리듀서",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q175",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "옥내배선공사할 때 연동선을 사용할 경우 전선의 최소 굵기(mm2)는?",
+      "options": [
+        "1.5",
+        "2.5",
+        "4",
+        "6",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q176",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "연선 결정에 있어서 중심 소선을 뺀 층수가 3층이다. 전체 소선수는?",
+      "options": [
+        "91",
+        "61",
+        "37",
+        "19",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q177",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "접지전극의 매설 깊이는 몇  m 이상인가?",
+      "options": [
+        "0.6",
+        "0.65",
+        "0.7",
+        "0.75",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q178",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "금속관 절단구에 대한 다듬기에 쓰이는 공구는?",
+      "options": [
+        "리머",
+        "홀소우",
+        "프레셔 툴",
+        "파이프 렌치",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q179",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "동전선의 종단접속 방법이 아닌 것은?",
+      "options": [
+        "동선압착단자에 의한 접속",
+        "종단겹침용 슬리브에 의한 접속",
+        "C형 전선접속기 등에 의한 접속",
+        "비틀어 꽂는 형의 전선접속기에 의한 접속",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q180",
+      "subject": "전기 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "합성수지관 상호 접속 시에 관을 삽입하는 깊이는 관 바깥지름의 몇 배 이상으로 하여야하는가?(단, 접착제는 사용하지 않는다.)",
+      "options": [
+        "0.6",
+        "0.8",
+        "1.0",
+        "1.2",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q181",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "3kW의 전열기를 정격 상태에서 20분간 사용 하였을 때의 열량은 몇 kcal 인가?",
+      "options": [
+        "430",
+        "520",
+        "610",
+        "860",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q182",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "가정용 전등 전압이 200V이다. 이 교류의 최대값은 몇 V인가?",
+      "options": [
+        "70.7",
+        "86.7",
+        "141.4",
+        "282.8",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q183",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "Y결선의 전원에서 각 상전압이 100V일 때 선간전압은 약 몇 V 인가?",
+      "options": [
+        "100",
+        "150",
+        "173",
+        "195",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q184",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "전류의 방향과 자장의 방향은 각각 나사의 진행방향과 회전 방향에 일치한다와 관계가 있는 법칙은?",
+      "options": [
+        "플레밍의 왼손법칙",
+        "앙페르의 오른나사법칙",
+        "플레밍의 오른손법칙",
+        "키르히호프의 법칙",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q185",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "I = 8+j6 A로 표시되는 전류의 크기 I는 몇 A인가?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q186",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "삼각파 전압의 최대값이 Vm일 때 실효값은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q187",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "L1, L2 두 코일이 접속되어 있을 때, 누설자속이 없는 이상적인 코일 간의 상호 인덕턴스는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q188",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "10Ω의 저항과 R(Ω)의 저항이 병렬로 접속되고 10Ω의 전류가 5A, R(Ω)의 전류가 2A이면 저항 R(Ω)은?",
+      "options": [
+        "10",
+        "20",
+        "25",
+        "30",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q189",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "비유전율이 큰 산화티탄 등을 유전체로 사용한 것으로 극성이 없으며 가격에 비해 성능이 우수하여 널리 사용되고 있는 콘덴서의 종류는?",
+      "options": [
+        "전해 콘덴서",
+        "세라믹 콘덴서",
+        "마일러 콘덴서",
+        "마이카 콘덴서",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q190",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "저항 8Ω과 코일이 직렬로 접속된 회로에 200V의 교류 전압을 가하면 20A의 전류가 흐른다. 코일의 리액턴스는 몇 Ω인가?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q191",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "쿨롱의 법칙에서 2개의 점전하 사이에 작용하는 정전력의 크기는?",
+      "options": [
+        "두 전하의 곱에 비례하고 거리에 반비례한다.",
+        "두 전하의 곱에 반비례하고 거리에 비례한다.",
+        "두 전하의 곱에 비례하고 거리의 제곱에 비례한다.",
+        "두 전하의 곱에 비례하고 거리의 제곱에 반비례한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q192",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "대칭 3상 △결선에서 선전류와 상전류와의 위상 관계는?",
+      "options": [
+        "상전류가 π/3 (rad) 앞선다.",
+        "상전류가 π/3 (rad) 뒤진다.",
+        "상전류가 π/6 (rad) 앞선다.",
+        "상전류가 π/6 (rad) 뒤진다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q193",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "m1=4×10-5Wb, m2=6×10-3Wb, r=10cm이면, 두 자극 m1, m2 사이에 작용하는 힘은 약 몇 N 인가?",
+      "options": [
+        "1.52",
+        "2.4",
+        "24",
+        "152",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q194",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 큰 값일수록 좋은 것은?",
+      "options": [
+        "접지저항",
+        "절연저항",
+        "도체저항",
+        "접촉저항",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q195",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "R=6Ω, Xc=8Ω일 때 임피던스 Z =6-j8Ω으로 표시되는 것은 일반적으로 어떤 회로인가?",
+      "options": [
+        "RC 직렬회로",
+        "RL 직렬회로",
+        "RC 병렬회로",
+        "RL 병렬회로",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q196",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 설명 중에서 틀린 것은?",
+      "options": [
+        "리액턴스는 주파수의 함수이다.",
+        "콘덴서는 직렬로 연결할수록 용량이 커진다.",
+        "저항은 병렬로 연결할수록 저항값이 작아진다.",
+        "코일은 직렬로 연결할수록 인덕턴스가 커진다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q197",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "자체 인덕턴스 40mH의 코일에 10A의 전류가 흐를 때 저장되는 에너지는 몇 J 인가?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "8",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q198",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "RLC 병렬공진회로에서 공진주파수는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q199",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "인 사인파 교류에서 ωt가 몇 도일 때 순시값과 실효값이 같게 되는가?",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jo/jo20151010/jo20151010m19m1.gif"
+    },
+    {
+      "id": "electric_craftsman_q200",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "전기분해를 하면 석출되는 물질의 양은 통과한 전기량에 관계가 있다. 이것을 나타낸 법칙은?",
+      "options": [
+        "옴의 법칙",
+        "쿨롱의 법칙",
+        "앙페르의 법칙",
+        "패러데이의 법칙",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q201",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "3상 유도전동기의 2차 저항을 2배로 하면 그 값이 2배로 되는 것은?",
+      "options": [
+        "슬립",
+        "토크",
+        "전류",
+        "역률",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q202",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 제동 방법 중 급정지하는 데 가장 좋은 제동방법은?",
+      "options": [
+        "발전제동",
+        "회생제동",
+        "역상제동",
+        "단상제동",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q203",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "슬립 S=5%, 2차 저항 r2=0.1Ω인 유도 전동기의 등가 저항 R(Ω)은 얼마인가?",
+      "options": [
+        "0.4",
+        "0.5",
+        "1.9",
+        "2.0",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q204",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "동기 전동기의 장점이 아닌 것은?",
+      "options": [
+        "직류 여자가 필요하다.",
+        "전부하 효율이 양호하다.",
+        "역률 1로 운전할 수 있다.",
+        "동기 속도를 얻을 수 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q205",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "부흐홀츠 계전기의 설치 위치는?",
+      "options": [
+        "콘서베이터 내부",
+        "변압기 주탱크 내부",
+        "변압기의 고압측 부싱",
+        "변압기 본체와 콘서베이터 사이",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q206",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "고압전동기 철심의 강판 홈(slot)의 모양은?",
+      "options": [
+        "반폐형",
+        "개방형",
+        "반구형",
+        "밀폐형",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q207",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 그림은 직류발전기의 분류 중 어느 것에 해당되는가?",
+      "options": [
+        "분권발전기",
+        "직권발전기",
+        "자석발전기",
+        "복권발전기",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/jo/jo20151010/jo20151010m27.gif"
+    },
+    {
+      "id": "electric_craftsman_q208",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "100V, 10A, 전기자저항 1Ω, 회전수 1800rpm인 전동기의 역기전력은 몇 V인가?",
+      "options": [
+        "90",
+        "100",
+        "110",
+        "186",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q209",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "유도전동기가 많이 사용되는 이유가 아닌 것은?",
+      "options": [
+        "값이 저렴",
+        "취급이 어려움",
+        "전원을 쉽게 얻음",
+        "구조가 간단하고 튼튼함",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q210",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "정격속도로 운전하는 무부하 분권발전기의 계자 저항이 60Ω, 계자 전류가 1A, 전기자 저항이 0.5Ω라 하면 유도 기전력은 약 몇 V인가?",
+      "options": [
+        "30.5",
+        "50.5",
+        "60.5",
+        "80.5",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q211",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "변압기의 2차측을 개방하였을 경우 1차측에 흐르는 전류는 무엇에 의하여 결정되는가?",
+      "options": [
+        "저항",
+        "임피던스",
+        "누설 리액턴스",
+        "여자 어드미턴스",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q212",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "입력으로 펄스신호를 가해주고 속도를 입력펄스의 주파수에 의해 조절하는 전동기는?",
+      "options": [
+        "전기동력계",
+        "서보전동기",
+        "스테핑 전동기",
+        "권선형유도전동기",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q213",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "농형 유도전동기의 기동법이 아닌 것은?",
+      "options": [
+        "2차 저항기법",
+        "Y-△ 기동법",
+        "전전압 기동법",
+        "기동보상기에 의한 기동법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q214",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "변압기 V결선의 특징으로 틀린 것은?",
+      "options": [
+        "고장 시 응급처치 방법으로도 쓰인다.",
+        "단상변압기 2대로 3상 전력을 공급한다.",
+        "부하증가가 예상되는 지역에 시설한다.",
+        "V결선 시 출력은 Δ결선 시 출력과 그 크기가 같다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q215",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "직류 분권전동기에서 운전 중 계자권선의 저항을 증가하면 회전속도의 값은?",
+      "options": [
+        "감소한다.",
+        "증가한다.",
+        "일정하다.",
+        "관계없다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q216",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "직류 발전기 전기자 반작용의 영향에 대한 설명으로 틀린 것은?",
+      "options": [
+        "브러시 사이에 불꽃을 발생 시킨다.",
+        "주 자속이 찌그러지거나 감소된다.",
+        "전기자 전류에 의한 자속이 주 자속에 영향을 준다.",
+        "회전방향과 반대방향으로 자기적 중성축이 이동된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q217",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "반도체 사이리스터에 의한 전동기의 속도제어 중 주파수 제어는?",
+      "options": [
+        "초퍼 제어",
+        "인버터 제어",
+        "컨버터 제어",
+        "브리지 정류 제어",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q218",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "변압기의 용도가 아닌 것은?",
+      "options": [
+        "교류 전압의 변환",
+        "주파수의 변환",
+        "임피던스의 변환",
+        "교류 전류의 변환",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q219",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "변압기에 대한 설명 중 틀린 것은?",
+      "options": [
+        "전압을 변성한다.",
+        "전력을 발생하지 않는다.",
+        "정격출력은 1차측 단자를 기준으로 한다.",
+        "변압기의 정격용량은 피상전력으로 표시한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q220",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "동기 발전기의 병렬 운전 중 주파수가 틀리면 어떤 현상이 나타나는가?",
+      "options": [
+        "무효 전력이 생긴다.",
+        "무효 순환전류가 흐른다.",
+        "유효 순환전류가 흐른다.",
+        "출력이 요동치고 권선이 가열된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q221",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "연피케이블을 직접 매설식에 의하여 차량 기타 중량물의 압력을 받을 우려가 있는 장소에 시설하는 경우 매설 깊이는 몇 m 이상이어야 하는가?(2021년 변경된 KEC 규정 적용됨)",
+      "options": [
+        "0.6",
+        "1.0",
+        "1.2",
+        "1.6",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q222",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "하나의 콘센트에 둘 또는 세 가지의 기계기구를 끼워서 사용할 때 사용되는 것은?",
+      "options": [
+        "노출형콘센트",
+        "카이리스 소켓",
+        "멀티 탭",
+        "아이언 플러그",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q223",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 특별고압은?",
+      "options": [
+        "1000V 이하",
+        "1500V 이하",
+        "1000V 초과, 7000V 이하",
+        "7000V 초과",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q224",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "배전반 및 분전반의 설치장소로 적합하지 않는 곳은?",
+      "options": [
+        "안정된 장소",
+        "밀폐된 장소",
+        "개폐기를 쉽게 개폐할 수 있는 장소",
+        "전기회로를 쉽게 조작할 수 있는 장소",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q225",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "주상 변압기의 1차측 보호 장치로 사용하는 것은?",
+      "options": [
+        "컷아웃 스위치",
+        "자동구분개폐기",
+        "캐치홀더",
+        "리클로저",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q226",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "화약류 저장장소의 배선공사에서 전용 개폐기에서 화약류 저장소의 인입구까지는 어떤 공사를 하여야 하는가?",
+      "options": [
+        "케이블을 사용한 옥측 전선로",
+        "금속관을 사용한 지중 전선로",
+        "케이블을 사용한 지중 전선로",
+        "금속관을 사용한 옥측 전선로",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q227",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "일반적으로 정크션 박스 내에서 사용되는 전선 접속방식은?",
+      "options": [
+        "슬리이브",
+        "코오드놋트",
+        "코오드파아스너",
+        "와이어커넥터",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q228",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "합성수지관 배선에서 경질비닐전선관의 굵기에 해당되지 않는 것은?(단, 관의 호칭을 말한다.)",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "22",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q229",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "저압 옥내 간선으로부터 분기하는 곳에 설치하여야 하는 것은?",
+      "options": [
+        "과전압 차단기",
+        "과전류 차단기",
+        "누전 차단기",
+        "지락 차단기",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q230",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "전주를 건주할 경우에 A종 철근콘크리트주의 길이가 10m이면 땅에 묻는 표준 깊이는 최저 약 몇 m인가?(단, 설계하중이 6.8kN 이하 이다.)",
+      "options": [
+        "2.5",
+        "3.0",
+        "1.7",
+        "2.4",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q231",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "전로에 지락이 생겼을 경우에 부하 기기, 금속제 외함 등에 발생하는 고장전압 또는 지락전류를 검출하는 부분과 차단기 부분을 조합하여 자동적으로 전로를 차단하는 장치는?",
+      "options": [
+        "누전차단장치",
+        "과전류차단기",
+        "누전경보장치",
+        "배선용차단기",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q232",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "소맥분, 전분 기타 가연성의 분진이 존재하는 곳의 저압 옥내 배선 공사 방법에 해당되는 것으로 짝지어진 것은?",
+      "options": [
+        "케이블 공사, 애자 사용 공사",
+        "금속관 공사, 콤바인 덕트관, 애자 사용 공사",
+        "케이블 공사, 금속관 공사, 애자 사용 공사",
+        "케이블 공사, 금속관 공사, 합성수지관 공사",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q233",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "가로 20m, 세로 18m, 천정의 높이 3.85m, 작업면의 높이 0.85m, 간접조명 방식인 호텔 연회장의 실지수는 약 얼마인가?",
+      "options": [
+        "1.16",
+        "2.16",
+        "3.16",
+        "4.16",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q234",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "전선의 도체 단면적이 2.5mm2인 전선 3본을 동일 관내에 넣는 경우의 2종 가요전선관의 최소 굵기(mm)는?",
+      "options": [
+        "10",
+        "15",
+        "17",
+        "24",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q235",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "굵은 전선이나 케이블을 절단할 때 사용되는 공구는?",
+      "options": [
+        "클리퍼",
+        "펜치",
+        "나이프",
+        "플라이어",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q236",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "ACSR 약호의 품명은?",
+      "options": [
+        "경동연선",
+        "중공연선",
+        "알루미늄선",
+        "강심알루미늄 연선",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q237",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "물탱크의 물의 양에 따라 동작하는 자동스위치는?",
+      "options": [
+        "부동스위치",
+        "압력스위치",
+        "타임스위치",
+        "3로스위치",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q238",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "후강 전선관의 관 호칭은( (ㄱ) ) 크기로 정하여 ( (ㄴ) )로 표시하는데, (ㄱ)과 (ㄴ)에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "(ㄱ)안지름 (ㄴ)홀수",
+        "(ㄱ)안지름 (ㄴ)짝수",
+        "(ㄱ)바깥지름 (ㄴ)홀수",
+        "(ㄱ)바깥지름 (ㄴ)짝수",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q239",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "노출장소 또는 점검 가능한 은폐장소에서 제2종 가요전선관을 시설하고 제거하는 것이 부자유하거나 점검 불가능한 경우의 곡률 반지름은 안지름의 몇 배 이상으로 하여야 하는가?",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "6",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "electric_craftsman_q240",
+      "subject": "전기 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "저고압 가공전선이 철도 또는 궤도를 횡단하는 경우 높이는 궤도면상 몇 m 이상이어야 하는가?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "10",
+        "8.5",
+        "7.5",
+        "6.5",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    }
+  ]
+}

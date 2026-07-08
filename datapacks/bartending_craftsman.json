@@ -1,0 +1,3605 @@
+{
+  "pack_name": "조주기능사 기출 팩",
+  "questions": [
+    {
+      "id": "bartending_craftsman_q1",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "레드와인용 포도 품종이 아닌 것은?",
+      "options": [
+        "리슬링(Riesling)",
+        "메를로(Merlot)",
+        "삐노누아(Pinot Noir)",
+        "카베르네 소비뇽(Cabernet Sauvignon)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q2",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "과일이나 곡류를 발효시켜 증류한 스피릿츠(Spirits)에 감미와 천연 추출물 등을 첨가한 것은?",
+      "options": [
+        "양조주(Fermented Liquor)",
+        "증류주(Distilled Liquor)",
+        "혼성주(Liqueur)",
+        "아쿠아비트(Aquavit)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q3",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "이탈리아 와인에 대한 설명으로 틀린 것은?",
+      "options": [
+        "거의 전 지역에서 와인이 생산된다.",
+        "지명도가 높은 와인산지로는 피에몬테, 토스카나, 베네토 등이 있다.",
+        "이탈리아 와인 등급체계는 5등급이다.",
+        "네비올로, 산지오베제, 바르베라, 돌체토 포도 품종은 레드와인용으로 사용된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q4",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 보기들과 가장 관련되는 것은?",
+      "options": [
+        "이탈리아산 포도주",
+        "스페인산 백포도주",
+        "프랑스산 샴페인",
+        "독일산 포도주",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/k6/k620160710/k620160710m4.gif"
+    },
+    {
+      "id": "bartending_craftsman_q5",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "맥주의 제조과정 중 발효가 끝난 후 숙성시킬 때의 온도로 가장 적합한 것은?",
+      "options": [
+        "-1∼3℃",
+        "8∼10℃",
+        "12∼14℃",
+        "16∼20℃",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q6",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "밀(Wheat)을 주원료로 만든 맥주는?",
+      "options": [
+        "산미구엘(San Miguel)",
+        "호가든(Hoegaarden)",
+        "람빅(Lambic)",
+        "포스터스(Foster's)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q7",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "리큐르(Liqueur)의 여왕이라고 불리며 프랑스의 수도원의 이름을 가지고 있는 것은?",
+      "options": [
+        "드람부이(Drambuie)",
+        "샤르트뢰즈(Chartreuse)",
+        "베네딕틴(Benedictine)",
+        "체리브랜디(Cherry Brandy)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q8",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "맥주 제조 시 호프(Hop)를 사용하는 가장 주된 이유는?",
+      "options": [
+        "잡냄새 제거",
+        "단백질 등 질소화합물 제거",
+        "맥주색깔의 강화",
+        "맥즙의 살균",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q9",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 호크 와인(Hock Wine)이란?",
+      "options": [
+        "독일 라인산 화이트 와인",
+        "프랑스 버건디산 화이트 와인",
+        "스페인 호크하임엘산 레드 와인",
+        "이탈리아 피에몬테산 레드 와인",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q10",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 Bitter가 아닌 것은?",
+      "options": [
+        "Angostura",
+        "Campari",
+        "Galliano",
+        "Amer Picon",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q11",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "발포성 와인의 이름이 잘못 연결된 것은?",
+      "options": [
+        "스페인 – 카바(Cava)",
+        "독일 – 젝트(Sekt)",
+        "이탈리아 – 스푸만테(Spumante)",
+        "포르투갈 – 도세(Doce)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q12",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "식후 주(After Dinner Drink)로 가장 적합한 것은?",
+      "options": [
+        "코냑(Cognac)",
+        "드라이 셰리 와인(Dry Sherry Wine)",
+        "드라이 진(Dry Gin)",
+        "베르무트(Vermouth)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q13",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "리큐르 중 D.O.M. 글자가 표기되어 있는 것은?",
+      "options": [
+        "Sloe Gin",
+        "Kahlua",
+        "Kummel",
+        "Benedictine",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q14",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "슬로우 진(Sloe Gin)의 설명 중 옳은 것은?",
+      "options": [
+        "증류주의 일종이며, 진(Gin)의 종류이다.",
+        "보드카(Vodka)에 그레나딘 시럽을 첨가한 것이다.",
+        "아주 천천히 분위기 있게 먹는 칵테일이다.",
+        "진(Gin)에 야생자두(Sloe Berry)의 성분을 첨가한 것이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q15",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "콘 위스키(Corn Whiskey)란?",
+      "options": [
+        "원료의 50% 이상 옥수수를 사용한 것",
+        "원료에 옥수수 50%, 호밀 50%가 섞인 것",
+        "원료의 80% 이상 옥수수를 사용한 것",
+        "원료의 40% 이상 옥수수를 사용한 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q16",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "일반적으로 단식 증류기(Pot Still)로 증류하는 것은?",
+      "options": [
+        "Kentucky Straight Bourbon Whiskey",
+        "Grain Whisky",
+        "Dark Rum",
+        "Aquavit",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q17",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "알코올성 음료를 의미하는 용어가 아닌 것은?",
+      "options": [
+        "Hard Drink",
+        "Liquor",
+        "Ginger Ale",
+        "Spirits",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q18",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "비알코올성 음료의 분류방법에 해당되지 않는 것은?",
+      "options": [
+        "청량음료",
+        "영양음료",
+        "발포성음료",
+        "기호음료",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q19",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 럼에 대한 설명이 아닌 것은?",
+      "options": [
+        "럼의 주재료는 사탕수수이다.",
+        "럼은 서인도제도를 통치하는 유럽의 식민정책 중 삼각무역에 사용되었다.",
+        "럼은 사탕을 첨가하여 만든 리큐르이다.",
+        "럼의 향, 맛에 따라 라이트 럼, 미디엄 럼, 헤비 럼으로 분류된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q20",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "탄산음료 중 뒷맛이 쌉쌀한 맛이 남는 음료는?",
+      "options": [
+        "칼린스 믹서",
+        "토닉 워터",
+        "진저엘",
+        "콜라",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q21",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 생산지가 옳게 연결된 것은?",
+      "options": [
+        "비시수 – 오스트리아",
+        "셀처수 - 독일",
+        "에비앙수 – 그리스",
+        "페리에수 – 이탈리아",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q22",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "우리나라 전통주에 대한 설명으로 틀린 것은?",
+      "options": [
+        "증류주 제조기술은 고려시대 때 몽고에 의해 전래되었다.",
+        "탁주는 쌀 등 곡식을 주로 이용하였다.",
+        "탁주, 약주, 소주의 순서로 개발되었다.",
+        "청주는 쌀의 향을 얻기 위해 현미를 주로 사용한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q23",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "보드카의 설명으로 옳지 않은 것은?",
+      "options": [
+        "슬라브 민족의 국민주로 애음되고 있다.",
+        "보드카는 러시아에서만 생산된다.",
+        "보드카의 원료는 주로 보리, 밀, 호밀, 옥수수, 감자 등이 사용된다.",
+        "보드카에 향을 입힌 보드카를 플레이버 보드카라 칭한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q24",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "Whisky의 재료가 아닌 것은?",
+      "options": [
+        "맥아",
+        "보리",
+        "호밀",
+        "감자",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q25",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "에스프레소의 커피추출이 빨리 되는 원인이 아닌 것은?",
+      "options": [
+        "너무 굵은 분쇄입자",
+        "약한 탬핑 강도",
+        "너무 많은 커피 사용",
+        "높은 펌프 압력",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q26",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "브랜디에 대한 설명으로 가장 거리가 먼 것은?",
+      "options": [
+        "포도 또는 과실을 발효하여 증류한 술이다.",
+        "코냑 브랜디에 처음으로 별표의 기호를 도입한 것은 1865년 헤네시(Hennessy)사에 의해서이다.",
+        "Brandy는 저장기간을 부호로 표시하며 그 부호가 나타내는 저장기간은 법적으로 정해져 있다.",
+        "브랜디의 증류는 와인을 2∼3회 단식 증류기(Pot Still)로 증류한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q27",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위스키의 원료에 따른 분류가 아닌 것은?",
+      "options": [
+        "몰트 위스키",
+        "그레인 위스키",
+        "포트스틸 위스키",
+        "블렌디드 위스키",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q28",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "국가지정 중요무형문화재로 지정받은 전통주가 아닌 것은?",
+      "options": [
+        "충남 면천두견주",
+        "진도 홍주",
+        "서울 문배주",
+        "경주 교동법주",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q29",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "커피로스팅의 정도에 따라 약한 순서에서 강한 순서대로 나열한 것으로 옳은 것은?",
+      "options": [
+        "American Roasting→German Roasting→French Roasting→Italian Roasting",
+        "German Roasting→Italian Roasting→American Roasting→French Roasting",
+        "Italian Roasting→German Roasting→American Roasting→French Roasting",
+        "French Roasting→American Roasting→Italian Roasting→German Roasting",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q30",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "혼합물을 구성하는 각 물질의 비등점의 차이를 이용하여 만드는 술을 무엇이라 하는가?",
+      "options": [
+        "발효주",
+        "발아주",
+        "증류주",
+        "양조주",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q31",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "구매부서의 기능이 아닌 것은?",
+      "options": [
+        "검수",
+        "저장",
+        "불출",
+        "판매",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q32",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "Pousse Cafe를 만드는 재료 중 가장 나중에 따르는 것은?",
+      "options": [
+        "Brandy",
+        "Grenadine",
+        "Creme de Menthe(White)",
+        "Creme de Cassis",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q33",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "Manhattan 조주 시 사용하는 기물은?",
+      "options": [
+        "셰이커(Shaker)",
+        "믹싱 글라스(Mixing Glass)",
+        "전기 블렌더(Blender)",
+        "주스 믹서(Juice Mixer)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q34",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "바텐더의 칵테일용 가니쉬 재료 손질에 관한 설명 중 가장 거리가 먼 것은?",
+      "options": [
+        "레몬 슬라이스는 미리 손질하여 밀폐용기에 넣어서 준비한다.",
+        "오렌지 슬라이스는 미리 손질하여 밀폐용기에 넣어서 준비한다.",
+        "레몬 껍질은 미리 손질하여 밀폐용기에 넣어서 준비한다.",
+        "딸기는 미리 꼭지를 제거한 후 깨끗하게 세척하여 밀폐용기에 넣어서 준비한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q35",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "Gin &Tonic에 알맞은 Glass와 장식은?",
+      "options": [
+        "Collins Glass – Pineapple Slice",
+        "Cocktail Glass - Olive",
+        "Cordial Glass – Orange Slice",
+        "Highball Glass – Lemon Slice",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q36",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "Classic Bar의 특징과 가장 거리가 먼 것은?",
+      "options": [
+        "서비스의 중점을 정중함과 편안함에 둔다.",
+        "소규모 라이브 음악을 제공한다.",
+        "고객에게 화려한 바텐딩 기술을 선보인다.",
+        "칵테일 조주 시 정확한 용량과 방법으로 제공한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q37",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "위스키가 기주로 쓰이지 않는 칵테일은?",
+      "options": [
+        "뉴욕(New York)",
+        "로브 로이(Rob Roy)",
+        "블랙 러시안(Black Russian)",
+        "맨하탄(Manhattan)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q38",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "셰이킹(Shaking) 기법에 대한 설명으로 틀린 것은?",
+      "options": [
+        "셰이커에 얼음을 충분히 넣어 빠른 시간 안에 잘 섞이고 차게 한다.",
+        "셰이커에 재료를 순서대로 Cap을 Strainer에 씌운 다음 Body에 덮는다.",
+        "잘 섞이지 않는 재료들을 셰이커에 넣어 세차게 흔들어 섞는 조주기법이다.",
+        "계란, 우유, 크림, 당분이 많은 리큐르 등으로 칵테일을 만들 때 많이 사용된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q39",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "주장의 종류로 가장 거리가 먼 것은?",
+      "options": [
+        "Cocktail Bar",
+        "Members Club Bar",
+        "Snack Bar",
+        "Pub Bar",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q40",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 달걀이 들어가는 칵테일은?",
+      "options": [
+        "Millionaire",
+        "Black Russian",
+        "Brandy Alexander",
+        "Daiquiri",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q41",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 휘젓기(Stirring) 기법으로 만드는 칵테일이 아닌 것은?",
+      "options": [
+        "Manhattan",
+        "Martini",
+        "Gibson",
+        "Gimlet",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q42",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 칵테일 중 Floating 기법으로 만들지 않는 것은?",
+      "options": [
+        "B&B",
+        "Pousse Cafe",
+        "B-52",
+        "Black Russian",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q43",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "와인에 대한 Corkage의 설명으로 가장 거리가 먼 것은?",
+      "options": [
+        "업장의 와인이 아닌 개인이 따로 가져온 와인을 마시고자 할 때 적용된다.",
+        "와인을 마시기 위해 이용되는 글라스, 직원 서비스 등에 대한 요금이 포함된다.",
+        "주로 업소가 보유하고 있지 않은 와인을 시음할 때 많이 작용된다.",
+        "코르크로 밀봉되어 있는 와인을 서비스하는 경우에 적용되며, 스크류캡을 사용한 와인은 부과되지 않는다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q44",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "주장(Bar)에서 기물의 취급방법으로 적합하지 않은 것은?",
+      "options": [
+        "금이 간 접시나 글라스는 규정에 따라 폐기한다.",
+        "은기물은 은기물 전용 세척액에 오래 담가두어야 한다.",
+        "크리스탈 글라스는 가능한 손으로 세척한다.",
+        "식기는 같은 종류별로 보관하며 너무 많이 쌓아두지 않는다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q45",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 소믈리에(Sommelier)의 주요 임무는?",
+      "options": [
+        "기물세척(Utensil Cleaning)",
+        "주류저장(Store Keeper)",
+        "와인판매(Wine Steward)",
+        "칵테일조주(Cocktail Mixing)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q46",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "바의 매출액 구성요소 산정방법 중 옳은 것은?",
+      "options": [
+        "매출액 = 고객수 ÷ 객단가",
+        "고객수 = 고정고객 × 일반고객",
+        "객단가 = 매출액 ÷ 고객수",
+        "판매가 = 기준단가 × (재료비/100)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q47",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "바(Bar) 기물이 아닌 것은?",
+      "options": [
+        "Bar Spoon",
+        "Shaker",
+        "Chaser",
+        "Jigger",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q48",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "글라스 세척 시 알맞은 세제와 세척순서로 짝지어진 것은?",
+      "options": [
+        "산성세제, 더운물 - 찬물",
+        "중성세제, 찬물 - 더운물",
+        "산성세제, 찬물 - 더운물",
+        "중성세제, 더운물 – 찬물",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q49",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "Rum 베이스 칵테일이 아닌 것은?",
+      "options": [
+        "Daiquiri",
+        "Cuba Libre",
+        "Mai Tai",
+        "Stinger",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q50",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 보드카(Vodka)를 주재료로 사용하지 않는 칵테일은?",
+      "options": [
+        "Cosmopolitan",
+        "Kiss of Fire",
+        "Apple Martini",
+        "Margarita",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q51",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "“5월 5일에는 이미 예약이 다 되어 있습니다.”의 표현은?",
+      "options": [
+        "We look foward to seeing you on May 5th.",
+        "We are fully booked on May 5th.",
+        "We are available on May 5th.",
+        "I will check availability on May 5th.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q52",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 문장 중 틀린 것은?",
+      "options": [
+        "Are you in a hurry?",
+        "May I help With you your baggage",
+        "Will you pay in cash or with a credit card?",
+        "What is the most famous in Seoul?",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q53",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "아래 문장의 의미는?",
+      "options": [
+        "통화 중이므로 바꿔 드릴 수 없습니다.",
+        "고장이므로 바꿔 드릴 수 없습니다.",
+        "외출 중이므로 바꿔 드릴 수 없습니다.",
+        "아무도 없으므로 바꿔 드릴 수 없습니다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/k6/k620160710/k620160710m53.gif"
+    },
+    {
+      "id": "bartending_craftsman_q54",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "Which one is the spirit made from agave?",
+      "options": [
+        "Tequila",
+        "Rum",
+        "Vodka",
+        "Gin",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q55",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "“a glossary of basic wine terms”의 연결로 틀린 것은?",
+      "options": [
+        "Balance : the portion of the wine's odor derived from the grape variety and fermentation.",
+        "Nose : the total odor of wine composed of aroma, bouquet, and other factors.",
+        "Body : the weight or fullness of wine on palate.",
+        "Dry : a tasting term to denote the absence of sweetness in wine.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q56",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 ( )에 들어갈 단어로 가장 적합한 것은?",
+      "options": [
+        "Ice Wine",
+        "Red Wine",
+        "Vermouth",
+        "Dry Sherry",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/k6/k620160710/k620160710m56.gif"
+    },
+    {
+      "id": "bartending_craftsman_q57",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "Which is not an appropriate instrument for stirring method of how to make cocktail?",
+      "options": [
+        "Mixing Glass",
+        "Bar Spoon",
+        "Shaker",
+        "Strainer",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q58",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 의미가 다른 하나는?",
+      "options": [
+        "It's my treat this time.",
+        "I'll pick up the tab.",
+        "Let's go Dutch.",
+        "It's on me.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q59",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 괄호 안에 가장 적합한 것은?",
+      "options": [
+        "take, manage",
+        "supervise, handle",
+        "respect, deal",
+        "manage, careful",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/k6/k620160710/k620160710m59.gif"
+    },
+    {
+      "id": "bartending_craftsman_q60",
+      "subject": "조주기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "Dry Gin, Egg White, and Grenadine are the main ingredients of (괄호).",
+      "options": [
+        "Bloody Mary",
+        "Eggnog",
+        "Tom and Jerry",
+        "Pink Lady",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q61",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "혼성주에 해당하는 것은?",
+      "options": [
+        "Armagnac",
+        "Corn Whisky",
+        "Cointreau",
+        "Jamaican Rum",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q62",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "각 국가별 부르는 적포도주로 틀린 것은?",
+      "options": [
+        "프랑스 – Vin Rouge",
+        "이태리 – Vino Rosso",
+        "스페인 – Vino Rosado",
+        "독일 – Rotwein",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q63",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "Sparkling Wine이 아닌 것은?",
+      "options": [
+        "Asti Spumante",
+        "Sekt",
+        "Vin mousseux",
+        "Troken",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q64",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "포도 품종의 그린 수확(Green Harvest)에 대한 설명으로 옳은 것은?",
+      "options": [
+        "수확량을 제한하기 위한 수확",
+        "청포도 품종 수확",
+        "완숙한 최고의 포도 수확",
+        "포도원의 잡초제거",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q65",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "보르도 지역의 와인이 아닌 것은?",
+      "options": [
+        "샤블리",
+        "메독",
+        "마고",
+        "그라브",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q66",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "프랑스에서 생산되는 칼바도스(Calvados)는 어느 종류에 속하는가?",
+      "options": [
+        "Brandy",
+        "Gin",
+        "Wine",
+        "Whisky",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q67",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "원료인 포도주에 브랜디나 당분을 섞고 향료나 약초를 넣어 향미를 내어 만들며 이탈리아산이 유명한 것은?",
+      "options": [
+        "Manzanilla",
+        "Vermouth",
+        "Stout",
+        "Hock",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q68",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 Aperitif Wine으로 가장 적합한 것은?",
+      "options": [
+        "Dry Sherry Wine",
+        "White Wine",
+        "Red Wine",
+        "Port Wine",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q69",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "혼성주의 종류에 대한 설명이 틀린 것은?",
+      "options": [
+        "아드보카트(Advocaat)는 브랜디에 계란노른자와 설탕을 혼합하여 만들었다.",
+        "드람브이(Drambuie)는 “사람을 만족시키는 음료”라는 뜻을 가지고 있다.",
+        "아르마냑(Armagnac)은 체리향을 혼합하여 만든 술이다.",
+        "깔루아(Kahlua)는 증류주에 커피를 혼합하여 만든 술이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q70",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "혼성주 제조방법인 침출법에 대한 설명으로 틀린 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "맛과 향이 알코올에 쉽게 용해되는 원료일 때 사용한다.",
+        "과실 및 향료를 기주에 담가 맛과 향이 우러나게 하는 방법이다.",
+        "원료를 넣고 밀봉한 후 수개월에서 수년간 장기 숙성시킨다.",
+        "맛과 향이 추출되면 여과한 후 블렌딩하여 병입한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q71",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "보졸레 누보 양조과정의 특징이 아닌 것은?",
+      "options": [
+        "기계수확을 한다.",
+        "열매를 분리하지 않고 송이채 밀폐된 탱크에 집어넣는다.",
+        "발효 중 CO2의 영향을 받아 산도가 낮은 와인이 만들어진다.",
+        "오랜 숙성 기간 없이 출하한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q72",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "맥주의 원료로 알맞지 않은 것은?",
+      "options": [
+        "물",
+        "피트",
+        "보리",
+        "호프",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q73",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "원산지가 프랑스인 술은?",
+      "options": [
+        "Absinthe",
+        "Curacao",
+        "Kahlua",
+        "Drambuie",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q74",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "상면발효 맥주로 옳은 것은?",
+      "options": [
+        "Bock Beer",
+        "Budweiser Beer",
+        "Porter Beer",
+        "Asahi Beer",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q75",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "Hop에 대한 설명 중 틀린 것은?",
+      "options": [
+        "자웅이주의 숙근 식물로서 수정이 안 된 암꽃을 사용한다.",
+        "맥주의 쓴 맛과 향을 부여한다.",
+        "거품의 지속성과 항균성을 부여한다.",
+        "맥아즙 속의 당분을 분해하여 알코올과 탄산가스를 만드는 작용을 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q76",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음에서 설명하는 것은?",
+      "options": [
+        "Vodka",
+        "Rum",
+        "Aquavit",
+        "Brandy",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/k6/k620160402/k620160402m16.gif"
+    },
+    {
+      "id": "bartending_craftsman_q77",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "프랑스에서 사과를 원료로 만든 증류주인 Apple Brandy는?",
+      "options": [
+        "Cognac",
+        "Calvados",
+        "Armagnac",
+        "Camus",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q78",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 과실음료가 아닌 것은?",
+      "options": [
+        "토마토주스",
+        "천연과즙주스",
+        "희석과즙음료",
+        "과립과즙음료",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q79",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "우리나라 전통주 중에서 약주가 아닌 것은?",
+      "options": [
+        "두견주",
+        "한산 소곡주",
+        "칠선주",
+        "문배주",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q80",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 스카치 위스키(Scotch Whisky)가 아닌 것은?",
+      "options": [
+        "Crown Royal",
+        "White Horse",
+        "Johnnie Walker",
+        "Chivas Regal",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q81",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "차를 만드는 방법에 따른 분류와 대표적인 차의 연결이 틀린 것은?",
+      "options": [
+        "불발효차 – 보성녹차",
+        "반발효차 – 오룡차",
+        "발효차 – 다즐링차",
+        "후발효차 – 쟈스민차",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q82",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "소다수에 대한 설명으로 틀린 것은?",
+      "options": [
+        "인공적으로 이산화탄소를 첨가한다.",
+        "약간의 신맛과 단맛이 나며 청량감이 있다.",
+        "식욕을 돋우는 효과가 있다.",
+        "성분은 수분과 이산화탄소로 칼로리는 없다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q83",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음에서 설명되는 우리나라 고유의 술은?",
+      "options": [
+        "두견주",
+        "인삼주",
+        "감홍로주",
+        "경주교동법주",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/k6/k620160402/k620160402m23.gif"
+    },
+    {
+      "id": "bartending_craftsman_q84",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "레몬쥬스, 슈가시럽, 소다수를 혼합한 것으로 대용할 수 있는 것은?",
+      "options": [
+        "진저엘",
+        "토닉워터",
+        "칼린스 믹스",
+        "사이다",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q85",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 테킬라(Tequila)가 아닌 것은?",
+      "options": [
+        "Cuervo",
+        "El Toro",
+        "Sambuca",
+        "Sauza",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q86",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 아메리칸 위스키(American Whisky)가 아닌 것은?",
+      "options": [
+        "Jim Beam",
+        "Wild Whisky",
+        "John Jameson",
+        "Jack Daniel",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q87",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 그 종류가 다른 하나는?",
+      "options": [
+        "Vienna Coffee",
+        "Cappuccino Coffee",
+        "Espresso Coffee",
+        "Irish Coffee",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q88",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "스카치 위스키의 5가지 법적 분류에 해당하지 않는 것은?",
+      "options": [
+        "싱글 몰트 스카치 위스키",
+        "블렌디드 스카치 위스키",
+        "블렌디드 그레인 스카치 위스키",
+        "라이 위스키",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q89",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 증류주에 속하는 것은?",
+      "options": [
+        "Vermouth",
+        "Champagne",
+        "Sherry Wine",
+        "Light Rum",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q90",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "음료의 역사에 대한 설명으로 틀린 것은?",
+      "options": [
+        "기원전 6000년 경 바빌로니아 사람들은 레몬과즙을 마셨다.",
+        "스페인 발렌시아 부근의 동굴에서는 탄산가스를 발견해 마시는 벽화가 있었다.",
+        "바빌로니아 사람들은 밀빵이 물에 젖어 발효된 맥주를 발견해 음료로 즐겼다.",
+        "중앙아시아 지역에서는 야생의 포도가 쌓여 자연 발효된 포도주를 음료로 즐겼다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q91",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "주장(Bar)에서 주문받는 방법으로 가장 거리가 먼 것은?",
+      "options": [
+        "손님의 연령이나 성별을 고려한 음료를 추천하는 것은 좋은 방법이다.",
+        "추가 주문은 고객이 한잔을 다 마시고 나면 최대한 빠른 시간에 여쭤 본다.",
+        "위스키와 같은 알코올 도수가 높은 술을 주문받을 때에는 안주류도 함께 여쭤본다.",
+        "2명 이상의 외국인 고객의 경우 반드시 영수증을 하나로 할지, 개인별로 따로 할지 여쭤본다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q92",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "샴페인 1병을 주문한 고객에게 샴페인을 따라주는 방법으로 옳지 않은 것은?",
+      "options": [
+        "샴페인은 글라스에 서브할 때 2번에 나눠서 따른다.",
+        "샴페인의 기포를 눈으로 충분히 즐길 수 있게 따른다.",
+        "샴페인은 글라스의 최대 절반정도까지만 따른다.",
+        "샴페인을 따를 때에는 최대한 거품이 나지 않게 조심해서 따른다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q93",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "에스프레소 추출 시 너무 진한 크레마(Dark Crema)가 추출되었을 때 그 원인이 아닌 것은?",
+      "options": [
+        "물의 온도가 95℃보다 높은 경우",
+        "펌프압력이 기준 압력보다 낮은 경우",
+        "포터필터의 구멍이 너무 큰 경우",
+        "물 공급이 제대로 안 되는 경우",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q94",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "칵테일을 만드는 데 필요한 기물이 아닌 것은?",
+      "options": [
+        "Cork Screw",
+        "Mixing Glass",
+        "Shaker",
+        "Bar Spoon",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q95",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 주장 종사원(Waiter/Waitness)의 주요 임무는?",
+      "options": [
+        "고객이 사용한 기물과 빈 잔을 세척한다.",
+        "칵테일의 부재료를 준비한다.",
+        "창고에서 주장(Bar)에서 필요한 물품을 보급한다.",
+        "고객에게 주문을 받고 주문받은 음료를 제공한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q96",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "바람직한 바텐더(Bartender) 직무가 아닌 것은?",
+      "options": [
+        "바(Bar) 내에 필요한 물품 재고를 항상 파악한다.",
+        "일일 판매할 주류가 적당한지 확인한다.",
+        "바(Bar)의 환경 및 기물 등의 청결을 유지, 관리한다.",
+        "칵테일 조주 시 지거(Jigger)를 사용하지 않는다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q97",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "Glass 관리방법 중 틀린 것은?",
+      "options": [
+        "알맞은 Rack에 담아서 세척기를 이용하여 세척한다.",
+        "닦기 전에 금이 가거나 깨진 것이 없는 지 먼저 확인한다.",
+        "Glass의 Steam부분을 시작으로 돌려서 닦는다.",
+        "물에 레몬이나 에스프레소 1잔을 넣으면 Glass의 잡냄새가 제거된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q98",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "Extra Dry Martini는 Dry Vermouth를 어느 정도 넣어야 하는가?",
+      "options": [
+        "1/4 oz",
+        "1/3 oz",
+        "1 oz",
+        "2 oz",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q99",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "Gibson에 대한 설명으로 틀린 것은?",
+      "options": [
+        "알코올 도수는 약 36도에 해당된다.",
+        "베이스는 Gin이다.",
+        "칵테일 어니언(Onion)으로 장식한다.",
+        "기법은 Shaking이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q100",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "칵테일 상품의 특성과 가장 거리가 먼 것은?",
+      "options": [
+        "대량 생산이 가능하다.",
+        "인적 의존도가 높다.",
+        "유통 과정이 없다.",
+        "반품과 재고가 없다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q101",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "바의 한 달 전체 매출액이 1000만원이고 종사원에게 지불된 모든 급료가 300만원이라면 이 바의 인건비율은?",
+      "options": [
+        "10%",
+        "20%",
+        "30%",
+        "40%",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q102",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "내열성이 강한 유리잔에 제공되는 칵테일은?",
+      "options": [
+        "Grasshopper",
+        "Tequila Sunrise",
+        "New York",
+        "Irish Coffee",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q103",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중에서 Cherry로 장식하지 않는 칵테일은?",
+      "options": [
+        "Angel's Kiss",
+        "Manhattan",
+        "Rob Roy",
+        "Martini",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q104",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "칵테일에 사용되는 Garnish에 대한 설명으로 가장 적절한 것은?",
+      "options": [
+        "과일만 사용이 가능하다.",
+        "꽃이 화려하고 향기가 많이 나는 것이 좋다.",
+        "꽃가루가 많은 꽃은 더욱 운치가 있어서 잘 어울린다.",
+        "과일이나 허브향이 나는 잎이나 줄기가 적합하다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q105",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 가장 영양분이 많은 칵테일은?",
+      "options": [
+        "Brandy Eggnog",
+        "Gibson",
+        "Bacardi",
+        "Olympic",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q106",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 1 oz 당 칼로리가 가장 높은 것은? (단, 각 주류의 도수는 일반적인 경우를 따른다.)",
+      "options": [
+        "Red Wine",
+        "Champagne",
+        "Liqueur",
+        "White Wine",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q107",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "네그로니(Negroni) 칵테일의 조주 시 재료로 가장 적합한 것은?",
+      "options": [
+        "Rum 3/4oz, Sweet Vermouth 3/4oz, Campari 3/4oz, Twist of Lemon Peel",
+        "Dry Gin 3/4oz, Sweet Vermouth 3/4oz, Campari 3/4oz, Twist of Lemon Peel",
+        "Dry Gin 3/4oz, Dry Vermouth 3/4oz , Campari 3/4oz, Twist of Lemon Peel",
+        "Tequila 3/4oz, Sweet Vermouth 3/4oz, Campari 3/4oz, Twist of Lemon Peel",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q108",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 장식이 필요 없는 칵테일은?",
+      "options": [
+        "김렛 (Gimlet)",
+        "시브리즈 (Seabreeze)",
+        "올드 패션 (Old Fashioned)",
+        "싱가폴 슬링 (Singapore Sling)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q109",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "칵테일 레시피(Recipe)를 보고 알 수 없는 것은?",
+      "options": [
+        "칵테일의 색깔",
+        "칵테일의 판매량",
+        "칵테일의 분량",
+        "칵테일의 성분",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q110",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "Gibson을 조주할 때 Garnish는 무엇으로 하는가?",
+      "options": [
+        "Olive",
+        "Cherry",
+        "Onion",
+        "Lime",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q111",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "“우리 호텔을 떠나십니까?”의 표현으로 옳은 것은?",
+      "options": [
+        "Do you start our hotel?",
+        "Are you leave to our hotel?",
+        "Are you leaving our hotel?",
+        "Do you go our hotel?",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q112",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 ( )안에 가장 적합한 것은?",
+      "options": [
+        "Just one For my health, please.",
+        "One for the road.",
+        "I'll stick to my usual.",
+        "Another one please.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/k6/k620160402/k620160402m52.gif"
+    },
+    {
+      "id": "bartending_craftsman_q113",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 ( )안에 알맞은 단어와 아래의 상황 후 Jenny가 Kate에게 할 말의 연결로 가장 적합한 것은?",
+      "options": [
+        "Peep – Good luck to you.",
+        "Ouch – I am sorry to hear that.",
+        "Tut – How awful!",
+        "Pop – I am very sorry. I do hope you are not hurt.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/k6/k620160402/k620160402m53.gif"
+    },
+    {
+      "id": "bartending_craftsman_q114",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 밑줄에 들어갈 가장 적합한 것은?",
+      "options": [
+        "Kept",
+        "Made",
+        "Put",
+        "Had",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/k6/k620160402/k620160402m54.gif"
+    },
+    {
+      "id": "bartending_craftsman_q115",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "Which one is not aperitif cocktail?",
+      "options": [
+        "Dry Martini",
+        "Kir",
+        "Campari Orange",
+        "Grasshopper",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q116",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 ( )안에 알맞은 것은?",
+      "options": [
+        "Whisky",
+        "Vodka",
+        "Gin",
+        "Rum",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/k6/k620160402/k620160402m56.gif"
+    },
+    {
+      "id": "bartending_craftsman_q117",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "There are basic direction of wine service. Select the one which is not belong to them in the following?",
+      "options": [
+        "Filling four-fifth of red wine into the glass.",
+        "Serving the red wine with room temperature.",
+        "Serving the white wine with condition of 8~12℃.",
+        "Showing the guest the label of wine before service.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q118",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "Which one is not distilled beverage in the following?",
+      "options": [
+        "Gin",
+        "Calvados",
+        "Tequila",
+        "Cointreau",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q119",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 문장에서 의미하는 것은?",
+      "options": [
+        "Amaretto",
+        "Absinthe",
+        "Anisette",
+        "Angelica",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/k6/k620160402/k620160402m59.gif"
+    },
+    {
+      "id": "bartending_craftsman_q120",
+      "subject": "조주기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 밑줄 친 곳에 가장 적합한 것은?",
+      "options": [
+        "Stout",
+        "Calvados",
+        "Glenfiddich",
+        "Beaujolais Nouveau",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/k6/k620160402/k620160402m60.gif"
+    },
+    {
+      "id": "bartending_craftsman_q121",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "커피의 3대 원종이 아닌 것은?",
+      "options": [
+        "로부스타종",
+        "아라비카종",
+        "인디카종",
+        "리베리카종",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q122",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "이태리가 자랑하는 3대 리큐르(liqueur) 중 하나로 살구씨를 기본으로 여러 가지 재료를 넣어 만든 아몬드 향의 리큐르로 옳은 것은?",
+      "options": [
+        "아드보카트(Advocaat)",
+        "베네딕틴(Benedictine)",
+        "아마레또(Amaretto)",
+        "그랜드 마니에르(Grand Marnier)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q123",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "Malt Whisky를 바르게 설명한 것은?",
+      "options": [
+        "대량의 양조주를 연속식으로 증류해서 만든 위스키",
+        "단식 증류기를 사용하여 2회의 증류과정을 거쳐 만든 위스키",
+        "피트탄(peat, 석탄)으로 건조한 맥아의 당액을 발효해서 증류한 피트향과 통의 향이 배인 독특한 맛의 위스키",
+        "옥수수를 원료로 대맥의 맥아를 사용하여 당화시켜 개량솥으로 증류한 고농도 알코올의 위스키",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q124",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "Ginger ale에 대한 설명 중 틀린 것은?",
+      "options": [
+        "생강의 향을 함유한 소다수이다.",
+        "알코올 성분이 포함된 영양음료이다.",
+        "식욕증진이나 소화제로 효과가 있다.",
+        "Gin이나 Brandy와 조주하여 마시기도 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q125",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "우유의 살균방법에 대한 설명으로 가장 거리가 먼 것은?",
+      "options": [
+        "저온 살균법 : 50℃에서 30분 살균",
+        "고온 단시간 살균법 : 72℃에서 15초 살균",
+        "초고온 살균법 : 135~150℃에서 0.5~5초 살균",
+        "멸균법 : 150℃에서 2.5~3초 동안 가열 처리",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q126",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중에서 이탈리아 와인 키안티 클라시코(Chianti classico)와 가장 거리가 먼 것은?",
+      "options": [
+        "Gallo nero",
+        "Piasco",
+        "Raffia",
+        "Barbaresco",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q127",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "옥수수를 51% 이상 사용하고 연속식 증류기로 알코올 농도 40% 이상 80% 미만으로 증류하는 위스키는?",
+      "options": [
+        "Scotch Whisky",
+        "Bourbon Whiskey",
+        "Irish Whiskey",
+        "Canadian Whisky",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q128",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "사과로 만들어진 양조주는?",
+      "options": [
+        "Camus Napoleon",
+        "Cider",
+        "Kirschwasser",
+        "Anisette",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q129",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "스트레이트 업(Straight Up)의 의미로 가장 적합한 것은?",
+      "options": [
+        "술이나 재료의 비중을 이용하여 섞이지 않게 마시는 것",
+        "얼음을 넣지 않은 상태로 마시는 것",
+        "얼음만 넣고 그 위에 술을 따른 상태로 마시는 것",
+        "글라스 위에 장식하여 마시는 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q130",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "약초, 향초류의 혼성주는?",
+      "options": [
+        "트리플섹",
+        "크림 드 카시스",
+        "깔루아",
+        "쿰멜",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q131",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "헤네시의 등급 규격으로 틀린 것은?",
+      "options": [
+        "EXTRA : 15~25년",
+        "V.O : 15년",
+        "X.O : 45년 이상",
+        "V.S.O.P : 20~30년",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q132",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음은 어떤 포도품종에 관하여 설명한 것인가?",
+      "options": [
+        "메를로(Merlot)",
+        "삐노 느와르(Pinot Noir)",
+        "까베르네 쇼비뇽(Cabernet Sauvignon)",
+        "샤르도네(Chardonnay)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/k6/k620160124/k620160124m12.gif"
+    },
+    {
+      "id": "bartending_craftsman_q133",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "담색 또는 무색으로 칵테일의 기본주로 사용되는 Rum은?",
+      "options": [
+        "Heavy Rum",
+        "Medium Rum",
+        "Light Rum",
+        "Jamaica Rum",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q134",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "전통 민속주의 양조기구 및 기물이 아닌 것은?",
+      "options": [
+        "오크통",
+        "누룩고리",
+        "채반",
+        "술자루",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q135",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "세계의 유명한 광천수 중 프랑스 지역의 제품이 아닌 것은?",
+      "options": [
+        "비시 생수(Vichy Water)",
+        "에비앙 생수(Evian Water)",
+        "셀처 생수(Seltzer Water)",
+        "페리에 생수(Perrier Water)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q136",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "Irish Whiskey에 대한 설명으로 틀린 것은?",
+      "options": [
+        "깊고 진한 맛과 향을 지닌 몰트 위스키도 포함된다.",
+        "피트훈연을 하지 않아 향이 깨끗하고 맛이 부드럽다.",
+        "스카치 위스키와 제조과정이 동일하다.",
+        "John Jameson, Old Bushmills가 대표적이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q137",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "세계 4대 위스키(Whisky)가 아닌 것은?",
+      "options": [
+        "스카치(Scotch)",
+        "아이리쉬(Irish)",
+        "아메리칸(American)",
+        "스패니쉬(Spanish)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q138",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 연속식 증류주에 해당하는 것은?",
+      "options": [
+        "Pot still Whisky",
+        "Malt Whisky",
+        "Cognac",
+        "Patent still Whisky",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q139",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "Benedictine의 설명 중 틀린 것은?",
+      "options": [
+        "B-52 칵테일을 조주할 때 사용한다.",
+        "병에 적힌 D.O.M은 '최선 최대의 신에게'라는 뜻이다.",
+        "프랑스 수도원 제품이며 품질이 우수하다.",
+        "허니문(Honeymoon)칵테일을 조주할 때 사용한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q140",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 이탈리아 와인 등급 표시로 맞는 것은?",
+      "options": [
+        "A.O.P.",
+        "D.O.",
+        "D.O.C.G",
+        "QbA",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q141",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "소주가 한반도에 전해진 시기는 언제인가?",
+      "options": [
+        "통일신라",
+        "고려",
+        "조선초기",
+        "조선중기",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q142",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "프랑스와인의 원산지 통제 증명법으로 가장 엄격한 기준은?",
+      "options": [
+        "DOC",
+        "AOC",
+        "VDQS",
+        "QMP",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q143",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "솔레라 시스템을 사용하여 만드는 스페인의 대표적인 주정강화 와인은?",
+      "options": [
+        "포트 와인",
+        "쉐리 와인",
+        "보졸레 와인",
+        "보르도 와인",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q144",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "리큐르(liqueur)중 베일리스가 생산되는 곳은?",
+      "options": [
+        "스코틀랜드",
+        "아일랜드",
+        "잉글랜드",
+        "뉴질랜드",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q145",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 스타일이 다른 맛의 와인이 만들어 지는 것은?",
+      "options": [
+        "late harvest",
+        "noble rot",
+        "ice wine",
+        "vin mousseux",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q146",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "스파클링 와인에 해당 되지 않는 것은?",
+      "options": [
+        "Champagne",
+        "Cremant",
+        "Vin doux naturel",
+        "Spumante",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q147",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "주류와 그에 대한 설명으로 옳은 것은?",
+      "options": [
+        "absinthe - 노르망디 지방의 프랑스산 사과 브랜디",
+        "campari - 주정에 향쑥을 넣어 만드는 프랑스산 리큐르",
+        "calvados - 이탈리아 밀라노에서 생산되는 와인",
+        "chartreuse - 승원(수도원)이라는 뜻을 가진 리큐르",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q148",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "브랜디의 제조공정에서 증류한 브랜디를 열탕 소독한 White oak Barrel에 담기 전에 무엇을 채워 유해한 색소나 이물질을 제거 하는가?",
+      "options": [
+        "Beer",
+        "Gin",
+        "Red Wine",
+        "White Wine",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q149",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "양조주의 제조방법 중 포도주, 사과주등 주로 과실주를 만드는 방법으로 만들어진 것은?",
+      "options": [
+        "복발효주",
+        "단발효주",
+        "연속발효주",
+        "병행발효주",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q150",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 알코올성 커피는?",
+      "options": [
+        "카페 로얄(Cafe Royale)",
+        "비엔나 커피(Vienna Coffee)",
+        "데미타세 커피(Demi-Tasse Coffee)",
+        "카페오레(Cafe au Lait)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q151",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "영업 형태에 따라 분류한 bar의 종류 중 일반적으로 활기차고 즐거우며 조금은 어둡지만 따뜻하고 조용한 분위기와 가장 거리가 먼 것은?",
+      "options": [
+        "Western bar",
+        "Classic bar",
+        "Modern bar",
+        "Room bar",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q152",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "소프트 드링크(soft drink) 디캔터(decanter)의 올바른 사용법은?",
+      "options": [
+        "각종 청량음료(soft drink)를 별도로 담아 나간다.",
+        "술과 같이 혼합하여 나간다.",
+        "얼음과 같이 넣어 나간다.",
+        "술과 얼음을 같이 넣어 나간다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q153",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "우리나라에서 개별소비세가 부과되지 않는 영업장은?",
+      "options": [
+        "단란주점",
+        "요정",
+        "카바레",
+        "나이트클럽",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q154",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "칵테일 글라스의 3대 명칭이 아닌 것은?",
+      "options": [
+        "bowl",
+        "cap",
+        "stem",
+        "base",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q155",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "칵테일 서비스 진행 절차로 가장 적합한 것은?",
+      "options": [
+        "아이스 페일을 이용해서 고객의 요구대로 글라스에 얼음을 넣는다.",
+        "먼저 커팅보드 위에 장식물과 함께 글라스를 놓는다.",
+        "칵테일 용 냅킨을 고객의 글라스 오른쪽에 놓고 젓는 막대를 그 위에 놓는다.",
+        "병술을 사용할 때는 스토퍼를 이용해서 조심스럽게 따른다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q156",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "오크통에서 증류주를 보관할 때의 설명으로 틀린 것은?",
+      "options": [
+        "원액의 개성을 결정해 준다.",
+        "천사의 몫(Angel's share) 현상이 나타난다.",
+        "색상이 호박색으로 변한다.",
+        "변화 없이 증류한 상태 그대로 보관된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q157",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "Blending 기법에 사용하는 얼음으로 가장 적당한 것은?",
+      "options": [
+        "lumped ice",
+        "crushed ice",
+        "cubed ice",
+        "shaved ice",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q158",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "비터류(bitters)가 사용되지 않는 칵테일은?",
+      "options": [
+        "Manhattan",
+        "Cosmopolitan",
+        "Old Fashioned",
+        "Negroni",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q159",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "Bock beer에 대한 설명으로 옳은 것은?",
+      "options": [
+        "알코올 도수가 높은 흑맥주",
+        "알코올 도수가 낮은 담색 맥주",
+        "이탈리아산 고급 흑맥주",
+        "제조 12시간 이내의 생맥주",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q160",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "탄산음료나 샴페인을 사용하고 남은 일부를 보관할 때 사용하는 기구로 가장 적합한 것은?",
+      "options": [
+        "코스터",
+        "스토퍼",
+        "폴러",
+        "코르크",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q161",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "맥주의 보관에 대한 내용으로 옳지 않은 것은?",
+      "options": [
+        "장기 보관할수록 맛이 좋아진다.",
+        "맥주가 얼지 않도록 보관한다.",
+        "직사광선을 피한다.",
+        "적정온도(4 ~10℃)에 보관한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q162",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "칼바도스(Calvados)는 보관온도 상 다음 품목 중 어떤 것과 같이 두어도 좋은가?",
+      "options": [
+        "백포도주",
+        "샴페인",
+        "생맥주",
+        "코냑",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q163",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "칵테일 Kir Royal의 레시피(receipe)로 옳은 것은?",
+      "options": [
+        "Champagne ＋ Cacao",
+        "Champagne ＋ Kahlua",
+        "Wine ＋ Cointreau",
+        "Champagne ＋ Creme de Cassis",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q164",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "바텐더가 bar에서 glass를 사용할 때 가장 먼저 체크하여야 할 사항은?",
+      "options": [
+        "glass의 가장자리 파손 여부",
+        "glass의 청결 여부",
+        "glass의 재고 여부",
+        "glass의 온도 여부",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q165",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "Red cherry가 사용되지 않는 칵테일은?",
+      "options": [
+        "Manhattan",
+        "Old Fashioned",
+        "Mai-Tai",
+        "Moscow Mule",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q166",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "고객이 위스키 스트레이트를 주문하고, 얼음과 함께 콜라나 소다수, 물 등을 원하는 경우 이를 제공하는 글라스는?",
+      "options": [
+        "wine decanter",
+        "cocktail decanter",
+        "Collins glass",
+        "cocktail glass",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q167",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "스카치 750 mL 1병의 원가가 100000원 이고 평균원가율을 20%로 책정했다면 스카치 1잔의 판매가격은?",
+      "options": [
+        "10000원",
+        "15000원",
+        "20000원",
+        "25000원",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q168",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "일반적인 칵테일의 특징으로 가장 거리가 먼 것은?",
+      "options": [
+        "부드러운 맛",
+        "분위기의 증진",
+        "색, 맛, 향의 조화",
+        "항산화, 소화증진 효소 함유",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q169",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "휘젓기(stirring) 기법을 할 때 사용하는 칵테일 기구로 가장 적합한 것은?",
+      "options": [
+        "hand shaker",
+        "mixing glass",
+        "squeezer",
+        "jigger",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q170",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "용량 표시가 옳은 것은?",
+      "options": [
+        "1 tea spoon = 1/32 oz",
+        "1 pony = 1/2 oz",
+        "1 pint = 1/2 quart",
+        "1 table spoon = 1/32 oz",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q171",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "“당신은 손님들에게 친절해야 한다.”의 표현으로 가장 적합한 것은?",
+      "options": [
+        "You should be kind to guest.",
+        "You should kind guest.",
+        "You'll should be to kind to guest.",
+        "You should do kind guest.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q172",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "Three factors govern the appreciation of wine. Which of the following does not belong to them?",
+      "options": [
+        "Color",
+        "Aroma",
+        "Taste",
+        "Touch",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q173",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "'한잔 더 주세요.'의 가장 정확한 영어 표현은?",
+      "options": [
+        "I'd like other drink.",
+        "I'd like to have another drink.",
+        "I want one more wine.",
+        "I'd like to have the other drink.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q174",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "Which of the following is the right beverage in the blank?",
+      "options": [
+        "Pousse cafe",
+        "Cassis Frappe",
+        "June Bug",
+        "Rum Shrub",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/k6/k620160124/k620160124m54.gif"
+    },
+    {
+      "id": "bartending_craftsman_q175",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "바텐더가 손님에게 처음 주문을 받을 때 사용할 수 있는 표현으로 가장 적합한 것은?",
+      "options": [
+        "What do you recommend?",
+        "Would you care for a drink?",
+        "What would you like with that?",
+        "Do you have a reservation?",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q176",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "Which one is the right answer in the blank?",
+      "options": [
+        "Wine",
+        "Gin",
+        "Whiskey",
+        "Rum",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/k6/k620160124/k620160124m56.gif"
+    },
+    {
+      "id": "bartending_craftsman_q177",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "'Are you free this evening?'의 의미로 가장 적합한 것은?",
+      "options": [
+        "이것은 무료입니까?",
+        "오늘밤에 시간 있으십니까?",
+        "오늘밤에 만나시겠습니까?",
+        "오늘밤에 개점합니까?",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q178",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "( ) 안에 들어갈 알맞은 것은?",
+      "options": [
+        "decline",
+        "apply",
+        "depart",
+        "attend",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/k6/k620160124/k620160124m58.gif"
+    },
+    {
+      "id": "bartending_craftsman_q179",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "Which one is not made from grapes?",
+      "options": [
+        "Cognac",
+        "Calvados",
+        "Armagnac",
+        "Grappa",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q180",
+      "subject": "조주기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 ( ) 안에 알맞은 것은?",
+      "options": [
+        "Whisky",
+        "Rum",
+        "Tequila",
+        "Gin",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/k6/k620160124/k620160124m60.gif"
+    },
+    {
+      "id": "bartending_craftsman_q181",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "멕시코에서 처음 생산된 증류주는?",
+      "options": [
+        "럼(Rum)",
+        "진(Gin)",
+        "아쿠아비트(Aquavit)",
+        "테킬라(Tequila)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q182",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "맨해튼(Manhattan), 올드패션(Old fashion) 칵테일에 쓰이며 뛰어난 풍미와 향기가 있는 고미제로서 널리 사용되는 것은?",
+      "options": [
+        "클로버(Clove)",
+        "시나몬(Cinnamon)",
+        "앙코스트라 비터(Angostura Bitter)",
+        "오렌지 비터(Orange Bitter)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q183",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "제조방법상 발효 방법이 다른 차(Tea)는?",
+      "options": [
+        "한국의 작설차",
+        "인도의 다르질링(Darjeeling)",
+        "중국의 기문차",
+        "스리랑카의 우바(Uva)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q184",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 셰리를 숙성하기에 가장 적합한 곳은?",
+      "options": [
+        "솔레라(Solera)",
+        "보데가(Bodega)",
+        "꺄브(Cave)",
+        "플로(Flor)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q185",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "레드와인용 품종이 아닌 것은?",
+      "options": [
+        "시라(Syrah)",
+        "네비올로(Nebbiolo)",
+        "그르나슈(Grenache)",
+        "세미용(Semillion)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q186",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "스카치위스키의 법적정의로서 틀린 것은?",
+      "options": [
+        "위스키의 숙성기간은 최소 3년 이상이어야 한다.",
+        "물외에 색을 내기 위한 어떤 물질도 첨가할 수 없다.",
+        "병입 후 알코올 도수가 최소 40도 이상이어야 한다.",
+        "증류된 원액을 숙성시켜야 하는 오크통은 700리터가 넘지 않아야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q187",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "샴페인 제조 시 블렌딩 방법이 아닌 것은?",
+      "options": [
+        "여러 포도 품종",
+        "다른 포도밭 포도",
+        "다른 수확 연도의 와인",
+        "10% 이내의 샴페인 외 다른 지역 포도",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q188",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "재배하기가 무척 까다롭지만 궁합이 맞는 토양을 만나면 훌륭한 와인을 만들어 내기도 하며 Romancee-Conti를 만드는데 사용된 프랑스 부르고뉴 지방의 대표적인 품종으로 옳은 것은?",
+      "options": [
+        "Cabernet Sauvignon",
+        "Pinot Noir",
+        "Sangiovese",
+        "Syrah",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q189",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "소주의 원료로 틀린 것은?",
+      "options": [
+        "쌀",
+        "보리",
+        "밀",
+        "맥아",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q190",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "보드카(Vodka) 생산 회사가 아닌 것은?",
+      "options": [
+        "스톨리치나야(Stolichnaya)",
+        "비피터(Beefeater)",
+        "핀란디아(Finlandia)",
+        "스미노프(Smirnoff)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q191",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 무색, 무미, 무취의 탄산음료는?",
+      "options": [
+        "칼린스 믹스(Colins Mix)",
+        "콜라(Cola)",
+        "소다수(Soda Water)",
+        "에비앙(Evian Water)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q192",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "Bourbon whisky \"80 proof\"는 우리나라의 알코올 도수로 몇 도인가?",
+      "options": [
+        "20도",
+        "30도",
+        "40도",
+        "50도",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q193",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "두송자를 첨가하여 풍미를 나게 하는 술은?",
+      "options": [
+        "Gin",
+        "Rum",
+        "Vodka",
+        "Tequila",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q194",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "클라렛(Claret)이란?",
+      "options": [
+        "독일산의 유명한 백포도주(White Wine)",
+        "프랑스 보르도 지방의 적포도주(Red Wine)",
+        "스페인 헤레스 지방의 포트와인(Pot Wine)",
+        "이탈리아산 스위트 버무스(Sweet Vermouth)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q195",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "제조 시 향초류(Herb)가 사용되지 않는 술은?",
+      "options": [
+        "Absinthe",
+        "Creme de Cacao",
+        "Benedictine D.O.M",
+        "Chartreuse",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q196",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "우리나라의 증류식 소주에 해당되지 않는 것은?",
+      "options": [
+        "안동 소주",
+        "제주 한주",
+        "경기 문배주",
+        "금산 삼송주",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q197",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "적포도를 착즙해 주스만 발효시켜 만드는 와인은?",
+      "options": [
+        "Blanc de Blanc",
+        "Blush Wine",
+        "Port Wine",
+        "Red Vermouth",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q198",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "커피의 맛과 향을 결정하는 중요 가공 요소가 아닌 것은?",
+      "options": [
+        "roasting",
+        "blending",
+        "grinding",
+        "weathering",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q199",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 Afrer Drink로 가장 거리가 먼 것은?",
+      "options": [
+        "Rusty Nail",
+        "Cream Sherry",
+        "Campari",
+        "Alexander",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q200",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 비알콜성 음료의 분류가 아닌 것은?",
+      "options": [
+        "기호 음료",
+        "청량 음료",
+        "영양 음료",
+        "유성 음료",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q201",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "스카치위스키를 기주로 하여 만들어진 리큐르는?",
+      "options": [
+        "샤트루즈",
+        "드람부이",
+        "꼬앙뜨로",
+        "베네딕틴",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q202",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 영양음료는?",
+      "options": [
+        "토마토 주스",
+        "카푸치노",
+        "녹차",
+        "광천수",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q203",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 리큐르(Liqueur) 중 그 용도가 다른 하나는?",
+      "options": [
+        "드람부이(Drambuie)",
+        "갈리아노(Galliano)",
+        "시나(Cynar)",
+        "꼬앙트루(Cointreau)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q204",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "나라별 와인산지가 바르게 연결된 것은?",
+      "options": [
+        "미국 - 루아르",
+        "프랑스 - 모젤",
+        "이탈리아 - 키안티",
+        "독일 - 나파벨리",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q205",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "스카치위스키(Scotch Whisky)와 가장 거리가 먼 것은?",
+      "options": [
+        "Malt",
+        "Peat",
+        "Used sherry Cask",
+        "Used Limousin Oak Cask",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q206",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음에서 설명되는 약용주는?",
+      "options": [
+        "두견주",
+        "송순주",
+        "문배주",
+        "백세주",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/k6/k620151010/k620151010m26.gif"
+    },
+    {
+      "id": "bartending_craftsman_q207",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "커피(Coffee)의 제조방법 중 틀린 것은?",
+      "options": [
+        "드립식(drip filter)",
+        "퍼콜레이터식(percolator)",
+        "에스프레소식(espresso)",
+        "디켄터식(decanter)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q208",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "감미 와인(Sweet Wine)을 만드는 방법이 아닌 것은?",
+      "options": [
+        "귀부포도(Noble rot Grape)를 사용하는 방법",
+        "발효 도중 알코올을 강화하는 방법",
+        "발효 시 설탕을 첨가하는 방법",
+        "햇빛에 말린 포도를 사용하는 방법",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q209",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "맥주를 따를 때 글라스 위쪽에 생성된 거품의 작용과 가장 거리가 먼 것은?",
+      "options": [
+        "탄산가스의 발산을 막아준다.",
+        "산화작용을 억제시킨다.",
+        "맥주의 신선도를 유지시킨다.",
+        "맥주 용량을 줄일 수 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q210",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "독일맥주가 아닌 것은?",
+      "options": [
+        "뢰벤브로이",
+        "벡스",
+        "밀러",
+        "크롬바허",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q211",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 바 기물과 가장 거리가 먼 것은?",
+      "options": [
+        "ice cube maker",
+        "muddler",
+        "beer cooler",
+        "deep freezer",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q212",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "프로스팅(Frosting)기법을 사용하지 않는 칵테일은?",
+      "options": [
+        "Margarita",
+        "Kiss of Fire",
+        "Harvey Wallbanger",
+        "Irish Coffee",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q213",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음의 설명에 해당하는 바의 유형으로 가장 적합한 것은?",
+      "options": [
+        "째즈 바",
+        "클래식 바",
+        "시가 바",
+        "비어 바",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/k6/k620151010/k620151010m33.gif"
+    },
+    {
+      "id": "bartending_craftsman_q214",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 셰이커(shaker)를 사용하여야 하는 칵테일은?",
+      "options": [
+        "브랜디 알렉산더(Brandy Alexander)",
+        "드라이 마티니(Dry Martini)",
+        "올드 패션드(Old fashioned)",
+        "크렘드 망뜨 프라페(Creme de menthe frappe)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q215",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 칵테일 중 Mixing Glass를 사용하지 않는 것은?",
+      "options": [
+        "Martini",
+        "Gin Fizz",
+        "Manhattan",
+        "Rob Roy",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q216",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "조주보조원이라 일컬으며 칵테일 재료의 준비와 청결유지를 위한 청소담당 및 업장 보조를 하는 사람을 의미하는 것은?",
+      "options": [
+        "바 헬퍼(Bar helper)",
+        "바텐더(Bartender)",
+        "헤드 바텐더(Head Bartender)",
+        "바 매니저(Bar Manager)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q217",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "테이블의 분위기를 돋보이게 하거나 고객의 편의를 위해 중앙에 놓는 집기들의 배열을 무엇이라 하는가?",
+      "options": [
+        "Service Wagon",
+        "Show plate",
+        "B & B plate",
+        "Center piece",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q218",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "Whisky나 Vermouth 등을 On the Rocks로 제공할 때 준비하는 글라스는?",
+      "options": [
+        "Highball Glass",
+        "Old Fashioned Glass",
+        "Cocktail Glass",
+        "Liqueur Glass",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q219",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "Moscow Mule 칵테일을 만드는 데 필요한 재료가 아닌 것은?",
+      "options": [
+        "Rum",
+        "Vodka",
+        "Lime Juice",
+        "Ginger ale",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q220",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 Sugar Frost로 만드는 칵테일은?",
+      "options": [
+        "Rob Roy",
+        "Kiss of Fire",
+        "Margarita",
+        "Angel's Tip",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q221",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "칵테일 기구인 지거(Jigger)를 잘못 설명한 것은?",
+      "options": [
+        "일명 Measure Cup이라고 한다.",
+        "지거는 크고 작은 두 개의 삼각형 컵이 양쪽으로 붙어 있다.",
+        "작은 쪽 컵은 1oz이다.",
+        "큰 쪽의 컵은 대부분 2oz이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q222",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "Sidecar 칵테일을 만들 때 재료로 적당하지 않은 것은?",
+      "options": [
+        "테킬라",
+        "브랜디",
+        "화이트 큐라소",
+        "레몬주스",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q223",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "주장에서 사용하는 기물이 아닌 것은?",
+      "options": [
+        "Champagne Cooler",
+        "Soup Spoon",
+        "Lemon Squeezer",
+        "Decanter",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q224",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "레스토랑에서 사용하는 용어인 \"abbreviation\"의 의미는?",
+      "options": [
+        "헤드웨이터가 몇 명의 웨이터들에게 담당구역을 배정하여 고객에 대한 서비스를 제공하는 제도",
+        "주방에서 음식을 미리 접시에 담아 제공하는 서비스",
+        "레스토랑에서 고객이 찾고자 하는 고객을 대신 찾아주는 서비스",
+        "원활한 서비스를 위해 사용하는 직원 간에 미리 약속된 메뉴의 약어",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q225",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "얼음의 명칭 중 단위랑 부피가 가장 큰 것은?",
+      "options": [
+        "Cracked Ice",
+        "Cubed Ice",
+        "Lumped Ice",
+        "Crushed Ice",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q226",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "믹싱 글라스(Mixing Glass)의 설명 중 옳은 것은?",
+      "options": [
+        "칵테일 조주 시 음료 혼합물을 섞을 수 있는 기물이다.",
+        "셰이커의 또 다른 명칭이다.",
+        "칵테일에 혼합되어지는 과일이나 약초를 머들링(Muddling)하기 위한 기물이다.",
+        "보스턴 쉐이커를 구성하는 기물로서 주로 안전한 플라스틱 재질을 사용한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q227",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "조주 서비스에서 Chaser의 의미는?",
+      "options": [
+        "음료를 체온보다 높여 약 62~67도 로 해서 서빙하는 것",
+        "따로 조주하지 않고 생으로 마시는 것",
+        "서로 다른 두 가지 술을 반씩 따라 담는 것",
+        "독한 술이나 칵테일을 내놓을 때 다른 글라스에 물 등을 담아 내놓는 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q228",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "Standard Recipe란?",
+      "options": [
+        "표준 판매가",
+        "표준 제조표",
+        "표준 조직표",
+        "표준 구매가",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q229",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "Liqueur Glass의 다른 명칭은?",
+      "options": [
+        "Shot Glass",
+        "Cordial Glass",
+        "Sour Glass",
+        "Goblet",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q230",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "블러디 메리(Bloody Mary)에 주로 사용되어지는 주스는?",
+      "options": [
+        "토마토 주스",
+        "오렌지 주스",
+        "파인애플 주스",
+        "라임 주스",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q231",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 내용 중 옳은 것은?",
+      "options": [
+        "Cognac is produced only in the Cognac region of France",
+        "All brandy is Cognac.",
+        "Not all Cognac is brandy.",
+        "All French brandy is Cognac.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q232",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 ( )안에 공통적으로 적합한 단어는?",
+      "options": [
+        "Crema",
+        "Cupping",
+        "Cappuccino",
+        "Caffe Latte",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/k6/k620151010/k620151010m52.gif"
+    },
+    {
+      "id": "bartending_craftsman_q233",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "Please, select the cocktail based on gin in the following.",
+      "options": [
+        "Side car",
+        "Zoom cocktail",
+        "Between the sheets",
+        "Million Dollar",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q234",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음의 ( )안에 들어갈 적합한 것은?",
+      "options": [
+        "grain",
+        "blended",
+        "single malt",
+        "bourbon",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/k6/k620151010/k620151010m54.gif"
+    },
+    {
+      "id": "bartending_craftsman_q235",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음의 문장에서 밑줄 친 postponed와 가장 가까운 뜻은?",
+      "options": [
+        "cancelled",
+        "finished",
+        "put off",
+        "taken off",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/k6/k620151010/k620151010m55.gif"
+    },
+    {
+      "id": "bartending_craftsman_q236",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "( ) 안에 알맞은 리큐르는?",
+      "options": [
+        "Chartreuse",
+        "Benedictine",
+        "Kummel",
+        "Cointreau",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/k6/k620151010/k620151010m56.gif"
+    },
+    {
+      "id": "bartending_craftsman_q237",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음에서 설명하는 것은?",
+      "options": [
+        "Serving trays",
+        "Bill trays",
+        "Corkscrews",
+        "Can openers",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/k6/k620151010/k620151010m57.gif"
+    },
+    {
+      "id": "bartending_craftsman_q238",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "What does 'black coffee' mean?",
+      "options": [
+        "Rich in coffee",
+        "Strong coffee",
+        "Coffee without cream and sugar",
+        "Clear strong coffee",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q239",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "'I feel like throwing up.'의 의미는?",
+      "options": [
+        "토할 것 같다.",
+        "기분이 너무 좋다.",
+        "공을 던지고 싶다.",
+        "술을 더 마시고 싶다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "bartending_craftsman_q240",
+      "subject": "조주기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "손님에게 사용할 때 가장 공손한 표현이 되도록 다음의 _ 안에 들어갈 알맞은 표현은?",
+      "options": [
+        "Would you like",
+        "Won't you like",
+        "Will you like",
+        "Do you like",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/k6/k620151010/k620151010m60.gif"
+    }
+  ]
+}

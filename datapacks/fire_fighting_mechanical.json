@@ -1,0 +1,4805 @@
+{
+  "pack_name": "소방설비기사(기계) 기출 팩",
+  "questions": [
+    {
+      "id": "fire_fighting_mechanical_q1",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "목조건축물의 화재특성으로 틀린 것은?",
+      "options": [
+        "습도가 낮을수록 연소 확대가 빠르다.",
+        "화재진행속도는 내화건축물보다 빠르다.",
+        "화재최성기의 온도는 내화건축물보다 낮다.",
+        "화재성장속도는 횡방향보다 종방향이 빠르다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q2",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "물이 소화 약제로써 사용되는 장점이 아닌 것은?",
+      "options": [
+        "가격이 저렴하다.",
+        "많은 양을 구할 수 있다.",
+        "증발잠열이 크다.",
+        "가연물과 화학반응이 일어나지 않는다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q3",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "정전기로 인한 화재를 줄이고 방지하기 위한 대책 중 틀린 것은?",
+      "options": [
+        "공기 중 습도를 일정 값 이상으로 유지한다.",
+        "기기의 전기 절연성을 높이기 위하여 부도체로 차단공사를 한다.",
+        "공기 이온화 장치를 설치하여 가동시킨다.",
+        "정전기 축적을 막기 위해 접지선을 이용하여 대지로 연결작업을 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q4",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "프로판가스의 최소점화에너지는 일반적으로 약 몇 mJ 정도 되는가?",
+      "options": [
+        "0.25",
+        "2.5",
+        "25",
+        "250",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q5",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "목재 화재 시 다량의 물을 뿌려 소화할 경우 기대되는 주된 소화효과는?",
+      "options": [
+        "제거효과",
+        "냉각효과",
+        "부촉매효과",
+        "희석효과",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q6",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "물질의 연소 시 산소공급원이 될 수 없는 것은?",
+      "options": [
+        "탄화칼슘",
+        "과산화나트륨",
+        "질산나트륨",
+        "압축공기",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q7",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 물질 중 공기 중에서의 연소범위가 가장 넓은 것은?",
+      "options": [
+        "부탄",
+        "프로판",
+        "메탄",
+        "수소",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q8",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "이산화탄소 20g은 약 몇 mol인가?",
+      "options": [
+        "0.23",
+        "0.45",
+        "2.2",
+        "4.4",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q9",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "플래시 오버(flash over)에 대한 설명으로 옳은 것은?",
+      "options": [
+        "도시가스의 폭발적 연소를 말한다.",
+        "휘발유 등 가연성 액체가 넓게 흘러서 발화한 상태를 말한다.",
+        "옥내화재가 서서히 진행하여 열 및 가연성 기체가 축적되었다가 일시에 연소하여 화염이 크게 발생하는 상태를 말한다.",
+        "화재층의 불이 상부층으로 올라가는 현상을 말한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q10",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "제4류 위험물의 성질로 옳은 것은?",
+      "options": [
+        "가연성 고체",
+        "산화성 고체",
+        "인화성 액체",
+        "자기반응성물질",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q11",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "할론 소화설비에서 Halon 1211 약제의 분자식은?",
+      "options": [
+        "CBr2ClF",
+        "CF2BrCl",
+        "CCl2BrF",
+        "BrC2ClF",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q12",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 중 가연물의 제거를 통한 소화 방법과 무관한 것은?",
+      "options": [
+        "산불의 확산방지를 위하여 산림의 일부를 벌채한다.",
+        "화학반응기의 화재 시 원료 공급관의 밸브를 잠근다.",
+        "전기실 화재 시 IG-541 약제를 방출한다.",
+        "유류탱크 화재 시 주변에 있는 유류탱크의 유류를 다른 곳으로 이동시킨다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q13",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "건물화재의 표준시간-온도곡선에서 화재발생 후 1시간이 경과할 경우 내부 온도는 약 몇 ℃ 정도 되는가?",
+      "options": [
+        "125",
+        "325",
+        "640",
+        "925",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q14",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "위험물안전관리법령상 위험물로 분류되는 것은?",
+      "options": [
+        "과산화수소",
+        "압축산소",
+        "프로판가스",
+        "포스겐",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q15",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "연기에 의한 감광계수가 0.1m-1, 가시거리가 20~30m일 때의 상황으로 옳은 것은?",
+      "options": [
+        "건물 내부에 익숙한 사람이 피난에 지장을 느낄 정도",
+        "연기감지기가 작동할 정도",
+        "어두운 것을 느낄 정도",
+        "앞이 거의 보이지 않을 정도",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q16",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "물질의 취급 또는 위험성에 대한 설명 중 틀린 것은?",
+      "options": [
+        "융해열은 점화원이다.",
+        "질산은 물과 반응 시 발열 반응하므로 주의를 해야 한다.",
+        "네온, 이산화탄소, 질소는 불연성 물질로 취급한다.",
+        "암모니아를 충전하는 공업용 용기의 색상은 백색이다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q17",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "Fourier법칙(전도)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "이동열량은 전열체의 단면적에 비례한다.",
+        "이동열량은 전열체의 두께에 비례한다.",
+        "이동열량은 전열체의 열전도도에 비례한다.",
+        "이동열량은 전열체 내·외부의 온도차에 비례한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q18",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "자연발화가 일어나기 쉬운 조건이 아닌 것은?",
+      "options": [
+        "열전도율이 클 것",
+        "적당량의 수분이 존재할 것",
+        "주위의 온도가 높을 것",
+        "표면적이 넓을 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q19",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "분말소화약제 중 탄산수소칼륨(KHCO3)과 요소(CO(NH2)2)와의 반응물을 주성분으로 하는 소화약제는?",
+      "options": [
+        "제1종 분말",
+        "제2종 분말",
+        "제3종 분말",
+        "제4종 분말",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q20",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "폭굉(detonation)에 관한 설명으로 틀린 것은?",
+      "options": [
+        "연소속도가 음속보다 느릴 때 나타난다.",
+        "온도의 상승은 충격파의 압력에 기인한다.",
+        "압력상승은 폭연의 경우보다 크다.",
+        "폭굉의 유도거리는 배관의 지름과 관계가 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q21",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "2MPa, 400℃의 과열 증기를 단면확대 노즐을 통하여 20kPa 로 분출시킬 경우 최대 속도는 약 몇 m/s 인가? (단, 노즐입구에서 엔탈피는 3243.3kJ/㎏이고, 출구에서 엔탈피는 2345.8kJ/㎏이며, 입구속도는 무시한다.)",
+      "options": [
+        "1340",
+        "1349",
+        "1402",
+        "1412",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q22",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "원형 물탱크의 안지름이 1m이고, 아래쪽 옆면에 안지름 100mm인 송출관을 통해 물을 수송할 때의 순간 유속이 3m/s 이었다. 이 때 탱크 내 수면이 내려오는 속도는 몇 m/s 인가?",
+      "options": [
+        "0.015",
+        "0.02",
+        "0.025",
+        "0.03",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q23",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "지름 5㎝인 구가 대류에 의해 열을 외부공기로 방출한다. 이 구는 50W의 전기히터에 의해 내부에서 가열되고 있고 구 표면과 공기 사이의 온도차가 30℃라면 공기와 구 사이의 대류 열전달계수는 약 몇 W/m2·℃ 인가?",
+      "options": [
+        "111",
+        "212",
+        "313",
+        "414",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q24",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "소화펌프의 회전수가 1450 rpm일 때 양정이 25m, 유량이 5m3/min이었다. 펌프의 회전수를 1740 rpm으로 높일 경우 양정(m)과 유량(m3/min)은? (단, 완전상사가 유지되고, 회전차의 지름은 일정하다.)",
+      "options": [
+        "양정 : 17, 유량 : 4.2",
+        "양정 : 21, 유량 : 5",
+        "양정 : 30.2, 유량 : 5.2",
+        "양정 : 36, 유량 : 6",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q25",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 중 이상기체에서 폴리트로픽 지수(n)가 1인 과정은?",
+      "options": [
+        "단열 과정",
+        "정압 과정",
+        "등온 과정",
+        "정적 과정",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q26",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "정수력에 의해 수직평판의 힌지(hinge)점에 작용하는 단위폭 당 모멘트를 바르게 표시한 것은? (단, ρ는 유체의 밀도, g는 중력가속도이다.)",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220424/nd20220424m26.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q27",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "그림과 같은 중앙부분에 구멍이 뚫린 원판에 지름 20㎝의 원형 물제트가 대기압 상태에서 5m/s의 속도로 충돌하여, 원판 뒤로 지름 10㎝의 원형 물제트가 5m/s의 속도로 흘러나가고 있을 때, 원판을 고정하기 위한 힘은 약 몇 N인가?",
+      "options": [
+        "589",
+        "673",
+        "770",
+        "893",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220424/nd20220424m27.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q28",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "펌프의 공동현상(cavitation)을 방지하기 위한 방법이 아닌 것은?",
+      "options": [
+        "펌프의 설치 위치를 되도록 낮게 하여 흡입양정을 짧게 한다.",
+        "펌프의 회전수를 크게 한다.",
+        "펌프의 흡입 관경을 크게 한다.",
+        "단흡입펌프보다는 양흡입펌프를 사용한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q29",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "물을 송출하는 펌프의 소요축동력이 70㎾, 펌프의 효율이 78%, 전양정이 60m일 때, 펌프의 송출유량은 약 몇 m3/min 인가?",
+      "options": [
+        "5.57",
+        "2.57",
+        "1.09",
+        "0.093",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q30",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "그림에 표시된 원형 관로로 비중이 0.8, 점성계수가 0.4 Pa·s인 기름이 층류로 흐른다. ①지점의 압력이 111.8kPa이고, ②지점의 압력이 206.9kPa일 때 유체의 유량은 약 몇 L/s인가?",
+      "options": [
+        "0.0149",
+        "0.0138",
+        "0.0121",
+        "0.0106",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220424/nd20220424m30.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q31",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 중 점성계수 μ의 차원은 어느 것인가? (단, M : 질량, L : 길이, T : 시간의 차원이다.)",
+      "options": [
+        "ML-1T-1",
+        "ML-1T-2",
+        "ML-2T-1",
+        "M-1L-1T",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q32",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "20℃의 이산화탄소 소화약제가 체적 4m3의 용기 속에 들어있다. 용기 내 압력이 1MPa일 때 이산화탄소 소화약제의 질량은 약 몇 ㎏인가? (단, 이산화탄소의 기체상수는 189J/㎏·K 이다.)",
+      "options": [
+        "0.069",
+        "0.072",
+        "68.9",
+        "72.2",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q33",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "압축률에 대한 설명으로 틀린 것은?",
+      "options": [
+        "압축률은 체적탄성계수의 역수이다.",
+        "압축률의 단위는 압력의 단위인 Pa 이다.",
+        "밀도와 압축률의 곱은 압력에 대한 밀도의 변화율과 같다.",
+        "압축률이 크다는 것은 같은 압력변화를 가할 때 압축하기 쉽다는 것을 의미한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q34",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "밸브가 장치된 지름 10㎝인 원관에 비중 0.8인 유체가 2m/s의 평균속도로 흐르고 있다. 밸브 전후의 압력 차이가 4kPa일 때, 이 밸브의 등가길이는 몇 m 인가? (단, 관의 마찰계수는 0.02이다.)",
+      "options": [
+        "10.5",
+        "12.5",
+        "14.5",
+        "16.5",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q35",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "그림과 같이 물이 수조에 연결된 원형 파이프를 통해 분출하고 있다. 수면과 파이프의 출구 사이에 총 손실수두가 200mm이라고 할 때 파이프에서의 방출유량은 약 몇 m3/s인가? (단, 수면 높이의 변화 속도는 무시한다.)",
+      "options": [
+        "0.285",
+        "0.295",
+        "0.305",
+        "0.315",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220424/nd20220424m35.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q36",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "유체의 흐름에 적용되는 다음과 같은 베르누이 방정식에 관한 설명으로 옳은 것은?",
+      "options": [
+        "비정상상태의 흐름에 대해 적용된다.",
+        "동일한 유선상이 아니더라도 흐름 유체의 임의점에 대해 항상 적용된다.",
+        "흐름 유체의 마찰효과가 충분히 고려된다.",
+        "압력수두, 속도수두, 위치수두의 합이 일정함을 표시한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220424/nd20220424m36.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q37",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "유체의 흐름 중 난류 흐름에 대한 설명으로 틀린 것은?",
+      "options": [
+        "원관 내부 유동에서는 레이놀즈수가 약 4000 이상인 경우에 해당한다.",
+        "유체의 각 입자가 불규칙한 경로를 따라 움직인다.",
+        "유체의 입자가 갖는 관성력이 입자에 작용하는 점성력에 비하여 매우 크다.",
+        "원관 내 완전 발달 유동에서는 평균속도가 최대속도의 1/2 이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q38",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "어떤 물체가 공기 중에서 무게는 588N이고, 수중에서 무게는 98N이었다. 이 물체의 체적(V)과 비중(S)은?",
+      "options": [
+        "V = 0.05m3, S = 1.2",
+        "V = 0.05m3, S = 1.5",
+        "V = 0.5m3, S = 1.2",
+        "V = 0.5m3, S = 1.5",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q39",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "유체에 관한 설명 중 옳은 것은?",
+      "options": [
+        "실제유체는 유동할 때 마찰손실이 생기지 않는다.",
+        "이상유체는 높은 압력에서 밀도가 변화하는 유체이다.",
+        "유체에 압력을 가하면 체적이 줄어드는 유체는 압축성 유체이다.",
+        "압력을 가해도 밀도변화가 없으며 점성에 의한 마찰손실만 있는 유체가 이상유체이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q40",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "그림에서 물과 기름의 표면은 대기에 개방되어 있고, 물과 기름 표면의 높이가 같을 때 h는 약 몇 m 인가? (단, 기름의 비중은 0.8, 액체 A의 비중은 1.6이다.)",
+      "options": [
+        "1",
+        "1.1",
+        "1.125",
+        "1.25",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220424/nd20220424m40.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q41",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음은 소방기본법령상 소방본부에 대한 설명이다. (  ) 에 알맞은 내용은?",
+      "options": [
+        "경찰서장",
+        "시·도지사",
+        "행정안전부장관",
+        "소방청장",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220424/nd20220424m41.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q42",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "위험물안전관리법령상 제4류 위험물을 저장·취급하는 제조소에 “화기엄금”이란 주의사항을 표시하는 게시판을 설치할 경우 게시판의 색상은?",
+      "options": [
+        "청색바탕에 백색문자",
+        "적색바탕에 백색문자",
+        "백색바탕에 적색문자",
+        "백색바탕에 흑색문자",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q43",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "소방시설공사업법령상 소방시설업의 등록을 하지 아니하고 영업을 한 자에 대한 벌칙기준으로 옳은 것은?",
+      "options": [
+        "1년 이하의 징역 또는 1천만원 이하의 벌금",
+        "2년 이하의 징역 또는 2천만원 이하의 벌금",
+        "3년 이하의 징역 또는 3천만원 이하의 벌금",
+        "5년 이하의 징역 또는 5천만원 이하의 벌금",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q44",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "위험물안전관리법령상 유별을 달리하는 위험물을 혼재하여 저장할 수 있는 것으로 짝지어진 것은?",
+      "options": [
+        "제1류－제2류",
+        "제2류－제3류",
+        "제3류－제4류",
+        "제5류－제6류",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q45",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "소방기본법령상 상업지역에 소방용수시설 설치 시 소방대상물 과의 수평거리 기준은 몇 m 이하인가?",
+      "options": [
+        "100",
+        "120",
+        "140",
+        "160",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q46",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 종합정밀점검 실시 대상이 되는 특정소방대상물의 기준 중 다음 ( ) 안에 알맞은 것은?",
+      "options": [
+        "2000",
+        "3000",
+        "4000",
+        "5000",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220424/nd20220424m46.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q47",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 소방기본법령상 용어 정의에 대한 설명으로 옳은 것은?",
+      "options": [
+        "소방대상물이란 건축물, 차량, 선박(항구에 매어둔 선박은 제외) 등을 말한다.",
+        "관계인이란 소방대상물의 점유예정자를 포함한다.",
+        "소방대란 소방공무원, 의무소방원, 의용소방대원으로 구성된 조직체이다.",
+        "소방대장이란 화재, 재난·재해, 그 밖의 위급한 상황이 발생한 현장에서 소방대를 지휘하는 사람(소방서장은 제외)이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q48",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 공동 소방안전관리자를 선임하여야 하는 특정소방대상물 중 고층 건축물은 지하층을 제외한 층수가 최소 몇 층 이상인 건축물만 해당되는가?",
+      "options": [
+        "6층",
+        "11층",
+        "20층",
+        "30층",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q49",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "소방기본법령상 특수가연물의 저장 및 취급의 기준 중 (  )에 들어갈 내용으로 옳은 것은? (단, 석탄·목탄류의 경우는 제외한다.)",
+      "options": [
+        "㉠ 15, ㉡ 200",
+        "㉠ 15, ㉡ 300",
+        "㉠ 10, ㉡ 30",
+        "㉠ 10, ㉡ 50",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220424/nd20220424m49.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q50",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 자동화재탐지설비를 설치하여야 하는 특정소방대상물의 기준으로 틀린 것은?",
+      "options": [
+        "공장 및 창고시설로서 「소방기본법 시행령」에서 정하는 수량의 500배 이상의 특수가연물을 저장·취급하는 것",
+        "지하가(터널은 제외한다)로서 연면적 600m2 이상인 것",
+        "숙박시설이 있는 수련시설로서 수용인원 100명 이상인 것",
+        "장례시설 및 복합건축물로서 연면적 600m2 이상인 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q51",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "위험물안전관리법령에서 정하는 제3류 위험물에 해당하는 것은?",
+      "options": [
+        "나트륨",
+        "염소산염류",
+        "무기과산화물",
+        "유기과산화물",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q52",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 방염성능기준 이상의 실내장식물 등을 설치하여야 하는 특정소방대상물이 아닌 것은?",
+      "options": [
+        "방송국",
+        "종합병원",
+        "11층 이상의 아파트",
+        "숙박이 가능한 수련시설",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q53",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 무창층으로 판정하기 위한 개구부가 갖추어야 할 요건으로 틀린 것은?",
+      "options": [
+        "크기는 반지름 30㎝ 이상의 원이 내접할 수 있을 것",
+        "해당 층의 바닥면으로부터 개구부 밑부분까지 높이가 1.2m 이내일 것",
+        "도로 또는 차량이 진입할 수 있는 빈터를 향할 것",
+        "화재 시 건축물로부터 쉽게 피난할 수 있도록 창살이나 그 밖의 장애물이 설치되지 아니할 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q54",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "소방시설공사업법령상 일반 소방시설설계업(기계분야)의 영업범위에 대한 기준 중 (  )에 알맞은 내용은? (단, 공장의 경우는 제외한다.)",
+      "options": [
+        "10000",
+        "20000",
+        "30000",
+        "50000",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220424/nd20220424m54.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q55",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 건축허가 등을 할 때 미리 소방본부장 또는 소방서장의 동의를 받아야 하는 건축물 등의 범위기준이 아닌 것은?",
+      "options": [
+        "노유자시설 및 수련시설로서 연면적 100m2 이상인 건축물",
+        "지하층 또는 무창층이 있는 건축물로서 바닥면적이 150m2 이상인 층이 있는 것",
+        "차고·주차장으로 사용되는 바닥면적이 200m2 이상인 층이 있는 건축물이나 주차시설",
+        "장애인 의료재활시설로서 연면적 300m2 이상인 건축물",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q56",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 중 소방기본법령에 따라 화재예방상 필요하다고 인정되거나 화재위험경보시 발령하는 소방신호의 종류로 옳은 것은?",
+      "options": [
+        "경계신호",
+        "발화신호",
+        "경보신호",
+        "훈련신호",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q57",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "소방기본법령상 보일러 등의 위치·구조 및 관리와 화재예방을 위하여 불의 사용에 있어서 지켜야 하는 사항 중 보일러에 경유·등유 등 액체연료를 사용하는 경우에 연료탱크는 보일러본체로부터 수평거리 최소 몇 m 이상의 간격을 두어 설치해야 하는가?",
+      "options": [
+        "0.5",
+        "0.6",
+        "1",
+        "2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q58",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 “대통령령으로 정하는 특정소방대상물”의 관계인은 그 장소에 상시 근무하거나 거주하는 사람에게 소방훈련과 소방안전관리에 필요한 교육을 하여야 한다. 다음 “대통령령으로 정하는 특정소방대상물”에 대한 설명 중 (   )에 알맞은 내용은?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "10",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220424/nd20220424m58.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q59",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 제조 또는 가공 공정에서 방염처리를 한 물품 중 방염대상물품이 아닌 것은?",
+      "options": [
+        "카펫",
+        "전시용 합판",
+        "창문에 설치하는 커튼류",
+        "두께가 2mm 미만인 종이벽지",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q60",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "위험물안전관리법령상 관계인이 예방규정을 정하여야 하는 위험물 제조소등에 해당하지 않는 것은?",
+      "options": [
+        "지정수량 10배의 특수인화물을 취급하는 일반취급소",
+        "지정수량 20배의 휘발유를 고정된 탱크에 주입하는 일반 취급소",
+        "지정수량 40배의 제3석유류를 용기에 옮겨 담는 일반취급소",
+        "지정수량 15배의 알코올을 버너에 소비하는 장치로 이루어진 일반취급소",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q61",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "할론소화설비의 화재안전기준에 따른 할론소화설비의 수동식 기동장치의 설치기준으로 틀린 것은?",
+      "options": [
+        "국소방출방식은 방호대상물마다 설치할 것",
+        "기동장치의 방출용스위치는 음향경보장치와 개별적으로 조작될 수 있는 것으로 할 것",
+        "전기를 사용하는 기동장치에는 전원표시등을 설치할 것",
+        "조작부는 바닥으로부터 높이 0.8m 이상 1.5m 이하의 위치에 설치할 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q62",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "미분무소화설비의 화재안전기준에 따라 최저사용압력이 몇 MPa를 초과할 때 고압 미분무소화설비로 분류하는가?",
+      "options": [
+        "1.2",
+        "2.5",
+        "3.5",
+        "4.2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q63",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "피난기구의 화재안전기준에 따른 피난기구의 설치 및 유지에 관한 사항 중 틀린 것은?",
+      "options": [
+        "피난기구를 설치하는 개구부는 서로 동일직선상의 위치에 있을 것",
+        "설치장소에는 피난기구의 위치를 표시하는 발광식 또는 축광식표지와 그 사용방법을 표시한 표지를 부착할 것",
+        "피난기구는 소방대상물의 기둥·바닥·보 기타 구조상 견고한 부분에 볼트조임·매입·용접 기타의 방법으로 견고하게 부착할 것",
+        "피난기구는 계단·피난구 기타 피난시설로부터 적당한 거리에 있는 안전한 구조로 된 피난 또는 소화활동상 유효한 개구부에 고정하여 설치할 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q64",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "이산화탄소소화설비의 화재안전기준에 따라 케이블실에 전역방출방식으로 이산화탄소소화설비를 설치하고자 한다. 방호구역 체적은 750m3, 개구부의 면적은 3m2이고, 개구부에는 자동폐쇄장치가 설치되어 있지 않다. 이때 필요한 소화약제의 양은 최소 몇 ㎏ 이상인가?",
+      "options": [
+        "930",
+        "1005",
+        "1230",
+        "1530",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q65",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 중 피난기구의 화재안전기준에 따라 의료시설에 구조대를 설치하여야 할 층은?",
+      "options": [
+        "지하 2층",
+        "지하 1층",
+        "지상 1층",
+        "지상 3층",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q66",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재안전기준상 물계통의 소화설비 중 펌프의 성능시험배관에 사용되는 유량측정장치는 펌프의 정격 토출량의 몇 % 이상 측정할 수 있는 성능이 있어야 하는가?",
+      "options": [
+        "65",
+        "100",
+        "120",
+        "175",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q67",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "피난기구의 화재안전기준상 근린생활시설 지하층에 적응성이 있는 피난기구는? (단, 근린생활시설 중 입원실이 있는 의원·접골원·조산원에 한한다.)",
+      "options": [
+        "피난용트랩",
+        "미끄럼대",
+        "구조대",
+        "피난교",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q68",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "제연설비의 화재안전기준에 따른 배출풍도의 설치기준 중 다음 ( ) 안에 알맞은 것은?",
+      "options": [
+        "㉠ 15, ㉡ 10",
+        "㉠ 10, ㉡ 15",
+        "㉠ 20, ㉡ 15",
+        "㉠ 15, ㉡ 20",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220424/nd20220424m68.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q69",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "스프링클러헤드에서 이융성 금속으로 융착되거나 이융성 물질에 의하여 조립된 것은?",
+      "options": [
+        "프레임(frame)",
+        "디플렉터(deflector)",
+        "유리벌브(glass bulb)",
+        "퓨지블링크(fusible link)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q70",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "포소화설비의 화재안전기준상 특수가연물을 저장·취급하는 공장 또는 창고에 적응성이 없는 포소화설비는?",
+      "options": [
+        "고정포방출설비",
+        "포소화전설비",
+        "압축공기포소화설비",
+        "포워터스프링클러설비",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q71",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "분말소화설비의 화재안전기준상 자동화재탐지설비의 감지기의 작동과 연동하는 분말소화설비 자동식 기동장치의 설치기준 중 다음 ( ) 안에 알맞은 것은?",
+      "options": [
+        "㉠ 3, ㉡ 2.5",
+        "㉠ 7, ㉡ 2.5",
+        "㉠ 3, ㉡ 25",
+        "㉠ 7, ㉡ 25",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220424/nd20220424m71.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q72",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "분말소화설비의 화재안전기준상 분말소화약제의 가압용가스 용기에 대한 설명으로 틀린 것은?",
+      "options": [
+        "가압용가스 용기를 3병 이상 설치한 경우에는 2개 이상의 용기에 전자개방밸브를 부착할 것",
+        "가압용가스 용기에는 2.5MPa 이하의 압력에서 조정이 가능한 압력조정기를 설치할 것",
+        "가압용가스에 질소가스를 사용하는 것의 질소가스는 소화 약제 1㎏마다 20L(35℃에서 1기압의 압력상태로 환산한 것) 이상으로 할 것",
+        "축압용가스에 질소가스를 사용하는 것의 질소가스는 소화 약제 1㎏에 대하여 10L(35℃에서 1기압의 압력상태로 환산한 것) 이상으로 할 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q73",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재조기진압용 스프링클러설비 가지배관 사이의 거리 기준으로 옳은 것은?(2022년 12월 01일 변경된 규정 적용됨)",
+      "options": [
+        "2.4m 이상 3.1m 이하",
+        "2.4m 이상 3.7m 이하",
+        "6.0m 이상 8.5m 이하",
+        "6.0m 이상 9.3m 이하",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q74",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "포소화설비에서 펌프의 토출관에 압입기를 설치하여 포소화약제 압입용 펌프로 포소화약제를 압입시켜 혼합하는 방식은?",
+      "options": [
+        "라인 프로포셔너",
+        "펌프 프로포셔너",
+        "프레져 프로포셔너",
+        "프레져사이드 프로포셔너",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q75",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "스프링클러설비의 화재안전기준상 스프링클러설비의 배관 내 사용압력이 몇 MPa 이상일 때 압력배관용 탄소강관을 사용해야 하는가?",
+      "options": [
+        "0.1",
+        "0.5",
+        "0.8",
+        "1.2",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q76",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "지하구의 화재안전기준에 따라 연소방지설비전용헤드를 사용할 때 배관의 구경이 65mm인 경우 하나의 배관에 부착하는 살수헤드의 최대 개수로 옳은 것은?",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "6",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q77",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "지하구의 화재안전기준에 따른 지하구의 통합감시시설 설치기준으로 틀린 것은?",
+      "options": [
+        "소방관서와 지하구의 통제실 간에 화재 등 소방활동과 관련된 정보를 상시 교환할 수 있는 정보통신망을 구축할 것",
+        "수신기는 방재실과 공동구의 입구 및 연소방지설비 송수구가 설치된 장소(지상)에 설치할 것",
+        "정보통신망(무선통신망 포함)은 광케이블 또는 이와 유사한 성능을 가진 선로일 것",
+        "수신기는 화재신호, 경보, 발화지점 등 수신기에 표시되는 정보가 기준에 적합한 방식으로 119상황실이 있는 관할 소방관서의 정보통신장치에 표시되도록 할 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q78",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "소화수조 및 저수조의 화재안전기준에 따라 소화용수설비에 설치하는 채수구의 지면으로부터 설치 높이 기준은?",
+      "options": [
+        "0.3m 이상 1m 이하",
+        "0.3m 이상 1.5m 이하",
+        "0.5m 이상 1m 이하",
+        "0.5m 이상 1.5m 이하",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q79",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음은 물분무소화설비의 화재안전기준에 따른 수원의 저수량 기준이다. (  )에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "20",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220424/nd20220424m79.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q80",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-04-24 기출",
+      "question_text": "제연설비의 화재안전기준상 제연설비 설치장소의 제연구역 구획 기준으로 틀린 것은?",
+      "options": [
+        "하나의 제연구역의 면적은 1000m2 이내로 할 것",
+        "하나의 제연구역은 직경 60m 원내에 들어갈 수 있을 것",
+        "하나의 제연구역은 3개 이상 층에 미치지 아니하도록 할 것",
+        "통로상의 제연구역은 보행중심선의 길이가 60m를 초과하지 아니할 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q81",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "동식물유류에서 “요오드값이 크다”라는 의미를 옳게 설명한 것은?",
+      "options": [
+        "불포화도가 높다.",
+        "불건성유이다.",
+        "자연발화성이 낮다.",
+        "산소와의 결합이 어렵다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q82",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재에 관련된 국제적인 규정을 제정하는 단체는?",
+      "options": [
+        "IMO(International Maritime Organization)",
+        "SFPE(Society of Fire Protection Engineers)",
+        "NFPA(Nation Fire Protection Association)",
+        "ISO(International Organization for Standardization) TC 92",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q83",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "위험물의 유별에 따른 분류가 잘못된 것은?",
+      "options": [
+        "제1류 위험물: 산화성 고체",
+        "제3류 위험물: 자연발화성 물질 및 금수성 물질",
+        "제4류 위험물: 인화성 액체",
+        "제6류 위험물: 가연성 액체",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q84",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "상온·상압의 공기중에서 탄화수소류의 가연물을 소화하기 위한 이산화탄소 소화약제의 농도는 약 몇 % 인가? (단, 탄화수소류는 산소농도가 10%일 때 소화된다고 가정한다.)",
+      "options": [
+        "28.57",
+        "35.48",
+        "49.56",
+        "52.38",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q85",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "제연설비의 화재안전기준상 예상제연구역에 공기가 유입되는 순간의 풍속은 몇 m/s 이하가 되도록 하여야 하는가?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q86",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "상온에서 무색의 기체로서 암모니아와 유사한 냄새를 가지는 물질은?",
+      "options": [
+        "에틸벤젠",
+        "에틸아민",
+        "산화프로필렌",
+        "사이클로프로판",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q87",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "소화약제의 형식승인 및 제품검사의 기술기준상 강화액 소화약제의 응고점은 몇 ℃ 이하이어야 하는가?",
+      "options": [
+        "0",
+        "-20",
+        "-25",
+        "-30",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q88",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "소화원리에 대한 설명으로 틀린 것은?",
+      "options": [
+        "억제소화: 불활성기체를 방출하여 연소범위 이하로 낮추어 소화하는 방법",
+        "냉각소화: 물의 증발잠열을 이용하여 가연물의 온도를 낮추는 소화방법",
+        "제거소화: 가연성 가스의 분출화재 시 연료공급을 차단시키는 소화방법",
+        "질식소화: 포소화약제 또는 불연성기체를 이용해서 공기 중의 산소공급을 차단하여 소화하는 방법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q89",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "단백포 소화약제의 특징이 아닌 것은?",
+      "options": [
+        "내열성이 우수하다.",
+        "유류에 대한 유동성 이 나쁘다.",
+        "유류를 오염시킬 수 있다.",
+        "변질의 우려가 없어 저장 유효기간의 제한이 없다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q90",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "고층 건축물 내 연기거동 중 굴뚝효과에 영향을 미치는 요소가 아닌 것은?",
+      "options": [
+        "건물 내·외의 온도차",
+        "화재실의 온도",
+        "건물의 높이",
+        "층의 면적",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q91",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "전기불꽃, 아크 등이 발생하는 부분을 기름 속에 넣어 폭발을 방지하는 방폭구조는?",
+      "options": [
+        "내압방폭구조",
+        "유입방폭구조",
+        "안전증방폭구조",
+        "특수방폭구조",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q92",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "건축물의 피난·방화구조 등의 기준에 관한 규칙상 방화구획의 설치기준 중 스프링클러를 설치한 10층 이하의 층은 바닥면적 몇 m2 이내마다 방화구획을 구획하여야 하는가?",
+      "options": [
+        "1000",
+        "1500",
+        "2000",
+        "3000",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q93",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "과산화수소 위험물의 특성이 아닌 것은?",
+      "options": [
+        "비수용성이다.",
+        "무기화합물이다.",
+        "불연성 물질이다.",
+        "비중은 물보다 무겁다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q94",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "이산화탄소 소화약제의 임계온도는 약 몇 ℃ 인가?",
+      "options": [
+        "24.4",
+        "31.4",
+        "56.4",
+        "78.4",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q95",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "이산화탄소 소화약제의 주된 소화효과는?",
+      "options": [
+        "제거소화",
+        "억제소화",
+        "질식소화",
+        "냉각소화",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q96",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "백열전구가 발열하는 원인이 되는 열은?",
+      "options": [
+        "아크열",
+        "유도열",
+        "저항열",
+        "정전기열",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q97",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재의 정의로 옳은 것은?",
+      "options": [
+        "가연성물질과 산소와의 격렬한 산화반응이다.",
+        "사람의 과실로 인한 실화나 고의에 의한 방화로 발생하는 연소현상으로서 소화할 필요성이 있는 연소현상이다.",
+        "가연물과 공기와의 혼합물이 어떤 점화원에 의하여 활성화되어 열과 빛을 발하면서 일으키는 격렬한 발열반응이다.",
+        "인류의 문화와 문명의 발달을 가져오게 한 근본 존재로서 인간의 제어수단에 의하여 컨트롤 할 수 있는 연소현상이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q98",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "물에 황산을 넣어 묽은 황산을 만들 때 발생되는 열은?",
+      "options": [
+        "연소열",
+        "분해열",
+        "용해열",
+        "자연발열",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q99",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "자연발화의 방지방법이 아닌 것은?",
+      "options": [
+        "통풍이 잘 되도록 한다.",
+        "퇴적 및 수납 시 열이 쌓이지 않게 한다.",
+        "높은 습도를 유지한다.",
+        "저장실의 온도를 낮게 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q100",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 중 분진 폭발의 위험성이 가장 낮은 것은?",
+      "options": [
+        "시멘트가루",
+        "알루미늄분",
+        "석탄분말",
+        "밀가루",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q101",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "30℃에서 부피가 10L인 이상기체를 일정한 압력으로 0℃로 냉각시키면 부피는 약 몇 L로 변하는가?",
+      "options": [
+        "3",
+        "9",
+        "12",
+        "18",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q102",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "비중이 0.6이고 길이 20m, 폭 10m, 높이 3m인 직육면체 모양의 소방정 위에 비중이 0.9인 포소화약제 5톤을 실었다. 바닷물의 비중이 1.03일 때 바닷물 속에 잠긴 소방정의 깊이는 몇 m인가",
+      "options": [
+        "3.54",
+        "2.5",
+        "1.77",
+        "0.6",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q103",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "그림과 같이 대기압 상태에서 V의 균열한 속도로 분출된 직경 D의 원형 물제트가 원판에 충돌할 때 원판이 U의 속도로 오른쪽으로 계속 동일한 속도로 이동하려면 외부에서 원판에 가해야 하는 힘 F는? (단, ρ는 물의 밀도, g는 중력가속도이다.)",
+      "options": [
+        "",
+        "",
+        "",
+        " ",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220305/nd20220305m23.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q104",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "그림과 같이 폭이 넓은 두 평판 사이를 흐르는 유체의 속도 분포 u(y)가 다음과 같을 때, 평판 벽에 작용하는 전단응력은 약 몇 Pa인가? (단, um = 1m/s, h = 0.01m, 유체의 점성계수는 0.1 N·s/m2이다.)",
+      "options": [
+        "1",
+        "2",
+        "10",
+        "20",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220305/nd20220305m24.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q105",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "-15℃의 얼음 10g을 100℃의 증기로 만드는데 필요한 열량은 약 몇 kJ인가? (단, 얼음의 융해열은 335kJ/kg, 물의 증발잠열은 2256kJ/kg, 얼음의 평균 비열은 2.1kJ/kg·K이고, 물의 평균 비열은 4.18kJ/kg·K이다.",
+      "options": [
+        "7.85",
+        "27.1",
+        "30.4",
+        "35.2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q106",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "포화액-증기 혼합물 300g이 100kPA의 일정한 압력에서 기화가 일어나서 건도가 10%에서 30%로 높아진다면 혼합물의 체적 증가량은 약 몇 m3인가? (단, 100kPa에서 포화액과 포화증기의 비체적은 각각 0.00104m3/kg 과 1.694 m3/kg 이다.)",
+      "options": [
+        "3.386",
+        "1.693",
+        "0.508",
+        "0.102",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q107",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "비중량 및 비중에 대한 설명으로 옳은 것은?",
+      "options": [
+        "비중량은 단위부피당 유체의 질량이다.",
+        "비중은 유체의 질량 대 표준상태 유체의 질량비이다.",
+        "기체인 수소의 비중은 액체인 수은의 비중보다 크다.",
+        "압력의 변화에 대한 액체의 비중량 변화는 기체 비중량 변화보다 작다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q108",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "물분무 소화설비의 가압송수장치로 전동기 구동형 펌프를 사용하였다. 펌프의 토출량 800L/min, 전양정 50m, 효율 0.65, 전달계수 1.1인 경우 적당한 전동기 용량은 몇 kW인가?",
+      "options": [
+        "4.2",
+        "4.7",
+        "10.0",
+        "11.1",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q109",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "수평원관 속을 층류상태로 흐르는 경우 유량에 대한 설명으로 틀린 것은?",
+      "options": [
+        "점성계수에 반비례한다.",
+        "관의 길이에 반비례한다.",
+        "관 지름의 4제곱에 비례한다.",
+        "압력강하량에 반비례한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q110",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "부차적 손실계수 K가 2인 관 부속품에서의 손실 수두가 2m이라면 이때의 유속은 약 몇 m/s 인가?",
+      "options": [
+        "4.43",
+        "3.14",
+        "2.21",
+        "2.00",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q111",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "관내에 흐르는 유체의 흐름을 구분하는 데 사용되는 레이놀즈 수의 물리적인 의미는?",
+      "options": [
+        "관성력/중력",
+        "관성력/점성력",
+        "관성력/탄성력",
+        "관성력/압축력",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q112",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "그림과 같은 U자관 차압액주계에서 γ1 = 9.8kN/m3, γ2 = 133kN/m3, γ3 = 9.0kN/m3, h1 = 0.2m, h3 = 0.1이고 압력차 pA - pB = 30kPA이다. h2는 몇 m 인가?",
+      "options": [
+        "0.218",
+        "0.226",
+        "0.234",
+        "0.247",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220305/nd20220305m32.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q113",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "펌프와 관련된 용어의 설명으로 옳은 것은?",
+      "options": [
+        "캐비테이션 : 송출압력과 송출유량이 주기적으로 변하는 현상",
+        "서징 : 액체가 포화 증기압 이하에서 비등하여 기포가 발생하는 현상",
+        "수격작용 : 관을 흐르던 물이 갑자기 정지할 때 압력파에 의해 이상음(異常音)이 발생하는 현상",
+        "NPSH : 펌프에서 상사법칙을 나타내기 위한 비속도",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q114",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "베르누이의 정리(  = constant)가 적용되는 조건이 아닌 것은?",
+      "options": [
+        "압축성의 흐름이다.",
+        "정상 상태의 흐름이다.",
+        "마찰이 없는 흐름이다.",
+        "베르누이 정리가 적용되는 임의의 두 점은 같은 유선 상에 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220305/nd20220305m34m1.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q115",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "그림과 같이 수평과 30˚ 경사된 폭 50cm인 수문 AB가 A점에서 힌지(hinge)로 되어있다. 이 문을 열기 위한 최소한의 힘 F(수문에 직각 방향)는 약 몇 kN인가? (단, 수문의 무게는 무시하고, 유체의 비중은 1이다.)",
+      "options": [
+        "11.5",
+        "7.35",
+        "5.51",
+        "2.71",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220305/nd20220305m35.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q116",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "성능이 같은 3대의 펌프를 병렬로 연결하였을 경우 양정과 유량은 얼마인가? (단, 펌프 1대의 유량은 Q, 양정은 H이다.)",
+      "options": [
+        "유량은 3Q, 양정은 H",
+        "유량은 3Q, 양정은 3H",
+        "유량은 9Q, 양정은 H",
+        "유량은 9Q, 양정은 3H",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q117",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "수평 배관 설비에서 상류 지점인 A지점의 배관을 조사해 보니 지름 100mm, 압력 0.45MPa, 평균 유속 1m/s이었다. 또, 하류의 B지점을 조사해 보니 지름 50mm, 압력 0.4MPa이었다면 두 지점 사이의 손실 수두는 약 몇 m인가? (단, 배관 내 유체의 비중은 1이다.)",
+      "options": [
+        "4.34",
+        "4.95",
+        "5.87",
+        "8.67",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q118",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "원관 속을 층류상태로 흐르는 유체의 속도분포가 다음과 같을 때 관벽에서 30mm 떨어진 곳에서 유체의 속도기울기(속도구배)는 약 몇 s-1인가?",
+      "options": [
+        "0.87",
+        "2.74",
+        "8.66",
+        "27.4",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220305/nd20220305m38.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q119",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "대기의 압력이 106kPa이라면 게이지 압력이 1226 kPa인 용기에서 절대압력은 몇 kPa인가?",
+      "options": [
+        "1120",
+        "1125",
+        "1327",
+        "1332",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q120",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "표면온도 15℃, 방사율 0.85인 40cm×50cm 직사각형 나무판의 한쪽 면으로부터 방사되는 복사열은 약 몇 W인가? (단 스테판-볼츠만 상수는 5.67×10-8 W/m2·K4이다.)",
+      "options": [
+        "12",
+        "66",
+        "78",
+        "521",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q121",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방시설공사업법령상 소방시설업의 감독을 위하여 필요할 때에 소방시설업자나 관계인에게 필요한 보고나 자료 제출을 명할수 있는 사람이 아닌 것은?",
+      "options": [
+        "시·도지사",
+        "119안전센터장",
+        "소방서장",
+        "소방본부장",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q122",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방시설공사업법령상 소방시설업자가 소방시설공사등을 맡긴 특정소방대상물의 관계인에게 지체 없이 그 사실을 알려야 하는 경우가 아닌 것은?",
+      "options": [
+        "소방시설업자의 지위를 승계한 경우",
+        "소방시설업의 등록취소처분 또는 영업정지처분을 받은 경우",
+        "휴업하거나 폐업한 경우",
+        "소방시설업의 주소지가 변경된 경우",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q123",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방기본법령상 이웃하는 다른 시·도지사와 소방업무에 관하여 시·도지사가 체결할 상호응원협정 사항이 아닌 것은?",
+      "options": [
+        "화재조사활동",
+        "응원출동의 요청방법",
+        "소방교육 및 응원출동훈련",
+        "응원출동대상지역 및 규모",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q124",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 소방시설의 종류에 대한 설명으로 옳은 것은?",
+      "options": [
+        "소화기구, 옥외소화전설비는 소화설비에 해당된다.",
+        "유도등, 비상조명등은 경보설비에 해당된다.",
+        "소화수조, 저수조는 소화활동설비에 해당된다.",
+        "연결송수관설비는 소화용수설비에 해당된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q125",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 특정소방대상물의 소방시설 설치의 면제기준에 따라 연결살수설비를 설치면제 받을 수 있는 경우는?",
+      "options": [
+        "송수구를 부설한 간이스프링클러설비를 설치하였을 때",
+        "송수구를 부설한 옥내소화전설비를 설치하였을 때",
+        "송수구를 부설한 옥외소화전설비를 설치하였을 때",
+        "송수구를 부설한 연결송수관설비를 설치하였을 때",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q126",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "위험물안전관리법령상 위험물 및 지정수량에 대한 기준 중 다음 ( ) 안에 알맞은 것은?",
+      "options": [
+        "㉠ 150, ㉡ 50",
+        "㉠ 53, ㉡ 50",
+        "㉠ 50, ㉡ 150",
+        "㉠ 50, ㉡ 53",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220305/nd20220305m46.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q127",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "위험물안전관리법령상 제조소등의 관계인은 위험물의 안전관리에 관한 직무를 수행하게 하기 위하여 제조소등마다 위험물의 취급에 관한 자격이 있는 자를 위험물안전관리자로 선임하여야 한다. 이 경우 제조소등의 관계인이 지켜야 할 기준으로 틀린 것은?",
+      "options": [
+        "제조소등의 관계인은 안전관리자를 해임하거나 안전관리자가 퇴직한 때에는 해임하거나 퇴직한 날부터 15일 이내에 다시 안전관리자를 선임하여야 한다.",
+        "제조소등의 관계인이 안전관리자를 선임한 경우에는 선임한 날부터 14일 이내에 소방본부장 또는 소방서장에게 신고하여야한다.",
+        "제조소등의 관계인은 안전관리자가 여행·질병 그 밖의 사유로 인하여 일시적으로 직무를 수행할 수 없는 경우에는 국가기술자격법에 따른 위험물의 취급에 관한 자격취득자 또는 위험물안전에 관한 기본지식과 경험이 있는 자를 대리자로 지정하여 그 직무를 대행하게 하여야한다. 이 경우 대행하는 기간은 30일을 초과할 수 없다.",
+        "안전관리자는 위험물을 취급하는 작업을 하는 때에는 작업자에게 안전관리에 관한 필요한 지시를 하는 등 위험물의 취급에 관한 안전관리와 감독을 하여야 하고, 제조소등의 관계인은 안전관리자의 위험물안전관리에 관한 의견을 존중하고 그 권고에 따라야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q128",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방시설공사업법령상 감리업자는 소방시설공사가 설계도서 또는 화재안전기준에 적합하지 아니한 때에는 가장 먼저 누구에게 알려야 하는가?",
+      "options": [
+        "감리업체 대표자",
+        "시공자",
+        "관계인",
+        "소방서장",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q129",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령에 따라 2급 소방안전관리대상물의 소방안전관리자 선임 기준으로 틀린 것은?(관련 규정 개정전 문제로 여기서는 기존 정답인 3번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "전기공사산업기사 자격을 가진 사람",
+        "소방공무원으로 3년 이상 근무한 경력이 있는 사람",
+        "의용소방대원으로 5년 이상 근무한 경력이 있는 사람",
+        "위험물산업기사 자격을 가진 사람",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q130",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "위험물안전관리 법령상 옥내주유취급소에 있어서 당해 사무소 등의 출입구 및 피난구와 당해 피난구로 통하는 통로·계단 및 출입구에 설치해야 하는 피난설비는?",
+      "options": [
+        "유도등",
+        "구조대",
+        "피난사다리",
+        "완강기",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q131",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방시설공사업법령상 소방시설업 등록의 결격사유에 해당되지 않는 법인은?",
+      "options": [
+        "법인의 대표자가 피성년후견인인 경우",
+        "법인의 임원이 피성년후견인인 경우",
+        "법인의 대표자가 소방시설공사업법에 따라 소방시설업 등록이 취소된 지 2년이 지나지 아니한 자인 경우",
+        "법인의 임원이 소방시설공사업법에 따라 소방시설업 등록이 취소된 지 2년이 지나지 아니한 자인 경우",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q132",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재가 발생할 우려가 높거나 화재가 발생하는 경우 그로 인하여 피해가 클 것으로 예상되는 지역을 화재예방강화지구로 지정할 수 있는 자는?",
+      "options": [
+        "한국소방안전협회장",
+        "소방시설관리사",
+        "소방본부장",
+        "시·도지사",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q133",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 건축허가등을 할 때 미리 소방본부장 또는 소방서장의 동의를 받아야 하는 건축물 등의 범위가 아닌 것은?",
+      "options": [
+        "연면적 200m2 이상인 노유자시설 및 수련시설",
+        "항공기격납고, 관망탑",
+        "차고·주차장으로 사용되는 바닥면적이 100m2 이상인 층이 있는 건축물",
+        "지하층 또는 무창층이 있는 건축물로서 바닥면적이 150m2 이상인 층이 있는 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q134",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 특정소방대상물의 수용인원 산정방법으로 옳은 것은?",
+      "options": [
+        "침대가 없는 숙박시설은 해당 특정소방대상물의 종사자의 수에 숙박시설의 바닥면적의 합계를 4.6m2로 나누어 얻은 수를 합한 수로 한다.",
+        "강의실로 쓰이는 특정소방대상물은 해당용도로 사용하는 바닥면적의 합계를 4.6m2로 나누어 얻은 수로 한다.",
+        "관람석이 없을 경우 강당, 문화 및 집회시설, 운동시설, 종교시설은 해당용도로 사용하는 바닥면적의 합계를 4.6m2로 나누어 얻은 수로 한다.",
+        "백화점은 해당 용도로 사용하는 바닥면적의 합계를 4.6m2로 나누어 얻은 수로 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q135",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방기본법령상 일반음식점에서 음식조리를 위해 불을 사용하는 설비를 설치하는 경우 지켜야 하는 사항으로 틀린 것은?",
+      "options": [
+        "주방시설에는 동물 또는 식물의 기름을 제거할 수 있는 필터 등을 설치할 것",
+        "열을 발생하는 조리기구는 반자 또는 선반으로부터 0.6미터 이상 떨어지게 할 것",
+        "주방설비에 부속된 배출덕트는 0.2밀리미터 이상의 아연도금강판으로 설치할 것",
+        "열을 발생하는 조리기구로부터 0.15미터이내의 거리에 있는 가연성 주요구조부는 석면판 또는 단열성이 있는 불연재료로 덮어 씌울 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q136",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방기본법령상 소방업무의 응원에 대한 설명 중 틀린 것은?",
+      "options": [
+        "소방본부장이나 소방서장은 소방활동을 할 때에 긴급한 경우에는 이웃한 소방본부장 또는소방서장에게 소방업무의 응원을 요청할 수 있다.",
+        "소방업무의 응원 요청을 받은 소방본부장 또는 소방서장은 정당한 사유 없이 그 요청을 거절하여서는 아니 된다.",
+        "소방업무의 응원을 위하여 파견된 소방대원은 응원을 요청한 소방본부장 또는 소방서장의 지휘에 따라야 한다.",
+        "시·도지사는 소방업무의 응원을 요청하는 경우를 대비하여 출동 대상지역 및 규모와 필요한 경비의 부담 등에 관하여 필요한 사항을 대통령령으로 정하는 바에 따라 이웃하는 시·도지사와 협의하여 미리 규약으로 정하여야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q137",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방시설공사업 법령상 소방공사감리업을 등록한 자가 수행하여야 할 업무가 아닌 것은?",
+      "options": [
+        "완공된 소방시설등의 성능시험",
+        "소방시설등 설계 변경 사항의 적합성 검토",
+        "소방시설등의 설치계획표의 적법성 검토",
+        "소방용품 형식승인 및 제품검사의 기술기준에 대한 적합성 검토",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q138",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방시설공사업법령상 소방시설업에 대한 행정처분기준에서 1차 행정처분 사항으로 등록취소에 해당하는 것은?",
+      "options": [
+        "거짓이나 그 밖의 부정한 방법으로 등록한 경우",
+        "소방시설업자의 지위를 승계한 사실을 소방시설공사등을 맡긴 특정소방대상물의 관계인에게 통지를 하지 아니한 경우",
+        "화재안전기준 등에 적합하게 설계·시공을 하지 아니하거나, 법에 따라 적합하게 감리를 하지 아니한 경우",
+        "등록을 한 후 정당한 사유 없이 1년이 지날 때까지 영업을 시작하지 아니하거나 계속하여 1년 이상 휴업한 때",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q139",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 중 소방기본법령상 한국소방안전원의 업무가 아닌 것은?",
+      "options": [
+        "소방기술과 안전관리에 관한 교육 및 조사·연구",
+        "위험물탱크 성능시험",
+        "소방기술과 안전관리에 관한 각종 간행물 발간",
+        "화재 예방과 안전관리의식 고취를 위한 대국민 홍보",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q140",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "위험물안전관리법령상 제조소등이 아닌 장소에서 지정수량 이상의 위험물 취급에 대한 설명으로 틀린 것은?",
+      "options": [
+        "임시로 저장 또는 취급하는 장소에서의 저장 또는 취급의 기준은 시·도의 조례로 정한다.",
+        "필요한 승인을 받아 지정수량 이상의 위험물을 120일 이내의 기간 동안 임시로 저장 또는 취급하는 경우 제조소 등이 아닌 장소에서 지정수량 이상의 위험물을 취급할 수 있다.",
+        "제조소등이 아닌 장소에서 지정수량 이상의 위험물을 취급할 경우 관할소방서장의 승인을 받아야 한다.",
+        "군부대가 지정수량 이상의 위험물을 군사목적으로 임시로 저장 또는 취급하는 경우 제조소등이 아닌 장소에서 지정수량이상의 위험물을 취급할 수 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q141",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "소화기구 및 자동소화장치의 화재안전기준상 대형소화기의 정의 중 다음 ( )안에 알맞은 것은?",
+      "options": [
+        "㉠ 20, ㉡ 10",
+        "㉠ 10, ㉡ 20",
+        "㉠ 10, ㉡ 5",
+        "㉠ 5, ㉡ 10",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220305/nd20220305m61.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q142",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "분말소화설비의 화재안전기준상 분말소화약제의 가압용가스 또는 축압용가스의 설치 기준으로 틀린 것은?",
+      "options": [
+        "가압용가스에 질소가스를 사용하는 것의 질소가스는 소화약제 1kg마다 40L(35℃에서 1기압의 압력상태로 환산한 것) 이상으로 할 것",
+        "가압용가스에 이산화탄소를 사용하는 것의 이산화탄소는 소화약제 1kg에 대하여 20g에 배관의 청소에 필요한 양을 가산한 양 이상으로 할 것",
+        "축압용가스에 질소가스를 사용하는 것의 질소가스는 소화약제 1kg에 대하여 40L(35℃에서 1기압의 압력상태로 환산한 것) 이상으로 할 것",
+        "축압용가스에 이산화탄소를 사용하는 것의 이산화탄소는 소화약제 1kg에 대하여 20g에 배관의 청소에 필요한 양을 가산한 양 이상으로 할 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q143",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "포소화설비의 화재안전기준상 포소화설비의 자동식 기동장치에 화재감지기를 사용하는 경우, 화재감지기 회로의 발신기 설치 기준 중 ( )안에 알맞은 것은? (단, 자동화재탐지설비의 수신기가 설치된 장소에 상시 사람이 근무하고 있고, 화재 시 즉시 해당 조작부를 작동시킬 수있는 경우는 제외한다.)",
+      "options": [
+        "㉠ 25, ㉡ 30",
+        "㉠ 25, ㉡ 40",
+        "㉠ 15, ㉡ 30",
+        "㉠ 15, ㉡ 40",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220305/nd20220305m63.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q144",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "특별피난계단의 계단실 및 부속실 제연설비의 화재안전기준상 급기풍도 단면의 긴변 길이가 1300mm인 경우, 강판의 두께는 최소 몇 mm 이상이어야 하는가?",
+      "options": [
+        "0.6",
+        "0.8",
+        "1.0",
+        "1.2",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q145",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "옥외소화전설비의 화재안전기준상 옥외소화전설비에서 성능시험배관의 직관부에 설치된 유량측정장치는 펌프 및 정격토출량의 최소 몇 % 이상 측정할 수 있는 성능이 있어야 하는가?",
+      "options": [
+        "175",
+        "150",
+        "75",
+        "50",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q146",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "할론소화설비의 화재안전기기준상 자동차차고나 주차장에 할론 1301 소화약제로 전역방출방식의 소화설비를 설치한 경우 방호구역의 체적 1m3당 얼마의 소화약제가 필요한가?",
+      "options": [
+        "0.32kg 이상 0.64kg 이하",
+        "0.36kg 이상 0.71kg 이하",
+        "0.40kg 이상 1.10kg 이하",
+        "0.60kg 이상 0.71kg 이하",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q147",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "소화기구 및 자동소화장치의 화재안전기준상 타고 나서 재가 남는 일반화재에 해당하는 일반 가연물은?",
+      "options": [
+        "고무",
+        "타르",
+        "솔벤트",
+        "유성도료",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q148",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "특별피난계단의 계단실 및 부속실 제연설비의 화재안전기준상 차압 등에 관한 기준으로 옳은 것은?",
+      "options": [
+        "제연설비가 가동되었을 경우 출입문의 개방에 필요한 힘은 150N 이하로 하여야 한다.",
+        "제연구역과 옥내와의 사이에 유지하여야 하는 최소차압은 옥내에 스프링클러설비가 설치된 경우에는 40Pa 이상으로 하여야 한다.",
+        "계단실과 부속실을 동시에 제연하는 경우 부속실의 기압은 계단실과 같게 하거나 계단실의 기압보다 낮게 할 경우에는 부속실과 계단실의 압력차이는 3Pa 이하가 되도록 하여야 한다.",
+        "피난을 위하여 제연구역의 출입문이 일시적으로 개방되는 경우 개방되지 아니하는 제연구역과 옥내와의 차압은 기준에 따른 차압은 기준에 따른 차압의 70% 미만이 되어서는 아니 된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q149",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "스프링클러설비의 화재안전기준상 고가수조를 이용한 가압송수장치의 설치기준 중 고가수조에 설치하지 않아도 되는 것은?",
+      "options": [
+        "수위계",
+        "배수관",
+        "압력계",
+        "오버플로우관",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q150",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "상수도소화용수설비의 화재안전기준상 소화전은 특정소방대상물의 수평투영면의 각 부분으로부터 최대 몇 m 이하가 되도록 설치하여야 하는가?",
+      "options": [
+        "100",
+        "120",
+        "140",
+        "150",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q151",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "상수도소화용수설비의 화재안전기준상 상수도소화용수설비 소화전의 설치 기준 중 다음 ( ) 안에 알맞은 것은?",
+      "options": [
+        "㉠ 65, ㉡ 120",
+        "㉠ 75, ㉡ 100",
+        "㉠ 80, ㉡ 90",
+        "㉠ 100, ㉡ 100",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220305/nd20220305m71.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q152",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "구조대의 형식승인 및 제품검사의 기술기준상 경사하강식 구조대의 구조 기준으로 틀린것은",
+      "options": [
+        "연속하여 활강할 수 있는 구조로 안전하고 쉽게 사용할 수 있어야 한다.",
+        "구조대 본체는 강하방향으로 봉합부가 설치되지 아니하여야 한다.",
+        "입구틀 및 취부틀의 입구는 지름 40cm 이상의 구체가 통할 수 있어야 한다.",
+        "본체의 포지는 하부지지장치에 인장력이 균등하게 걸리도록 부착하여야 하며 하부지지장치는 쉽게 조작할 수 있어야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q153",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "분말소화설비의 화재안전기준상 차고 또는 주차장에 설치하는 분말소화설비의 소화약제는?",
+      "options": [
+        "제1종 분말",
+        "제2종 분말",
+        "제3종 분말",
+        "제4종 분말",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q154",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "피난사다리의 형식승인 및 제품검사의 기술기준상 피난사다리의 일반구조 기준으로 옳은 것은?",
+      "options": [
+        "피난사다리는 2개 이상의 횡봉으로 구성되어야 한다. 다만, 고정식사다리인 경우에는 횡봉의 수를 1개로 할 수 있다.",
+        "피난사다리(종봉이 1개인 고정식사다리는 제외)의 종봉의 간격은 최외각 종봉 사이의 안치수가 15cm 이상이어야 한다.",
+        "피난사다리의 횡봉은 지름 15mm 이상 25mm 이하의 원형인 단면이거나 또는 이와 비슷한 손으로 잡을 수 있는 형태의 단면이 있는 것이어야 한다.",
+        "피난사다리의 횡봉은 종봉에 동일한 간격으로 부착한 것이어야 하며, 그 간격은 25cm 이상 35cm 이하이어야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q155",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "간이스프링클러설비의 화재안전기준상 간이스프링클러설비의 배관 및 밸브 등의 설치순서로 맞는 것은? (단, 수원이 펌프보다 낮은 경우이다.)",
+      "options": [
+        "상수도직결형은 수도용계량기, 급수차단장치, 개폐표시형밸브, 체크밸브, 압력계, 유수검지장치, 2개의 시험밸브 순으로 설치할 것",
+        "펌프 설치 시에는 수원, 연성계 또는 진공계, 펌프 또는 압력수조, 압력계, 체크밸브, 개폐표시형밸브, 유수검지장치, 2개의 시험밸브 순으로 설치할 것",
+        "가압수조 이용 시에는 수원, 가압수조, 압력계, 체크밸브, 개폐표시형밸브, 유수검지장치, 1개의 시험밸브 순으로 설치할 것",
+        "캐비닛형인 경우 수원, 펌프 또는 압력수조, 압력계, 체크밸브, 연성계 또는 진공계, 개폐표시형밸브 순으로 설치할 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q156",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "스프링클러설비의 화재안전기준상 스프링클러헤드 설치 시 살수가 방해되지 아니하도록 벽과 스프링클러헤드간의 공간은 최소 몇 cm 이상으로 하여야 하는가?",
+      "options": [
+        "60",
+        "30",
+        "20",
+        "10",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q157",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "물분무소화설비의 화재안전기준상 차고 또는 주차장에 설치하는 물분무소화설비의 배수설비 기준으로 틀린 것은?",
+      "options": [
+        "차량이 주차하는 바닥은 배수구를 향하여 100분의 2 이상의 기울기를 유지할 것",
+        "차량이 주차하는 장소의 적당한 곳에 높이 5cm 이상의 경계턱으로 배수구를 설치할 것",
+        "배수설비는 가압송수장치의 최대송수능력의 수량을 유효하게 배수할 수 있는 크기 및 기울기로 할 것",
+        "배수구에는 새어나온 기름을 모아 소화할 수 있도록 길이 40m 이하마다 집수관·소화핏트 등 기름분리장치를 설치할 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q158",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "미분무소화설비의 화재안전기준상 용어의 정의 중 다음 ( ) 안에 알맞은 것은?",
+      "options": [
+        "㉠ 400, ㉡ A,B,C",
+        "㉠ 400, ㉡ B,C",
+        "㉠ 200, ㉡ A,B,C",
+        "㉠ 200, ㉡ B,C",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220305/nd20220305m78.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q159",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "포소화설비의 화재안전기준상 포소화설비의 자동식 기동장치에 폐쇄형 스프링클러헤드를 사용하는 경우에 대한 설치 기준 중 다음 ( ) 안에 알맞은 것은? (단, 자동화재탐지설비의 수신기가 설치된 장소에 상시 사람이 근무하고 있고, 화재 시 즉시 해당 조작부를 작동시킬 수 있는 경우는 제외한다.)",
+      "options": [
+        "㉠ 60, ㉡ 10, ㉢ 7",
+        "㉠ 60, ㉡ 20, ㉢ 7",
+        "㉠ 79, ㉡ 10, ㉢ 5",
+        "㉠ 79, ㉡ 20, ㉢ 5",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220305/nd20220305m79.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q160",
+      "subject": "소방설비기사(기계)",
+      "round": "2022-03-05 기출",
+      "question_text": "할론소화설비의 화재안전기준상 할론소화약제 저장용기의 설치 기준 중 다음 ( ) 안에 알말은 것은?",
+      "options": [
+        "㉠ 2.5, ㉡ 4.2",
+        "㉠ 2.0, ㉡ 3.5",
+        "㉠ 1.5, ㉡ 3.0",
+        "㉠ 1.1, ㉡ 2.5",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20220305/nd20220305m80.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q161",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "소화기구 및 자동소화장치의 화재안전기준에 따르면 소화기구(자동확산소화기는 제외)는 거주자 등이 손쉽게 사용할 수 있는 장소에 바닥으로부터 높이 몇 m 이하의 곳에 비치하여야 하는가?",
+      "options": [
+        "0.5",
+        "1.0",
+        "1.5",
+        "2.0",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q162",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재의 분류방법 중 유류화재를 나타낸 것은?",
+      "options": [
+        "A급 화재",
+        "B급 화재",
+        "C급 화재",
+        "D급 화재",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q163",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "연기감지기가 작동할 정도이고 가시거리가 20~30m 에 해당하는 감광계수는 얼마인가?",
+      "options": [
+        "0.1m-1",
+        "1.0m-1",
+        "2.0m-1",
+        "10m-1",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q164",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "소화약제로 사용되는 물에 관한 소화성능 및 물성에 대한 설명으로 틀린 것은?",
+      "options": [
+        "비열과 증발잠열이 커서 냉각소화 효과가 우수하다.",
+        "물(15℃)의 비열은 약 1cal/g·℃ 이다.",
+        "물(100℃)의 증발잠열은 439.6kcal/g 이다.",
+        "물의 기화에 의한 팽창된 수증기는 질식소화 작용을 할 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q165",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "소화에 필요한 CO2의 이론소화농도가 공기 중에서 37Vol% 일 때 한계산소농도는 약 몇 vol% 인가?",
+      "options": [
+        "13.2",
+        "14.5",
+        "15.5",
+        "16.5",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q166",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "물리적 소화방법이 아닌 것은?",
+      "options": [
+        "연쇄반응의 억제에 의한 방법",
+        "냉각에 의한 방법",
+        "공기와의 접촉 차단에 의한 방법",
+        "가연물 제거에 의한 방법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q167",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "Halon 1211의 화학식에 해당하는 것은?",
+      "options": [
+        "CH2BrCl",
+        "CF2ClBr",
+        "CH2BrF",
+        "CF2HBr",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q168",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "마그네슘의 화재에 주수하였을 때 물과 마그네슘의 반응으로 인하여 생성되는 가스는?",
+      "options": [
+        "산소",
+        "수소",
+        "일산화탄소",
+        "이산화탄소",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q169",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "제2종 분말소화약제의 주성분으로 옳은 것은?",
+      "options": [
+        "NaH2PO4",
+        "KH2PO4",
+        "NaHCO3",
+        "KHCO3",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q170",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "조연성가스로만 나열되어 있는 것은?",
+      "options": [
+        "질소, 불소, 수증기",
+        "산소, 불소, 염소",
+        "산소, 이산화탄소, 오존",
+        "질소, 이산화탄소, 염소",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q171",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "위험물안전관리법령상 자기반응성물질의 품명에 해당하지 않는 것은?",
+      "options": [
+        "니트로화합물",
+        "할로겐간화합물",
+        "질산에스테르류",
+        "히드록실아민염류",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q172",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "건축물 화재에서 플래시 오버(Flash over) 현상이 일어나는 시기는?",
+      "options": [
+        "초기에서 성장기로 넘어가는 시기",
+        "성장기에서 최성기로 넘어가는 시기",
+        "최성기에서 감쇠기로 넘어가는 시기",
+        "감쇠기에서 종기로 넘어가는 시기",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q173",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "물과 반응하였을 때 가연성 가스를 발생하여 화재의 위험성이 증가하는 것은?",
+      "options": [
+        "과산화칼슘",
+        "메탄올",
+        "칼륨",
+        "과산화수소",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q174",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "인화칼슘과 물이 반응할 때 생성되는 가스는?",
+      "options": [
+        "아세틸렌",
+        "황화수소",
+        "황산",
+        "포스핀",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q175",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "다음 중 공기에서의 연소범위를 기준으로 했을 때 위험도(H) 값이 가장 큰 것은?",
+      "options": [
+        "디에틸에테르",
+        "수소",
+        "에틸렌",
+        "부탄",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q176",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "소화약제로 사용되는 이산화탄소에 대한 설명으로 옳은 것은?",
+      "options": [
+        "산소와 반응 시 흡열반응을 일으킨다.",
+        "산소와 반응하여 불연성 물질을 발생시킨다.",
+        "산화하지 않으나 산소와는 반응한다.",
+        "산소와 반응하지 않는다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q177",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "다음 중 피난자의 집중으로 패닉현상이 일어날 우려가 가장 큰 형태는?",
+      "options": [
+        "T형",
+        "X형",
+        "Z형",
+        "H형",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q178",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "물리적 폭발에 해당하는 것은?",
+      "options": [
+        "분해 폭발",
+        "분진 폭발",
+        "중합 폭발",
+        "수증기 폭발",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q179",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "다음 중 착화온도가 가장 낮은 것은?",
+      "options": [
+        "아세톤",
+        "휘발유",
+        "이황화탄소",
+        "벤젠",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q180",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "건물화재 시 패닉(panic)의 발생원인과 직접적인 관계가 없는 것은?",
+      "options": [
+        "연기에 의한 시계 제한",
+        "유독가스에 의한 호흡 장애",
+        "외부와 단절되어 고립",
+        "불연내장재의 사용",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q181",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "지름이 5cm인 원형 관내에 이상기체가 층류로 흐른다. 다음 중 이 기체의 속도가 될 수 있는 것을 모두 고르면? (단, 이 기체의 절대압력은 200kPa, 온도는 27℃, 기체상수는 2080 J/kg·K, 점성계수는 2×10-5 N·s/m2, 하임계 레이놀즈수는 2200으로 한다.)",
+      "options": [
+        "ㄱ",
+        "ㄱ, ㄴ",
+        "ㄱ, ㄴ ,ㄷ",
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m21.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q182",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "표면장력에 관련된 설명 중 옳은 것은?",
+      "options": [
+        "표면장력의 차원은 힘/면적이다.",
+        "액체와 공기의 경계면에서 액체분자의 응집력보다 공기분자와 액체분자 사이의 부착력이 클 때 발생된다.",
+        "대기 중의 물방울은 크기가 작을수록 내부압력이 크다.",
+        "모세관현상에 의한 수면 상승 높이는 모세관의 직경에 비례한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q183",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "유체의 점성에 대한 설명으로 틀린 것은?",
+      "options": [
+        "질소 기체의 동점성계수는 온도 증가에 따라 감소한다.",
+        "물(액체)의 점성계수는 온도 증가에 따라 감소한다.",
+        "점성은 유동에 대한 유체의 저항을 나타낸다.",
+        "뉴턴유체에 작용하는 전단응력은 속도기울기에 비례한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q184",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "회전속도 1000rpm 일 때 송출량 Q m3/min, 전양정 H m인 원심펌프가 상사한 조건에서 송출량이 1.1Q m3/min가 되도록 회전속도를 증가시킬 때, 전양정은 어떻게 되는가?",
+      "options": [
+        "0.91 H",
+        "H",
+        "1.1 H",
+        "1.21 H",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q185",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "그림과 같이 노즐이 달린 수평관에서 계기압력이 0.49MPa 이었다. 이 관의 안지름이 6cm이고 관의 끝에 달린 노즐의 지름이 2cm 이라면 노즐의 분출속도는 몇 m/s인가? (단, 노즐에서의 손실은 무시하고, 관마찰계수는 0.025 이다.)",
+      "options": [
+        "16.8",
+        "20.4",
+        "25.5",
+        "28.4",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m25.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q186",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "원심펌프가 전양정 120m에 대해 6m3/s의 물을 공급할 때 필요한 축동력이 9530kW 이었다. 이때 펌프의 체적효율과 기계효율이 각각 88%, 89% 라고 하면, 이 펌프의 수력효율은 약 몇 % 인가?",
+      "options": [
+        "74.1",
+        "84.2",
+        "88.5",
+        "94.5",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q187",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "안지름 4cm, 바깥지름 6cm인 동심 이중관의 수력직경(hydraulic diameter)은 몇 cm 인가?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m27.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q188",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "열역학 관련 설명 중 틀린 것은?",
+      "options": [
+        "삼중점에서는 물체의 고상, 액상, 기상이 공존한다.",
+        "압력이 증가하면 물의 끓는점도 높아진다.",
+        "열을 완전히 일로 변환할 수 있는 효율이 100%인 열기관은 만들 수 없다.",
+        "기체의 정적비열은 정압비열보다 크다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q189",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "다음 중 차원이 서로 같은 것을 모두 고르면? (단, P : 압력, ρ : 밀도, V : 속도, h : 높이, F : 힘, m : 질량, g : 중력가속도)",
+      "options": [
+        "ㄱ, ㄴ",
+        "ㄱ, ㄷ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m29.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q190",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "밀도가 10kg/m3 인 유체가 지름 30cm인 관내를 1m3/s 로 흐른다. 이때의 평균유속은 몇 m/s 인가?",
+      "options": [
+        "4.25",
+        "14.1",
+        "15.7",
+        "84.9",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q191",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "초기 상태에서 압력 100kPa, 온도 15℃인 공기가 있다. 공기의 부피가 초기 부피의 1/20이 될 때까지 가역단열 압축할 때 압축 후의 온도는 약 몇 ℃인가? (단, 공기의 비열비는 1.4 이다.)",
+      "options": [
+        "54",
+        "348",
+        "682",
+        "912",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q192",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "부피가 240m3인 방 안에 들어 있는 공기의 질량은 약 몇 kg 인가? (단, 압력은 100kPa, 온도는 300K 이며, 공기의 기체상수는 0.287 kJ/kg·K 이다.)",
+      "options": [
+        "0.279",
+        "2.79",
+        "27.9",
+        "279",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q193",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "그림의 액주계에서 밀도 ρ1 = 1000 kg/m3, ρ2 = 13600 kg/m3, 높이 h1 = 500mm, h2 = 800mm 일 때 중심 A의 계기압력은 몇 kPa 인가?",
+      "options": [
+        "101.7",
+        "109.6",
+        "126.4",
+        "131.7",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m33.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q194",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "그림과 같이 수조의 두 노즐에서 물이 분출하여 한 점(A)에서 만나려고 하면 어떤 관계가 성립되어야 하는가? (단, 공기저항과 노즐의 손실은 무시한다.)",
+      "options": [
+        "h1y1 = h2y2",
+        "h1y2 = h2y1",
+        "h1h2 = y1y2",
+        "h1y1 = 2h2y2",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m34.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q195",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "길이 100m, 직경 50mm, 상대조도 0.01인 원형 수도관 내에 물이 흐르고 있다. 관내 평균유속이 3m/s에서 6m/s로 증가하면 압력손실은 몇 배로 되겠는가? (단, 유동은 마찰계수가 일정한 완전난류로 가정한다.)",
+      "options": [
+        "1.41배",
+        "2배",
+        "4배",
+        "8배",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q196",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "한 변이 8cm인 정육면체를 비중이 1.26인 글리세린에 담그니 절반의 부피가 잠겼다. 이때 정육면체를 수직방향으로 눌러 완전히 잠기게 하는데 필요한 힘은 약 몇 N 인가?",
+      "options": [
+        "2.56",
+        "3.16",
+        "6.53",
+        "12.5",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q197",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "그림과 같이 반지름 0.8m이고 폭이 2m인 곡면 AB가 수문으로 이용된다. 물에 의한 힘의 수평성분의 크기는 약 몇 kN 인가? (단, 수문의 폭은 2m 이다.)",
+      "options": [
+        "72.1",
+        "84.7",
+        "90.2",
+        "95.4",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m37.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q198",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "펌프 운전 시 발생하는 캐비테이션의 발생을 예방하는 방법이 아닌 것은?",
+      "options": [
+        "펌프의 회전수를 높여 흡입 비속도를 높게 한다.",
+        "펌프의 설치높이를 될 수 있는 대로 낮춘다.",
+        "입형펌프를 사용하고, 회전차를 수중에 완전히 잠기게 한다.",
+        "양흡입 펌프를 사용한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q199",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "실내의 난방용 방열기(물-공기 열교환기)에는 대부분 방열 핀(fin)이 달려 있다. 그 주된 이유는?",
+      "options": [
+        "열전달 면적 증가",
+        "열전달계수 증가",
+        "방사율 증가",
+        "열저항 증가",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q200",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "그림에서 물 탱크차가 받는 추력은 약 몇 N 인가? (단, 노즐의 단면적은 0.03m2 이며, 탱크 내의 계기압력은 40kPa 이다. 또한 노즐에서 마찰 손실은 무시한다.)",
+      "options": [
+        "812",
+        "1490",
+        "2710",
+        "5340",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m40.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q201",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방기본법 제1장 총칙에서 정하는 목적의 내용으로 거리가 먼 것은?",
+      "options": [
+        "구조, 구급 활동 등을 통하여 공공의 안녕 및 질서 유지",
+        "풍수해의 예방, 경계, 진압에 관한 계획, 예산 지원 활동",
+        "구조, 구급 활동 등을 통하여 국민의 생명, 신체, 재산 보호",
+        "화재, 재난, 재해 그 밖의 위급한 상황에서의 구조, 구급 활동",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q202",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방기본법령상 위험물 또는 물건의 보관기간은 소방본부 또는 소방서의 게시판에 공고하는 기간의 종료일 다음 날부터 며칠로 하는가?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "7",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q203",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 관리업자가 소방시설등의 점검을 마친 후 점검기록표에 기록하고 이를 해당 특정소방대상물에 부착하여야 하나 이를 위반하고 점검기록표를 거짓으로 작성하거나 해당 특정소방대상물에 부착하지 아니하였을 경우 벌칙 기준은?",
+      "options": [
+        "100만원 이하의 벌금",
+        "200만원 이하의 벌금",
+        "300만원 이하의 벌금",
+        "500만원 이하의 벌금",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q204",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "위험물안전관리법령상 제4류 위험물 중 경유의 지정수량은 몇 리터인가?",
+      "options": [
+        "500",
+        "1000",
+        "1500",
+        "2000",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q205",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 소방청장, 소방본부장 또는 소방서장이 소방특별조사를 하려면 관계인에게 조사대상, 조사기간 및 조사사유 등을 최대 며칠 전에 서면으로 알려야 하는가? (단, 긴급하게 조사할 필요가 있는 경우와 사전에 통지하면 조사목적을 달성할 수 없다고 인정되는 경우는 제외한다.)",
+      "options": [
+        "7",
+        "10",
+        "12",
+        "14",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q206",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방시설공사업법령상 소방시설공사업자가 소속 소방기술자를 소방시설공사 현장에 배치하지 않았을 경우의 과태료 기준은?",
+      "options": [
+        "100만원 이하",
+        "200만원 이하",
+        "300만원 이하",
+        "400만원 이하",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q207",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 천재지변 및 그 밖에 대통령령으로 정하는 사유로 소방특별조사를 받기 곤란하여 소방특별조사의 연기를 신청하려는 자는 소방특별조사 시작 최대 며칠 전까지 연기신청서 및 증명서류를 제출해야 하는가?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "10",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q208",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 1급 소방안전관리대상물의 소방안전관리자 선임대상 기준 중 (   ) 안에 알맞은 내용은?(관련 규정 개정전 문제로 여기서는 기존 정답인 2번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "1년 이상",
+        "2년 이상",
+        "3년 이상",
+        "5년 이상",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m48.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q209",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "위험물안전관리법령상 제조소등에 설치하여야 할 자동화재탐지설비의 설치기준 중 (  ) 안에 알맞은 내용은? (단, 광선식분리형 감지기 설치는 제외한다.)",
+      "options": [
+        "㉠ 300, ㉡ 20",
+        "㉠ 400, ㉡ 30",
+        "㉠ 500, ㉡ 40",
+        "㉠ 600, ㉡ 50",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m49.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q210",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 특정소방대상물의 관계인은 소방안전관리자를 기준일로부터 30일 이내에 선임하여야 한다. 다음 중 기준일로 틀린 것은?",
+      "options": [
+        "소방안전관리자를 해임한 경우 : 소방안전관리자를 해임한 날",
+        "특정소방대상물을 양수하여 관계인의 권리를 취득한 경우 : 해당 권리를 취득한 날",
+        "신축으로 해당 특정소방대상물의 소방안전관리자를 신규로 선임하여야 하는 경우 : 해당 특정소방대상물의 완공일",
+        "증축으로 인하여 특정소방대상물이 소방안전관리대상물로 된 경우 : 증축공사의 개시일",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q211",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "위험물안전관리법령상 정기점검의 대상인 제조소등의 기준으로 틀린 것은?",
+      "options": [
+        "지하탱크저장소",
+        "이동탱크저장소",
+        "지정수량의 10배 이상의 위험물을 취급하는 제조소",
+        "지정수량의 20배 이상의 위험물을 저장하는 옥외탱크저장소",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q212",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 특정소방대상물의 관계인이 특정소방대상물의 규모·용도 및 수용인원 등을 고려하여 갖추어야 하는 소방시설의 종류에 대한 기준 중 다음 (  ) 안에 알맞은 것은?",
+      "options": [
+        "㉠ 33, ㉡ 1/2",
+        "㉠ 33, ㉡ 1/5",
+        "㉠ 50, ㉡ 1/2",
+        "㉠ 50, ㉡ 1/5",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m52.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q213",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 용어의 정의 중 (   ) 안에 알맞은 것은?",
+      "options": [
+        "대통령령",
+        "국토교통부령",
+        "행정안전부령",
+        "고용노동부령",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m53.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q214",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 분말형태의 소화약제를 사용하는 소화기의 내용연수로 옳은 것은? (단, 소방용품의 성능을 확인받아 그 사용기한을 연장하는 경우는 제외한다.)",
+      "options": [
+        "3년",
+        "5년",
+        "7년",
+        "10년",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q215",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방시설공사업법령상 전문 소방시설공사업의 등록기준 및 영업범위의 기준에 대한 설명으로 틀린 것은?",
+      "options": [
+        "법인인 경우 자본금은 최소 1억원 이상이다.",
+        "개인인 경우 자산평가액은 최소 1억원 이상이다.",
+        "주된 기술인력 최소 1명 이상, 보조기술인력 최소 3명 이상을 둔다.",
+        "영업범위는 특정소방대상물에 설치되는 기계분야 및 전기분야 소방시설의 공사·개설·이전 및 정비이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q216",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "다음 위험물안전관리법령의 자체소방대 기준에 대한 설명으로 틀린 것은?",
+      "options": [
+        "“대통령령이 정하는 제조소등”은 제4류 위험물을 취급하는 제조소를 포함한다.",
+        "“대통령령이 정하는 제조소등”은 제4류 위험물을 취급하는 일반취급소를 포함한다.",
+        "“대통령령이 정하는 수량 이상의 위험물”은 제4류 위험물의 최대수량의 합이 지정수량의 3천배 이상인 것을 포함한다.",
+        "“대통령령이 정하는 제조소등”은 보일러로 위험물을 소비하는 일반취급소를 포함한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m56.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q217",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방기본법령상 소방본부 종합상황실의 실장이 서면·팩스 또는 컴퓨터통신 등으로 소방청 종합상황실에 보고하여야 하는 화재의 기준이 아닌 것은?",
+      "options": [
+        "이재민이 100인 이상 발생한 화재",
+        "재산피해액이 50억원 이상 발생한 화재",
+        "사망자가 3인 이상 발생하거나 사상자가 5인 이상 발생한 화재",
+        "층수가 5층 이상이거나 병상이 30개 이상인 종합병원에서 발생한 화재",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q218",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방기본법령상 특수가연물의 수량 기준으로 옳은 것은?",
+      "options": [
+        "면화류 : 200kg 이상",
+        "가연성고체류 : 500kg 이상",
+        "나무껍질 및 대팻밥 : 300kg 이상",
+        "넝마 및 종이부스러기 : 400kg 이상",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q219",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "위험물안전관리법령상 위험물을 취급함에 있어서 정전기가 발생할 우려가 있는 설비에 설치할 수 있는 정전기 제거설비 방법이 아닌 것은?",
+      "options": [
+        "접지에 의한 방법",
+        "공기를 이온화하는 방법",
+        "자동적으로 압력의 상승을 정지시키는 방법",
+        "공기 중의 상대습도를 70% 이상으로 하는 방법",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q220",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방기본법령상 소방활동장비와 설비의 구입 및 설치 시 국조보조의 대상이 아닌 것은?",
+      "options": [
+        "소방자동차",
+        "사무용 집기",
+        "소방헬리콥터 및 소방정",
+        "소방전용통신설비 및 전산설비",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q221",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "특별피난계단의 계단실 및 부속실 제연설비의 화재안전기준상 수직풍도에 따른 배출기준 중 각층의 옥내와 면하는 수직풍도의 관통부에 설치하여야 하는 배출댐퍼 설치기준으로 틀린 것은?",
+      "options": [
+        "화재층의 옥내에 설치된 화재감지기의 동작에 따라 당해층의 댐퍼가 개방될 것",
+        "풍도의 배출댐퍼는 이·탈착구조가 되지 않도록 설치할 것",
+        "개폐여부를 당해 장치 및 제어반에서 확인할 수 있는 감지기능을 내장하고 있을 것",
+        "배출댐퍼는 두께 1.5mm 이상의 강판 또는 이와 동등 이상의 성능이 있는 것으로 설치하여야 하며 비 내식성 재료의 경우에는 부식방지 조치를 할 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q222",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "포소화설비의 화재안전기준에 따라 포소화설비 송수구의 설치 기준에 대한 설명으로 옳은 것은?",
+      "options": [
+        "구경 65mm의 쌍구형으로 할 것",
+        "지면으로부터 높이가 0.5m 이상 1.5m 이하의 위치에 설치할 것",
+        "하나의 층 바닥면적이 2000m2를 넘을 때마다 1개 이상을 설치할 것",
+        "송수구의 가까운 부분에 자동배수밸브(또는 직경 3mm의 배수공) 및 안전밸브를 설치할 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q223",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "스프링클러설비 본체내의 유수현상을 자동적으로 검지하여 신호 또는 경보를 발하는 장치는?",
+      "options": [
+        "수압계폐장치",
+        "물올림장치",
+        "일제개방밸브장치",
+        "유수검지장치",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q224",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "옥내소화전설비 화재안전기준에 따라 옥내소화전설비의 표시등 설치기준으로 옳은 것은?",
+      "options": [
+        "가압송수장치의 기동을 표시하는 표시등은 옥내소화전함의 상부 또는 그 직근에 설치한다.",
+        "가압송수장치의 기동을 표시하는 표시등은 녹색등으로 한다.",
+        "자체소방대를 구성하여 운영하는 경우 가압송수장치의 기동표시등을 반드시 설치해야 한다.",
+        "옥내소화전설비의 위치를 표시하는 표시등은 함의 하부에 설치하되, 「표시등의 성능인증 및 제품검사의 기술기준」에 적합한 것으로 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q225",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "소화기구 및 자동소화장치의 화재안전기준상 건축물의 주유구조부가 내화구조이고, 벽 및 반자의 실내에 면하는 부분이 불연재료로 된 바닥 면적이 600m2인 노유자시설에 필요한 소화기구의 능력단위는 최소 얼마 이상으로 하여야 하는가?",
+      "options": [
+        "2단위",
+        "3단위",
+        "4단위",
+        "6단위",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q226",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "분말소화설비의 화재안전기준에 따라 분말소화설비의 자동식 기동장치의 설치기준으로 틀린 것은? (단, 자동식 기동장치는 자동화재탐지설비의 감지기의 작동과 연동하는 것이다.)",
+      "options": [
+        "기동용 가스용기의 충전비는 1.5 이상으로 할 것",
+        "자동식 기동장치에는 수동으로도 기동할 수 있는 구조로 할 것",
+        "전기식 기동장치로서 3병 이상의 저장용기를 동시에 개방하는 설비는 2병 이상의 저장용기에 전자개방밸브를 부착할 것",
+        "기동용 가스용기에는 내압시험압력의 0.8배 내지 내압시험압력 이하에서 작동하는 안전장치를 설치할 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q227",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "상수도소화용수설비의 화재안전기준에 따른 설치기준 중 다음 (  ) 안에 알맞은 것은?",
+      "options": [
+        "㉠ 65, ㉡ 80, ㉢ 120",
+        "㉠ 65, ㉡ 100, ㉢ 140",
+        "㉠ 75, ㉡ 80, ㉢ 120",
+        "㉠ 75, ㉡ 100, ㉢ 140",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m67.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q228",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "스프링클러설비의 화재안전기준에 따라 스프링클러헤드를 설치하지 않을 수 있는 장소로만 나열된 것은?",
+      "options": [
+        "계단실, 병실, 목욕실, 냉동창고의 냉동실, 아파트(대피공간 제외)",
+        "발전실, 병원의 수술실·응급처치실, 통신기기실, 관람석이 없는 실내 테니스장(실내 바닥·벽 등이 불연재료)",
+        "냉동창고의 냉동실, 변전실, 병실, 목욕실, 수영장 관람석",
+        "병원의 수술실, 관람석이 없는 실내 테니스장(실내 바닥·벽 등이 불연재료), 변전실, 발전실, 아파트(대피공간 제외)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q229",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "포소화설비의 화재안전기준에 따라 포소화설비에 소방용 합성수지배관을 설치할 수 있는 경우로 틀린 것은?",
+      "options": [
+        "배관을 지하에 매설하는 경우",
+        "다른 부분과 내화구조로 구획된 덕트 또는 피트의 내부에 설치하는 경우",
+        "동결방지조치로 하거나 동결의 우려가 없는 경우",
+        "천장과 반자를 불연재료 또는 준불연재료로 설치하고 그 내부에 습식으로 배관을 설치하는 경우",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q230",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "다음 중 피난기구의 화재안전기준에 따라 피난기구를 설치하지 아니하여도 되는 소방대상물로 틀린 것은?",
+      "options": [
+        "발코니 등을 통하여 인접세대로 피난할 수 있는 구조로 되어 있는 계단실형 아파트",
+        "주요구조부가 내화구조로서 거실의 각 부분으로 직접 복도로 피난할 수 있는 학교(강의실 용도로 사용되는 층에 한함)",
+        "무인공장 또는 자동창고로서 사람의 출입이 금지된 장소",
+        "문화집회 및 운동시설·판매시설 및 영업시설 또는 노유자시설의 용도로 사용되는 층으로서 그 층의 바닥면적이 1000m2 이상인 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q231",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "지하구의 화재안전기준에 따라 연소방지설비헤드의 설치기준으로 옳은 것은?",
+      "options": [
+        "헤드간의 수평거리는 연소방지설비 전용헤드의 경우에는 1.5m 이하로 할 것",
+        "헤드간의 수평거리는 스프링클러헤드의 경우에는 2m 이하로 할 것",
+        "천장 또는 벽면에 설치할 것",
+        "한쪽 방향의 살수구역의 길이는 2m 이상으로 할 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q232",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "소화기구 및 자동소화장치의 화재안전기준상 소화기구의 소화약제별 적응성 중 C급 화재에 적응성이 없는 소화약제는?",
+      "options": [
+        "마른 모래",
+        "할로겐화합물 및 불활성기체 소화약제",
+        "이산화탄소 소화약제",
+        "중탄산염류 소화약제",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q233",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "이산화탄소소화설비 및 할론소화설비의 국소방출방식에 대한 설명으로 옳은 것은?",
+      "options": [
+        "고정식 소화약제 공급장치에 배관 및 분사헤드를 설치하여 직접 화점에 소화약제를 방출하는 방식이다.",
+        "고정된 분사헤드에서 밀폐 방호구역 공간 전체로 소화약제를 방출하는 방식이다.",
+        "호스 선단에 부착된 노즐을 이동하여 방호대상물에 직접 소화약제를 방출하는 방식이다.",
+        "소화약제 용기 노즐 등을 운반기구에 적재하고 방호대상물에 직접 소화약제를 방출하는 방식이다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q234",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "특고압의 전기시설을 보호하기 위한 소화설비로 물분무소화설비를 사용한다. 그 주된 이유로 옳은 것은?",
+      "options": [
+        "물분무 설비는 다른 물 소화설비에 비해서 신속한 소화를 보여주기 때문이다.",
+        "물분무 설비는 다른 물 소화설비에 비해서 물의 소모량이 적기 때문이다.",
+        "분무상태의 물은 전기적으로 비전도성이기 때문이다.",
+        "물분무입자 역시 물이므로 전기전도성이 있으나 전기 시설물을 젖게 하지 않기 때문이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q235",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "물분소화설비의 화재안전기준에 따라 물분무소화설비를 설치하는 차고 또는 주차장이 배수설비 설치기준으로 틀린 것은?",
+      "options": [
+        "차량이 주차하는 바닥은 배수구를 향해 1/100 이상의 기울기를 유지할 것",
+        "배수구에서 새어나온 기름을 모아 소화할 수 있도록 길이 40m 이하마다 집수관·소화핏트 등 기름분리장치를 설치할 것",
+        "차량이 주차하는 장소의 적당한 곳에 높이 10cm 이상이 경계턱으로 배수구를 설치할 것",
+        "배수설비는 가압송수장치의 최대송수능력이 수량을 유효하게 배수할 수 있는 크기 및 기울기로 할 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q236",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "연결송수관설비의 화재안전기준에 따라 송수구가 부설된 옥내소화전을 설치한 특정소방대상물로서 연결송수관설비의 방수구를 설치하지 아니할 수 있는 층의 기준 중 다음 (  ) 안에 알맞은 것은? (단, 집회장·관람장·백화점·도매시장·소매시장·판매시설·공장·창고시설 또는 지하가를 제외한다.)",
+      "options": [
+        "㉠ 3, ㉡ 5000, ㉢ 3",
+        "㉠ 4, ㉡ 6000, ㉢ 2",
+        "㉠ 5, ㉡ 3000, ㉢ 3",
+        "㉠ 6, ㉡ 4000, ㉢ 2",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m76.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q237",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "스프링클러설비의 화재안전기준에 따라 폐쇄형스프링클러헤드를 최고 주위온도 40℃인 장소(공장 및 창고 제외)에 설치할 경우 표시온도는 몇 ℃의 것을 설치하여야 하는가?",
+      "options": [
+        "79℃ 미만",
+        "79℃ 이상 121℃ 미만",
+        "121℃ 이상 162℃ 미만",
+        "162℃ 이상",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q238",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "할론소화설비의 화재안전기준상 할론 1211을 국소방출방식으로 방사할 때 분사헤드의 방사압력 기준은 몇 MPa 이상인가?",
+      "options": [
+        "0.1",
+        "0.2",
+        "0.9",
+        "1.05",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q239",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "물분무소화설비의 화재안전기준상 물분무헤드를 설치하지 아니할 수 있는 장소의 기준 중 다음 (  ) 안에 알맞은 것은?",
+      "options": [
+        "160",
+        "200",
+        "260",
+        "300",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210912/nd20210912m79.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q240",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-09-12 기출",
+      "question_text": "인명구조기구의 화재안전기준에 따라 특정소방대상물의 용도 및 장소별로 설치해야 할 인명구조기구의 기준으로 틀린 것은?",
+      "options": [
+        "지하가 중 지하상가는 인공소생기를 층마다 2개 이상 비치할 것",
+        "판매시설 중 대규모 점포는 공기호흡기를 층마다 2개 이상 비치할 것",
+        "지하층을 포함하는 층수가 7층 이상인 관광호텔은 방열복(또는 방화복), 공기호흡기, 인공소생기를 각 2개 이상 비치할 것",
+        "물분무등소화설비 중 이산화탄소 소화설비를 설치해야 하는 특정소방대상물은 공기호흡기를 이산화탄소 소화설비가 설치된 장소의 출입구 외부 인근에 1대 이상 비치할 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q241",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "내화건축물과 비교한 목조건축물 화재의 일반적인 특징을 옳게 나타낸 것은?",
+      "options": [
+        "고온, 단시간형",
+        "저온, 단시간형",
+        "고온, 장시간형",
+        "저온, 장시간형",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q242",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 증기 비중이 가장 큰 것은?",
+      "options": [
+        "Halon 1301",
+        "Halon 2402",
+        "Halon 1211",
+        "Halon 104",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q243",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재발생 시 피난기구로 직접 활용할 수 없는 것은?",
+      "options": [
+        "완강기",
+        "무선통신보조설비",
+        "피난사다리",
+        "구조대",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q244",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "정전기에 의한 발화과정으로 옳은 것은?",
+      "options": [
+        "방전 → 전하의 축적 → 전하의 발생 → 발화",
+        "전하의 발생 → 전하의 축적 → 방전 → 발화",
+        "전하의 발생 → 방전 → 전하의 축적 → 발화",
+        "전하의 축적 → 방전 → 전하의 발생 → 발화",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q245",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "물리적 소화방법이 아닌 것은?",
+      "options": [
+        "산소공급원 차단",
+        "연쇄반응 차단",
+        "온도 냉각",
+        "가연물제거",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q246",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "탄화칼슘이 물과 반응할 때 발생되는 기체는?",
+      "options": [
+        "일산화탄소",
+        "아세틸렌",
+        "황화수소",
+        "수소",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q247",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "분말소화약제 중 A급, B급, C급 화재에 모두 사용할 수 있는 것은?",
+      "options": [
+        "제1종 분말",
+        "제2종 분말",
+        "제3종 분말",
+        "제4종 분말",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q248",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "조연성 가스에 해당하는 것은?",
+      "options": [
+        "수소",
+        "일산화탄소",
+        "산소",
+        "에탄",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q249",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "분자내부에 니트로기를 갖고 있는 TNT, 니트로셀룰로오스 등과 같은 제5류 위험물의 연소 형태는?",
+      "options": [
+        "분해연소",
+        "자기연소",
+        "증발연소",
+        "표면연소",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q250",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "가연물질의 종류에 따라 화재를 분류하였을 때 섬유류 화재가 속하는 것은?",
+      "options": [
+        "A급 화재",
+        "B급 화재",
+        "C급 화재",
+        "D급 화재",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q251",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "위험물안전관리법령상 제6류 위험물을 수납하는 운반용기의 외부에 주의사항을  표시하여야 할 경우, 어떤 내용을 표시하여야 하는가?",
+      "options": [
+        "물기엄금",
+        "화기엄금",
+        "화기주의/충격주의",
+        "가연물 접촉주의",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q252",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 연소 생성물 중 인체에 독성이 가장 높은 것은?",
+      "options": [
+        "이산화탄소",
+        "일산화탄소",
+        "수증기",
+        "포스겐",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q253",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "알킬알루미늄 화재에 적합한 소화약제는?",
+      "options": [
+        "물",
+        "이산화탄소",
+        "팽창질석",
+        "할로겐화합물",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q254",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "열전도도(thermal conductivity)를 표시하는단위에 해당하는 것은?",
+      "options": [
+        "J/m2・h",
+        "kcal/h・℃2",
+        "W/m・K",
+        "J・K/m3",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q255",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "위험물안전관리법령상 위험물에 대한설명으로 옳은 것은?",
+      "options": [
+        "과염소산은 위험물이 아니다.",
+        "황린은 제2류 위험물이다.",
+        "황화린의 지정수량은 100 kg이다.",
+        "산화성고체는 제6류 위험물의 성질이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q256",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "제3종 분말소화약제의 주성분은?",
+      "options": [
+        "인산암모늄",
+        "탄산수소칼륨",
+        "탄산수소나트륨",
+        "탄산수소칼륨과 요소",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q257",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "이산화탄소 소화기의 일반적인 성질에서 단점이 아닌 것은?",
+      "options": [
+        "밀폐된 공간에서 사용 시 질식의 위험성이 있다.",
+        "인체에 직접 방출 시 동상의 위험성이 있다.",
+        "소화약제의 방사 시 소음이 크다.",
+        "전기가 잘 통하기 때문에 전기설비에 사용할 수 없다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q258",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "IG-541 이 15℃에서 내용적 50리터 압력용기에 155kgf/cm2으로 충전되어 있다. 온도가 30℃가 되었다면 IG-541 압력은 약 몇 kgf/cm2가 되겠는가? (단, 용기의 팽창은 없다고 가정한다.)",
+      "options": [
+        "78",
+        "155",
+        "163",
+        "310",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q259",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "소화약제 중 HFC-125의 화학식으로 옳은 것은?",
+      "options": [
+        "CHF2CF3",
+        "CHF3",
+        "CF3CHFCF3",
+        "CF3I",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q260",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "프로판 50vol%, 부탄 40vol%, 프로필렌 10vol%로 된 혼합가스의 폭발하한계는 약 몇 vol% 인가? (단, 각 가스의 폭발하한계는 프로판은 2.2vol%, 부탄은 1.9vol%, 프로필렌은 2.4vol%이다.)",
+      "options": [
+        "0.83",
+        "2.09",
+        "5.05",
+        "9.44",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q261",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "직경 20cm의 소화용 호스에 물이 392 N/s 흐른다. 이 때의 평균유속(m/s)은?",
+      "options": [
+        "2.96",
+        "4.34",
+        "3.68",
+        "1.27",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q262",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "수은이 채워진 U자관에 수은보다 비중이 작은 어떤 액체를 넣었다. 액체기둥의 높이가 10cm, 수은과 액체의 자유 표면의 높이 차이가 6cm일 때 이 액체의 비중은? (단, 수은의 비중은 13.6 이다.)",
+      "options": [
+        "5.44",
+        "8.16",
+        "9.63",
+        "10.88",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q263",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "수압기에서 피스톤의 반지름이 각각 20cm와 10cm이다. 작은 피스톤에 19.6N의 힘을 가하는 경우 평형을 이루기 위해 큰 피스톤에는 몇 N의 하중을 가하여야 하는가?",
+      "options": [
+        "4.9",
+        "9.8",
+        "68.4",
+        "78.4",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q264",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "그림과 같이 중앙부분에 구멍이 뚫린 원판에 지름 D의 원형 물제트가 대기압 상태에서 V의 속도로 충돌하여 원판 뒤로 지름 D/2의 원형 물제트가 V의 속도로 홀러나가고 있을 때, 이 원판이 받는 힘을 구하는 계산식으로 옳은 것은? (단, ρ는 물의 밀도이다.)",
+      "options": [
+        "",
+        "",
+        "",
+        "3ρπV2D2",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210515/nd20210515m24.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q265",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "압력 0.1MPa, 온도 250℃ 상태인 물의 엔탈피가 2974.33 kJ/kg이고 비체적은 2.40604m3/kg이다. 이 상태에서 물의 내부에너지(kJ/kg)는 얼마인가?",
+      "options": [
+        "2733.7",
+        "2974.1",
+        "3214.9",
+        "3582.7",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q266",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "300 K의 저온 열원을 가지고 카르노 사이클로 작동하는 열기관의 효율이 70%가 되기 위해서 필요한 고온 열원의 온도(K)는?",
+      "options": [
+        "800",
+        "900",
+        "1000",
+        "1100",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q267",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "물이 들어 있는 탱크에 수면으로부터 20m 깊이에 지름 50mm 의 오리피스가 있다. 이 오리피스에서 흘러나오는 유량(m3/min)은?(단, 탱크의 수면 높이는 일정하고 모든 손실은 무시한다.)",
+      "options": [
+        "1.3",
+        "2.3",
+        "3.3",
+        "4.3",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q268",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 열전달 매질이 없이도 열이 전달되는 형태는?",
+      "options": [
+        "전도",
+        "자연대류",
+        "복사",
+        "강제대류",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q269",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "양정 220m, 유량 0.025m3/s, 회전수 2900rpm인 4단 원심 펌프의 비교회전도 (비속도)[m3/min, m, rpm]는 얼마인가?",
+      "options": [
+        "176",
+        "167",
+        "45",
+        "23",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q270",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "동력(power)의 차원을 MLT(질량 M, 길이 L, 시간 T)계로 바르게 나타낸 것은?",
+      "options": [
+        "MLT-1",
+        "M2LT-2",
+        "ML2T-3",
+        "MLT-2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q271",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "직사각형 단면의 덕트에서 가로와 세로가 각각 a 및 1.5a이고, 길이가 L이며, 이 안에서 공기가 V의 평균속도로 흐르고 있다. 이 때 손실수두를 구하는 식으로 옳은 것은? (단, f는 이 수력지름에 기초한 마찰계수이고, g는 중력가속도를 의미한다.)",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q272",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "무차원수 중 레이놀즈수(Reynolds number)의 물리적인 의미는?",
+      "options": [
+        "관성력/중력",
+        "관성력/탄성력",
+        "관성력/점성력",
+        "관성력/음속",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q273",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "동일한 노즐구경을 갖는 소방차에서 방수압력이 1.5배가 되면 방수량은 몇 배로되는가?",
+      "options": [
+        "1.22 배",
+        "1.41 배",
+        "1.52 배",
+        "2.25 배",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q274",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "전양정 80m, 토출량 500 L/min인 물을 사용하는 소화펌프가 있다. 펌프효율 65%, 전달계수(K) 1.1인 경우 필요한 전동기의 최소동력(kW)은?",
+      "options": [
+        "9",
+        "11",
+        "13",
+        "15",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q275",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "안지름 10cm인 수평 원관의 층류유동으로 4km 떨어진 곳에 원유(점성계수 0.02 N・s/m2, 비중 0.86)를 0.10 m3/min의 유량으로 수송하려 할 때 펌프에 필요한 동력(W)은? (단, 펌프의 효율은 100%로 가정한다.)",
+      "options": [
+        "76",
+        "91",
+        "10900",
+        "9100",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q276",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "유속 6m/s로 정상류의 물이 화살표 방향으로 흐르는 배관에 압력계와 피토계가 설치되어있다. 이때 압력계의 계기압력이 300 kPa이었다면 피토계의 계기압력은 약 몇 kPa인가?",
+      "options": [
+        "180",
+        "280",
+        "318",
+        "336",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210515/nd20210515m36.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q277",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "유체의 압축률에 관한 설명으로 올바른 것은?",
+      "options": [
+        "압축률 = 밀도 × 체적탄성계수",
+        "압축률 = 1/체적탄성계수",
+        "압축률 = 밀도/체적탄성계수",
+        "압축률 = 체적탄성계수/밀도",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q278",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "질량이 5㎏인 공기(이상기체)가 온도 333K로 일정하게 유지되면서 체적이 10배가 되었다. 이 계(system)가 한 일(kJ)은? (단, 공기의 기체상수는 287J/kg·K이다.)",
+      "options": [
+        "220",
+        "478",
+        "1100",
+        "4779",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q279",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "무한한 두 평판 사이에 유체가 채워져 있고 한 평판은 정지해 있고 또 다른 평판은 일정한 속도로 움직이는 Couette 유동을 하고 있다. 유체 A만 채워져 있을 때 평판을 움직이기 위한 단위면적당 힘을 τ1이라 하고 같은 평판 사이에 점성이 다른 유체 B만 채워져 있을 때 필요한 힘을 τ2라 하면 유체 A와 B가 반반씩 위아래로 채워져 있을 때 평판을 같은 속도로 움직이기 위한 단위면적당 힘에 대한 표현으로 옳은 것은?",
+      "options": [
+        "τ1+τ2/2",
+        "",
+        "2τ1τ2/τ1+τ2",
+        "τ1+τ2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q280",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "2m 깊이로 물이 차있는 물 탱크 바닥에 한 변이 20cm인 정사각형 모양의 관측창이 설치되어 있다. 관측창이 물로 인하여 받는 순 힘(net force)은 몇 N인가? (단, 관측창 밖의 압력은 대기압이다.)",
+      "options": [
+        "784",
+        "392",
+        "196",
+        "98",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q281",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방기본법의 정의상 소방대상물의 관계인이 아닌 자는?",
+      "options": [
+        "감리자",
+        "관리자",
+        "점유자",
+        "소유자",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q282",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방기본법령상 화재의 예방상 위험하다고 인정되는 행위를 하는 사람에게 행위의 금지 또는 제한 명령을 할 수 있는 사람은?",
+      "options": [
+        "소방본부장",
+        "시·도지사",
+        "의용소방대원",
+        "소방대상물의 관리자",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q283",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "위험물안전관리법령상 취급하는 위험물의 최대수량이 지정수량의 10배 이하인 경우 공지의 너비 기준은? (문제 오류로 가답안 발표시 4번으로 발표되었지만 확정 답안 발표시 모두 정답처리 되었습니다. 여기서는 가답안인 4번을 누르면 정답 처리 됩니다.)",
+      "options": [
+        "2m 이하",
+        "2m 이상",
+        "3m 이하",
+        "3m 이상",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q284",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "위험물안전관리법령상 제조소 또는 일반 취급소에서 취급하는 제4류 위험물의 최대수량의 합이 지정수량의 48만배 이상인사업소의 자체소방대에 두는 화학소방자동차 및 인원기준으로 다음 (   ) 안에 알맞은 것은?",
+      "options": [
+        "ⓐ 1대, ⓑ 5인",
+        "ⓐ 2대, ⓑ 10인",
+        "ⓐ 3대, ⓑ 15인",
+        "ⓐ 4대, ⓑ 20인",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210515/nd20210515m44.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q285",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방법상 특수가연물의 저장 및 취급기준이 아닌 것은? (단, 석탄/목탄류를 발전용으로 저장하는 경우는 제외)(2023년 01월 03일 개정된 규정 적용됨)",
+      "options": [
+        "품명별로 구분하여 쌓는다.",
+        "쌓는 높이는 20m 이하가 되도록 한다.",
+        "쌓는 부분의 바닥면적 사이는 실내의 경우1.2m 또는 쌓는 높이 1/2 중 큰 값 이상으로 간격을 둘 것",
+        "특수가연물을 저장 또는 취급하는 장소에는 품명·최대수량 및 화기취급의 금지 표지를 설치해야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q286",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 소화설비를 구성하는 제품 또는 기기에 해당하지 않는 것은?",
+      "options": [
+        "가스누설경보기",
+        "소방호스",
+        "스프링클러헤드",
+        "분말자동소화장치",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q287",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방기본법령상 출동한 소방대원에게 폭행 또는 협박을 행사하여 화재진압 인명구조 또는 구급활동을 방해한 사람에 대한 벌칙 기준은?",
+      "options": [
+        "500만원 이하의 과태료",
+        "1년 이하의 징역 또는 1000만원 이하의 벌금",
+        "3년 이하의 징역 또는 3000만원 이하의 벌금",
+        "5년 이하의 징역 또는 5000만원 이하의 벌금",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q288",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 건축허가 등의 동의 대상물의 범위로 틀린 것은?",
+      "options": [
+        "항공기 격납고",
+        "방송용 송·수신탑",
+        "연면적이 400제곱미터 이상인 건축물",
+        "지하층 또는 무창층이 있는 건축물로서 바닥면적이 50제곱미터 이상인 층이 있는 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q289",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방시설공사업법령에 따른 완공검사를 위한 현장확인 대상 특정소방대상물의 범위기준으로 틀린 것은?",
+      "options": [
+        "연면적 1만제곱미터 이상이거나 11층이상인 특정소방대상물(아파트는 제외)",
+        "가연성가스를 제조·저장 또는 취급하는 시설 중 지상에 노출된 가연성가스탱크의 저장용량 합계가 1천톤 이상인 시설",
+        "호스릴 방식의 소화설비가 설치되는 특정소방대상물",
+        "문화 및 집회시설, 종교시설, 판매시설, 노유자시설, 수련시설, 운동시설, 숙박시설, 창고시설, 지하상가",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q290",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 스프링클러설비를 설치하여야 할 특정소방대상물에 다음 중 어떤 소방시설을 화재안전기준에 적합하게 설치하면 면제 받을 수 있는가? (문제 오류로 가답안 발표시 2번으로 발표되었지만 확정 답안 발표시 1, 2, 4번이 정답처리 되었습니다. 여기서는 가답안인 2번을 누르면 정답 처리 됩니다.)",
+      "options": [
+        "포소화설비",
+        "물분무소화설비",
+        "간이스프링클러설비",
+        "이산화탄소소화설비",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q291",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 대통령령 또는 화재안전기준이 변경되어 그 기준이 강화되는 경우 기존 특정 소방대상물의 소방시설 중 강화된 기준을 설치장소와 관계없이 항상 적용하여야 하는 것은? (단, 건축물의 신축·개축·재축·이전 및 대수선중인 특정소방대상물을 포함한다.)",
+      "options": [
+        "제연설비",
+        "비상경보설비",
+        "옥내소화전설비",
+        "화재조기진압용 스프링클러설비",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q292",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 시·도지사가 소방시설 등의 자체점검을 하지 아니한 관리업자에게 영업정지를 명할 수 있으나, 이로 인해 국민에게 심한 불편을 줄 때에는 영업정지처분을 갈음하여 과징금 처분을 한다. 과징금의 기준은?",
+      "options": [
+        "1000만원 이하",
+        "2000만원 이하",
+        "3000만원 이하",
+        "5000만원 이하",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q293",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "위험물안전관리법령상 위험물별 성질로서 틀린 것은?",
+      "options": [
+        "제1류 : 산화성 고체",
+        "제2류 : 가연성 고체",
+        "제4류 : 인화성 액체",
+        "제6류 : 인화성 고체",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q294",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 소방시설등의 종합점검 대상기준에 맞게 (    )에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "2000",
+        "3000",
+        "4000",
+        "5000",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210515/nd20210515m54.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q295",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 안전관리에 관한 법령상 펄프공장의 작업장, 음료수공장의 충전을 하는 작업장 등과 같이 화재안전기준을 적용하기 어려운 특정소방대상물에 설치하지 아니할 수 있는 소방시설의 종류가 아닌 것은?",
+      "options": [
+        "상수도소화용수설비",
+        "스프링클러설비",
+        "연결송수관설비",
+        "연결살수설비",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q296",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방기본법령에 따른 특수가연물의 기준 중 다음 (   ) 안에 알맞은 것은?",
+      "options": [
+        "ⓐ 200, ⓑ 400",
+        "ⓐ 200, ⓑ 1000",
+        "ⓐ 400, ⓑ 200",
+        "ⓐ 400, ⓑ 1000",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210515/nd20210515m56.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q297",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 소방특별조사위원회의 위원에 해당하지 아니하는 사람은?",
+      "options": [
+        "소방기술사",
+        "소방시설관리사",
+        "소방 관련 분야의 석사학위 이상을 취득한 사람",
+        "소방 관련 법인 또는 단체에서 소방 관련업무에 3년 이상 종사한 사람",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q298",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "위험물안전관리법령상 소화 난이도 등급 I 의 옥내탱크저장소에서 유황만을 저장·취급 할 경우 설치하여야 하는 소화설비로 옳은 것은?",
+      "options": [
+        "물분무소화설비",
+        "스프링클러설비",
+        "포소화설비",
+        "옥내소화전설비",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q299",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방시설공사업법령상 하자보수를 하여야하는 소방시설 중 하자보수 보증기간이 3년이 아닌 것은?",
+      "options": [
+        "자동소화장치",
+        "비상방송설비",
+        "스프링클러설비",
+        "상수도소화용수설비",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q300",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방기본법령상 소방대장은 화재, 재난·재해 그 밖의 위급한 상황이 발생한 현장에 소방활동구역을 정하여 소방활동에 필요한 자로서 대통령령으로 정하는 사람 외에는 그 구역에의 출입을 제한할 수 있다. 다음 중 소방활동구역에 출입할 수 없는 사람은?",
+      "options": [
+        "소방활동구역 안에 있는 소방대상물의 소유자·관리자 또는 점유자",
+        "전기·가스·수도·통신·교통의 업무에 종사하는 사람으로서 원활한 소방활동을 위하여 필요한 사람",
+        "시·도지사가 소방활동을 위하여 출입을 허가한 사람",
+        "의사·간호사 그 밖의 구조·구급업무에 종사하는 사람",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q301",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재조기진압용 스프링클러설비의 화재안전기준상 헤드의 설치기준 중 (   )안에 알맞은 것은?",
+      "options": [
+        "ⓐ 2.4, ⓑ 3.7",
+        "ⓐ 3.7, ⓑ 9.1",
+        "ⓐ 6.0, ⓑ 9.3",
+        "ⓐ 9.1, ⓑ 13.7",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210515/nd20210515m61.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q302",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "분말소화설비의 화재안전기준상 수동식 기동장치의 부근에 설치하는 비상스위치에 대한 설명으로 옳은 것은?",
+      "options": [
+        "자동복귀형 스위치로서 수동식 기동장치의 타이머를 순간정지 시키는 기능의 스위치를 말한다.",
+        "자동복귀형 스위치로서 수동식 기동장치가 수신기를 순간정지 시키는 기능의 스위치를 말한다.",
+        "수동복귀형 스위치로서 수동식 기동장치의 타이머를 순간정지 시키는 기능의 스위치를 말한다.",
+        "수동복귀형 스위치로서 수동식 기동장치가 수신기를 순간정지 시키는 기능의 스위치를 말한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q303",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "할론소화설비의 화재안전기준상 화재표시반의 설치 기준이 아닌 것은?",
+      "options": [
+        "소화약제 방출지연 비상스위치를 설치할 것",
+        "소화약제의 방출을 명시하는 표시등을 설치할 것.",
+        "수동식 기동장치는 그 방출용 스위치의 작동을 명시하는 표시등을 설치할 것",
+        "자동식 기동장치는 자동・수동의 절환을 명시하는 표시등을 설치할 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q304",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "피난기구의 화재안전기준상 노유자 시설의 4층 이상 10층 이하에서 적응성이 있는 피난기구가 아닌 것은?",
+      "options": [
+        "피난교",
+        "다수인피난장비",
+        "승강식피난기",
+        "미끄럼대",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q305",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "분말소화설비의 화재안전기준상 다음 (   )안에 알맞은 것은?",
+      "options": [
+        "2.5 MPa 이하",
+        "2.5 MPa 이상",
+        "25 MPa 이하",
+        "25 MPa 이상",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210515/nd20210515m65.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q306",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "스프링클러설비의 화재안전기준상 개방형스프링클러설비에서 하나의 방수구역을 담당하는 헤드의 개수는 최대 몇 개 이하로 해야 하는가? (단, 방수구역은 나누어져 있지 않고 하나의 구역으로 되어 있다.)",
+      "options": [
+        "50",
+        "40",
+        "30",
+        "20",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q307",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "연결살수설비의 화재안전기준상 배관의 설치기준 중 하나의 배관에 부착하는 살수헤드의 개수가 3개인 경우 배관의 구경은 최소 몇 mm 이상으로 설치해야 하는가? (단, 연결살수설비 전용 헤드를 사용하는 경우이다.)",
+      "options": [
+        "40",
+        "50",
+        "65",
+        "80",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q308",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "이산화탄소소화설비의 화재안전기준상 수동식 기동장치의 설치기준에 적합하지 않은 것은?",
+      "options": [
+        "전역방출방식에 있어서는 방호대상물마다 설치",
+        "전기를 사용하는 기동장치에는 전원표시등을 설치할 것",
+        "기동장치의 조작부는 바닥으로부터 높이 0.8m 이상 1.5m 이하의 위치에 설치하고, 보호판 등에 따른 보호장치를 설치할 것",
+        "기동장치의 방출용 스위치는 음향경보장치와 연동하여 조작될 수 있는 것으로 할 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q309",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "옥내소화전설비의 화재안전기준상 옥내소화전펌프의 후드밸브를 소방용 설비외의 다른 설비의 후드밸브보다 낮은 위치에 설치한 경우의 유효수량으로 옳은 것은? (단, 옥내소화전설비와 다른 설비 수원을 저수조로 겸용하여 사용한 경우이다.)",
+      "options": [
+        "저수조의 바닥면과 상단 사이의 전체 수량",
+        "옥내소화전설비 후드밸브와 소방용 설비외의 다른 설비의 후드밸브 사이의 수량",
+        "옥내소화전설비의 후드밸브와 저수조 상단 사이의 수량",
+        "저수조의 바닥면과 소방용 설비 외의 다른 설비의 후드밸브 사이의 수량",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q310",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "포소화설비의 화재안전기준상 포소화설비의 배관 등의 설치기준으로 옳은 것은?",
+      "options": [
+        "포워터스프링클러설비 또는 포헤드설비의 가지 배관의 배열은 토너먼트방식으로 한다.",
+        "송액관은 겸용으로 하여야 한다. 다만, 포소화전의 기동장치의 조작과 동시에 다른 설비의 용도에 사용하는 배관의 송수를 차단할 수 있거나, 포소화설비의 성능에 지장이 없는 경우에는 전용으로 할 수 있다.",
+        "송액관은 포의 방출 종료 후 배관안의 액을 배출하기 위하여 적당한 기울기를 유지하도록 하고 그 낮은 부분에 배액밸브를 설치하여야 한다.",
+        "연결송수관설비의 배관과 겸용할 경우의 주배관은 구경 65 mm 이상, 방수구로 연결되는 배관의 구경은 100 mm 이상의 것으로 하여야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q311",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "물분무소화설비의 화재안전기준상 송수구의 설치기준으로 틀린 것은?",
+      "options": [
+        "구경 65mm 의 쌍구형으로 할 것",
+        "지면으로부터 높이가 0.5m 이상 1m 이하의 위치에 설치할 것",
+        "송수구는 하나의 층의 바닥면적이 1500m2를 넘을 때마다 1개(5개를 넘을 경우에는 5개로 한다) 이상을 설치할 것",
+        "가연성가스의 저장・취급시설에 설치하는 송수구는 그 방호대상물로부터 20m 이상의 거리를 두거나 방호대상물에 면하는 부분이 높이 1.5m 이상, 폭 2.5m 이상의 철근콘크리트 벽으로 가려진 장소에 설치할 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q312",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "미분무소화설비의 화재안전기준상 미분무소화설비의 성능을 확인하기 위하여 하나의 발화원을 가정한 설계도서 작성 시 고려하여야 할 인자를 모두 고른 것은?",
+      "options": [
+        "㉠, ㉢, ㉥",
+        "㉠, ㉡, ㉢, ㉤",
+        "㉠, ㉡, ㉣, ㉤, ㉥",
+        "㉠, ㉡, ㉢, ㉣, ㉤, ㉥",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210515/nd20210515m72.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q313",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "특별피난계단의 계단실 및 부속실 제연설비의 화재안전기준상 차압 등에 관한 기준 중 다음 괄호 안에 알맞은 것은?",
+      "options": [
+        "12.5",
+        "40",
+        "70",
+        "110",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210515/nd20210515m73.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q314",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "포소화설비의 화재안전기준상 펌프의 토출관에 압입기를 설치하여 포 소화약제 압입용 펌프로 포 소화약제를 압입시켜 혼합하는 방식은?",
+      "options": [
+        "라인 푸로포셔너 방식",
+        "펌프 푸로포셔너 방식",
+        "프레져 푸로포셔너 방식",
+        "프레져사이드 푸로포셔너 방식",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q315",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "소화기구 및 자동소화장치의 화재안전기준에 따라 다음과 같이 간이소화용구를 비치하였을 경우 능력 단위의 합은?",
+      "options": [
+        "1 단위",
+        "1.5 단위",
+        "2.5 단위",
+        "3 단위",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nd/nd20210515/nd20210515m75.gif"
+    },
+    {
+      "id": "fire_fighting_mechanical_q316",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "소화수조 및 저수조의 화재안전기준상 연면적이 40000m2인 특정소방대상물에 소화용수설비를 설치하는 경우 소화수조의 최소 저수량은 몇 m3인가? (단, 지상 1층 및 2층의 바닥면적 합계가 15000m2 이상인 경우이다.)",
+      "options": [
+        "53.3",
+        "60",
+        "106.7",
+        "120",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q317",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "소화기구 및 자동소화장치의 화재안전기준에 따른 용어에 대한 정의로 틀린 것은?",
+      "options": [
+        "\"소화약제\"란 소화기구 및 자동소화장치에 사용되는 소화성능이 있는 고체・액체 및 기체의 물질을 말한다.",
+        "\"대형소화기”란 화재 시 사람이 운반할 수 있도록 운반대와 바퀴가 설치되어 있고 능력 단위가 A급 20단위 이상, B급 10단위 이상인 소화기를 말한다.",
+        "\"전기화재(C급 화재)”란 전류가 흐르고 있는 전기기기, 배선과 관련된 화재를 말한다.",
+        "\"능력단위\"란 소화기 및 소화약제에 따른 간이소화용구에 있어서는 소방시설법에 따라 형식승인 된 수치를 말한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q318",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "옥내소화전설비의 화재안전기준상 배관 등에 관한 설명으로 옳은 것은?",
+      "options": [
+        "펌프의 토출측 주배관의 구경은 유속이 5m/s 이하가 될 수 있는 크기 이상으로 하여야 한다.",
+        "연결송수관설비의 배관과 겸용할 경우의 주배관은 구경 80mm 이상, 방수구로 연결되는 배관의 구경은 65mm 이상의 것으로 하여야 한다.",
+        "성능시험배관은 펌프의 토출측에 설치된 개폐밸브 이전에서 분기하여 설치하고, 유량측정장치를 기준으로 전단 직관부에 개폐밸브를 후단 직관부에는 유량조절밸브를 설치하여야 한다.",
+        "가압송수장치의 체절운전 시 수온의 상승을방지하기 위하여 체크밸브와 펌프사이에서 분기한 구경 20mm 이상의 배관에 체절압력 이상에서 개방되는 릴리프밸브를 설치하여야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q319",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "소화전함의 성능인증 및 제품검사의 기술기준상 옥내 소화전함의 재질을 합성수지 재료로 할 경우 두께는 최소 몇 mm 이상이어야 하는가?",
+      "options": [
+        "1.5",
+        "2.0",
+        "3.0",
+        "4.0",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_mechanical_q320",
+      "subject": "소방설비기사(기계)",
+      "round": "2021-05-15 기출",
+      "question_text": "소화설비용 헤드의 성능인증 및 제품검사의 기술기준상 소화설비용 헤드의 분류 중 수류를 살수판에 충돌하여 미세한 물방울을 만드는 물분무헤드 형식은?",
+      "options": [
+        "디프렉타형",
+        "충돌형",
+        "슬리트형",
+        "분사형",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    }
+  ]
+}

@@ -1,0 +1,3605 @@
+{
+  "pack_name": "조경 기능사 기출 팩",
+  "questions": [
+    {
+      "id": "landscape_craftsman_q1",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "조선시대 궁궐이나 상류주택 정원에서 가장 독특하게 발달한 공간은?",
+      "options": [
+        "전정",
+        "후정",
+        "주정",
+        "중정",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q2",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "영국 튜터왕조에서 유행했던 화단으로 낮게 깎은 회양목 등으로 화단을 여러 가지 기하학적 문양으로 구획 짓는 것은?",
+      "options": [
+        "기식화단",
+        "매듭화단",
+        "카펫화단",
+        "경재화단",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q3",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "중정(patio)식 정원의 가장 대표적인 특징은?",
+      "options": [
+        "토피어리",
+        "색채타일",
+        "동물 조각품",
+        "수렵장",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q4",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "16세기 무굴제국의 인도정원과 가장 관련이 깊은 것은?",
+      "options": [
+        "타지마할",
+        "퐁텐블로",
+        "클로이스터",
+        "알함브라 궁원",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q5",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "이탈리아의 노단 건축식 정원, 프랑스의 평면기하학식 정원 등은 자연 환경 요인 중 어떤 요인의 영향을 가장 크게 받아 발생한 것인가?",
+      "options": [
+        "기후",
+        "지형",
+        "식물",
+        "토지",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q6",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "중국 청나라 시대 대표적인 정원이 아닌 것은?",
+      "options": [
+        "원명원 이궁",
+        "이화원 이궁",
+        "졸정원",
+        "승덕피서산장",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q7",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "정원요소로 징검돌, 물통, 세수통, 석등 등의 배치를 중시하던 일본의 정원 양식은?",
+      "options": [
+        "다정원",
+        "침전조 정원",
+        "축산고산수 정원",
+        "평정고산수 정원",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q8",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 창경궁(昌慶宮)과 관련이 있는 건물은?",
+      "options": [
+        "만춘전",
+        "낙선재",
+        "함화당",
+        "사정전",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q9",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "메소포타미아의 대표적인 정원은?",
+      "options": [
+        "베다사원",
+        "베르사이유 궁전",
+        "바빌론의 공중정원",
+        "타지마할 사원",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q10",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "경관요소 중 높은 지각 강도(A)와 낮은 지각 강도(B)의 연결이 옳지 않은 것은?",
+      "options": [
+        "A : 수평선, B : 사선",
+        "A : 따뜻한 색채, B : 차가운 색채",
+        "A : 동적인 상태, B : 고정된 상태",
+        "A : 거친 질감, B : 섬세하고 부드러운 질감",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q11",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "국토교통부장관이 규정에 의하여 공원녹지기본계획을 수립 시 종합적으로 고려해야 하는 사항으로 가장 거리가 먼 것은?",
+      "options": [
+        "장래 이용자의 특성 등 여건의 변화에 탄력적으로 대응할 수 있도록 할 것",
+        "공원녹지의 보전·확충·관리·이용을 위한 장기발전방향을 제시하여 도시민들의 쾌적한 삶의 기반이 형성되도록 할 것",
+        "광역도시계획, 도시·군기본계획 등 상위계획의 내용과 부합되어야 하고 도시·군기본계획의 부문별 계획과 조화되도록 할 것",
+        "체계적·독립적으로 자연환경의 유지·관리와 여가활동의 장은 분리 형성하여 인간으로부터 자연의 피해를 최소화 할 수 있도록 최소한의 제한적 연결망을 구축할 수 있도록 할 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q12",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 좁은 의미의 조경 또는 조원으로 가장 적합한 설명은?",
+      "options": [
+        "복잡 다양한 근대에 이르러 적용되었다.",
+        "기술자를 조경가라 부르기 시작하였다.",
+        "정원을 포함한 광범위한 옥외공간 전반이 주대상이다.",
+        "식재를 중심으로 한 전통적인 조경기술로 정원을 만드는 일만을 말한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q13",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "수목 또는 경사면 등의 주위 경관 요소들에 의하여 자연스럽게 둘러싸여 있는 경관을 무엇이라 하는가?",
+      "options": [
+        "파노라마 경관",
+        "지형경관",
+        "위요경관",
+        "관개경관",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q14",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "조경양식에 대한 설명으로 틀린 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "조경양식에는 정형식, 자연식, 절충식 등이 있다.",
+        "정형식 조경은 영국에서 처음 시작된 양식으로 비스타 축을 이용한 중앙 광로가 있다.",
+        "자연식 조경은 동아시아에서 발달한 양식이며 자연 상태 그대로를 정원으로 조성한다.",
+        "절충식 조경은 한 장소에 정형식과 자연식을 동시에 지니고 있는 조경양식이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q15",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "도시기본구상도의 표시기준 중 노란색은 어느 용지를 나타내는 것인가?",
+      "options": [
+        "주거용지",
+        "관리용지",
+        "보존용지",
+        "상업용지",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q16",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 그림과 같은 정투상도(제3각법)의 입체로 맞는 것은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jx/jx20160710/jx20160710m16.gif"
+    },
+    {
+      "id": "landscape_craftsman_q17",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "가법혼색에 관한 설명으로 틀린 것은?",
+      "options": [
+        "2차색은 1차색에 비하여 명도가 높아진다.",
+        "빨강 광원에 녹색 광원을 흰 스크린에 비추면 노란색이 된다.",
+        "가법혼색의 삼원색을 동시에 비추면 검정이 된다.",
+        "파랑에 녹색 광원을 비추면 시안(cyan)이 된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q18",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 직선의 느낌으로 가장 부적합한 것은?",
+      "options": [
+        "여성적이다.",
+        "굳건하다.",
+        "딱딱하다.",
+        "긴장감이 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q19",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "건설재료 단면의 경계표시 기호 중 지반면(흙)을 나타낸 것은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q20",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "[보기]의 ( )안에 적합한 쥐똥나무 등을 이용한 생울타리용 관목의 식재간격은?",
+      "options": [
+        "0.14 ~ 0.20",
+        "0.25 ~ 0.75",
+        "0.8 ~ 1.2",
+        "1.2 ~ 1.5",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jx/jx20160710/jx20160710m20.gif"
+    },
+    {
+      "id": "landscape_craftsman_q21",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "일반적인 합성수지(plastics)의 장점으로 틀린 것은?",
+      "options": [
+        "열전도율이 높다.",
+        "성형가공이 쉽다.",
+        "마모가 적고 탄력성이 크다.",
+        "우수한 가공성으로 성형이 쉽다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q22",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "[보기]에 해당하는 도장공사의 재료는?",
+      "options": [
+        "유성페인트",
+        "수성페인트",
+        "래커",
+        "니스",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jx/jx20160710/jx20160710m22.gif"
+    },
+    {
+      "id": "landscape_craftsman_q23",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "변성암의 종류에 해당하는 것은?",
+      "options": [
+        "사문암",
+        "섬록암",
+        "안산암",
+        "화강암",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q24",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "일반적으로 목재의 비중과 가장 관련이 있으며, 목재성분 중 수분을 공기 중에서 제거한 상태의 비중을 말하는 것은?",
+      "options": [
+        "생목비중",
+        "기건비중",
+        "함수비중",
+        "절대 건조비중",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q25",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "조경에서 사용되는 건설재료 중 콘크리트의 특징으로 옳은 것은?",
+      "options": [
+        "압축강도가 크다.",
+        "인장강도와 휨강도가 크다.",
+        "자체 무게가 적어 모양변경이 쉽다.",
+        "시공과정에서 품질의 양부를 조사하기 쉽다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q26",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "시멘트의 제조 시 응결시간을 조절하기 위해 첨가하는 것은?",
+      "options": [
+        "광재",
+        "점토",
+        "석고",
+        "철분",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q27",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "타일붙임재료의 설명으로 틀린 것은?",
+      "options": [
+        "접착력과 내구성이 강하고 경제적이며 작업성이 있어야 한다.",
+        "종류는 무기질 시멘트 모르타르와 유기질 고무계 또는 에폭시계 등이 있다.",
+        "경량으로 투수율과 흡수율이 크고, 형상·색조의 자유로움 등이 우수하나 내화성이 약하다.",
+        "접착력이 일정기준 이상 확보되어야만 타일의 탈락현상과 동해에 의한 내구성의 저하를 방지할 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q28",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "미장 공사 시 미장재료로 활용될 수 없는 것은?",
+      "options": [
+        "견치석",
+        "석회",
+        "점토",
+        "시멘트",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q29",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "알루미늄의 일반적인 성질로 틀린 것은?",
+      "options": [
+        "열의 전도율이 높다.",
+        "비중은 약 2.7 정도이다.",
+        "전성과 연성이 풍부하다.",
+        "산과 알칼리에 특히 강하다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q30",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "콘크리트 혼화재의 역할 및 연결이 옳지 않은 것은?",
+      "options": [
+        "단위수량, 단위시멘트량의 감소 : AE감수제",
+        "작업성능이나 동결융해 저항성능의 향상 : AE제",
+        "강력한 감수효과와 강도의 대폭 증가 : 고성능감수제",
+        "염화물에 의한 강재의 부식을 억제 : 기포제",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q31",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "공원식재 시공 시 식재할 지피식물의 조건으로 가장 거리가 먼 것은?",
+      "options": [
+        "관리가 용이하고 병충해에 잘 견뎌야 한다.",
+        "번식력이 왕성하고 생장이 비교적 빨라야 한다.",
+        "성질이 강하고 환경조건에 대한 적응성이 넓어야 한다.",
+        "토양까지의 강수 전단을 위해 지표면을 듬성듬성 피복하여야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q32",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "줄기가 아래로 늘어지는 생김새의 수간을 가진 나무의 모양을 무엇이라 하는가?",
+      "options": [
+        "쌍간",
+        "다간",
+        "직간",
+        "현애",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q33",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 광선(光線)과의 관계 상 음수(陰樹)로 분류하기 가장 적합한 것은?",
+      "options": [
+        "박달나무",
+        "눈주목",
+        "감나무",
+        "배롱나무",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q34",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "가죽나무가 해당되는 과(科)는?",
+      "options": [
+        "운향과",
+        "멀구슬나무과",
+        "소태나무과",
+        "콩과",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q35",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "고로쇠나무와 복자기에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "복자기의 잎은 복엽이다.",
+        "두 수종은 모두 열매는 시과이다.",
+        "두 수종은 모두 단풍색이 붉은색이다.",
+        "두 수종은 모두 과명이 단풍나무과이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q36",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "수피에 아름다운 얼룩무늬가 관상 요소인 수종이 아닌 것은?",
+      "options": [
+        "노각나무",
+        "모과나무",
+        "배롱나무",
+        "자귀나무",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q37",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "열매를 관상목적으로 하는 조경 수목 중 열매색이 적색(홍색) 계열이 아닌 것은? (단, 열매색의 분류 : 황색, 적색, 흑색)",
+      "options": [
+        "주목",
+        "화살나무",
+        "산딸나무",
+        "굴거리나무",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q38",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "흰말채나무의 특징 설명으로 틀린 것은?",
+      "options": [
+        "노란색의 열매가 특징적이다.",
+        "층층나무과로 낙엽활엽관목이다.",
+        "수피가 여름에는 녹색이나 가을, 겨울철의 붉은 줄기가 아름답다.",
+        "잎은 대생하며 타원형 또는 난상타원형이고, 표면에 작은 털이 있으며 뒷면은 흰색의 특징을 갖는다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q39",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "수목식재에 가장 적합한 토양의 구성비는? (단, 구성은 토양 : 수분 : 공기의 순서임)",
+      "options": [
+        "50% : 25% : 25%",
+        "50% : 10% : 40%",
+        "40% : 40% : 20%",
+        "30% : 40% : 30%",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q40",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "차량 통행이 많은 지역의 가로수로 가장 부적합한 것은?",
+      "options": [
+        "은행나무",
+        "층층나무",
+        "양버즘나무",
+        "단풍나무",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q41",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "지주목 설치에 대한 설명으로 틀린 것은?",
+      "options": [
+        "수피와 지주가 닿은 부분은 보호조치를 취한다.",
+        "지주목을 설치할 때에는 풍향과 지형 등을 고려한다.",
+        "대형목이나 경관상 중요한 곳에는 당김줄형을 설치한다.",
+        "지주는 뿌리 속에 박아 넣어 견고히 고정되도록 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q42",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "조경공사의 유형 중 환경생태복원 녹화공사에 속하지 않는 것은?",
+      "options": [
+        "분수공사",
+        "비탈면녹화공사",
+        "옥상 및 벽체녹화공사",
+        "자연하천 및 저수지공사",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q43",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "수목의 가식 장소로 적합한 곳은?",
+      "options": [
+        "배수가 잘 되는 곳",
+        "차량출입이 어려운 한적한 곳",
+        "햇빛이 잘 안들고 점질 토양의 곳",
+        "거센 바람이 불거나 흙 입자가 날려 잎을 덮어 보온이 가능한 곳",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q44",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "수목의 잎 조직 중 가스교환을 주로 하는 곳은?",
+      "options": [
+        "책상조직",
+        "엽록체",
+        "표피",
+        "기공",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q45",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "곤충이 빛에 반응하여 일정한 방향으로 이동하려는 행동습성은?",
+      "options": [
+        "주광성(phototaxis)",
+        "주촉성(thigmotaxis)",
+        "주화성(chemotaxis)",
+        "주지성(geotaxis)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q46",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "대추나무 빗자루병에 대한 설명으로 틀린 것은?",
+      "options": [
+        "마름무늬매미충에 의하여 매개 전염된다.",
+        "각종 상처, 기공 등의 자연개구를 통하여 침입한다.",
+        "잔가지와 황록색의 아주 작은 잎이 밀생하고, 꽃봉오리가 잎으로 변화된다.",
+        "전염된 나무는 옥시테트라사이클린 항생제를 수간주입 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q47",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "멀칭재료는 유기질, 광물질 및 합성재료로 분류할 수 있다. 유기질 멀칭재료에 해당하지 않는 것은?",
+      "options": [
+        "볏짚",
+        "마사",
+        "우드 칩",
+        "톱밥",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q48",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "1차 전염원이 아닌 것은?",
+      "options": [
+        "균핵",
+        "분생포자",
+        "난포자",
+        "균사속",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q49",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "살충제에 해당되는 것은?",
+      "options": [
+        "베노밀 수화제",
+        "페니트로티온 유제",
+        "글리포세이트암모늄 액제",
+        "아시벤졸라-에스-메틸·만코제브 수화제",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q50",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "여름용(남방계) 잔디라고 불리며, 따뜻하고 건조하거나 습윤한 지대에서 주로 재배되는데 하루 평균기온이 10℃ 이상이 되는 4월 초순부터 생육이 시작되어 6~8월의 25~35℃ 사이에서 가장 생육이 왕성한 것은?",
+      "options": [
+        "켄터키블루그라스",
+        "버뮤다그라스",
+        "라이그라스",
+        "벤트그라스",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q51",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 설명에 적합한 조경 공사용 기계는?",
+      "options": [
+        "모터 그레이더",
+        "차륜식 로더",
+        "트럭 크레인",
+        "진동 컴팩터",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/jx/jx20160710/jx20160710m51.gif"
+    },
+    {
+      "id": "landscape_craftsman_q52",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "콘크리트용 혼화재료에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "포졸란은 시공연도를 좋게 하고 블리딩과 재료분리 현상을 저감시킨다.",
+        "플라이애쉬와 실리카흄은 고강도 콘크리트 제조용으로 많이 사용된다.",
+        "알루미늄 분말과 아연 분말은 방동제로 많이 사용되는 혼화제이다.",
+        "염화칼슘과 규산소오다 등은 응결과 경화를 촉진하는 혼화제로 사용된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q53",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "콘크리트의 시공단계 순서가 바르게 연결된 것은?",
+      "options": [
+        "운반 → 제조 → 부어넣기 → 다짐 → 표면마무리 → 양생",
+        "운반 → 제조 → 부어넣기 → 양생 → 표면마무리 → 다짐",
+        "제조 → 운반 → 부어넣기 → 다짐 → 양생 → 표면마무리",
+        "제조 → 운반 → 부어넣기 → 다짐 → 표면마무리 → 양생",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q54",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 경관석 놓기에 관한 설명으로 가장 부적합한 것은?",
+      "options": [
+        "돌과 돌 사이는 움직이지 않도록 시멘트로 굳힌다.",
+        "돌 주위에는 회양목, 철쭉 등을 돌에 가까이 붙여 식재한다.",
+        "시선이 집중하기 쉬운 곳, 시선을 유도해야 할 곳에 앉혀 놓는다.",
+        "3, 5, 7 등의 홀수로 만들며, 돌 사이의 거리나 크기 등을 조정배치 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q55",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "축척 1/500 도면의 단위면적이 10m2인 것을 이용하여, 축척 1/1000 도면의 단위면적으로 환산하면 얼마인가?",
+      "options": [
+        "20m2",
+        "40m2",
+        "80m2",
+        "120m2",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q56",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "토공사(정지) 작업 시 일정한 장소에 흙을 쌓아 일정한 높이를 만드는 일을 무엇이라 하는가?",
+      "options": [
+        "객토",
+        "절토",
+        "성토",
+        "경토",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q57",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "옥상녹화용 방수층 및 방근층 시공 시 “바탕체의 거동에 의한 방수층의 파손” 요인에 대한 해결방법으로 부적합한 것은?",
+      "options": [
+        "거동 흡수 절연층의 구성",
+        "방수층 위에 플라스틱계 배수판 설치",
+        "합성고분자계, 금속계 또는 복합계 재료 사용",
+        "콘크리트 등 바탕체가 온도 및 진동에 의한 거동 시 방수층 파손이 없을 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q58",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "지표면이 높은 곳의 꼭대기 점을 연결한 선으로, 빗물이 이것을 경계로 좌우로 흐르게 되는 선을 무엇이라 하는가?",
+      "options": [
+        "능선",
+        "계곡선",
+        "경사 변환점",
+        "방향 변환점",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q59",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "수변의 디딤돌(징검돌) 놓기에 대한 설명으로 틀린 것은?",
+      "options": [
+        "보행에 적합하도록 지면과 수평으로 배치한다.",
+        "징검돌의 상단은 수면보다 15㎝ 정도 높게 배치한다.",
+        "디딤돌 및 징검돌의 장축은 진행방향에 직각이 되도록 배치한다.",
+        "물 순환 및 생태적 환경을 조성하기 위하여 투수지역에서는 가벼운 디딤돌을 주로 활용한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q60",
+      "subject": "조경 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "수경시설(연못)의 유지관리에 관한 내용으로 옳지 않은 것은?",
+      "options": [
+        "겨울철에는 물을 2/3 정도만 채워둔다.",
+        "녹이 잘 스는 부분은 녹막이 칠을 수시로 해준다.",
+        "수중식물 및 어류의 상태를 수시로 점검한다.",
+        "물이 새는 곳이 있는지의 여부를 수시로 점검하여 조치한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q61",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "형태는 직선 또는 규칙적인 곡선에 의해 구성되고 축을 형성하며 연못이나 화단 등의 각 부분에도 대칭형이 되는 조경 양식은?",
+      "options": [
+        "자연식",
+        "풍경식",
+        "정형식",
+        "절충식",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q62",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 정원에 사용되었던 하하(Ha-ha) 기법을 가장 잘 설명한 것은?",
+      "options": [
+        "정원과 외부사이 수로를 파 경계하는 기법",
+        "정원과 외부사이 언덕으로 경계하는 기법",
+        "정원과 외부사이 교목으로 경계하는 기법",
+        "정원과 외부사이 산울타리를 설치하여 경계하는 기법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q63",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 고서에서 조경식물에 대한 기록이 다루어지지 않은 것은?",
+      "options": [
+        "고려사",
+        "악학괘범",
+        "양화소록",
+        "동국이상국집",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q64",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "스페인 정원에 관한 설명으로 틀린 것은?",
+      "options": [
+        "규모가 웅장하다.",
+        "기하학적인 터 가르기를 한다.",
+        "바닥에는 색채타일을 이용하였다.",
+        "안달루시아(Andalusia) 지방에서 발달했다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q65",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 고산수수법의 설명으로 알맞은 것은?",
+      "options": [
+        "가난함이나 부족함 속에서도 아름다움을 찾아내어 검소하고 한적한 삶을 표현",
+        "이끼 낀 정원석에서 고담하고 한아를 느낄 수 있도록 표현",
+        "정원의 못을 복잡하게 표현하기 위해 호안을 곡절시켜 심(⼼)자와 같은 형태의 못을 조성",
+        "물이 있어야 할 곳에 물을 사용하지 않고 돌과 모래를 사용해 물을 상징적으로 표현",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q66",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "경복궁 내 자경전의 꽃담 벽화문양에 표현되지 않은 식물은?",
+      "options": [
+        "매화",
+        "석류",
+        "산수유",
+        "국화",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q67",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "우리나라 부유층의 민가정원에서 유교의 영향으로 부녀자들을 위해 특별히 조성된 부분은?",
+      "options": [
+        "전정",
+        "중정",
+        "후정",
+        "주정",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q68",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 고대 이집트의 대표적인 정원수는?",
+      "options": [
+        "파피루스",
+        "버드나무",
+        "장미",
+        "시카모어",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/jx/jx20160402/jx20160402m8.gif"
+    },
+    {
+      "id": "landscape_craftsman_q69",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 독일의 풍경식 정원과 가장 관계가 깊은 것은?",
+      "options": [
+        "한정된 공간에서 다양한 변화를 추구",
+        "동양의 사의주의 자연풍경식을 수용",
+        "외국에서 도입한 원예식물의 수용",
+        "식물생태학, 식물지리학 등의 과학이론의 적용",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q70",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 사적인 정원이 공적인 공원으로 역할전환의 계기가 된 사례는?",
+      "options": [
+        "에스테장",
+        "베르사이유궁",
+        "켄싱턴 가든",
+        "센트럴 파크",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q71",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "주택정원거실 앞쪽에 위치한 뜰로 옥외생활을 즐길 수 있는 공간은?",
+      "options": [
+        "안뜰",
+        "앞뜰",
+        "뒤뜰",
+        "작업뜰",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q72",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "조경계획 및 설계과정에 있어서 각 공간의 규모, 사용재료, 마감방법을 제시해 주는 단계는?",
+      "options": [
+        "기본구상",
+        "기본계획",
+        "기본설계",
+        "실시설계",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q73",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "도시 내부와 외부의 관련이 매우 좋으며 재난 시 시민들의 빠른 대피에 큰 효과를 발휘하는 녹지 형태는?",
+      "options": [
+        "분산식",
+        "방사식",
+        "환상식",
+        "평행식",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q74",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 [보기]의 행위 시 도시공원 및 녹지 등에 관한 법률상의 벌칙 기준은?",
+      "options": [
+        "2년 이하의 징역 또는 3천만 원 이하의 벌금",
+        "1년 이하의 징역 또는 1천만 원 이하의 벌금",
+        "1년 이하의 징역 또는 500만 원 이하의 벌금",
+        "1년 이하의 징역 또는 3천만 원 이하의 벌금",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jx/jx20160402/jx20160402m14.gif"
+    },
+    {
+      "id": "landscape_craftsman_q75",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "표제란에 대한 설명으로 옳은 것은?",
+      "options": [
+        "도면명은 표제란에 기입하지 않는다.",
+        "도면 제작에 필요한 지침을 기록한다.",
+        "도면번호, 도명, 작성자명, 작성일자 등에 관한 사항을 기입한다.",
+        "용지의 긴 쪽 길이를 가로 방향으로 설정할 때 표제란은 왼쪽 아래 구석에 위치한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q76",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "먼셀 색체계의 기본색인 5가지 주요 색상으로 바르게 짝지어진 것은?",
+      "options": [
+        "빨강, 노랑, 초록, 파랑, 주황",
+        "빨강, 노랑, 초록, 파랑, 보라",
+        "빨강, 노랑, 초록, 파랑, 청록",
+        "빨강, 노랑, 초록, 남색, 주황",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q77",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "건설재료의 골재의 단면표시 중 잡석을 나타낸 것은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q78",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "대형건물의 외벽도색을 위한 색채계획을 할 때 사용하는 컬러샘플(color sample)은 실제의 색보다 명도나 채도를 낮추어서 사용하는 것이 좋다. 이는 색채의 어떤 현상 때문인가?",
+      "options": [
+        "착시효과",
+        "동화현상",
+        "대비효과",
+        "면적효과",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q79",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "색채와 자연환경에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "풍토색은 기후와 토지의 색, 즉 지역의 태양빛, 흙의 색 등을 의미한다.",
+        "지역색은 그 지역의 특성을 전달하는 색채와 그 지역의 역사, 풍속, 지형, 기후 등의 지방색과 합쳐 표현된다.",
+        "지역색은 환경색채계획 등 새로운 분야에서 사용되기 시작한 용어이다.",
+        "풍토색은 지역의 건축물, 도로환경, 옥외광고물 등의 특징을 갖고 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q80",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "오른손잡이의 선긋기 연습에서 고려해야 할 사항이 아닌 것은?",
+      "options": [
+        "수평선 긋기 방향은 왼쪽에서 오른쪽으로 긋는다.",
+        "수직선 긋기 방향은 위쪽에서 아래쪽으로 내려 긋는다.",
+        "선은 처음부터 끝나는 부분까지 일정한 힘으로 한 번에 긋는다.",
+        "선의 연결과 교차부분이 정확하게 되도록 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q81",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 방부 또는 방충을 목적으로 하는 방법으로 가장 부적합한 것은?",
+      "options": [
+        "표면탄화법",
+        "약제도포법",
+        "상압주입법",
+        "마모저항법",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q82",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "조경공사의 돌쌓기용 암석을 운반하기에 가장 적합한 재료는?",
+      "options": [
+        "철근",
+        "쇠파이프",
+        "철망",
+        "와이어로프",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q83",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 [보기]가 설명하는 건설용 재료는?",
+      "options": [
+        "프라이머",
+        "코킹",
+        "퍼티",
+        "석고",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jx/jx20160402/jx20160402m23.gif"
+    },
+    {
+      "id": "landscape_craftsman_q84",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "쇠망치 및 날메로 요철을 대강 따내고, 거친 면을 그대로 두어 부풀린 느낌으로 마무리 하는 것으로 중량감, 자연미를 주는 석재가공법은?",
+      "options": [
+        "혹두기",
+        "정다듬",
+        "도드락다듬",
+        "잔다듬",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q85",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "건설용 재료의 특징 설명으로 틀린 것은?",
+      "options": [
+        "미장재료 - 구조재의 부족한 요소를 감추고 외벽을 아름답게 나타내 주는 것",
+        "플라스틱 - 합성수지에 가소제, 채움제, 안정제, 착색제 등을 넣어서 성형한 고분자 물질",
+        "역청재료 - 최근에 환경 조형물이나 안내판 등에 널리 이용되고, 입체적인 벽면구성이나 특수지역의 바닥 포장재로 사용",
+        "도장재료 - 구조재의 내식성, 방부성, 내마멸성, 방수성, 방습성 및 강도 등이 높아지고 광택 등 미관을 높여 주는 효과를 얻음",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q86",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "내부 진동기를 사용하여 콘크리트 다지기를 실시할 때 내부 진동기를 찔러 넣는 간격은 얼마 이하를 표준으로 하는 것이 좋은가?",
+      "options": [
+        "30㎝",
+        "50㎝",
+        "80㎝",
+        "100㎝",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q87",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "굵은 골재의 절대 건조 상태의 질량이 1000g, 표면건조포화 상태의 질량이 1100g, 수중질량이 650g 일 때 흡수율은 몇 %인가?",
+      "options": [
+        "10.0%",
+        "28.6%",
+        "31.4%",
+        "35.0%",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q88",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "시멘트의 강열감량(ignition loss)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "시멘트 중에 함유된 H2O와 CO2의 양이다.",
+        "클링커와 혼합하는 석고의 결정수량과 거의 같은 양이다.",
+        "시멘트에 약 1000℃의 강한 열을 가했을 때의 시멘트 감량이다.",
+        "시멘트가 풍화하면 강열감량이 적어지므로 풍화의 정도를 파악하는데 사용된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q89",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "아스팔트의 물리적 성질과 관련된 설명으로 옳지 않은 것은?",
+      "options": [
+        "아스팔트의 연성을 나타내는 수치를 신도라 한다.",
+        "침입도는 아스팔트의 콘시스턴시를 임의 관입저항으로 평가하는 방법이다.",
+        "아스팔트에는 명확한 융점이 있으며, 온도가 상승하는데 따라 연화하여 액상이 된다.",
+        "아스팔트는 온도에 따른 콘시스턴시의 변화가 매우 크며, 이 변화의 정도를 감온성이라 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q90",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "새끼(볏짚제품)의 용도 설명으로 가장 부적합한 것은?",
+      "options": [
+        "더위에 약한 수목을 보호하기 위해서 줄기에 감는다.",
+        "옮겨 심는 수목의 뿌리분이 상하지 않도록 감아준다.",
+        "강한 햇볕에 줄기가 타는 것을 방지하기 위하여 감아준다.",
+        "천공성 해충의 침입을 방지하기 위하여 감아준다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q91",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "무너짐 쌓기를 한 후 돌과 돌 사이에 식재하는 식물 재료로 가장 적합한 것은?",
+      "options": [
+        "장미",
+        "회양목",
+        "화살나무",
+        "꽝꽝나무",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q92",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 아황산가스에 강한 수종이 아닌 것은?",
+      "options": [
+        "고로쇠나무",
+        "가시나무",
+        "백합나무",
+        "칠엽수",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q93",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "단풍나무과(科)에 해당하지 않는 수종은?",
+      "options": [
+        "고로쇠나무",
+        "복자기",
+        "소사나무",
+        "신나무",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q94",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 양수에 해당하는 수종은?",
+      "options": [
+        "일본잎갈나무",
+        "조록싸리",
+        "식나무",
+        "사철나무",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q95",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 내염성이 가장 큰 수종은?",
+      "options": [
+        "사철나무",
+        "목련",
+        "낙엽송",
+        "일본목련",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q96",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "형상수(topiary)를 만들기에 가장 적합한 수종은?",
+      "options": [
+        "주목",
+        "단풍나무",
+        "개벚나무",
+        "전나무",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q97",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "화단에 심겨지는 초화류가 갖추어야 할 조건으로 가장 부적합한 것은?",
+      "options": [
+        "가지수는 적고 큰 꽃이 피어야 한다.",
+        "바람, 건조 및 병·해충에 강해야 한다.",
+        "꽃의 색채가 선명하고, 개화기간이 길어야 한다.",
+        "성질이 강건하고 재배와 이식이 비교적 용이해야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q98",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "수종과 그 줄기색(樹⽪)의 연결이 틀린 것은?",
+      "options": [
+        "벽오동은 녹색 계통이다.",
+        "곰솔은 흑갈색 계통이다.",
+        "소나무는 적갈색 계통이다.",
+        "흰말채나무는 흰색 계통이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q99",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "귀룽나무(Prunus padus L.)에 대한 특성으로 맞지 않는 것은?",
+      "options": [
+        "원산지는 한국, 일본이다.",
+        "꽃과 열매는 백색계열이다.",
+        "Rosaceae과(科) 식물로 분류된다.",
+        "생장속도가 빠르고 내공해성이 강하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q100",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "능소화(Campsis grandifolia K.Schum.)의 설명으로 틀린 것은?",
+      "options": [
+        "낙엽활엽덩굴성이다.",
+        "잎은 어긋나며 뒷면에 털이 있다.",
+        "나팔모양의 꽃은 주홍색으로 화려하다.",
+        "동양적인 정원이나 사찰 등의 관상용으로 좋다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q101",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "봄에 향나무의 잎과 줄기에 갈색의 돌기가 형성되고 비가 오면 한천모양이나 젤리모양으로 부풀어 오르는 병은?",
+      "options": [
+        "향나무 가지마름병",
+        "향나무 그을음병",
+        "향나무 붉은별무늬병",
+        "향나무 녹병",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q102",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "잔디의 병해 중 녹병의 방제약으로 옳은 것은?",
+      "options": [
+        "만코제브(수)",
+        "테부코나졸(유)",
+        "에마멕틴벤조에이트(유)",
+        "글루포시네이트암모늄(액)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q103",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "25% A유제 100mL를 0.05%의 살포액으로 만드는데 소요되는 물의 양(L)으로 가장 가까운 것은? (단, 비중은 1.0 이다.)",
+      "options": [
+        "5",
+        "25",
+        "50",
+        "100",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q104",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "해충의 체(體) 표면에 직접 살포하거나 살포된 물체에 해충이 접촉되어 약제가 체내에 침입하여 독(毒) 작용을 일으키는 약제는?",
+      "options": [
+        "유인제",
+        "접촉살충제",
+        "소화중독제",
+        "화학불임제",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q105",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "도시공원 녹지 중 수림지 관리에서 그 필요성이 가장 떨어지는 것은?",
+      "options": [
+        "시비(施肥)",
+        "하예(下刈)",
+        "제벌(除伐)",
+        "병충해 방제",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q106",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 설명에 해당하는 파종 공법은?",
+      "options": [
+        "식생매트공",
+        "볏짚거적덮기공",
+        "종자분사파종공",
+        "지하경뿜어붙이기공",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jx/jx20160402/jx20160402m46.gif"
+    },
+    {
+      "id": "landscape_craftsman_q107",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "장미 검은무늬병은 주로 식물체 어느 부위에 발생하는가?",
+      "options": [
+        "꽃",
+        "잎",
+        "뿌리",
+        "식물전체",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q108",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "진딧물의 방제를 위하여 보호하여야 하는 천적으로 볼 수 없는 것은?",
+      "options": [
+        "무당벌레류",
+        "꽃등에류",
+        "솔잎벌류",
+        "풀잠자리류",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q109",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "수목의 이식 전 세근을 발달시키기 위해 실시하는 작업을 무엇이라 하는가?",
+      "options": [
+        "가식",
+        "뿌리돌림",
+        "뿌리분 포장",
+        "뿌리외과수술",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q110",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "수목을 장거리 운반할 때 주의해야 할 사항이 아닌 것은?",
+      "options": [
+        "병충해 방제",
+        "수피 손상 방지",
+        "분 깨짐 방지",
+        "바람 피해 방지",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q111",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "인간이나 기계가 공사 목적물을 만들기 위하여 단위물량 당 소요로 하는 노력과 품질을 수량으로 표현한 것을 무엇이라 하는가?",
+      "options": [
+        "할증",
+        "품셈",
+        "견적",
+        "내역",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q112",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "내구성과 내마멸성이 좋아 일단 파손된 곳은 보수가 어려우므로 시공 때 각별한 주의가 필요하다. 다음과 같은 원로 포장 방법은?",
+      "options": [
+        "마사토 포장",
+        "콘크리트 포장",
+        "판석 포장",
+        "벽돌 포장",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jx/jx20160402/jx20160402m52.gif"
+    },
+    {
+      "id": "landscape_craftsman_q113",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "철근의 피복두께를 유지하는 목적으로 틀린 것은?",
+      "options": [
+        "철근량 절감",
+        "내구성능 유지",
+        "내화성능 유지",
+        "소요의 구조내력확보",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q114",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "다음 중 건설공사의 마지막으로 행하는 작업은?",
+      "options": [
+        "터닦기",
+        "식재공사",
+        "콘크리트공사",
+        "급·배수 및 호안공",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q115",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "경사진 지형에서 흙이 무너지는 것을 방지하기 위하여 토양의 안식각을 유지하며 크고 작은 돌을 자연스러운 상태가 되도록 쌓아 올리는 방법은?",
+      "options": [
+        "평석쌓기",
+        "견치석쌓기",
+        "디딤돌쌓기",
+        "자연석 무너짐쌓기",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q116",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "작업현장에서 작업물의 운반작업 시 주의사항으로 옳지 않은 것은?",
+      "options": [
+        "어깨높이 보다 높은 위치에서 하물을 들고 운반하여서는 안 된다.",
+        "운반시의 시선은 진행방향을 향하고 뒷걸음 운반을 하여서는 안 된다.",
+        "무거운 물건을 운반할 때 무게 중심이 높은 하물은 인력으로 운반하지 않는다.",
+        "단독으로 긴 물건을 어깨에 메고 운반할 때에는 뒤쪽을 위로 올린 상태로 운반한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q117",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "예불기(예취기) 작업 시 작업자 상호간의 최소 안전거리는 몇 m 이상이 적합한가?",
+      "options": [
+        "4m",
+        "6m",
+        "8m",
+        "10m",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q118",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "옹벽자체의 자중으로 토압에 저항하는 옹벽의 종류는?",
+      "options": [
+        "L형 옹벽",
+        "역T형 옹벽",
+        "중력식 옹벽",
+        "반중력식 옹벽",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q119",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "지형도상에서 2점간의 수평거리가 200m이고, 높이차가 5m라 하면 경사도는 얼마인가?",
+      "options": [
+        "2.5%",
+        "5.0%",
+        "10.0%",
+        "50.0%",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q120",
+      "subject": "조경 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "옥상녹화 방수 소재에 요구되는 성능 중 가장 거리가 먼 것은?",
+      "options": [
+        "식물의 뿌리에 견디는 내근성",
+        "시비, 방제 등에 견디는 내약품성",
+        "박테리아에 의한 부식에 견디는 성능",
+        "색상이 미려하고 미관상 보기 좋은 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q121",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "중세 유럽의 조경 형태로 볼 수 없는 것은?",
+      "options": [
+        "과수원",
+        "약초원",
+        "공중정원",
+        "회랑식 정원",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q122",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "일본 고산수식 정원의 요소와 상징적인 의미가 바르게 연결된 것은?",
+      "options": [
+        "나무 - 폭포",
+        "연못 - 바다",
+        "왕모래 - 물",
+        "바위 - 산봉우리",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q123",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 중국정원의 양식에 가장 많은 영향을 끼친 사상은?",
+      "options": [
+        "선사상",
+        "신선사상",
+        "풍수지리사상",
+        "음양오행사상",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q124",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 서양식 전각과 서양식 정원이 조성되어 있는 우리나라 궁궐은?",
+      "options": [
+        "경복궁",
+        "창덕궁",
+        "덕수궁",
+        "경희궁",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q125",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "고대 로마의 대표적인 별장이 아닌 것은?",
+      "options": [
+        "빌라 투스카니",
+        "빌라 감베라이아",
+        "빌라 라우렌티아나",
+        "빌라 아드리아누스",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q126",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "미국 식민지 개척을 통한 유럽 각국의 다양한 사유지 중심의 정원양식이 공공적인 성격으로 전환되는 계기에 영향을 끼친 것은?",
+      "options": [
+        "스토우 정원",
+        "보르비콩트 정원",
+        "스투어헤드 정원",
+        "버컨헤드 공원",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q127",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "프랑스 평면기하학식 정원을 확립하는데 가장 큰 기여를 한 사람은?",
+      "options": [
+        "르 노트르",
+        "메이너",
+        "브리지맨",
+        "비니올라",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q128",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "형태와 선이 자유로우며, 자연재료를 사용하여 자연을 모방하거나 축소하여 자연에 가까운 형태로 표현한 정원 양식은?",
+      "options": [
+        "건축식",
+        "풍경식",
+        "정형식",
+        "규칙식",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q129",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 후원 양식에 대한 설명 중 틀린 것은?",
+      "options": [
+        "한국의 독특한 정원 양식 중 하나이다.",
+        "괴석이나 세심석 또는 장식을 겸한 굴뚝을 세워 장식하였다.",
+        "건물 뒤 경사지를 계단모양으로 만들어 장대석을 앉혀 평지를 만들었다.",
+        "경주 동궁과 월지, 교태전 후원의 아미산원, 남원시 광한루 등에서 찾아볼 수 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q130",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "현대 도시환경에서 조경 분야의 역할과 관계가 먼 것은?",
+      "options": [
+        "자연환경의 보호유지",
+        "자연 훼손지역의 복구",
+        "기존 대도시의 광역화 유도",
+        "토지의 경제적이고 기능적인 이용 계획",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q131",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 설명의 ( )안에 들어갈 시설물은?",
+      "options": [
+        "볼라드(bollard)",
+        "휀스(fence)",
+        "벤치(bench)",
+        "수목 보호대(grating)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/jx/jx20160124/jx20160124m11.gif"
+    },
+    {
+      "id": "landscape_craftsman_q132",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "기존의 레크레이션 기회에 참여 또는 소비하고 있는 수요(需要)를 무엇이라 하는가?",
+      "options": [
+        "표출수요",
+        "잠재수요",
+        "유효수요",
+        "유도수요",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q133",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "주택정원의 시설구분 중 휴게시설에 해당되는 것은?",
+      "options": [
+        "벽천, 폭포",
+        "미끄럼틀, 조각물",
+        "정원등, 잔디등",
+        "퍼걸러, 야외탁자",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q134",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "조경계획 · 설계에서 기초적인 자료의 수집과 정리 및 여러 가지 조건의 분석과 통합을 실시하는 단계를 무엇이라 하는가?",
+      "options": [
+        "목표 설정",
+        "현황분석 및 종합",
+        "기본 계획",
+        "실시 설계",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q135",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 『채도대비』에 관한 설명 중 틀린 것은?",
+      "options": [
+        "무채색끼리는 채도 대비가 일어나지 않는다.",
+        "채도대비는 명도대비와 같은 방식으로 일어난다.",
+        "고채도의 색은 무채색과 함께 배색하면 더 선명해 보인다.",
+        "중간색을 그 색과 색상은 동일하고 명도가 밝은 색과 함께 사용하면 훨씬 선명해 보인다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q136",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "좌우로 시선이 제한되어 일정한 지점으로 시선이 모이도록 구성하는 경관 요소는?",
+      "options": [
+        "전망",
+        "통경선(Vista)",
+        "랜드마크",
+        "질감",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q137",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "조경 시공 재료의 기호 중 벽돌에 해당하는 것은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q138",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 곡선의 느낌으로 가장 부적합한 것은?",
+      "options": [
+        "온건하다.",
+        "부드럽다.",
+        "모호하다.",
+        "단호하다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q139",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "모든 설계에서 가장 기본적인 도면은?",
+      "options": [
+        "입면도",
+        "단면도",
+        "평면도",
+        "상세도",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q140",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "조경 실시설계 단계 중 용어의 설명이 틀린 것은?",
+      "options": [
+        "시공에 관하여 도면에 표시하기 어려운 사항을 글로 작성한 것을 시방서라고 한다.",
+        "공사비를 체계적으로 정확한 근거에 의하여 산출한 서류를 내역서라고 한다.",
+        "일반관리비는 단위 작업당 소요인원을 구하여 일당 또는 월급여로 곱하여 얻어진다.",
+        "공사에 소요되는 자재의 수량, 품 또는 기계 사용량 등을 산출하여 공사에 소요되는 비용을 계산한 것을 적산이라고 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q141",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "석재의 성인(成因)에 의한 분류 중 변성암에 해당되는 것은?",
+      "options": [
+        "대리석",
+        "섬록암",
+        "현무암",
+        "화강암",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q142",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "레미콘 규격이 25 - 210 - 12로 표시되어 있다면 ⓐ - ⓑ - ⓒ 순서대로 의미가 맞는 것은?",
+      "options": [
+        "ⓐ 슬럼프, ⓑ 골재최대치수, ⓒ 시멘트의 양",
+        "ⓐ 물·시멘트비, ⓑ 압축강도, ⓒ 골재최대치수",
+        "ⓐ 골재최대치수, ⓑ 압축강도, ⓒ 슬럼프",
+        "ⓐ 물·시멘트비, ⓑ 시멘트의 양, ⓒ 골재최대치수",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q143",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 설명에 적합한 열가소성수지는?",
+      "options": [
+        "페놀수지",
+        "염화비닐수지",
+        "멜라민수지",
+        "에폭시수지",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jx/jx20160124/jx20160124m23.gif"
+    },
+    {
+      "id": "landscape_craftsman_q144",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "인공 폭포, 수목 보호판을 만드는데 가장 많이 이용되는 제품은?",
+      "options": [
+        "유리블록제품",
+        "식생호안블록",
+        "콘크리트격자블록",
+        "유리섬유강화플라스틱",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q145",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "알루미나 시멘트의 최대 특징으로 옳은 것은?",
+      "options": [
+        "값이 싸다.",
+        "조기강도가 크다.",
+        "원료가 풍부하다.",
+        "타 시멘트와 혼합이 용이하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q146",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 목재의 장점에 해당하지 않는 것은?",
+      "options": [
+        "가볍다.",
+        "무늬가 아름답다.",
+        "열전도율이 낮다.",
+        "습기를 흡수하면 변형이 잘 된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q147",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 금속 재료에 대한 설명으로 틀린 것은?",
+      "options": [
+        "저탄소강은 탄소함유량이 0.3% 이하이다.",
+        "강판, 형강, 봉강 등은 압연식 제조법에 의해 제조된다.",
+        "구리에 아연 40%를 첨가하여 제조한 합금을 청동이라고 한다.",
+        "강의 제조방법에는 평로법, 전로법, 전기로법, 도가니법 등이 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q148",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 조경시설 소재 중 도로 절·성토면의 녹화공사, 해안매립 및 호안공사, 하천제방 및 급류 부위의 법면보호공사 등에 사용되는 코코넛 열매를 원료로 한 천연섬유 재료는?",
+      "options": [
+        "코이어 메시",
+        "우드칩",
+        "테라소브",
+        "그린블록",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q149",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "견치석에 관한 설명 중 옳지 않은 것은?",
+      "options": [
+        "형상은 재두각추체(裁頭角錐體)에 가깝다.",
+        "접촉면의 길이는 앞면 4변의 제일 짧은 길이의 3배 이상이어야 한다.",
+        "접촉면의 폭은 전면 1변의 길이의 1/10 이상이어야 한다.",
+        "견치석은 흙막이용 석축이나 비탈면의 돌붙임에 쓰인다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q150",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "무근콘크리트와 비교한 철근콘크리트의 특성으로 옳은 것은?",
+      "options": [
+        "공사기간이 짧다.",
+        "유지관리비가 적게 소요된다.",
+        "철근 사용의 주목적은 압축강도 보완이다.",
+        "가설공사인 거푸집 공사가 필요 없고 시공이 간단하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q151",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "『Syringa oblata var.dilatata』는 어떤 식물인가?",
+      "options": [
+        "라일락",
+        "목서",
+        "수수꽃다리",
+        "쥐똥나무",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q152",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 수관의 형태가 “원추형”인 수종은?",
+      "options": [
+        "전나무",
+        "실편백",
+        "녹나무",
+        "산수유",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q153",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 인동덩굴(Lonicera japonica Thunb.)에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "반상록 활엽 덩굴성",
+        "원산지는 한국, 중국, 일본",
+        "꽃은 1~2개씩 옆액에 달리며 포는 난형으로 길이는 1~2㎝",
+        "줄기가 왼쪽으로 감아 올라가며, 소지는 회색으로 가시가 있고 속이 빔",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q154",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "서향(Daphne odora Thunb.)에 대한 설명으로 맞지 않는 것은?",
+      "options": [
+        "꽃은 청색계열이다.",
+        "성상은 상록활엽관목이다.",
+        "뿌리는 천근성이고 내염성이 강하다.",
+        "잎은 어긋나기하며 타원형이고, 가장자리가 밋밋하다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q155",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "팥배나무(Sorbus alnifolia K.Koch)의 설명으로 틀린 것은?",
+      "options": [
+        "꽃은 노란색이다.",
+        "생장속도는 비교적 빠르다.",
+        "열매는 조류 유인식물로 좋다.",
+        "잎의 가장자리에 이중거치가 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q156",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "골담초(Caragana sinica Rehder)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "콩과(科) 식물이다.",
+        "꽃은 5월에 피고 단생한다.",
+        "생장이 느리고 덩이뿌리로 위로 자란다.",
+        "비옥한 사질양토에서 잘 자라고 토박지에서도 잘 자란다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q157",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 조경수의 이식에 대한 적응이 가장 어려운 수종은?",
+      "options": [
+        "편백",
+        "미루나무",
+        "수양버들",
+        "일본잎갈나무",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q158",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "방풍림(wind shelter) 조성에 알맞은 수종은?",
+      "options": [
+        "팽나무, 녹나무, 느티나무",
+        "곰솔, 대나무류, 자작나무",
+        "신갈나무, 졸참나무, 향나무",
+        "박달나무, 가문비나무, 아까시나무",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q159",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "조경 수목은 식재기의 위치나 환경조건 등에 따라 적절히 선정하여야 한다. 다음 중 수목의 구비조건으로 가장 거리가 먼 것은?",
+      "options": [
+        "병충해에 대한 저항성이 강해야 한다.",
+        "다듬기 작업 등 유지관리가 용이해야 한다.",
+        "이식이 용이하며, 이식 후에도 잘 자라야 한다.",
+        "번식이 힘들고 다량으로 구입이 어려워야 희소성 때문에 가치가 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q160",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "미선나무(Abeliophyllum distichum Nakai)의 설명으로 틀린 것은?",
+      "options": [
+        "1속 1종",
+        "낙엽활엽관목",
+        "잎은 어긋나기",
+        "물푸레나무과(科)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q161",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "농약제제의 분류 중 분제(粉劑, dusts)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "잔효성이 유제에 비해 짧다.",
+        "작물에 대한 고착성이 우수하다.",
+        "유효성분 농도가 1 ~ 5% 정도인 것이 많다.",
+        "유효성분을 고체증량제와 소량의 보조제를 혼합 분쇄한 미분말을 말한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q162",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 철쭉, 개나리 등 화목류의 전정시기로 가장 알맞은 것은?",
+      "options": [
+        "가을 낙엽 후 실시한다.",
+        "꽃이 진 후에 실시한다.",
+        "이른 봄 해동 후 바로 실시한다.",
+        "시기와 상관없이 실시할 수 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q163",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "양버즘나무(플라타너스)에 발생된 흰불나방을 구제하고자 할 때 가장 효과가 좋은 약제는?",
+      "options": [
+        "디플루벤주론수화제",
+        "결정석회황합제",
+        "포스파미돈액제",
+        "티오파네이트메틸수화제",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q164",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "조경수목에 공급하는 속효성 비료에 대한 설명으로 틀린 것은?",
+      "options": [
+        "대부분의 화학비료가 해당된다.",
+        "늦가을에서 이른 봄 사이에 준다.",
+        "시비 후 5 ~ 7일 정도면 바로 비효가 나타난다.",
+        "강우가 많은 지역과 잦은 시기에는 유실정도가 빠르다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q165",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "잔디공사 중 떼심기 작업의 주의사항이 아닌 것은?",
+      "options": [
+        "뗏장의 이음새에는 흙을 충분히 채워준다.",
+        "관수를 충분히 하여 흙과 밀착되도록 한다.",
+        "경사면의 시공은 위쪽에서 아래쪽으로 작업한다.",
+        "땟장을 붙인 다음에 롤러 등의 장비로 전압을 실시한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q166",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 설명에 해당하는 것은?",
+      "options": [
+        "새삼",
+        "선충",
+        "겨우살이",
+        "바이러스",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jx/jx20160124/jx20160124m46.gif"
+    },
+    {
+      "id": "landscape_craftsman_q167",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "천적을 이용해 해충을 방제하는 방법은?",
+      "options": [
+        "생물적 방제",
+        "화학적 방제",
+        "물리적 방제",
+        "임업적 방제",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q168",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "곰팡이가 식물에 침입하는 방법은 직접침입, 연개구로 침입, 상처침입으로 구분할 수 있다. 다음 중 직접침입이 아닌 것은?",
+      "options": [
+        "피목침입",
+        "흡기로 침입",
+        "세포간 균사로 침입",
+        "흡기를 가진 세포간 균사로 침입",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q169",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "비탈면의 잔디를 기계로 깎으려면 비탈면의 경사가 어느 정도보다 완만하여야 하는가?",
+      "options": [
+        "1:1보다 완만해야한다.",
+        "1:2보다 완만해야한다.",
+        "1:3보다 완만해야한다.",
+        "경사에 상관없다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q170",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "수목 식재 후 물집을 만드는데, 물집의 크기로 가장 적당한 것은?",
+      "options": [
+        "근원지름(직경)의 1배",
+        "근원지름(직경)의 2배",
+        "근원지름(직경)의 3~4배",
+        "근원지름(직경)의 5~6배",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q171",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "토공사에서 터파기할 양이 100m3, 되메우기양이 70m3일 때 실질적인 잔토처리량(m3)은? (단, L = 1.1, C = 0.8이다.)",
+      "options": [
+        "24",
+        "30",
+        "33",
+        "39",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q172",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 설명의 ( )안에 적합한 것은?",
+      "options": [
+        "표토",
+        "조류(algae)",
+        "풍적토",
+        "충적토",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/jx/jx20160124/jx20160124m52.gif"
+    },
+    {
+      "id": "landscape_craftsman_q173",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "조경시설물 유지관리 연관 작업계획에 포함되지 않는 작업 내용은?",
+      "options": [
+        "수선, 교체",
+        "개량, 신설",
+        "복구, 방제",
+        "제초, 전정",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q174",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "건설공사 표준품셈에서 사용되는 기본(표준형) 벽돌의 표준 치수(㎜)로 옳은 것은?",
+      "options": [
+        "180×80×57",
+        "190×90×57",
+        "210×90×60",
+        "210×100×60",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q175",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 설명에 해당하는 공법은?",
+      "options": [
+        "식생대공",
+        "식생자루공",
+        "식생매트공",
+        "종자분사파종공",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jx/jx20160124/jx20160124m55.gif"
+    },
+    {
+      "id": "landscape_craftsman_q176",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "수준측량에서 표고(標高 : elevation)라 함은 일반적으로 어느 면(面)으로부터 연직거리를 말하는가?",
+      "options": [
+        "해면(海面)",
+        "기준면(基準面)",
+        "수평면(水平面)",
+        "지평면(地平面)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q177",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 콘크리트의 공사에 있어서 거푸집에 작용하는 콘크리트 측압의 증가 요인이 아닌 것은?",
+      "options": [
+        "타설 속도가 빠를수록",
+        "슬럼프가 클수록",
+        "다짐이 많을수록",
+        "빈배합일 경우",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q178",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 현장 답사 등과 같은 높은 정확도를 요하지 않는 경우에 간단히 거리를 측정하는 약측정 방법에 해당하지 않는 것은?",
+      "options": [
+        "목측",
+        "보측",
+        "시각법",
+        "줄자측정",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q179",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 [보기]가 설명하는 특징의 건설장비는?",
+      "options": [
+        "로더(Loader)",
+        "백호우(Back Hoe)",
+        "불도저(Bulldozer)",
+        "덤프트럭(Dump Truck)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jx/jx20160124/jx20160124m59.gif"
+    },
+    {
+      "id": "landscape_craftsman_q180",
+      "subject": "조경 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "토양환경을 개선하기 위해 유공관을 지면과 수직으로 뿌리 주변에 세워 토양내 공기를 공급하여 뿌리호흡을 유도하는데, 유공관의 깊이는 수종, 규격, 식재지역의 토양 상태에 따라 다르게 할 수 있으나, 평균 깊이는 몇 미터 이내로 하는 것이 바람직한가?",
+      "options": [
+        "1m",
+        "1.5m",
+        "2m",
+        "3m",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q181",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 [보기]에서 설명하는 것은?",
+      "options": [
+        "점이(漸移)",
+        "운율(韻律)",
+        "추이(推移)",
+        "비례(⽐例)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/jx/jx20151010/jx20151010m1.gif"
+    },
+    {
+      "id": "landscape_craftsman_q182",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 전라남도 담양지역의 정자원림이 아닌 것은?",
+      "options": [
+        "소쇄원 원림",
+        "명옥헌 원림",
+        "식영정 원림",
+        "임대정 원림",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q183",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "화단 50m의 길이에 1열로 생울타리(H1.2×W0.4)를 만들려면 해당 규격의 수목이 최소한 얼마나 필요한가?",
+      "options": [
+        "42주",
+        "125주",
+        "200주",
+        "600주",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q184",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 제시된 색 중 같은 면적에 적용했을 경우 가장 좁아 보이는 색은?",
+      "options": [
+        "옅은 하늘색",
+        "선명한 분홍색",
+        "밝은 노란 회색",
+        "진한 파랑",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q185",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "도면의 작도 방법으로 옳지 않은 것은?",
+      "options": [
+        "도면은 될 수 있는 한 간단히 하고, 중복을 피한다.",
+        "도면은 그 길이 방향을 위아래 방향으로 놓은 위치를 정위치로 한다.",
+        "사용 척도는 대상물의 크기, 도형의 복잡성 등을 고려, 그림이 명료성을 갖도록 선정한다.",
+        "표제란을 보는 방향은 통상적으로 도면의 방향과 일치하도록 하는 것이 좋다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q186",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "중국 조경의 시대별 연결이 옳은 것은?",
+      "options": [
+        "명 - 이화원(颐和园)",
+        "진 - 화림원(華林園)",
+        "송 - 만세산(萬歲⼭)",
+        "명 - 태액지(太液池)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q187",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 배치도에 표시하지 않아도 되는 사항은?",
+      "options": [
+        "축척",
+        "건물의 위치",
+        "대지 경계선",
+        "수목 줄기의 형태",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q188",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 식별성이 높은 지형이나 시설을 지칭하는 것은?",
+      "options": [
+        "비스타(vista)",
+        "캐스케이드(cascade)",
+        "랜드마크(landmark)",
+        "슈퍼그래픽(super graphic)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q189",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 [보기]의 설명은 어느 시대의 정원에 관한 것인가?",
+      "options": [
+        "조선",
+        "백제",
+        "고려",
+        "통일신라",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jx/jx20151010/jx20151010m9.gif"
+    },
+    {
+      "id": "landscape_craftsman_q190",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "이탈리아 바로크 정원 양식의 특징이라 볼 수 없는 것은?",
+      "options": [
+        "미원(maze)",
+        "토피아리",
+        "다양한 물의 기교",
+        "타일포장",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q191",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "해가 지면서 주위가 어둑해질 무렵 낮에 화사하게 보이던 빨간 꽃이 거무스름해져 보이고, 청록색 물체가 밝게 보인다. 이러한 원리를 무엇이라고 하는가?",
+      "options": [
+        "명순응",
+        "면적 효과",
+        "색의 항상성",
+        "푸르키니에 현상",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q192",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 어린이들의 물놀이를 위해서 만든 얕은 물 놀이터는?",
+      "options": [
+        "도섭지",
+        "포석지",
+        "폭포지",
+        "천수지",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q193",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "먼셀 표색계의 색채 표기법으로 옳은 것은?",
+      "options": [
+        "2040-Y70R",
+        "5R 4/14",
+        "2:R-4.5-9s",
+        "221c",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q194",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "조선시대 창덕궁의 후원(비원, 秘苑)을 가리키던 용어로 가장 거리가 먼 것은?",
+      "options": [
+        "북원(北園)",
+        "후원(後苑)",
+        "금원(禁園)",
+        "유원(留園)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q195",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "서양의 대표적인 조경양식이 바르게 연결된 것은?",
+      "options": [
+        "이탈리아 - 평면기하학식",
+        "영국 - 자연풍경식",
+        "프랑스 - 노단건축식",
+        "독일 - 중정식",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q196",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "방사(防砂)ㆍ방진(防塵)용 수목의 대표적인 특징 설명으로 가장 적합한 것은?",
+      "options": [
+        "잎이 두껍고 함수량이 많으며 넓은 잎을 가진 치밀한 상록수여야 한다.",
+        "지엽이 밀생한 상록수이며 맹아력이 강하고 관리가 용이한 수목이어야 한다.",
+        "사람의 머리가 닿지 않을 정도의 지하고를 유지하고 겨울에는 낙엽되는 수목이어야 한다.",
+        "빠른 생장력과 뿌리뻗음이 깊고, 지상부가 무성하면서 지엽이 바람에 상하지 않는 수목이어야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q197",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 그림과 같은 형태를 보이는 수목은?",
+      "options": [
+        "일본목련",
+        "복자기",
+        "팔손이",
+        "물푸레나무",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jx/jx20151010/jx20151010m17.gif"
+    },
+    {
+      "id": "landscape_craftsman_q198",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "목재의 역학적 성질에 대한 설명으로 틀린 것은?",
+      "options": [
+        "옹이로 인하여 인장강도는 감소한다.",
+        "비중이 증가하면 탄성은 감소한다.",
+        "섬유포화점 이하에서는 함수율이 감소하면 강도가 증대된다.",
+        "일반적으로 응력의 방향이 섬유방향에 평행한 경우 강도(전단강도 제외)가 최대가 된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q199",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 그림은 어떤 돌쌓기 방법인가?",
+      "options": [
+        "층지어쌓기",
+        "허튼층쌓기",
+        "귀갑무늬쌓기",
+        "마름돌 바른층쌓기",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jx/jx20151010/jx20151010m19.gif"
+    },
+    {
+      "id": "landscape_craftsman_q200",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "그림은 벽돌을 토막 또는 잘라서 시공에 사용할 때 벽돌의 형상이다. 다음 중 반토막 벽돌에 해당하는 것은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q201",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "목재의 치수 표시방법으로 맞지 않는 것은?",
+      "options": [
+        "제재 치수",
+        "제재 정치수",
+        "중간 치수",
+        "마무리 치수",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q202",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 주택 정원에 식재하여 여름에 꽃을 감상할 수 있는 수종은?",
+      "options": [
+        "식나무",
+        "능소화",
+        "진달래",
+        "수수꽃다리",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q203",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 9월 중순 ~ 10월 중순에 성숙된 열매색이 흑색인 것은?",
+      "options": [
+        "마가목",
+        "살구나무",
+        "남천",
+        "생강나무",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q204",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "시멘트의 저장과 관련된 설명 중 ( )안에 해당하지 않는 것은?",
+      "options": [
+        "13",
+        "6",
+        "방습",
+        "50℃",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jx/jx20151010/jx20151010m24.gif"
+    },
+    {
+      "id": "landscape_craftsman_q205",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "구조용 경량콘크리트에 사용되는 경량골재는 크게 인공, 천연 및 부산경량골재로 구분할 수 있다. 다음 중 인공경량골재에 해당되지 않는 것은?",
+      "options": [
+        "화산재",
+        "팽창혈암",
+        "팽창점토",
+        "소성플라이애쉬",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q206",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 시멘트가 풍화작용과 탄산화 작용을 받은 정도를 나타내는 척도로 고온으로 가열하여 시멘트 중량의 감소율을 나타내는 것은?",
+      "options": [
+        "경화",
+        "위응결",
+        "강열감량",
+        "수화반응",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q207",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "재료가 외력을 받았을 때 작은 변형만 나타내도 파괴되는 현상을 무엇이라 하는가?",
+      "options": [
+        "취성",
+        "강성",
+        "인성",
+        "전성",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q208",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "안료를 가하지 않아 목재의 무늬를 아름답게 낼 수 있는 것은?",
+      "options": [
+        "유성페인트",
+        "에나멜페인트",
+        "클리어래커",
+        "수성페인트",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q209",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음의 설명에 해당하는 장비는?",
+      "options": [
+        "윤척",
+        "측고봉",
+        "하고측고기",
+        "순토측고기",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/jx/jx20151010/jx20151010m29.gif"
+    },
+    {
+      "id": "landscape_craftsman_q210",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "조경에 활용되는 석질재료의 특성으로 옳은 것은?",
+      "options": [
+        "열전도율이 높다.",
+        "가격이 싸다.",
+        "가공하기 쉽다.",
+        "내구성이 크다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q211",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "용기에 채운 골재절대용적의 그 용기 용적에 대한 백분율로 단위질량을 밀도로 나눈 값의 백분율이 의미하는 것은?",
+      "options": [
+        "골재의 실적률",
+        "골재의 입도",
+        "골재의 조립률",
+        "골재의 유효습수율",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q212",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 [보기]의 조건을 활용한 골재의 공극률 계산식은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/jx/jx20151010/jx20151010m32.gif"
+    },
+    {
+      "id": "landscape_craftsman_q213",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "유동화제에 의한 유동화 콘크리트의 슬럼프 증가량의 표준 값으로 적당한 것은?",
+      "options": [
+        "2 ~ 5㎝",
+        "5 ~ 8㎝",
+        "8 ~ 11㎝",
+        "11 ~ 14㎝",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q214",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "겨울철에도 노지에서 월동할 수 있는 상록 다년생 식물은?",
+      "options": [
+        "옥잠화",
+        "샐비어",
+        "꽃잔디",
+        "맥문동",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q215",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다른 지방에서 자생하는 식물을 도입한 것을 무엇이라고 하는가?",
+      "options": [
+        "재배식물",
+        "귀화식물",
+        "외국식물",
+        "외래식물",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q216",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "수목을 이식할 때 고려사항으로 가장 부적합한 것은?",
+      "options": [
+        "지상부의 지엽을 전정해 준다.",
+        "뿌리분의 손상이 없도록 주의하여 이식한다.",
+        "굵은 뿌리의 자른 부위는 방부처리 하여 부패를 방지한다.",
+        "운반이 용이하게 뿌리분은 기준보다 가능한 한 작게 하여 무게를 줄인다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q217",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "콘크리트 시공연도와 직접 관계가 없는 것은?",
+      "options": [
+        "물 – 시멘트비",
+        "재료의 분리",
+        "골재의 조립도",
+        "물의 정도 함유량",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q218",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 과일나무가 늙어서 꽃 맺음이 나빠지는 경우에 실시하는 전정은 어느 것인가?",
+      "options": [
+        "생리를 조절하는 전정",
+        "생장을 돕기 위한 전정",
+        "생장을 억제하는 전정",
+        "세력을 갱신하는 전정",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q219",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "콘크리트의 배합의 종류로 틀린 것은?",
+      "options": [
+        "시방배합",
+        "현장배합",
+        "시공배합",
+        "질량배합",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q220",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "소나무 순지르기에 대한 설명으로 틀린 것은?",
+      "options": [
+        "매년 5~6월경에 실시한다.",
+        "중심 순만 남기고 모두 자른다.",
+        "새순이 5~10㎝의 길이로 자랐을 때 실시한다.",
+        "남기는 순도 힘이 지나칠 경우 1/2~1/3 정도로 자른다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q221",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "코흐의 4원칙에 대한 설명 중 잘못된 것은?",
+      "options": [
+        "미생물은 반드시 환부에 존재해야 한다.",
+        "미생물은 분리되어 배지상에서 순수 배양되어야 한다.",
+        "순수 배양한 미생물은 접종하여 동일한 병이 발생되어야 한다.",
+        "발병한 피해부에서 접종에 사용한 미생물과 동일한 성질을 가진 미생물이 반드시 재분리 될 필요는 없다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q222",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "토양에 따른 경도와 식물생육의 관계를 나타낼 때 나지화가 시작되는 값(㎏f/cm2)은? (단, 지표면의 경도는 Yamanaka 경도계로 측정한 것으로 한다.)",
+      "options": [
+        "9.4 이상",
+        "5.8 이상",
+        "13.0 이상",
+        "3.6 이상",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q223",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "파이토플라스마에 의한 수목병이 아닌 것은?",
+      "options": [
+        "벚나무 빗자루병",
+        "붉나무 빗자루병",
+        "오동나무 빗자루병",
+        "대추나무 빗자루병",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q224",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "대목을 대립종자의 유경이나 유근을 사용하여 접목하는 방법으로 접목한 뒤에는 관계습도를 높게 유지하며, 정식 후 근두암종병의 발병율이 높은 단점을 갖는 접목법은?",
+      "options": [
+        "아접법",
+        "유대접",
+        "호접법",
+        "교접법",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jx/jx20151010/jx20151010m44.gif"
+    },
+    {
+      "id": "landscape_craftsman_q225",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "공사의 설계 및 시공을 의뢰하는 사람을 뜻하는 용어는?",
+      "options": [
+        "설계자",
+        "시공자",
+        "발주자",
+        "감독자",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q226",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "어른과 어린이 겸용벤치 설치 시 앉음면(좌면, 坐⾯)의 적당한 높이는?",
+      "options": [
+        "25 ~ 30㎝",
+        "35 ~ 40㎝",
+        "45 ~ 50㎝",
+        "55 ~ 60㎝",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q227",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "건설재료의 할증률이 틀린 것은?",
+      "options": [
+        "붉은 벽돌 : 3%",
+        "이형철근 : 5%",
+        "조경용 수목 : 10%",
+        "석재판붙임용재(정형돌) : 10%",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q228",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "식재작업의 준비단계에 포함되지 않는 것은?",
+      "options": [
+        "수목 및 양생제 반입 여부를 재확인한다.",
+        "공정표 및 시공도면, 시방서 등을 검토한다.",
+        "빠른 식재를 위한 식재지역의 사전조사는 생략한다.",
+        "수목의 배식, 규격, 지하 매설물 등을 고려하여 식재 위치를 결정한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q229",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "콘크리트 포장에 관한 설명 중 옳지 않은 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "보조 기층을 튼튼히 해서 부동침하를 막아야한다.",
+        "두께는 10㎝ 이상으로 하고, 철근이나 용접철망을 넣어 보강한다.",
+        "물ㆍ시멘트의 비율은 60% 이내, 슬럼프의 최대값은 5㎝ 이상으로 한다.",
+        "온도변화에 따른 수축 ㆍ 팽창에 의한 파손 방지를 위해 신축줄눈과 수축줄눈을 설치한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q230",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "현대적인 공사관리에 관한 설명 중 가장 적합한 것은?",
+      "options": [
+        "품질과 공기는 정비례한다.",
+        "공기를 서두르면 원가가 싸게 된다.",
+        "경제속도에 맞는 품질이 확보 되어야 한다.",
+        "원가가 싸게 되도록 하는 것이 공사관리의 목적이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q231",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 관리해야 할 수경 시설물에 해당되지 않는 것은?",
+      "options": [
+        "폭포",
+        "분수",
+        "연못",
+        "덱(deck)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q232",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "아황산가스에 민감하지 않은 수종은?",
+      "options": [
+        "소나무",
+        "겹벚나무",
+        "단풍나무",
+        "화백",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q233",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 입찰계약 순서 중 옳은 것은?",
+      "options": [
+        "입찰공고→낙찰→계약→개찰→입찰→현장설명",
+        "입찰공고→현장설명→입찰→계약→낙찰→개찰",
+        "입찰공고→현장설명→입찰→개찰→낙찰→계약",
+        "입찰공고→계약→낙찰→개찰→입찰→현장설명",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q234",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "조경 목재시설물의 유지관리를 위한 대책 중 적절하지 않는 것은?",
+      "options": [
+        "통풍을 좋게 한다.",
+        "빗물 등의 고임을 방지한다.",
+        "건조되기 쉬운 간단한 구조로 한다.",
+        "적당한 20~40℃온도와 80% 이상의 습도를 유지시킨다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q235",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "토양 및 수목에 양분을 처리하는 방법의 특징 설명이 틀린 것은?",
+      "options": [
+        "액비관주는 양분흡수가 빠르다.",
+        "수간주입은 나무에 손상이 생긴다.",
+        "엽면시비는 뿌리 발육 불량 지역에 효과적이다.",
+        "천공시비는 비료 과다투입에 따른 염류장해발생 가능성이 없다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q236",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "비탈면의 녹화와 조경에 사용되는 식물의 요건으로 가장 부적합한 것은?",
+      "options": [
+        "적응력이 큰 식물",
+        "생장이 빠른 식물",
+        "시비 요구도가 큰 식물",
+        "파종과 식재시기의 폭이 넓은 식물",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q237",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 원가계산에 의한 공사비의 구성에서 『경비』에 해당하지 않는 항목은?",
+      "options": [
+        "안전관리비",
+        "운반비",
+        "가설비",
+        "노무비",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q238",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "잔디깎기의 목적으로 옳지 않은 것은?",
+      "options": [
+        "잡초 방제",
+        "이용 편리 도모",
+        "병충해 방지",
+        "잔디의 분열억제",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q239",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 측량의 3대 요소가 아닌 것은?",
+      "options": [
+        "각측량",
+        "거리측량",
+        "세부측량",
+        "고저측량",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "landscape_craftsman_q240",
+      "subject": "조경 기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "경사도(勾配, slope)가 15%인 도로면상의 경사거리 135m에 대한 수평거리는?",
+      "options": [
+        "130.0m",
+        "132.0m",
+        "133.5m",
+        "136.5m",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    }
+  ]
+}

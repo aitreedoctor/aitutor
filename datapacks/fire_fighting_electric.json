@@ -1,0 +1,4805 @@
+{
+  "pack_name": "소방설비기사(전기) 기출 팩",
+  "questions": [
+    {
+      "id": "fire_fighting_electric_q1",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "정전기로 인한 화재를 줄이고 방지하기 위한 대책 중 틀린 것은?",
+      "options": [
+        "공기 중 습도를 일정값 이상으로 유지한다.",
+        "기기의 전기 절연성을 높이기 위하여 부도체로 차단공사를 한다.",
+        "공기 이온화 장치를 설치하여 가동시킨다.",
+        "정전기 축적을 막기 위해 접지선을 이용하여 대지로 연결작업을 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q2",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "위험물안전관리법령상 위험물로 분류되는 것은?",
+      "options": [
+        "과산화수소",
+        "압축산소",
+        "프로판가스",
+        "포스겐",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q3",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "이산화탄소 20g은 약 몇 mol 인가?",
+      "options": [
+        "0.23",
+        "0.45",
+        "2.2",
+        "4.4",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q4",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "물질의 연소 시 산소 공급원이 될 수 없는 것은?",
+      "options": [
+        "탄화칼슘",
+        "과산화나트륨",
+        "질산나트륨",
+        "압축공기",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q5",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "Fourier법칙(전도)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "이동열량은 전열체의 단면적에 비례한다.",
+        "이동열량은 전열체의 두께에 비례한다.",
+        "이동열량은 전열체의 열전도도에 비례한다.",
+        "이동열량은 전열체 내·외부의 온도차에 비례한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q6",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "할론 소화설비에서 Halon 1211 약제의 분자식은?",
+      "options": [
+        "CBr2ClF",
+        "CF2BrCl",
+        "CCl2BrF",
+        "BrC2ClF",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q7",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "제4류 위험물의 성질로 옳은 것은?",
+      "options": [
+        "가연성 고체",
+        "산화성 고체",
+        "인화성 액체",
+        "자기반응성물질",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q8",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "목재 화재 시 다량의 물을 뿌려 소화할 경우 기대되는 주된 소화효과는?",
+      "options": [
+        "제거효과",
+        "냉각효과",
+        "부촉매효과",
+        "희석효과",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q9",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "물이 소화 약제로써 사용되는 장점이 아닌 것은?",
+      "options": [
+        "가격이 저렴하다.",
+        "많은 양을 구할 수 있다.",
+        "증발잠열이 크다.",
+        "가연물과 화학반응이 일어나지 않는다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q10",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "분말소화약제 중 탄산수소칼륨(KHCO3)과 요소(CO(NH2)2)와의 반응물을 주성분으로 하는 소화약제는?",
+      "options": [
+        "제1종 분말",
+        "제2종 분말",
+        "제3종 분말",
+        "제4종 분말",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q11",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 중 가연물의 제거를 통한 소화 방법과 무관한 것은?",
+      "options": [
+        "산불의 확산방지를 위하여 산림의 일부를 벌채한다.",
+        "화학반응기의 화재 시 원료 공급관의 밸브를 잠근다.",
+        "전기실 화재 시 IG-541 약제를 방출한다.",
+        "유류탱크 화재 시 주변에 있는 유류탱크의 유류를 다른 곳으로 이동시킨다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q12",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "건물화재의 표준시간-온도곡선에서 화재발생 후 1시간이 경과할 경우 내부 온도는 약 몇 ℃ 정도 되는가?",
+      "options": [
+        "125",
+        "325",
+        "640",
+        "925",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q13",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "물질의 취급 또는 위험성에 대한 설명 중 틀린 것은?",
+      "options": [
+        "융해열은 점화원이다.",
+        "질산은 물과 반응 시 발열 반응하므로 주의를 해야 한다.",
+        "네온, 이산화탄소, 질소는 불연성 물질로 취급한다.",
+        "암모니아를 충전하는 공업용 용기의 색상은 백색이다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q14",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "폭굉(detonation)에 관한 설명으로 틀린 것은?",
+      "options": [
+        "연소속도가 음속보다 느릴 때 나타난다.",
+        "온도의 상승은 충격파의 압력에 기인한다.",
+        "압력상승은 폭연의 경우보다 크다.",
+        "폭굉의 유도거리는 배관의 지름과 관계가 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q15",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "자연발화가 일어나기 쉬운 조건이 아닌 것은?",
+      "options": [
+        "열전도율이 클 것",
+        "적당량의 수분이 존재할 것",
+        "주위의 온도가 높을 것",
+        "표면적이 넓을 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q16",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "목조건축물의 화재특성으로 틀린 것은?",
+      "options": [
+        "습도가 낮을수록 연소 확대가 빠르다.",
+        "화재진행속도는 내화건축물보다 빠르다.",
+        "화재최성기의 온도는 내화건축물보다 낮다.",
+        "화재성장속도는 횡방향보다 종방향이 빠르다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q17",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 물질 중 공기 중에서의 연소범위가 가장 넓은 것은?",
+      "options": [
+        "부탄",
+        "프로판",
+        "메탄",
+        "수소",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q18",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "플래시 오버(flash over)에 대한 설명으로 옳은 것은?",
+      "options": [
+        "도시가스의 폭발적 연소를 말한다.",
+        "휘발유 등 가연성 액체가 넓게 흘러서 발화한 상태를 말한다.",
+        "옥내화재가 서서히 진행하여 열 및 가연성 기체가 축적되었다가 일시에 연소하여 화염이 크게 발생하는 상태를 말한다.",
+        "화재층의 불이 상부층으로 올라가는 현상을 말한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q19",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "연기에 의한 감광계수가 0.1m-1, 가시거리가 20~30m일 때의 상황으로 옳은 것은?",
+      "options": [
+        "건물 내부에 익숙한 사람이 피난에 지장을 느낄 정도",
+        "연기감지기가 작동할 정도",
+        "어두운 것을 느낄 정도",
+        "앞이 거의 보이지 않을 정도",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q20",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "프로판가스의 최소점화에너지는 일반적으로 약 몇 mJ 정도 되는가?",
+      "options": [
+        "0.25",
+        "2.5",
+        "25",
+        "250",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q21",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "정전용량이 각각 1㎌, 2㎌, 3㎌이고, 내압이 모두 동일한 3개의 커패시터가 있다. 이 커패시터들을 직렬로 연결하여 양단에 전압을 인가한 후 전압을 상승시키면 가장 먼저 절연이 파괴되는 커패시터는? (단, 커패시터의 재질이나 형태는 동일하다.)",
+      "options": [
+        "1㎌",
+        "2㎌",
+        "3㎌",
+        "3개 모두",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q22",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "그림과 같은 블록선도의 전달함수  는?",
+      "options": [
+        "6/23",
+        "6/7",
+        "6/15",
+        "6/11",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m22m1.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q23",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "그림의 단상 반파 정류회로에서 R에 흐르는 전류의 평균값은 약 몇 A 인가? (단, v(t) = 220√2sinωt(V), R＝16√2(Ω), 다이오드의 전압강하는 무시한다.)",
+      "options": [
+        "3.2",
+        "3.8",
+        "4.4",
+        "5.2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m23.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q24",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "3상 유도 전동기를 Y 결선으로 운전했을 때 토크가 TY이었다. 이 전동기를 동일한 전원에서 △결선으로 운전했을 때 토크(T△)는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q25",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "제어요소가 제어 대상에 가하는 제어 신호로 제어장치의 출력인 동시에 제어 대상의 입력이 되는 것은?",
+      "options": [
+        "조작량",
+        "제어량",
+        "기준입력",
+        "동작신호",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q26",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "어떤 코일의 임피던스를 측정하고자 한다. 이 코일에 30V의 직류전압을 가했을 때 300W가 소비되었고, 100V의 실효치 교류전압을 가했을 때 1200W가 소비되었다. 이 코일의 리액턴스(Ω)는?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q27",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "적분 시간이 3sec이고, 비례 감도가 5인 PI(비례적분) 제어 요소가 있다. 이 제어 요소의 전달함수는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q28",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "100V에서 500W를 소비하는 전열기가 있다. 이 전열기에 90V 의 전압을 인가했을 때 소비되는 전력(W)은?",
+      "options": [
+        "81",
+        "90",
+        "405",
+        "450",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q29",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "4극 직류 발전기의 전기자 도체 수가 500개, 각 자극의 자속이 0.01Wb, 회전수가 1800rpm일 때 이 발전기의 유도 기전력(V)은? (단, 전기자 권선법은 파권이다.)",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q30",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "진공 중에서 원점에 10-8C의 전하가 있을 때 점(1, 2, 2)m에서의 전계의 세기는 약 몇 V/m 인가?",
+      "options": [
+        "0.1",
+        "1",
+        "10",
+        "100",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q31",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "정현파 교류전압 e1(t)과 e2(t)의 합(e1(t) + e2(t))은 몇 V 인가?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m31.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q32",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "60㎐의 3상 전압을 반파 정류하였을 때 리플(맥동) 주파수(㎐)는?",
+      "options": [
+        "60",
+        "120",
+        "180",
+        "360",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q33",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "테브난의 정리를 이용하여 그림 (a)의 회로를 그림 (b)와 같은 등가회로로 만들고자 할 때 Vth(V)와 Rth(Ω)은?",
+      "options": [
+        "5V, 2Ω",
+        "5V, 3Ω",
+        "6V, 2Ω",
+        "6V, 3Ω",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m33.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q34",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "어떤 전압계의 측정 범위를 12배로 하려고 할 때 배율기의 저항은 전압계 내부저항의 몇 배로 해야 하는가?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q35",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "각 상의 임피던스가 Z = 4＋j3(Ω)인 △결선의 평형 3상 부하에 선간전압이 200V인 대칭 3상 전압을 가했을 때 이 부하로 흐르는 선전류의 크기는 몇 A 인가?",
+      "options": [
+        "40/3",
+        "40/√3",
+        "40",
+        "40√3",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q36",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "시퀀스회로를 논리식으로 표현하면?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m36.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q37",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "그림의 회로에서 a-b 간에 Vab(V)를 인가했을 때 c-d 간의 전압이 100V이었다. 이때 a-b 간에 인가한 전압(Vab)은 몇 V인가?",
+      "options": [
+        "104",
+        "106",
+        "108",
+        "110",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m37.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q38",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "균일한 자기장 내에서 운동하는 도체에 유도된 기전력의 방향을 나타내는 법칙은?",
+      "options": [
+        "플레밍의 왼손 법칙",
+        "플레밍의 오른손 법칙",
+        "암페어의 오른나사 법칙",
+        "패러데이의 전자유도 법칙",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q39",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "회로에서 저항 5Ω의 양단 전압 VR(V)은?",
+      "options": [
+        "-10",
+        "-7",
+        "7",
+        "10",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m39.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q40",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음의 논리식을 간단히 표현한 것은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m40.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q41",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 중 소방기본법령에 따라 화재예방상 필요하다고 인정되거나 화재위험경보시 발령하는 소방신호의 종류로 옳은 것은?",
+      "options": [
+        "경계신호",
+        "발화신호",
+        "경보신호",
+        "훈련신호",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q42",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "소방기본법령상 보일러 등의 위치·구조 및 관리와 화재예방을 위하여 불의 사용에 있어서 지켜야 하는 사항 중 보일러에 경유·등유 등 액체연료를 사용하는 경우에 연료탱크는 보일러 본체로부터 수평거리 최소 몇 m 이상의 간격을 두어 설치해야 하는가?",
+      "options": [
+        "0.5",
+        "0.6",
+        "1",
+        "2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q43",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음은 소방기본법령상 소방본부에 대한 설명이다. ( )에 알맞은 내용은?",
+      "options": [
+        "경찰서장",
+        "시·도지사",
+        "행정안전부장관",
+        "소방청장",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m43.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q44",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 소방기본법령상 용어 정의에 대한 설명으로 옳은 것은?",
+      "options": [
+        "소방대상물이란 건축물, 차량, 선박(항구에 매어둔 선박은 제외) 등을 말한다.",
+        "관계인이란 소방대상물의 점유예정자를 포함한다.",
+        "소방대란 소방공무원, 의무소방원, 의용소방대원으로 구성된 조직체이다.",
+        "소방대장이란 화재, 재난·재해, 그 밖의 위급한 상황이 발생한 현장에서 소방대를 지휘하는 사람(소방서장은 제외)이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q45",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "소방기본법령상 상업지역에 소방용수시설 설치 시 소방대상물과의 수평거리 기준은 몇 m 이하인가?",
+      "options": [
+        "100",
+        "120",
+        "140",
+        "160",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q46",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "소방시설공사업법령상 일반 소방시설설계업(기계분야)의 영업범위에 대한 기준 중 (  )에 알맞은 내용은? (단, 공장의 경우는 제외한다.)",
+      "options": [
+        "10000",
+        "20000",
+        "30000",
+        "50000",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m46.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q47",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "소방시설공사업법령상 소방시설업의 등록을 하지 아니하고 영업을 한 자에 대한 벌칙기준으로 옳은 것은?",
+      "options": [
+        "1년 이하의 징역 또는 1천만원 이하의 벌금",
+        "2년 이하의 징역 또는 2천만원 이하의 벌금",
+        "3년 이하의 징역 또는 3천만원 이하의 벌금",
+        "5년 이하의 징역 또는 5천만원 이하의 벌금",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q48",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "위험물안전관리법령에서 정하는 제3류 위험물에 해당하는 것은?",
+      "options": [
+        "나트륨",
+        "염소산염류",
+        "무기과산화물",
+        "유기과산화물",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q49",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 자동화재탐지설비를 설치하여야 하는 특정소방대상물의 기준으로 틀린 것은?",
+      "options": [
+        "공장 및 창고시설로서 「소방기본법 시행령」에서 정하는 수량의 500배 이상의 특수가연물을 저장·취급하는 것",
+        "지하가(터널은 제외한다)로서 연면적 600m2 이상인 것",
+        "숙박시설이 있는 수련시설로서 수용인원 100명 이상인 것",
+        "장례시설 및 복합건축물로서 연면적 600m2 이상인 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q50",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 종합정밀점검 실시 대상이 되는 특정소방대상물의 기준 중 다음 (  ) 안에 알맞은 것은?",
+      "options": [
+        "2000",
+        "3000",
+        "4000",
+        "5000",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m50.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q51",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "소방기본법령상 특수가연물의 저장 및 취급의 기준 중 (  )에 들어갈 내용으로 옳은 것은? (단, 석탄·목탄류의 경우는 제외 한다.)",
+      "options": [
+        "㉠ 15, ㉡ 200",
+        "㉠ 15, ㉡ 300",
+        "㉠ 10, ㉡ 30",
+        "㉠ 10, ㉡ 50",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m51.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q52",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "위험물안전관리법령상 제4류 위험물을 저장·취급하는 제조소에 “화기엄금”이란 주의사항을 표시하는 게시판을 설치할 경우 게시판의 색상은?",
+      "options": [
+        "청색바탕에 백색문자",
+        "적색바탕에 백색문자",
+        "백색바탕에 적색문자",
+        "백색바탕에 흑색문자",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q53",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "위험물안전관리법령상 유별을 달리하는 위험물을 혼재하여 저장할 수 있는 것으로 짝지어진 것은?",
+      "options": [
+        "제1류-제2류",
+        "제2류-제3류",
+        "제3류-제4류",
+        "제5류-제6류",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q54",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 방염성능기준 이상의 실내장식물 등을 설치하여야 하는 특정소방대상물이 아닌 것은?",
+      "options": [
+        "방송국",
+        "종합병원",
+        "11층 이상의 아파트",
+        "숙박이 가능한 수련시설",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q55",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 건축허가 등을 할 때 미리 소방본부장 또는 소방서장의 동의를 받아야 하는 건축물 등의 범위기준이 아닌 것은?",
+      "options": [
+        "노유자시설 및 수련시설로서 연면적 100m2 이상인 건축물",
+        "지하층 또는 무창층이 있는 건축물로서 바닥면적이 150m2 이상인 층이 있는 것",
+        "차고·주차장으로 사용되는 바닥면적이 200m2 이상인 층이 있는 건축물이나 주차시설",
+        "장애인 의료재활시설로서 연면적 300m2 이상인 건축물",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q56",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "위험물안전관리법령상 관계인이 예방규정을 정하여야 하는 위험물 제조소등에 해당하지 않는 것은?",
+      "options": [
+        "지정수량 10배의 특수인화물을 취급하는 일반취급소",
+        "지정수량 20배의 휘발유를 고정된 탱크에 주입하는 일반 취급소",
+        "지정수량 40배의 제3석유류를 용기에 옮겨 담는 일반취급소",
+        "지정수량 15배의 알코올을 버너에 소비하는 장치로 이루어진 일반취급소",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q57",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 제조 또는 가공 공정에서 방염처리를 한 물품 중 방염대상물품이 아닌 것은?",
+      "options": [
+        "카펫",
+        "전시용 합판",
+        "창문에 설치하는 커튼류",
+        "두께가 2mm 미만인 종이벽지",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q58",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 무창층으로 판정하기 위한 개구부가 갖추어야 할 요건으로 틀린 것은?",
+      "options": [
+        "크기는 반지름 30㎝ 이상의 원이 내접할 수 있을 것",
+        "해당 층의 바닥면으로부터 개구부 밑부분까지 높이가 1.2m 이내일 것",
+        "도로 또는 차량이 진입할 수 있는 빈터를 향할 것",
+        "화재 시 건축물로부터 쉽게 피난할 수 있도록 창살이나 그 밖의 장애물이 설치되지 아니할 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q59",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재의 예방 및 안전관리에 관한 법령상 관리의 권원이 분리된 특정소방대상물에 소방안전관리자를 선임하여야 하는 특정소방대상물 중 복합건축물은 지하층을 제외한 층수가 최소 몇 층 이상인 건축물만 해당되는가?(2022년 12월 01일 개정된 규정 적용됨)",
+      "options": [
+        "6층",
+        "11층",
+        "20층",
+        "30층",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q60",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 “대통령령으로 정하는 특정소방대상물”의 관계인은 그 장소에 상시 근무하거나 거주하는 사람에게 소방훈련과 소방안전관리에 필요한 교육을 하여야 한다. 다음 “대통령령으로 정하는 특정소방대상물”에 대한 설명 중 ( )에 알맞은 내용은?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "10",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m60.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q61",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "소방시설용 비상전원수전설비의 화재안전기준(NFSC 602)에 따라 저압으로 수전하는 제1종 배전반 및 분전반의 외함 두께와 전면판(또는 문) 두께에 대한 설치기준으로 옳은 것은?",
+      "options": [
+        "외함 : 1.0mm 이상, 전면판(또는 문) : 1.2mm 이상",
+        "외함 : 1.2mm 이상, 전면판(또는 문) : 1.5mm 이상",
+        "외함 : 1.5mm 이상, 전면판(또는 문) : 2.0mm 이상",
+        "외함 : 1.6mm 이상, 전면판(또는 문) : 2.3mm 이상",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q62",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "무선통신보조설비의 화재안전기준(NFSC 505)에서 정하는 분배기·분파기 및 혼합기 등의 임피던스는 몇 Ω의 것으로 하여야 하는가?",
+      "options": [
+        "10",
+        "30",
+        "50",
+        "100",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q63",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "비상콘센트설비의 성능인증 및 제품검사의 기술기준에 따라 절연저항 시험부위의 절연내력은 정격전압 150V 이하의 경우 60Hz의 정현파에 가까운 실효전압 1000V 교류전압을 가하는 시험에서 몇 분간 견디는 것이어야 하는가?",
+      "options": [
+        "1",
+        "10",
+        "30",
+        "60",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q64",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음은 누전경보기의 형식승인 및 제품검사의 기술기준에 따른 표시등에 대한 내용이다. ( )에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "ⓐ 150, ⓑ 3",
+        "ⓐ 300, ⓑ 3",
+        "ⓐ 150, ⓑ 5",
+        "ⓐ 300, ⓑ 5",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m64.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q65",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "무선통신보조설비의 화재안전기준(NFSC 505)에 따라 무선통신보조설비의 누설동축케이블 및 동축케이블은 화재에 따라 해당 케이블의 피복이 소실된 경우에 케이블 본체가 떨어지지 아니하도록 몇 m 이내마다 금속제 또는 자기제등의 지지금구로 벽·천장·기둥 등에 견고하게 고정시켜야 하는가? (단, 불연재료로 구획된 반자 안에 설치하지 않은 경우이다.)",
+      "options": [
+        "1",
+        "1.5",
+        "2.5",
+        "4",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q66",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "비상콘센트설비의 화재안전기준(NFSC 504)에 따라 비상콘센트용의 풀박스 등은 방청도장을 한 것으로서, 두께 몇 mm 이상의 철판으로 하여야 하는가?",
+      "options": [
+        "1.0",
+        "1.2",
+        "1.5",
+        "1.6",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q67",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "자동화재탐지설비 및 시각경보장치의 화재안전기준(NFSC 203)에서 정하는 불꽃감지기의 시설기준으로 틀린 것은?",
+      "options": [
+        "폭발의 우려가 있는 장소에는 방폭형으로 설치할 것",
+        "공칭감시거리 및 공칭시야각은 형식승인 내용에 따를 것",
+        "감지기를 천장에 설치하는 경우에는 감지기는 바닥을 향하여 설치할 것",
+        "감지기는 화재감지를 유효하게 감지할 수 있는 모서리 또는 벽 등에 설치할 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q68",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음은 비상조명등의 우수품질인증 기술기준에서 정하는 비상조명등의 상태를 자동적으로 점검하는 기능에 대한 내용이다. (  )에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "ⓐ 15, ⓑ 15, ⓒ 15",
+        "ⓐ 15, ⓑ 20, ⓒ 30",
+        "ⓐ 30, ⓑ 30, ⓒ 30",
+        "ⓐ 30, ⓑ 45, ⓒ 60",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m68.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q69",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "자동화재탐지설비 및 시각경보장치의 화재안전기준(NFSC 203)에 따라 부착 높이가 4m 미만으로 연기감지기 3종을 설치할 때, 바닥면적 몇 m2 마다 1개 이상 설치하여야 하는가?",
+      "options": [
+        "50",
+        "75",
+        "100",
+        "150",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q70",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "비상방송설비와 자동화재탐지설비의 연동 시 동작 순서로 옳은 것은?",
+      "options": [
+        "기동장치 → 증폭기 → 수신기 → 조작부 → 확성기",
+        "기동장치 → 조작부 → 증폭기 → 수신기 → 확성기",
+        "기동장치 → 수신기 → 증폭기 → 조작부 → 확성기",
+        "기동장치 → 증폭기 → 조작부 → 수신기 → 확성기",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q71",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "유도등의 우수품질인증 기술기준에서 정하는 유도등의 일반구조에 적합하지 않은 것은?",
+      "options": [
+        "축전지에 배선 등은 직접 납땜하여야 한다.",
+        "충전부가 노출되지 아니한 것은 사용전압이 300V를 초과할 수 있다.",
+        "외함은 기기 내의 온도 상승에 의하여 변형, 변색 또는 변질되지 아니하여야 한다.",
+        "전선의 굵기는 인출선인 경우에는 단면적이 0.75mm2 이상, 인출선 외의 경우에는 면적이 0.5mm2 이상이어야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q72",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "축광표지의 성능인증 및 제품검사의 기술기준에 따라 피난방향 또는 소방용품 등의 위치를 추가적으로 알려주는 보조역할을 하는 축광보조표지의 설치 위치로 틀린 것은?",
+      "options": [
+        "바닥",
+        "천장",
+        "계단",
+        "벽면",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q73",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "시각경보장치의 성능인증 및 제품검사의 기술기준에 따라 시각 경보장치의 전원부 양단자 또는 양선을 단락시킨 부분과 비충전부를 DC 500V의 절연저항계로 측정하는 경우 절연저항이 몇 ㏁ 이상이어야 하는가?",
+      "options": [
+        "0.1",
+        "5",
+        "10",
+        "20",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q74",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "누전경보기의 형식승인 및 제품검사의 기술기준에서 정하는 누전경보기의 공칭작동전류치(누전경보기를 작동시키기 위하여 필요한 누설전류의 값으로서 제조자에 의하여 표시된 값을 말한다.)는 몇 ㎃ 이하이어야 하는가?",
+      "options": [
+        "50",
+        "100",
+        "150",
+        "200",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q75",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "다음은 자동화재속보설비의 속보기의 성능인증 및 제품검사의 기술기준에 따른 속보기에 대한 내용이다. (  )에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "ⓐ 10, ⓑ 30",
+        "ⓐ 15, ⓑ 30",
+        "ⓐ 10, ⓑ 60",
+        "ⓐ 15, ⓑ 60",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220424/nc20220424m75.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q76",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "단독경보형감지기에 대한 설명으로 틀린 것은?",
+      "options": [
+        "단독경보형감지기는 감지부, 경보장치, 전원이 개별로 구성되어 있다.",
+        "화재경보음은 감지기로부터 1m 떨어진 위치에서 85dB 이상으로 10분 이상 계속하여 경보할 수 있어야 한다.",
+        "단독경보형감지기는 수동으로 작동시험을 하고 자동복귀형 스위치에 의하여 자동으로 정위치에 복귀하여야 한다.",
+        "작동되는 감지기는 작동표시등에 의하여 화재의 발생을 표시하고, 내장된 음향장치의 명동에 의하여 화재경보음을 발하여야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q77",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "비상방송설비의 음향장치는 정격전압의 몇 % 전압에서 음향을 발할 수 있는 것으로 하여야 하는가?",
+      "options": [
+        "80",
+        "90",
+        "100",
+        "110",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q78",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "소방시설용 비상전원수전설비의 화재안전기준(NFSC 602)에 따라 소방회로배선은 일반회로배선과 불연성 벽으로 구획하여야 하나, 소방회로배선과 일반회로배선을 몇 ㎝ 이상 떨어져 설치한 경우에는 그러하지 아니하는가?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q79",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "경종의 우수품질인증 기술기준에 따라 경종에 정격전압을 인가한 경우 경종의 소비전류는 몇 mA 이하이어야 하는가?",
+      "options": [
+        "10",
+        "30",
+        "50",
+        "100",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q80",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-04-24 기출",
+      "question_text": "자동화재탐지설비 및 시각경보장치의 화재안전기준(NFSC 203)에 따라 감지기 상호 간 또는 감지기로부터 수신기에 이르는 감지기회로의 배선 중 전자파 방해를 받지 아니하는 쉴드선 등을 사용하지 않아도 되는 것은?",
+      "options": [
+        "R형 수신기용으로 사용되는 것",
+        "차동식 감지기",
+        "다신호식 감지기",
+        "아날로그식 감지기",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q81",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "소화원리에 대한 설명으로 틀린 것은?",
+      "options": [
+        "억제소화: 불활성기체를 방출하여 연소범위 이하로 낮추어 소화하는 방법",
+        "냉각소화: 물의 증발잠열을 이용하여 가연물의 온도를 낮추는 소화방법",
+        "제거소화: 가연성 가스의 분출화재 시 연료공급을 차단시키는 소화방법",
+        "질식소화: 포소화약제 또는 불연성기체를 이용해서 공기 중의 산소공급을 차단하여 소화하는 방법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q82",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "위험물의 유별에 따른 분류가 잘못된 것은?",
+      "options": [
+        "제1류 위험물: 산화성 고체",
+        "제3류 위험물: 자연발화성 물질 및 금수성 물질",
+        "제4류 위험물: 인화성 액체",
+        "제6류 위험물: 가연성 액체",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q83",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "고층 건축물 내 연기거동 중 굴뚝효과에 영향을 미치는 요소가 아닌 것은?",
+      "options": [
+        "건물 내·외의 온도차",
+        "화재실의 온도",
+        "건물의 높이",
+        "층의 면적",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q84",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재에 관련된 국제적인 규정을 제정하는 단체는?",
+      "options": [
+        "IMO(International Maritime Organization)",
+        "SFPE(Society of Fire Protection Engineers)",
+        "NFPA(Nation Fire Protection Association)",
+        "ISO(International Organization for Standardization) TC 92",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q85",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "제연설비의 화재안전기준상 예상제연구역에 공기가 유입되는 순간의 풍속은 몇 m/s 이하가 되도록 하여야 하는가?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q86",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재의 정의로 옳은 것은?",
+      "options": [
+        "가연성물질과 산소와의 격렬한 산화반응이다.",
+        "사람의 과실로 인한 실화나 고의에 의한 방화로 발생하는 연소현상으로서 소화할 필요성이 있는 연소현상이다.",
+        "가연물과 공기와의 혼합물이 어떤 점화원에 의하여 활성화되어 열과 빛을 발하면서 일으키는 격렬한 발열반응이다.",
+        "인류의 문화와 문명의 발달을 가져오게 한 근본 존재로서 인간의 제어수단에 의하여 컨트롤 할 수 있는 연소현상이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q87",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "물에 황산을 넣어 묽은 황산을 만들 때 발생되는 열은?",
+      "options": [
+        "연소열",
+        "분해열",
+        "용해열",
+        "자연발열",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q88",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "이산화탄소 소화약제의 임계온도는 약 몇 ℃ 인가?",
+      "options": [
+        "24.4",
+        "31.4",
+        "56.4",
+        "78.4",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q89",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "상온·상압의 공기중에서 탄화수소류의 가연물을 소화하기 위한 이산화탄소 소화약제의 농도는 약 몇 % 인가? (단, 탄화수소류는 산소농도가 10%일 때 소화된다고 가정한다.)",
+      "options": [
+        "28.57",
+        "35.48",
+        "49.56",
+        "52.38",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q90",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "과산화수소 위험물의 특성이 아닌 것은?",
+      "options": [
+        "비수용성이다.",
+        "무기화합물이다.",
+        "불연성 물질이다.",
+        "비중은 물보다 무겁다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q91",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "건축물의 피난·방화구조 등의 기준에 관한 규칙상 방화구획의 설치기준 중 스프링클러를 설치한 10층 이하의 층은 바닥면적 몇 m2 이내마다 방화구획을 구획하여야 하는가?",
+      "options": [
+        "1000",
+        "1500",
+        "2000",
+        "3000",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q92",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 중 분진 폭발의 위험성이 가장 낮은 것은?",
+      "options": [
+        "시멘트가루",
+        "알루미늄분",
+        "석탄분말",
+        "밀가루",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q93",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "백열전구가 발열하는 원인이 되는 열은?",
+      "options": [
+        "아크열",
+        "유도열",
+        "저항열",
+        "정전기열",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q94",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "동식물유류에서 “요오드값이 크다”라는 의미를 옳게 설명한 것은?",
+      "options": [
+        "불포화도가 높다.",
+        "불건성유이다.",
+        "자연발화성이 낮다.",
+        "산소와의 결합이 어렵다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q95",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "단백포 소화약제의 특징이 아닌 것은?",
+      "options": [
+        "내열성이 우수하다.",
+        "유류에 대한 유동성 이 나쁘다.",
+        "유류를 오염시킬 수 있다.",
+        "변질의 우려가 없어 저장 유효기간의 제한이 없다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q96",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "이산화탄소 소화약제의 주된 소화효과는?",
+      "options": [
+        "제거소화",
+        "억제소화",
+        "질식소화",
+        "냉각소화",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q97",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "전기불꽃, 아크 등이 발생하는 부분을 기름 속에 넣어 폭발을 방지하는 방폭구조는?",
+      "options": [
+        "내압방폭구조",
+        "유입방폭구조",
+        "안전증방폭구조",
+        "특수방폭구조",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q98",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "자연발화의 방지방법이 아닌 것은?",
+      "options": [
+        "통풍이 잘 되도록 한다.",
+        "퇴적 및 수납 시 열이 쌓이지 않게 한다.",
+        "높은 습도를 유지한다.",
+        "저장실의 온도를 낮게 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q99",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "소화약제의 형식승인 및 제품검사의 기술기준상 강화액 소화약제의 응고점은 몇 ℃ 이하이어야 하는가?",
+      "options": [
+        "0",
+        "-20",
+        "-25",
+        "-30",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q100",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "상온에서 무색의 기체로서 암모니아와 유사한 냄새를 가지는 물질은?",
+      "options": [
+        "에틸벤젠",
+        "에틸아민",
+        "산화프로필렌",
+        "사이클로프로판",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q101",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "그림과 같은 회로에서 단자 a, b 사이에 주파수 f(Hz)의 정현파 전압을 가했을 때 전류계 A1, A2의 값이 같았다. 이 경우 f, L, C 사이의 관계로 옳은 것은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220305/nc20220305m21.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q102",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "논리식  를 간단히 표현한 것은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220305/nc20220305m22m1.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q103",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "회로에서 전류 I는 약 몇 A 인가?",
+      "options": [
+        "0.92",
+        "1.125",
+        "1.29",
+        "1.38",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220305/nc20220305m23.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q104",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "절연저항 시험에서 “전로의 사용전압이 500V 이하인 경우 1.0MΩ 이상”이란 뜻으로 가장 알맞은 것은?",
+      "options": [
+        "누설전류가 0.5mA 이하이다.",
+        "누설전류가 5mA 이하이다.",
+        "누설전류가 15mA 이하이다.",
+        "누설전류가 30mA 이하이다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q105",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "권선수가 100회인 코일에 유도되는 기전력의 크기가 e1이다. 이 코일의 권선수를 200회로 늘렸을 때 유도되는 기전력의 크기(e2)는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q106",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "동일한 전류가 흐르는 두 평행 도선 사이에 작용하는 힘이 F1 이다. 두 도선 사이의 거리를 2.5배로 늘였을 때 두 도선 사이 작용하는 힘 F2는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q107",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "그림의 회로에서 a와 c 사이의 합성 저항은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220305/nc20220305m27.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q108",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "잔류편차가 있는 제어 동작은?",
+      "options": [
+        "비례 제어",
+        "적분 제어",
+        "비례 적분 제어",
+        "비례 적분 미분 제어",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q109",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "그림과 같은 정류회로에서 R에 걸리는 전압의 최대값은 몇 V 인가? (단, v2(t) = 20√2 sinωt 이다.)",
+      "options": [
+        "20",
+        "20√2",
+        "40",
+        "40√2",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220305/nc20220305m29.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q110",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "회로에서 저항 20Ω에 흐르는 전류(A)는?",
+      "options": [
+        "0.8",
+        "1.0",
+        "1.8",
+        "2.8",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220305/nc20220305m30.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q111",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "다음의 내용이 설명하는 것으로 가장 알맞은 것은?",
+      "options": [
+        "노튼의 정리",
+        "중첩의 정리",
+        "키르히호프의 전압법칙",
+        "패러데이의 법칙",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220305/nc20220305m31.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q112",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "그림과 같은 논리회로의 출력 Y는?",
+      "options": [
+        "AB",
+        "A+B",
+        "A",
+        "B",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220305/nc20220305m32.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q113",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "3상 농형 유도전동기를 Y-△ 기동방식으로 기동할 때 전류 I1(A)과 △결선으로 직입(전전압) 기동할 때 전류 I2(A)의 관계는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q114",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "유도전동기의 슬립이 5.6%이고 회전자 속도가 1700rpm일 때, 이 유도전동기의 동기속도는 약 몇 rpm 인가?",
+      "options": [
+        "1000",
+        "1200",
+        "1500",
+        "1800",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q115",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "목표값이 다른 양과 일정한 비율 관계를 가지고 변화하는 제어방식은?",
+      "options": [
+        "정치제어",
+        "추종제어",
+        "프로그램제어",
+        "비율제어",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q116",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "축전지의 자기 방전을 보충함과 동시에 일반 부하로 공급하는 전력은 충전기가 부담하고, 충전기가 부담하기 어려운 일시적인 대전류는 축전지가 부담하는 충전방식은?",
+      "options": [
+        "급속충전",
+        "부동충전",
+        "균등충전",
+        "세류충전",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q117",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "각 상의 임피던스가 Z=6+j8(Ω)인 △결선의 평형 3상 부하에 선간전압이 220v인 대칭 3상 전압을 가했을 때 이 부하로 흐르는 선전류의 크기는 약 몇 A 인가?",
+      "options": [
+        "13",
+        "22",
+        "38",
+        "66",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q118",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "전기화재의 원인 중 하나인 누설전류를 검출하기 위해 사용되는 것은?",
+      "options": [
+        "부족전압계전기",
+        "영상변류기",
+        "계기용변압기",
+        "과전류계전기",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q119",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "그림의 블록선도에서  을 구하면?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220305/nc20220305m39m1.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q120",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "한 변의 길이가 150mm인 정방형 회로에 1A의 전류가 흐를 때 회로 중심에서의 자계의 세기는 약 몇 AT/m 인가?",
+      "options": [
+        "5",
+        "6",
+        "9",
+        "21",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q121",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 건축허가등을 할 때 미리 소방본부장 또는 소방서장의 동의를 받아야 하는 건축물 등의 범위가 아닌 것은?",
+      "options": [
+        "연면적 200m2 이상인 노유자시설 및 수련시설",
+        "항공기격납고, 관망탑",
+        "차고·주차장으로 사용되는 바닥면적이 100m2 이상인 층이 있는 건축물",
+        "지하층 또는 무창층이 있는 건축물로서 바닥면적이 150m2 이상인 층이 있는 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q122",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방기본법령상 일반음식점에서 음식조리를 위해 불을 사용하는 설비를 설치하는 경우 지켜야 하는 사항으로 틀린 것은?",
+      "options": [
+        "주방시설에는 동물 또는 식물의 기름을 제거할 수 있는 필터 등을 설치할 것",
+        "열을 발생하는 조리기구는 반자 또는 선반으로부터 0.6미터 이상 떨어지게 할 것",
+        "주방설비에 부속된 배출덕트는 0.2밀리미터 이상의 아연도금강판으로 설치할 것",
+        "열을 발생하는 조리기구로부터 0.15미터이내의 거리에 있는 가연성 주요구조부는 석면판 또는 단열성이 있는 불연재료로 덮어 씌울 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q123",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방시설공사업법령상 소방시설업의 감독을 위하여 필요할 때에 소방시설업자나 관계인에게 필요한 보고나 자료 제출을 명할수 있는 사람이 아닌 것은?",
+      "options": [
+        "시·도지사",
+        "119안전센터장",
+        "소방서장",
+        "소방본부장",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q124",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재가 발생할 우려가 높거나 화재가 발생하는 경우 그로 인하여 피해가 클 것으로 예상되는 지역을 화재예방강화지구로 지정할 수 있는 자는?",
+      "options": [
+        "한국소방안전협회장",
+        "소방시설관리사",
+        "소방본부장",
+        "시·도지사",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q125",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방시설공사업법령상 소방시설업에 대한 행정처분기준에서 1차 행정처분 사항으로 등록취소에 해당하는 것은?",
+      "options": [
+        "거짓이나 그 밖의 부정한 방법으로 등록한 경우",
+        "소방시설업자의 지위를 승계한 사실을 소방시설공사등을 맡긴 특정소방대상물의 관계인에게 통지를 하지 아니한 경우",
+        "화재안전기준 등에 적합하게 설계·시공을 하지 아니하거나, 법에 따라 적합하게 감리를 하지 아니한 경우",
+        "등록을 한 후 정당한 사유 없이 1년이 지날 때까지 영업을 시작하지 아니하거나 계속하여 1년 이상 휴업한 때",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q126",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방시설공사업법령상 소방시설업자가 소방시설공사등을 맡긴 특정소방대상물의 관계인에게 지체 없이 그 사실을 알려야 하는 경우가 아닌 것은?",
+      "options": [
+        "소방시설업자의 지위를 승계한 경우",
+        "소방시설업의 등록취소처분 또는 영업정지처분을 받은 경우",
+        "휴업하거나 폐업한 경우",
+        "소방시설업의 주소지가 변경된 경우",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q127",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령에 따라 2급 소방안전관리대상물의 소방안전관리자 선임 기준으로 틀린 것은?(2023년 01월 03일 개정된 규정 적용됨)",
+      "options": [
+        "위험물기능사 자격이 있는 사람",
+        "소방공무원으로 3년 이상 근무한 경력이 있는 사람",
+        "의용소방대원으로 5년 이상 근무한 경력이 있는 사람",
+        "위험물산업기사 자격을 가진 사람",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q128",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방시설공사업법령상 감리업자는 소방시설공사가 설계도서 또는 화재안전기준에 적합하지 아니한 때에는 가장 먼저 누구에게 알려야 하는가?",
+      "options": [
+        "감리업체 대표자",
+        "시공자",
+        "관계인",
+        "소방서장",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q129",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 특정소방대상물의 수용인원 산정방법으로 옳은 것은?",
+      "options": [
+        "침대가 없는 숙박시설은 해당 특정소방대상물의 종사자의 수에 숙박시설의 바닥면적의 합계를 4.6m2로 나누어 얻은 수를 합한 수로 한다.",
+        "강의실로 쓰이는 특정소방대상물은 해당용도로 사용하는 바닥면적의 합계를 4.6m2로 나누어 얻은 수로 한다.",
+        "관람석이 없을 경우 강당, 문화 및 집회시설, 운동시설, 종교시설은 해당용도로 사용하는 바닥면적의 합계를 4.6m2로 나누어 얻은 수로 한다.",
+        "백화점은 해당 용도로 사용하는 바닥면적의 합계를 4.6m2로 나누어 얻은 수로 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q130",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "위험물안전관리법령상 제조소등이 아닌 장소에서 지정수량 이상의 위험물 취급에 대한 설명으로 틀린 것은?",
+      "options": [
+        "임시로 저장 또는 취급하는 장소에서의 저장 또는 취급의 기준은 시·도의 조례로 정한다.",
+        "필요한 승인을 받아 지정수량 이상의 위험물을 120일 이내의 기간 동안 임시로 저장 또는 취급하는 경우 제조소 등이 아닌 장소에서 지정수량 이상의 위험물을 취급할 수 있다.",
+        "제조소등이 아닌 장소에서 지정수량 이상의 위험물을 취급할 경우 관할소방서장의 승인을 받아야 한다.",
+        "군부대가 지정수량 이상의 위험물을 군사목적으로 임시로 저장 또는 취급하는 경우 제조소등이 아닌 장소에서 지정수량이상의 위험물을 취급할 수 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q131",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방시설공사업법령상 소방시설업 등록의 결격사유에 해당되지 않는 법인은?",
+      "options": [
+        "법인의 대표자가 피성년후견인인 경우",
+        "법인의 임원이 피성년후견인인 경우",
+        "법인의 대표자가 소방시설공사업법에 따라 소방시설업 등록이 취소된 지 2년이 지나지 아니한 자인 경우",
+        "법인의 임원이 소방시설공사업법에 따라 소방시설업 등록이 취소된 지 2년이 지나지 아니한 자인 경우",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q132",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 특정소방대상물의 소방시설 설치의 면제기준에 따라 연결살수설비를 설치면제 받을 수 있는 경우는?",
+      "options": [
+        "송수구를 부설한 간이스프링클러설비를 설치하였을 때",
+        "송수구를 부설한 옥내소화전설비를 설치하였을 때",
+        "송수구를 부설한 옥외소화전설비를 설치하였을 때",
+        "송수구를 부설한 연결송수관설비를 설치하였을 때",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q133",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방시설공사업 법령상 소방공사감리업을 등록한 자가 수행하여야 할 업무가 아닌 것은?",
+      "options": [
+        "완공된 소방시설등의 성능시험",
+        "소방시설등 설계 변경 사항의 적합성 검토",
+        "소방시설등의 설치계획표의 적법성 검토",
+        "소방용품 형식승인 및 제품검사의 기술기준에 대한 적합성 검토",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q134",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방기본법령상 소방업무의 응원에 대한 설명 중 틀린 것은?",
+      "options": [
+        "소방본부장이나 소방서장은 소방활동을 할 때에 긴급한 경우에는 이웃한 소방본부장 또는소방서장에게 소방업무의 응원을 요청할 수 있다.",
+        "소방업무의 응원 요청을 받은 소방본부장 또는 소방서장은 정당한 사유 없이 그 요청을 거절하여서는 아니 된다.",
+        "소방업무의 응원을 위하여 파견된 소방대원은 응원을 요청한 소방본부장 또는 소방서장의 지휘에 따라야 한다.",
+        "시·도지사는 소방업무의 응원을 요청하는 경우를 대비하여 출동 대상지역 및 규모와 필요한 경비의 부담 등에 관하여 필요한 사항을 대통령령으로 정하는 바에 따라 이웃하는 시·도지사와 협의하여 미리 규약으로 정하여야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q135",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "소방기본법령상 이웃하는 다른 시·도지사와 소방업무에 관하여 시·도지사가 체결할 상호응원협정 사항이 아닌 것은?",
+      "options": [
+        "화재조사활동",
+        "응원출동의 요청방법",
+        "소방교육 및 응원출동훈련",
+        "응원출동대상지역 및 규모",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q136",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "위험물안전관리 법령상 옥내주유취급소에 있어서 당해 사무소 등의 출입구 및 피난구와 당해 피난구로 통하는 통로·계단 및 출입구에 설치해야 하는 피난설비는?",
+      "options": [
+        "유도등",
+        "구조대",
+        "피난사다리",
+        "완강기",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q137",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "위험물안전관리법령상 위험물 및 지정수량에 대한 기준 중 다음 ( ) 안에 알맞은 것은?",
+      "options": [
+        "㉠ 150, ㉡ 50",
+        "㉠ 53, ㉡ 50",
+        "㉠ 50, ㉡ 150",
+        "㉠ 50, ㉡ 53",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220305/nc20220305m57.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q138",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "위험물안전관리법령상 제조소등의 관계인은 위험물의 안전관리에 관한 직무를 수행하게 하기 위하여 제조소등마다 위험물의 취급에 관한 자격이 있는 자를 위험물안전관리자로 선임하여야 한다. 이 경우 제조소등의 관계인이 지켜야 할 기준으로 틀린 것은?",
+      "options": [
+        "제조소등의 관계인은 안전관리자를 해임하거나 안전관리자가 퇴직한 때에는 해임하거나 퇴직한 날부터 15일 이내에 다시 안전관리자를 선임하여야 한다.",
+        "제조소등의 관계인이 안전관리자를 선임한 경우에는 선임한 날부터 14일 이내에 소방본부장 또는 소방서장에게 신고하여야한다.",
+        "제조소등의 관계인은 안전관리자가 여행·질병 그 밖의 사유로 인하여 일시적으로 직무를 수행할 수 없는 경우에는 국가기술자격법에 따른 위험물의 취급에 관한 자격취득자 또는 위험물안전에 관한 기본지식과 경험이 있는 자를 대리자로 지정하여 그 직무를 대행하게 하여야한다. 이 경우 대행하는 기간은 30일을 초과할 수 없다.",
+        "안전관리자는 위험물을 취급하는 작업을 하는 때에는 작업자에게 안전관리에 관한 필요한 지시를 하는 등 위험물의 취급에 관한 안전관리와 감독을 하여야 하고, 제조소등의 관계인은 안전관리자의 위험물안전관리에 관한 의견을 존중하고 그 권고에 따라야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q139",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 중 소방기본법령상 한국소방안전원의 업무가 아닌 것은?",
+      "options": [
+        "소방기술과 안전관리에 관한 교육 및 조사·연구",
+        "위험물탱크 성능시험",
+        "소방기술과 안전관리에 관한 각종 간행물 발간",
+        "화재 예방과 안전관리의식 고취를 위한 대국민 홍보",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q140",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 소방시설의 종류에 대한 설명으로 옳은 것은?",
+      "options": [
+        "소화기구, 옥외소화전설비는 소화설비에 해당된다.",
+        "유도등, 비상조명등은 경보설비에 해당된다.",
+        "소화수조, 저수조는 소화활동설비에 해당된다.",
+        "연결송수관설비는 소화용수설비에 해당된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q141",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "비상콘센트설비의 성능인증 및 제품검사의 기술기준에 따라 비상콘센트설비의 절연된 충전부와 외함 간의 절연내력은 정격전압 150V이하의 경우 60Hz의 정현파에 가까운 실효전압 1000V 교류전압을 가하는 시험에서 몇 분간 견디어야 하는가?",
+      "options": [
+        "1",
+        "5",
+        "10",
+        "30",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q142",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "누전경보기의 형식승인 및 제품검사의 기술기준에 따라 비호환성형 수신부는 신호입력회로에 공칭작동전류치의 42%에 대응하는 변류기의 설계출력전압을 가하는 경우 몇 초 이내에 작동하지 아니하여야 하는가?",
+      "options": [
+        "10초",
+        "20초",
+        "30초",
+        "60초",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q143",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "자동화재탐지설비 및 시각경보장치의 화재안전기준(NFSC 203)에 따른 감지기의 시설기준으로 옳은 것은?",
+      "options": [
+        "스포트형 감지기는 15° 이상 경사되지 아니하도록 부착할 것",
+        "공기관식 차동식분포형 감지기의 검출부는 45° 이상 경사되지 아니하도록 부착할 것",
+        "보상식 스포트형 감지기는 정온점이 감지기 주위의 평상 시 최고 온도보다 20℃ 이상 높은 것으로 설치할 것",
+        "정온식 감지기는 주방·보일러실 등으로서 다량의 화기를 취급하는 장소에 설치하되, 공칭작동온도가 최고주위온도보다 30℃ 이상 높은 것으로 설치할 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q144",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "누전경보기의 화재안전기준(NFSC 205)에 따라 경계전로의 누설전류를 자동적으로 검출하여 이를 누전경보기의 수신부에 송신하는 것은?",
+      "options": [
+        "변류기",
+        "변압기",
+        "음향장치",
+        "과전류차단기",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q145",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "비상방송설비의 화재안전기준(NFSC 202)에 따라 전원회로의 배선으로 사용할 수 없는 것은?",
+      "options": [
+        "450/750V 비닐절연전선",
+        "0.6/1kV EP 고무절연 클로로프렌 시스케이블",
+        "450/750V 저독성 난연 가교 폴리올레핀 절연전선",
+        "내열성 에틸렌-비닐 아세테이트 고무 절연케이블",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q146",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "층수가 5층 이상으로서 연면적 3000m2를 초과하는 특정소방대상물의 2층에서 발화한 때의 경보 기준으로 옳은 것은? (단, 비상방송설비의 화재안전기준(NFSC 202)에 따른다.)(관련 규정 개정전 문제로 여기서는 기존 정답인 2번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "발화층에만 경보를 발할 것",
+        "발화층 및 그 직상층에만 경보를 발할 것",
+        "발화층·그 직상층 및 지하층에 경보를 발할 것",
+        "발화층·그 직상층 및 기타의 지하층에 경보를 발할 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q147",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "자동화재탐지설비 및 시각경보장치의 화재안전기준(NFSC 203)에 따라 감지기회로의 도통시험을 위한 종단저항의 설치기준으로 틀린 것은?",
+      "options": [
+        "감지기회로의 끝부분에 설치할 것",
+        "점검 및 관리가 쉬운 장소에 설치할 것",
+        "전용함을 설치하는 경우 그 설치 높이는 바닥으로부터 2.0m 이내로 할 것",
+        "종단감지기에 설치할 경우에는 구별이 쉽도록 해당 감지기의 기판 등에 별도의 표시를 할 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q148",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "경종의 우수품질인증 기술기준에 따른 기능시험에 대한 내용이다. 다음 (  ) 에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "ⓐ 90, ⓑ 110",
+        "ⓐ 90, ⓑ 130",
+        "ⓐ 110, ⓑ 90",
+        "ⓐ 110, ⓑ 130",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220305/nc20220305m68.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q149",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "「유통산업발전법」제2조 제3호에 따른 대규모점포(지하상가 및 지하역사는 제외한다)와 영화상영관에는 보행거리 몇 m 이내마다 휴대용비상조명등을 3개 이상 설치하여야 하는가? (단, 비상조명등의 화재안전기준(NFSC 304)에 따른다.)",
+      "options": [
+        "50",
+        "60",
+        "70",
+        "80",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q150",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "자동화재탐지설비 및 시각경보장치의 화재안전기준(NFSC 203)에 따라 전화기기실, 통신기기실 등과 같은 훈소화재의 우려가 있는 장소에 적응성이 없는 감지기는?",
+      "options": [
+        "광전식스포트형",
+        "광전아날로그식분리형",
+        "광전아날로그식스포트형",
+        "이온아날로그식스포트형",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q151",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "자동화재속보설비의 속보기의 성능인증 및 제품검사의 기술기준에 따른 속보기의 기능에 대한 내용이다. 다음 (  ) 에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "ⓐ 10, ⓑ 3",
+        "ⓐ 10, ⓑ 5",
+        "ⓐ 20, ⓑ 3",
+        "ⓐ 20, ⓑ 5",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220305/nc20220305m71.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q152",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "비상콘센트설비의 화재안전기준(NFSC 504)에 따른 비상콘센트설비의 전원회로(비상콘센트에 전력을 공급하는 회로를 말한다)의 설치기준으로 틀린 것은?",
+      "options": [
+        "전원회로는 주배전반에서 전용회로로 할 것",
+        "전원회로는 각층에 1 이상이 되도록 설치할 것",
+        "콘센트마다 배선용 차단기(KS C 8321)를 설치하여야 하며, 충전부가 노출되지 아니하도록 할 것",
+        "비상콘센트설비의 전원회로는 단상교류 220V인 것으로서, 그 공급용량은 1.5kVA 이상인 것으로 할 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q153",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "무선통신보조설비의 화재안전기준(NFSC 505)에 따라 분배기·분파기 및 혼합기 등의 임피던스는 몇 Ω의 것으로 하여야 하는가?",
+      "options": [
+        "10",
+        "20",
+        "50",
+        "75",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q154",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "자동화재탐지설비 및 시각경보장치의 화재안전기준(NFSC 203)에 따라 광전식분리형감지기의 설치기준에 대한 설명으로 틀린 것은?",
+      "options": [
+        "감지기의 수광면은 햇빛을 직접 받지 않도록 설치할 것",
+        "감지기의 송광부와 수광부는 설치된 뒷벽으로부터 1m 이내 위치에 설치할 것",
+        "광축(송광면과 수광면의 중심을 연결한 선)은 나란한 벽으로부터 0.6m 이상 이격하여 설치할 것",
+        "광축의 높이는 천장 등(천장의 실내에 면한 부분 또는 상층의 바닥하부면을 말한다) 높이의 70% 이상일 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q155",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "유도등의 형식승인 및 제품검사의 기술기준에 따라 유도등의 교류입력측과 외함 사이, 교류입력측과 충전부 사이 및 절연된 충전부와 외함 사이의 각 절연저항을 DC 500V의 절연저항계로 측정한 값이 몇 MΩ 이상이어야 하는가?",
+      "options": [
+        "0.1",
+        "5",
+        "20",
+        "50",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q156",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "비상경보설비의 축전지의 성능인증 및 제품검사의 기술기준에 따른 축전지설비의 외함 두께는 강판인 경우 몇 mm 이상이어야 하는가?",
+      "options": [
+        "0.7",
+        "1.2",
+        "2.3",
+        "3",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q157",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "유도등 및 유도표지의 화재안전기준(NFSC 303)에 따라 객석 내 통로의 직선부분 길이가 85m인 경우 객석유도등을 몇 개 설치하여야 하는가?",
+      "options": [
+        "17개",
+        "19개",
+        "21개",
+        "22개",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q158",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "비상경보설비 및 단독경보형감지기의 화재안전기준(NFSC 201)에 따른 용어에 대한 정의로 틀린 것은?",
+      "options": [
+        "비상벨설비라 함은 화재발생 상황을 경종으로 경보하는 설비를 말한다.",
+        "자동식사이렌설비라 함은 화재발생 상황을 사이렌으로 경보하는 설비를 말한다.",
+        "수신기라 함은 발신기에서 발하는 화재신호를 간접 수신하여 화재의 발생을 표시 및 경보하여 주는 장치를 말한다.",
+        "단독경보형감지기라 함은 화재발생 상황을 단독으로 감지하여 자체에 내장된 음향장치로 경보하는 감지기를 말한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q159",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "다음의 무선통신보조설비 그림에서 ⓐ에 해당하는 것은?",
+      "options": [
+        "혼합기",
+        "옥외안테나",
+        "무선중계기",
+        "무반사종단저항",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nc/nc20220305/nc20220305m79.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q160",
+      "subject": "소방설비기사(전기)",
+      "round": "2022-03-05 기출",
+      "question_text": "축전지의 자기방전을 보충함과 동시에 상용부하에 대한 전력공급은 충전기가 부담하도록 하되 충전기가 부담하기 어려운 일시적인 대전류 부하는 축전지로 하여금 부담하게 하는 충전방식은?",
+      "options": [
+        "보통충전방식",
+        "균등충전방식",
+        "부동충전방식",
+        "급속충전방식",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q161",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "다음 중 피난자의 집중으로 패닉현상이 일어날 우려가 가장 큰 형태는?",
+      "options": [
+        "T형",
+        "X형",
+        "Z형",
+        "H형",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q162",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "연기감지기가 작동할 정도이고 가시거리가 20~30m 에 해당하는 감광계수는 얼마인가?",
+      "options": [
+        "0.1m-1",
+        "1.0m-1",
+        "2.0m-1",
+        "10m-1",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q163",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "소화에 필요한 CO2의 이론소화농도가 공기 중에서 37Vol% 일 때 한계산소농도는 약 몇 vol% 인가?",
+      "options": [
+        "13.2",
+        "14.5",
+        "15.5",
+        "16.5",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q164",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "건물화재 시 패닉(panic)의 발생원인과 직접적인 관계가 없는 것은?",
+      "options": [
+        "연기에 의한 시계 제한",
+        "유독가스에 의한 호흡 장애",
+        "외부와 단절되어 고립",
+        "불연내장재의 사용",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q165",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "소화기구 및 자동소화장치의 화재안전기준에 따르면 소화기구(자동확산소화기는 제외)는 거주자 등이 손쉽게 사용할 수 있는 장소에 바닥으로부터 높이 몇 m 이하의 곳에 비치하여야 하는가?",
+      "options": [
+        "0.5",
+        "1.0",
+        "1.5",
+        "2.0",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q166",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "물리적 폭발에 해당하는 것은?",
+      "options": [
+        "분해 폭발",
+        "분진 폭발",
+        "중합 폭발",
+        "수증기 폭발",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q167",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "소화약제로 사용되는 이산화탄소에 대한 설명으로 옳은 것은?",
+      "options": [
+        "산소와 반응 시 흡열반응을 일으킨다.",
+        "산소와 반응하여 불연성 물질을 발생시킨다.",
+        "산화하지 않으나 산소와는 반응한다.",
+        "산소와 반응하지 않는다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q168",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "Halon 1211의 화학식에 해당하는 것은?",
+      "options": [
+        "CH2BrCl",
+        "CF2ClBr",
+        "CH2BrF",
+        "CF2HBr",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q169",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "건축물 화재에서 플래시 오버(Flash over) 현상이 일어나는 시기는?",
+      "options": [
+        "초기에서 성장기로 넘어가는 시기",
+        "성장기에서 최성기로 넘어가는 시기",
+        "최성기에서 감쇠기로 넘어가는 시기",
+        "감쇠기에서 종기로 넘어가는 시기",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q170",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "인화칼슘과 물이 반응할 때 생성되는 가스는?",
+      "options": [
+        "아세틸렌",
+        "황화수소",
+        "황산",
+        "포스핀",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q171",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "위험물안전관리법령상 자기반응성물질의 품명에 해당하지 않는 것은?",
+      "options": [
+        "니트로화합물",
+        "할로겐간화합물",
+        "질산에스테르류",
+        "히드록실아민염류",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q172",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "마그네슘의 화재에 주수하였을 때 물과 마그네슘의 반응으로 인하여 생성되는 가스는?",
+      "options": [
+        "산소",
+        "수소",
+        "일산화탄소",
+        "이산화탄소",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q173",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "제2종 분말소화약제의 주성분으로 옳은 것은?",
+      "options": [
+        "NaH2PO4",
+        "KH2PO4",
+        "NaHCO3",
+        "KHCO3",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q174",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "물과 반응하였을 때 가연성 가스를 발생하여 화재의 위험성이 증가하는 것은?",
+      "options": [
+        "과산화칼슘",
+        "메탄올",
+        "칼륨",
+        "과산화수소",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q175",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "물리적 소화방법이 아닌 것은?",
+      "options": [
+        "연쇄반응의 억제에 의한 방법",
+        "냉각에 의한 방법",
+        "공기와의 접촉 차단에 의한 방법",
+        "가연물 제거에 의한 방법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q176",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "다음 중 착화온도가 가장 낮은 것은?",
+      "options": [
+        "아세톤",
+        "휘발유",
+        "이황화탄소",
+        "벤젠",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q177",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재의 분류방법 중 유류화재를 나타낸 것은?",
+      "options": [
+        "A급 화재",
+        "B급 화재",
+        "C급 화재",
+        "D급 화재",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q178",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "소화약제로 사용되는 물에 관한 소화성능 및 물성에 대한 설명으로 틀린 것은?",
+      "options": [
+        "비열과 증발잠열이 커서 냉각소화 효과가 우수하다.",
+        "물(15℃)의 비열은 약 1cal/g·℃ 이다.",
+        "물(100℃)의 증발잠열은 439.6kcal/g 이다.",
+        "물의 기화에 의한 팽창된 수증기는 질식소화 작용을 할 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q179",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "다음 중 공기에서의 연소범위를 기준으로 했을 때 위험도(H) 값이 가장 큰 것은?",
+      "options": [
+        "디에틸에테르",
+        "수소",
+        "에틸렌",
+        "부탄",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q180",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "조연성가스로만 나열되어 있는 것은?",
+      "options": [
+        "질소, 불소, 수증기",
+        "산소, 불소, 염소",
+        "산소, 이산화탄소, 오존",
+        "질소, 이산화탄소, 염소",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q181",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "단상 반파 정류회로를 통해 평균 26V의 직류 전압을 출력하는 경우, 정류 다이오드에 인가되는 역방향 최대 전압은 약 몇 V 인가? (단, 직류 측에 평활회로(필터)가 없는 정류회로이고, 다이오드의 순방향 전압은 무시한다.)",
+      "options": [
+        "26",
+        "37",
+        "58",
+        "82",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q182",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "시퀀스회로를 논리식으로 표현하면?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m22.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q183",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "제어량에 따른 제어방식의 분류 중 온도, 유량, 압력 등의 공업 프로세스의 상태량을 제어량으로 하는 제어계로서 외란의 억제를 주목적으로 하는 제어방식은?",
+      "options": [
+        "서보기구",
+        "자동조정",
+        "추종제어",
+        "프로세스제어",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q184",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "반도체를 이용한 화재감지기 중 서미스터(thermistor)는 무엇을 측정하기 위한 반도체 소자인가?",
+      "options": [
+        "온도",
+        "연기 농도",
+        "가스 농도",
+        "불꽃의 스펙트럼 강도",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q185",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "회로에서 a와 b 사이의 합성저항(Ω)은?",
+      "options": [
+        "5",
+        "7.5",
+        "15",
+        "30",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m25.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q186",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "1개의 용량의 25W인 객석유도등 10개가 설치되어 있다. 이 회로에 흐르는 전류는 약 몇 A 인가? (단, 전원 전압은 220V이고, 기타 선로손실 등은 무시한다.)",
+      "options": [
+        "0.88",
+        "1.14",
+        "1.25",
+        "1.36",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q187",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "PD(비례 미분) 제어 동작의 특징으로 옳은 것은?",
+      "options": [
+        "잔류편차 제거",
+        "간헐현상 제거",
+        "불연속 제어",
+        "속응성 개선",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q188",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "회로에서 저항 20Ω에 흐르는 전류(A)는?",
+      "options": [
+        "0.8",
+        "1.0",
+        "1.8",
+        "2.8",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m28.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q189",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "1cm의 간격을 둔 평행 왕복전선에 25A의 전류가 흐른다면 전선 사이에 작용하는 단위 길이당 힘(N/m)은?",
+      "options": [
+        "2.5×10-2 N/m(반발력)",
+        "1.25×10-2 N/m(반발력)",
+        "2.5×10-2 N/m(흡인력)",
+        "1.25×10-2 N/m(흡인력)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q190",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "0.5 kVA의 수신기용 변압기가 있다. 이 변압기의 철손은 7.5W이고, 전부하동손은 16W 이다. 화재가 발생하여 처음 2시간은 전부하로 운전되고, 다음 2시간은 1/2의 부하로 운전되었다고 한다. 4시간에 걸친 이 변압기의 전손실 전력량은 몇 Wh 인가?",
+      "options": [
+        "62",
+        "70",
+        "78",
+        "94",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q191",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "테브난의 정리를 이용하여 그림 (a)의 회로를 그림 (b)와 같은 등가회로로 만들고자 할 때 Vth(V)와 Rth(Ω)은?",
+      "options": [
+        "5V, 2Ω",
+        "5V, 3Ω",
+        "6V, 2Ω",
+        "6V, 3Ω",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m31.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q192",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "블록선도에서 외란 D(s)의 입력에 대한 출력 C(s)의 전달함수  는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m32m1.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q193",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "회로에서 전압계 Ⓥ가 지시하는 전압의 크기는 몇 V 인가?",
+      "options": [
+        "10",
+        "50",
+        "80",
+        "100",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m33.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q194",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "지시계기에 대한 동작원리가 아닌 것은?",
+      "options": [
+        "열전형 계기 : 대전된 도체 사이에 작용하는 정전력을 이용",
+        "가동 철편형 계기 : 전류에 의한 자기장에서 고정 철편과 가동 철편 사이에 작용하는 힘을 이용",
+        "전류력계형 계기 : 고정 코일에 흐르는 전류에 의한 자기장과 가동 코일에 흐르는 전류 사이에 작용하는 힘을 이용",
+        "유도형 계기 : 회전 자기장 또는 이동 자기장과 이것에 의한 유도 전류와의 상호작용을 이용",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q195",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "선간전압의 크기가 100√3 V인 대칭 3상 전원에 각 상의 임피던스가 Z = 30 + j40(Ω)인 Y결선의 부하기 연결되었을 때 이 부하로 흐르는 선전류(A)의 크기는?",
+      "options": [
+        "2",
+        "2√3",
+        "5",
+        "5√3",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q196",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "자유공간에서 무한히 넓은 평면에 면전하밀도 σ(C/m2)가 균일하게 분포되어 있는 경우 전계의 세기(E)는 몇 V/m 인가? (단, ε0는 진공의 유전율이다.)",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q197",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "50Hz의 주파수에서 유도성 리액턴스가 4Ω인 인덕터와 용량성 리액턴스가 1Ω인 커패시터와 4Ω의 저항이 모두 직렬로 연결되어 있다. 이 회로에 100V, 50Hz의 교류전압을 인가했을 때 무효전력(var)은?",
+      "options": [
+        "1000",
+        "1200",
+        "1400",
+        "1600",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q198",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "다음의 단상 유도전동기 중 기동 토크가 가장 큰 것은?",
+      "options": [
+        "세이딩 코일형",
+        "콘덴서 기동형",
+        "분상 기동형",
+        "반발 기동형",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q199",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "무한장 솔레노이드에서 자계의 세기에 대한 설명으로 틀린 것은?",
+      "options": [
+        "솔레노이드 내부에서의 자계의 세기는 전류의 세기에 비례한다.",
+        "솔레노이드 내부에서의 자계의 세기는 코일의 권수에 비례한다.",
+        "솔레노이드 내부에서의 자계의 세기는 위치에 관계없이 일정한 평등 자계이다.",
+        "자계의 방향과 암페어 적분 경로가 서로 수직인 경우 자계의 세기가 최대이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q200",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "다음의 논리식을 간소화하면?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m40.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q201",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "다음 위험물안전관리법령의 자체소방대 기준에 대한 설명으로 틀린 것은?",
+      "options": [
+        "“대통령령이 정하는 제조소등”은 제4류 위험물을 취급하는 제조소를 포함한다.",
+        "“대통령령이 정하는 제조소등”은 제4류 위험물을 취급하는 일반취급소를 포함한다.",
+        "“대통령령이 정하는 수량 이상의 위험물”은 제4류 위험물의 최대수량의 합이 지정수량의 3천배 이상인 것을 포함한다.",
+        "“대통령령이 정하는 제조소등”은 보일러로 위험물을 소비하는 일반취급소를 포함한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m41.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q202",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "위험물안전관리법령상 제조소등에 설치하여야 할 자동화재탐지설비의 설치기준 중 (  ) 안에 알맞은 내용은? (단, 광전식분리형 감지기 설치는 제외한다.)",
+      "options": [
+        "㉠ 300, ㉡ 20",
+        "㉠ 400, ㉡ 30",
+        "㉠ 500, ㉡ 40",
+        "㉠ 600, ㉡ 50",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m42.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q203",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방시설공사업법령상 전문 소방시설공사업의 등록기준 및 영업범위의 기준에 대한 설명으로 틀린 것은?",
+      "options": [
+        "법인인 경우 자본금은 최소 1억원 이상이다.",
+        "개인인 경우 자산평가액은 최소 1억원 이상이다.",
+        "주된 기술인력 최소 1명 이상, 보조기술인력 최소 3명 이상을 둔다.",
+        "영업범위는 특정소방대상물에 설치되는 기계분야 및 전기분야 소방시설의 공사·개설·이전 및 정비이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q204",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 특정소방대상물의 관계인이 특정소방대상물의 규모·용도 및 수용인원 등을 고려하여 갖추어야 하는 소방시설의 종류에 대한 기준 중 다음 (  ) 안에 알맞은 것은?",
+      "options": [
+        "㉠ 33, ㉡ 1/2",
+        "㉠ 33, ㉡ 1/5",
+        "㉠ 50, ㉡ 1/2",
+        "㉠ 50, ㉡ 1/5",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m44.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q205",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 천재지변 및 그 밖에 대통령령으로 정하는 사유로 소방특별조사를 받기 곤란하여 소방특별조사의 연기를 신청하려는 자는 소방특별조사 시작 최대 며칠 전까지 연기신청서 및 증명서류를 제출해야 하는가?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "10",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q206",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "위험물안전관리법령상 정기점검의 대상인 제조소등의 기준으로 틀린 것은?",
+      "options": [
+        "지하탱크저장소",
+        "이동탱크저장소",
+        "지정수량의 10배 이상의 위험물을 취급하는 제조소",
+        "지정수량의 20배 이상의 위험물을 저장하는 옥외탱크저장소",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q207",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "위험물안전관리법령상 제4류 위험물 중 경유의 지정수량은 몇 리터인가?",
+      "options": [
+        "500",
+        "1000",
+        "1500",
+        "2000",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q208",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 1급 소방안전관리대상물의 소방안전관리자 선임대상 기준 중 (   ) 안에 알맞은 내용은?(관련 규정 개정전 문제로 여기서는 기존 정답인 2번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "1년 이상",
+        "2년 이상",
+        "3년 이상",
+        "5년 이상",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m48.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q209",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 용어의 정의 중 (   ) 안에 알맞은 것은?",
+      "options": [
+        "대통령령",
+        "국토교통부령",
+        "행정안전부령",
+        "고용노동부령",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m49.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q210",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방기본법 제1장 총칙에서 정하는 목적의 내용으로 거리가 먼 것은?",
+      "options": [
+        "구조, 구급 활동 등을 통하여 공공의 안녕 및 질서 유지",
+        "풍수해의 예방, 경계, 진압에 관한 계획, 예산 지원 활동",
+        "구조, 구급 활동 등을 통하여 국민의 생명, 신체, 재산 보호",
+        "화재, 재난, 재해 그 밖의 위급한 상황에서의 구조, 구급 활동",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q211",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방기본법령상 소방본부 종합상황실의 실장이 서면·팩스 또는 컴퓨터통신 등으로 소방청 종합상황실에 보고하여야 하는 화재의 기준이 아닌 것은?",
+      "options": [
+        "이재민이 100인 이상 발생한 화재",
+        "재산피해액이 50억원 이상 발생한 화재",
+        "사망자가 3인 이상 발생하거나 사상자가 5인 이상 발생한 화재",
+        "층수가 5층 이상이거나 병상이 30개 이상인 종합병원에서 발생한 화재",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q212",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 관리업자가 소방시설등의 점검을 마친 후 점검기록표에 기록하고 이를 해당 특정소방대상물에 부착하여야 하나 이를 위반하고 점검기록표를 거짓으로 작성하거나 해당 특정소방대상물에 부착하지 아니하였을 경우 벌칙 기준은?",
+      "options": [
+        "100만원 이하의 과태료",
+        "200만원 이하의 과태료",
+        "300만원 이하의 과태료",
+        "500만원 이하의 과태료",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q213",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 분말형태의 소화약제를 사용하는 소화기의 내용연수로 옳은 것은? (단, 소방용품의 성능을 확인받아 그 사용기한을 연장하는 경우는 제외한다.)",
+      "options": [
+        "3년",
+        "5년",
+        "7년",
+        "10년",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q214",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방시설공사업법령상 소방시설공사업자가 소속 소방기술자를 소방시설공사 현장에 배치하지 않았을 경우의 과태료 기준은?",
+      "options": [
+        "100만원 이하",
+        "200만원 이하",
+        "300만원 이하",
+        "400만원 이하",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q215",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방기본법령상 위험물 또는 물건의 보관기간은 소방본부 또는 소방서의 게시판에 공고하는 기간의 종료일 다음 날부터 며칠로 하는가?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "7",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q216",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방기본법령상 소방활동장비와 설비의 구입 및 설치 시 국조보조의 대상이 아닌 것은?",
+      "options": [
+        "소방자동차",
+        "사무용 집기",
+        "소방헬리콥터 및 소방정",
+        "소방전용통신설비 및 전산설비",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q217",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 특정소방대상물의 관계인은 소방안전관리자를 기준일로부터 30일 이내에 선임하여야 한다. 다음 중 기준일로 틀린 것은?",
+      "options": [
+        "소방안전관리자를 해임한 경우 : 소방안전관리자를 해임한 날",
+        "특정소방대상물을 양수하여 관계인의 권리를 취득한 경우 : 해당 권리를 취득한 날",
+        "신축으로 해당 특정소방대상물의 소방안전관리자를 신규로 선임하여야 하는 경우 : 해당 특정소방대상물의 완공일",
+        "증축으로 인하여 특정소방대상물이 소방안전관리대상물로 된 경우 : 증축공사의 개시일",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q218",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "위험물안전관리법령상 위험물을 취급함에 있어서 정전기가 발생할 우려가 있는 설비에 설치할 수 있는 정전기 제거설비 방법이 아닌 것은?",
+      "options": [
+        "접지에 의한 방법",
+        "공기를 이온화하는 방법",
+        "자동적으로 압력의 상승을 정지시키는 방법",
+        "공기 중의 상대습도를 70% 이상으로 하는 방법",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q219",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방기본법령상 특수가연물의 수량 기준으로 옳은 것은?",
+      "options": [
+        "면화류 : 200kg 이상",
+        "가연성고체류 : 500kg 이상",
+        "나무껍질 및 대팻밥 : 300kg 이상",
+        "넝마 및 종이부스러기 : 400kg 이상",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q220",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "화재예방, 소방시설 설치·유지 및 안전관리에 관한 법령상 소방청장, 소방본부장 또는 소방서장이 소방특별조사를 하려면 관계인에게 조사대상, 조사기간 및 조사사유 등을 최대 며칠 전에 서면으로 알려야 하는가? (단, 긴급하게 조사할 필요가 있는 경우와 사전에 통지하면 조사목적을 달성할 수 없다고 인정되는 경우는 제외한다.)",
+      "options": [
+        "7",
+        "10",
+        "12",
+        "14",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q221",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "감지기의 형식승인 및 제품검사의 기술기준에 따라 단독경보형감지기를 스위치 조작에 의하여 화재경보를 정지 시킬 경우 화재경보 정지 후 몇 분 이내에 화재경보 정지기능이 자동적으로 해제되어 정상상태로 복귀되어야 하는가?",
+      "options": [
+        "3",
+        "5",
+        "10",
+        "15",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q222",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "비상콘센트설비의 화재안전기준(NFSC 504)에 따라 하나의 전용회로에 설치하는 비상콘센트는 몇 개 이하로 하여야 하는가?",
+      "options": [
+        "2",
+        "3",
+        "10",
+        "20",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q223",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "자동화재속보설비의 속보기의 성능인증 및 제품검사의 기술기준에 따라 속보기는 작동신호를 수신하거나 수동으로 동작시키는 경우 20초 이내에 소방관서에 자동적으로 신호를 발하여 통보하되, 몇 회 이상 속보할 수 있어야 하는가?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q224",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "자동화재탐지설비 및 시각경보장치의 화재안전기준(NFSC 203)에 따른 감지기의 설치 제외 장소가 아닌 것은?",
+      "options": [
+        "실내의 용적이 20m3 이하인 장소",
+        "부식성가스가 체류하고 있는 장소",
+        "목욕실·욕조나 샤워시설이 있는 화장실·기타 이와 유사한 장소",
+        "고온도 및 저온도로서 감지기의 기능이 정지되기 쉽거나 감지기의 유지관리가 어려운 장소",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q225",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "비상콘센트의 배치와 설치에 대한 현장 사항이 비상콘센트설비의 화재안전기준(NFSC 504)에 적합하지 않은 것은?",
+      "options": [
+        "전원회로의 배선은 내화배선으로 되어 있다.",
+        "보호함에는 쉽게 개폐할 수 있는 문을 설치하였다.",
+        "보호함 표면에 “비상콘센트”라고 표시한 표지를 붙였다.",
+        "3상 교류 200볼트 전원회로에 대해 비접지형 3극 플러그 접속기를 사용하였다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q226",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "자동화재탐지설비 및 시각경보장치의 화재안전기준(NFSC 203)에 따라 제2종 연기감지기를 부착높이가 4m 미만인 장소에 설치 시 기준 바닥면적은?",
+      "options": [
+        "30m2",
+        "50m2",
+        "75m2",
+        "150m2",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q227",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "아래 그림은 자동화재탐지설비의 배선도이다. 추가로 구획된 공간이 생겨 가, 나, 다, 라 감지기를 증설했을 경우, 자동화재탐지설비 및 시각경보장치의 화재안전기준(NFSC 203)에 적합하게 설치한 것은?",
+      "options": [
+        "가",
+        "나",
+        "다",
+        "라",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m67.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q228",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "비상방송설비의 화재안전기준(NFSC 202)에 따라 비상방송설비 음향장치의 설치기준 중 다음 (  ) 에 들어갈 내용으로 옳은 것은?(관련 규정 개정전 문제로 여기서는 기존 정답인 3번을 누르면 정답 처리됩니다. 자세한 내용은 해설을 참고하세요.)",
+      "options": [
+        "㉠ 2, ㉡ 3500",
+        "㉠ 3, ㉡ 5000",
+        "㉠ 5, ㉡ 3000",
+        "㉠ 6, ㉡ 1500",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m68.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q229",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "유도등의 형식승인 및 제품검사의 기술기준에 따른 용어의 정의에서 “유도등에 있어서 표시면외 조명에 사용되는 면”을 말하는 것은?",
+      "options": [
+        "조사면",
+        "피난면",
+        "조도면",
+        "광속면",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q230",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "자동화재탐지설비 및 시각경보장치의 화재안전기준(NFSC 203)에 따라 부착높이 20m 이상에 설치되는 광전식 분 아날로그방식의 감지기는 공칭감지농도 하한값이 감광율 몇 %/m 미만인 것으로 하는가?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "10",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q231",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "비상조명등의 우수품질인증 기술기준에 따라 인출선인 경우 전선의 굵기는 몇 mm2 이상이어야 하는가?",
+      "options": [
+        "0.5",
+        "0.75",
+        "1.5",
+        "2.5",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q232",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "누전경보기의 형식승인 및 제품검사의 기술기준에 따른 과누전시험에 대한 내용이다. 다음 (   ) 에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "㉠ 20, ㉡ 5",
+        "㉠ 30, ㉡ 10",
+        "㉠ 50, ㉡ 15",
+        "㉠ 80, ㉡ 20",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m72.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q233",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "비상방송설비의 화재안전기준(NFSC 202)에 따른 비상방송설비의 음향장치에 대한 설치기준으로 틀린 것은?",
+      "options": [
+        "다른 전기회로에 따라 유도장애가 생기지 아니하도록 할 것",
+        "음향장치는 자동화재속보설비의 작동과 연동하여 작동할 수 있는 것으로 할 것",
+        "다른 방송설비와 고용하는 것에 있어서는 화재 시 비상경보외의 방송을 차단할 수 있는 구조로 할 것",
+        "증폭기 및 조작부는 수위실 등 상시 사람이 근무하는 장소로서 점검이 편리하고 방화상 유효한 곳에 설치할 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q234",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "무선통신보조설비의 화재안전기준(NFSC 505)에 따른 용어의 정의 중 감시제어반 등에 설치된 무선중계기의 입력과 출력포트에 연결되어 송수신 신호를 원활하게 방사·수신하기 위해 옥외에 설치하는 장치를 말하는 것은?",
+      "options": [
+        "혼합기",
+        "분파기",
+        "증폭기",
+        "옥외안테나",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q235",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "무선통신보조설비의 화재안전기준(NFSC 505)에 따라 무선통신보조설비의 누설동축케이블 또는 동축케이블의 임피던스는 몇 Ω으로 하여야 하는가?",
+      "options": [
+        "5",
+        "10",
+        "50",
+        "100",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q236",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "비상경보설비 및 단독경보형감지기의 화재안전기준(NFSC 201)에 따른 단독경보형감지기에 대한 내용이다. 다음 (  )에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "30",
+        "50",
+        "100",
+        "150",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210912/nc20210912m76.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q237",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방시설용 비상전원수전설비의 화재안전기준(NFSC 602)에 따른 용어의 정의에서 소방부하에 전원을 공급하는 전기회로를 말하는 것은?",
+      "options": [
+        "수전설비",
+        "일반회로",
+        "소방회로",
+        "변전설비",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q238",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "누전경보기의 형식승인 및 제품검사의 기술기준에 따라 누전경보기의 변류기는 직류 500V의 절연저항계로 절연된 1차권선과 2차권선 간의 절연저항 시험을 할 때 몇 MΩ 이상이어야 하는가?",
+      "options": [
+        "0.1",
+        "5",
+        "10",
+        "20",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q239",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "소방시설용 비상전원수전설비의 화재안전기준(NFSC 602)에 따라 소방시설용 비상전원 수전설비의 인입구배선은 「옥내소화전설비의 화재안전기준(NFSC 102)」 별표 1에 따른 어떤 배선으로 하여야 하는가?",
+      "options": [
+        "나전선",
+        "내열배선",
+        "내화배선",
+        "차폐배선",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q240",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-09-12 기출",
+      "question_text": "유도등 및 유도표지의 화재안전기준(NFSC 303)에 따라 설치하는 유도표지는 계단에 설치하는 것을 제외하고는 각층마다 복도 및 통로의 각 부분으로부터 하나의 유도표지까지의 보행거리가 몇 m 이하가 되는 곳과 구부러진 모퉁이의 벽에 설치하여야 하는가?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q241",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "제3종 분말소화약제의 주성분은?",
+      "options": [
+        "인산암모늄",
+        "탄산수소칼륨",
+        "탄산수소나트륨",
+        "탄산수소칼륨과 요소",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q242",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재발생 시 피난기구로 직접 활용할 수 없는 것은?",
+      "options": [
+        "완강기",
+        "무선통신보조설비",
+        "피난사다리",
+        "구조대",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q243",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "소화약제 중 HFC-125의 화학식으로 옳은 것은?",
+      "options": [
+        "CHF2CF3",
+        "CHF3",
+        "CF3CHFCF3",
+        "CF3I",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q244",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "위험물안전관리법령상 제6류 위험물을 수납하는 운반용기의 외부에 주의사항을 표시하여야 할 경우, 어떤 내용을 표시하여야 하는가?",
+      "options": [
+        "물기엄금",
+        "화기엄금",
+        "화기주의⋅충격주의",
+        "가연물접촉주의",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q245",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "분말소화약제 중 A급, B급, C급 화재에 모두 사용할 수 있는 것은?",
+      "options": [
+        "제1종 분말",
+        "제2종 분말",
+        "제3종 분말",
+        "제4종 분말",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q246",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "열전도도(Thermal Conductivity)를 표시하는 단위에 해당하는 것은?",
+      "options": [
+        "J/m2·h",
+        "kcal/h·℃2",
+        "W/m·K",
+        "J·K/m3",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q247",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "알킬알루미늄 화재에 적합한 소화약제는?",
+      "options": [
+        "물",
+        "이산화탄소",
+        "팽창질석",
+        "할로겐화합물",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q248",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "가연물질의 종류에 따라 화재를 분류하였을 때 섬유류 화재가 속하는 것은?",
+      "options": [
+        "A급 화재",
+        "B급 화재",
+        "C급 화재",
+        "D급 화재",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q249",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 연소생성물 중 인체에 독성이 가장 높은 것은?",
+      "options": [
+        "이산화탄소",
+        "일산화탄소",
+        "수증기",
+        "포스겐",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q250",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "내화건축물과 비교한 목조건축물 화재의 일반적인 특징을 옳게 나타낸 것은?",
+      "options": [
+        "고온, 단시간형",
+        "저온, 단시간형",
+        "고온, 장시간형",
+        "저온, 장시간형",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q251",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "정전기에 의한 발화과정으로 옳은 것은?",
+      "options": [
+        "방전 → 전하의 축적 → 전하의 발생 → 발화",
+        "전하의 발생 → 전하의 축적 → 방전 → 발화",
+        "전하의 발생 → 방전 → 전하의 축적 → 발화",
+        "전하의 축적 → 방전 → 전하의 발생 → 발화",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q252",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "물리적 소화방법이 아닌 것은?",
+      "options": [
+        "산소공급원 차단",
+        "연쇄반응 차단",
+        "온도 냉각",
+        "가연물 제거",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q253",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "이산화탄소 소화기의 일반적인 성질에서 단점이 아닌 것은?",
+      "options": [
+        "밀폐된 공간에서 사용 시 질식의 위험성이 있다.",
+        "인체에 직접 방출 시 동상의 위험성이 있다.",
+        "소화약제의 방사 시 소음이 크다.",
+        "전기가 잘 통하기 때문에 전기설비에 사용할 수 없다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q254",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "위험물안전관리법령상 위험물에 대한 설명으로 옳은 것은?",
+      "options": [
+        "과염소산은 위험물이 아니다.",
+        "황린은 제2류 위험물이다.",
+        "황화인의 지정수량은 100kg이다.",
+        "산화성고체는 제6류 위험물의 성질이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q255",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "탄화칼슘이 물과 반응할 때 발생되는 기체는?",
+      "options": [
+        "일산화탄소",
+        "아세틸렌",
+        "황화수소",
+        "수소",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q256",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 증기 비중이 가장 큰 것은?",
+      "options": [
+        "Halon 1301",
+        "Halon 2402",
+        "Halon 1211",
+        "Halon 104",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q257",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "분자내부에 나이트로기를 갖고 있는 TNT, 나이트로셀룰로스 등과 같은 제5류 위험물의 연소형태는?",
+      "options": [
+        "분해연소",
+        "자기연소",
+        "증발연소",
+        "표면연소",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q258",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "IG-541이 15℃에서 내용적 50리터 압력용기에 155kgf/cm2으로 충전되어 있다. 온도가 30℃가 되었다면 IG-541 압력은 약 몇 kgf/cm2가 되겠는가? (단, 용기의 팽창은 없다고 가정한다.)",
+      "options": [
+        "78",
+        "155",
+        "163",
+        "310",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q259",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "프로판 50vol%, 부탄 40vol%, 프로필렌 10vol%로 된 혼합가스의 폭발하한계는 약 몇  vol%인가? (단, 각 가스의 폭발하한계는 프로판은 2.2vol%, 부탄은 1.9vol%, 프로필렌은 2.4vol%이다.)",
+      "options": [
+        "0.83",
+        "2.09",
+        "5.05",
+        "9.44",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q260",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "조연성 가스에 해당하는 것은?",
+      "options": [
+        "수소",
+        "일산화탄소",
+        "산소",
+        "에탄",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q261",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "제어요소는 동작신호를 무엇으로 변환하는 요소인가?",
+      "options": [
+        "제어량",
+        "비교량",
+        "검출량",
+        "조작량",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q262",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "빛이 닿으면 전류가 흐르는 다이오드로서 들어온 빛에 대해 직선적으로 전류가 증가하는 다이오드는?",
+      "options": [
+        "제너다이오드",
+        "터널다이오드",
+        "발광다이오드",
+        "포토다이오드",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q263",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "그림과 같이 접속된 회로에서 a, b 사이의 합성저항은 몇 Ω인가?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210515/nc20210515m23.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q264",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "회로에서 저항 5Ω의 양단 전압 VR(V)은?",
+      "options": [
+        "-5",
+        "-2",
+        "3",
+        "8",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210515/nc20210515m24.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q265",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "그림과 같은 회로에 평형 3상 전압 200V를 인가한 경우 소비된 유효전력(kW)은? (단, R = 20Ω, X = 10Ω)",
+      "options": [
+        "1.6",
+        "2.4",
+        "2.8",
+        "4.8",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210515/nc20210515m25.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q266",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "자기용량이 10kVA인 단권변압기를 그림과 같이 접속하였을 때 역률 80%의 부하에 몇 kW의 전력을 공급할 수 있는가?",
+      "options": [
+        "8",
+        "54",
+        "80",
+        "88",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210515/nc20210515m26.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q267",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "그림의 논리회로와 등가인 논리게이트는?",
+      "options": [
+        "NOR",
+        "NAND",
+        "NOT",
+        "OR",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210515/nc20210515m27.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q268",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "정현파 교류전압의 최댓값이 Vm(V) 이고, 평균값이 Vav(V)일 때 이 전압의 실횻값 Vrms(V)는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q269",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "그림 (a)와 그림 (b)의 각 블록선도가 등가인 경우 전달함수 G(s)는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210515/nc20210515m29.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q270",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "회로에서 a와 b 사이에 나타나는 전압 Vab(V)는?",
+      "options": [
+        "20",
+        "23",
+        "26",
+        "28",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210515/nc20210515m30.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q271",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "단방향 대전류의 전력용 스위칭 소자로서 교류의 위상 제어용으로 사용되는 정류소자는?",
+      "options": [
+        "서미스터",
+        "SCR",
+        "제너다이오드",
+        "UJT",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q272",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "입력이 r(t)이고, 출력이 c(t)인 제어시스템이 다음의 식과 같이 표현될 때 이 제어시스템의 전달함수  는? (단, 초깃값은 0이다.)",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210515/nc20210515m32m1.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q273",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "직류전원이 연결된 코일에 10A의 전류가 흐르고 있다. 이 코일에 연결된 전원을 제거하는 즉시 저항을 연결하여 폐회로를 구성하였을 때 저항에서 소비된 열량이 24cal이었다. 이 코일의 인덕턴스는 약 몇 H 인가?",
+      "options": [
+        "0.1",
+        "0.5",
+        "2.0",
+        "24",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q274",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "60Hz, 4극 3상 유도전동기가 정격 출력일 때 슬립이 2%이다. 이 전동기의 동기속도(rpm)는?",
+      "options": [
+        "1,200",
+        "1,764",
+        "1,800",
+        "1,836",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q275",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "논리식 A·(A + B)를 간단히 표현하면?",
+      "options": [
+        "A",
+        "B",
+        "A · B",
+        "A + B",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q276",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "0℃에서 저항이 10Ω이고, 저항의 온도계수가 0.0043인 전선이 있다. 30℃에서 이 전선의 저항은 약 몇 Ω 인가?",
+      "options": [
+        "0.013",
+        "0.68",
+        "1.4",
+        "11.3",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q277",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "길이 1cm마다 감은 권선수가 50회인 무한장 솔레노이드에 500mA의 전류를 흘릴 때 솔레노이드 내부에서의 자계의 세기는 몇 AT/m 인가?",
+      "options": [
+        "1,250",
+        "2,500",
+        "12,500",
+        "25,000",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q278",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "회로의 전압과 전류를 측정하기 위한 계측기의 연결방법으로 옳은 것은?",
+      "options": [
+        "전압계 : 부하와 직렬, 전류계 : 부하와 직렬",
+        "전압계 : 부하와 직렬, 전류계 : 부하와 병렬",
+        "전압계 : 부하와 병렬, 전류계 : 부하와 직렬",
+        "전압계 : 부하와 병렬, 전류계 : 부하와 병렬",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q279",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "최대 눈금이 150V이고, 내부저항이 30kΩ인 전압계가 있다. 이 전압계로 750V 까지 측정하기 위해 필요한 배율기의 저항(kΩ)은?",
+      "options": [
+        "120",
+        "150",
+        "300",
+        "800",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q280",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "내압이 1.0kV이고 정전용량이 각각 0.01μF, 0.02μF, 0.04μF인 3개의 커패시터를 직렬로 연결했을 때 전체 내압은 몇 V 인가?",
+      "options": [
+        "1,500",
+        "1,750",
+        "2,000",
+        "2,200",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q281",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방시설공사업법령에 따른 완공검사를 위한 현장확인 대상 특정소방대상물의 범위 기준으로 틀린 것은?",
+      "options": [
+        "연면적 1만제곱미터 이상이거나 11층 이상인 특정소방대상물(아파트는 제외)",
+        "가연성 가스를 제조⋅저장 또는 취급하는 시설 중 지상에 노출된 가연성 가스탱크의 저장용량 합계가 1,000t 이상인 시설",
+        "호스릴방식의 소화설비가 설치되는 특정소방대상물",
+        "문화 및 집회시설, 종교시설, 판매시설, 노유자시설, 수련시설, 운동시설, 숙박시설, 창고시설, 지하상가",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q282",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방기본법령에 따른 특수가연물의 기준 중 다음 ( ) 안에 알맞은 것은?",
+      "options": [
+        "㉠ 200, ㉡ 400",
+        "㉠ 200, ㉡ 1,000",
+        "㉠ 400, ㉡ 200",
+        "㉠ 400, ㉡ 1,000",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210515/nc20210515m42.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q283",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치⋅유지 및 안전관리에 관한 법령상 스프링클러설비를 설치하여야 할 특정소방대상물에 다음 중 어떤 소방시설을 화재안전기준에 적합하게 설치하면 면제 받을 수 있는가?(문제 오류로 가답안 발표시 2번으로 발표되었지만 확정답안 발표시 1, 2, 4번이 정답처리 되었습니다. 여기서는 가답안인 2번을 누르시면 정답 처리 됩니다.)",
+      "options": [
+        "포소화설비",
+        "물분무소화설비",
+        "간이스프링클러설비",
+        "이산화탄소소화설비",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q284",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방기본법령상 출동한 소방대원에게 폭행 또는 협박을 행사하여 화재진압⋅인명구조 또는 구급활동을 방해한 사람에 대한 벌칙 기준은?",
+      "options": [
+        "500만원 이하의 과태료",
+        "1년 이하의 징역 또는 1,000만원 이하의 벌금",
+        "3년 이하의 징역 또는 3,000만원 이하의 벌금",
+        "5년 이하의 징역 또는 5,000만원 이하의 벌금",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q285",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "위험물안전관리법령상 제조소 또는 일반 취급소에서 취급하는 제4류 위험물의 최대 수량의 합이 지정수량의 48만배 이상인 사업소의 자체소방대에 두는 화학소방자동차 및 인원기준으로 다음 ( ) 안에 알맞은 것은?",
+      "options": [
+        "㉠ 1대, ㉡ 5인",
+        "㉠ 2대, ㉡ 10인",
+        "㉠ 3대, ㉡ 15인",
+        "㉠ 4대, ㉡ 20인",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210515/nc20210515m45.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q286",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치⋅유지 및 안전관리에 관한 법령상 펄프공장의 작업장, 음료수 공장의 충전을 하는 작업장 등과 같이 화재안전기준을 적용하기 어려운 특정소방대상물에 설치하지 아니할 수 있는 소방시설의 종류가 아닌 것은?",
+      "options": [
+        "상수도소화용수설비",
+        "스프링클러설비",
+        "연결송수관설비",
+        "연결살수설비",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q287",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방기본법의 정의상 소방대상물의 관계인이 아닌 자는?",
+      "options": [
+        "감리자",
+        "관리자",
+        "점유자",
+        "소유자",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q288",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "위험물안전관리법령상 위험물별 성질로서 틀린 것은?",
+      "options": [
+        "제1류 : 산화성 고체",
+        "제2류 : 가연성 고체",
+        "제4류 : 인화성 액체",
+        "제6류 : 인화성 고체",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q289",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치⋅유지 및 안전관리에 관한 법령상 시⋅도지사가 소방시설 등의 자체점검을 하지 아니한 관리업자에게 영업정지를 명할 수 있으나, 이로 인해 국민에게 심한 불편을 줄 때에는 영업정지 처분을 갈음하여 과징금 처분을 한다. 과징금의 기준은?",
+      "options": [
+        "1,000만원 이하",
+        "2,000만원 이하",
+        "3,000만원 이하",
+        "5,000만원 이하",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q290",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방기본법령상 소방대장은 화재, 재난⋅재해 그 밖의 위급한 상황이 발생한 현장에 소방활동구역을 정하여 소방활동에 필요한 자로서 대통령령으로 정하는 사람 외에는 그 구역에의 출입을 제한할 수 있다. 다음 중 소방활동구역에 출입할 수 없는 사람은?",
+      "options": [
+        "소방활동구역 안에 있는 소방대상물의 소유자⋅관리자 또는 점유자",
+        "전기⋅가스⋅수도⋅통신⋅교통의 업무에 종사하는 사람으로서 원활한 소방활동을 위하여 필요한 사람",
+        "시⋅도지사가 소방활동을 위하여 출입을 허가한 사람",
+        "의사⋅간호사 그 밖에 구조⋅구급업무에 종사하는 사람",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q291",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "위험물안전관리법령상 취급하는 위험물의 최대수량이 지정수량의 10배 이하인 경우 공지의 너비 기준은?(문제 오류로 가답안 발표시 4번으로 발표되었지만 확정답안 발표시 모두 정답처리 되었습니다. 여기서는 가답안인 4번을 누르면 정답 처리 됩니다.)",
+      "options": [
+        "2m 이하",
+        "2m 이상",
+        "3m 이하",
+        "3m 이상",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q292",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치⋅유지 및 안전관리에 관한 법령상 소방특별조사위원회의 위원에 해당하지 아니하는 사람은?",
+      "options": [
+        "소방기술사",
+        "소방시설관리사",
+        "소방 관련 분야의 석사학위 이상을 취득한 사람",
+        "소방 관련 법인 또는 단체에서 소방 관련 업무에 3년 이상 종사한 사람",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q293",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방기본법령상 특수가연물의 저장 및 취급기준이 아닌 것은? (단, 석탄⋅목탄류를 발전용으로 저장하는 경우는 제외)",
+      "options": [
+        "품명별로 구분하여 쌓는다.",
+        "쌓는 높이는 20m 이하가 되도록 한다.",
+        "쌓는 부분의 바닥면적 사이는 1m 이상이 되도록 한다.",
+        "특수가연물을 저장 또는 취급하는 장소에는 품명⋅최대수량 및 화기취급의 금지표지를 설치해야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q294",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치⋅유지 및 안전관리에 관한 법령상 소화설비를 구성하는 제품 또는 기기에 해당하지 않는 것은?",
+      "options": [
+        "가스누설경보기",
+        "소방호스",
+        "스프링클러헤드",
+        "분말자동소화장치",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q295",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방시설공사업법령상 하자보수를 하여야 하는 소방시설 중 하자보수 보증기간이 3년이 아닌 것은?",
+      "options": [
+        "자동소화장치",
+        "비상방송설비",
+        "스프링클러설비",
+        "상수도소화용수설비",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q296",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "위험물안전관리법령상 소화난이도등급 Ⅰ의 옥내탱크저장소에서 유황만을 저장⋅취급할 경우 설치하여야 하는 소화설비로 옳은 것은?",
+      "options": [
+        "물분무소화설비",
+        "스프링클러설비",
+        "포소화설비",
+        "옥내소화전설비",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q297",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치⋅유지 및 안전관리에 관한 법령상 대통령령 또는 화재안전기준이 변경되어 그 기준이 강화되는 경우 기존 특정소방대상물의 소방시설 중 강화된 기준을 설치장소와 관계없이 항상 적용하여야 하는 것은? (단, 건축물의 신축⋅개축⋅재축⋅이전 및 대수선 중인 특정소방대상물을 포함한다.)",
+      "options": [
+        "제연설비",
+        "비상경보설비",
+        "옥내소화전설비",
+        "화재조기진압용 스프링클러설비",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q298",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치⋅유지 및 안전관리에 관한 법령상 소방시설 등의 종합정밀점검 대상 기준에 맞게 ( )에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "2,000",
+        "3,000",
+        "4,000",
+        "5,000",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210515/nc20210515m58.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q299",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재예방, 소방시설 설치⋅유지 및 안전관리에 관한 법령상 건축허가 등의 동의대상물의 범위로 틀린 것은?",
+      "options": [
+        "항공기 격납고",
+        "방송용 송⋅수신탑",
+        "연면적이 400제곱미터 이상인 건축물",
+        "지하층 또는 무창층이 있는 건축물로서 바닥면적이 50제곱미터 이상인 층이 있는 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q300",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방기본법령상 화재의 예방상 위험하다고 인정되는 행위를 하는 사람에게 행위의 금지 또는 제한 명령을 할 수 있는 사람은?",
+      "options": [
+        "소방본부장",
+        "시⋅도지사",
+        "의용소방대원",
+        "소방대상물의 관리자",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q301",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "소방시설용 비상전원수전설비의 화재안전기준(NFSC 602)에 따라 일반전기사업자로부터 특별고압 또는 고압으로 수전하는 비상전원수전설비의 종류에 해당하지 않는 것은?",
+      "options": [
+        "큐비클형",
+        "축전지형",
+        "방화구획형",
+        "옥외개방형",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q302",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "비상콘센트설비의 성능인증 및 제품검사의 기술기준에 따른 비상콘센트설비 표시등의 구조 및 기능에 대한 설명으로 틀린 것은?",
+      "options": [
+        "발광다이오드에는 적당한 보호커버를 설치하여야 한다.",
+        "소켓은 접속이 확실하여야 하며 쉽게 전구를 교체할 수 있도록 부착하여야 한다.",
+        "적색으로 표시되어야 하며 주위의 밝기가 300lx 이상인 장소에서 측정하여 앞면으로부터 3m 떨어진 곳에서 켜진 등이 확실히 식별되어야 한다.",
+        "전구는 사용전압의 130%인 교류전압을 20시간 연속하여 가하는 경우 단선, 현저한 광속변화, 흑화, 전류의 저하 등이 발생하지 아니하여야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q303",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "비상방송설비의 화재안전기준(NFSC 202)에 따라 부속회로의 전로와 대지 사이 및 배선 상호 간의 절연저항은 1경계구역마다 직류 250V의 절연저항측정기를 사용하여 측정한 절연저항이 몇 MΩ 이상이 되도록 하여야 하는가?",
+      "options": [
+        "0.1",
+        "0.2",
+        "10",
+        "20",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q304",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "자동화재탐지설비 및 시각경보장치의 화재안전기준(NFSC 203)에 따라 환경상태가 현저하게 고온으로 되어 연기감지기를 설치할 수 없는 건조실 또는 살균실 등에 적응성 있는 열감지기가 아닌 것은?",
+      "options": [
+        "정온식 1종",
+        "정온식 특종",
+        "열아날로그식",
+        "보상식 스포트형 1종",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q305",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "자동화재속보설비의 속보기의 성능인증 및 제품검사의 기술기준에서 정하는 데이터 및 코드전송방식 신고부분 프로토콜 정의서에 대한 내용이다. 다음의 ( )에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "㉠ 10, ㉡ 5",
+        "㉠ 10, ㉡ 10",
+        "㉠ 20, ㉡ 10",
+        "㉠ 20, ㉡ 20",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210515/nc20210515m65.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q306",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "유도등 및 유도표지의 화재안전기준(NFSC 303)에 따른 객석유도등의 설치기준이다. 다음 ( )에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "㉠ 통로, ㉡ 바닥, ㉢ 벽",
+        "㉠ 바닥, ㉡ 천장, ㉢ 벽",
+        "㉠ 통로, ㉡ 바닥, ㉢ 천장",
+        "㉠ 바닥, ㉡ 통로, ㉢ 출입구",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210515/nc20210515m66.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q307",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "누전경보기의 형식승인 및 제품검사의 기술기준에 따라 외함은 불연성 또는 난연성 재질로 만들어져야 하며, 누전경보기의 외함의 두께는 몇 mm 이상이어야 하는가? (단, 직접 벽면에 접하여 벽 속에 매립되는 외함의 부분은 제외한다.)",
+      "options": [
+        "1",
+        "1.2",
+        "2.5",
+        "3",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q308",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "비상콘센트설비의 화재안전기준(NFSC 504)에 따라 비상콘센트설비의 전원부와 외함 사이의 절연저항은 전원부와 외함 사이를 500V 절연저항계로 측정할 때 몇 MΩ 이상이어야 하는가?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "50",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q309",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "자동화재탐지설비 및 시각경보장치의 화재안전기준(NFSC 203)에 따라 자동화재탐지설비의 감지기 설치에 있어서 부착높이가 20m 이상일 때 적합한 감지기 종류는?",
+      "options": [
+        "불꽃감지기",
+        "연기복합형",
+        "차동식 분포형",
+        "이온화식 1종",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q310",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "비상경보설비 및 단독경보형감지기의 화재안전기준(NFSC 201)에 따른 비상벨설비에 대한 설명으로 옳은 것은?",
+      "options": [
+        "비상벨설비는 화재발생 상황을 사이렌으로 경보하는 설비를 말한다.",
+        "비상벨설비는 부식성가스 또는 습기 등으로 인하여 부식의 우려가 없는 장소에 설치하여야 한다.",
+        "음향장치의 음량은 부착된 음향장치의 중심으로부터 1m 떨어진 위치에서 60dB 이상이 되는 것으로 하여야 한다.",
+        "특정소방대상물의 층마다 설치하되, 해당 특정소방대상물의 각 부분으로부터 하나의 발신기까지의 수평거리가 30m 이하가 되도록 하여야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q311",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "비상방송설비의 화재안전기준(NFSC 202)에 따라 비상방송설비가 기동장치에 따른 화재신고를 수신한 후 필요한 음량으로 화재 발생 상황 및 피난에 유효한 방송이 자동으로 개시될 때까지의 소요시간은 몇 초 이하로 하여야 하는가?",
+      "options": [
+        "5",
+        "10",
+        "20",
+        "30",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q312",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "누전경보기의 형식승인 및 제품검사의 기술기준에 따라 감도조정장치를 갖는 누전경보기에 있어서 감도조정장치의 조정범위는 최대치가 몇 A이어야 하는가?",
+      "options": [
+        "0.2",
+        "1.0",
+        "1.5",
+        "2.0",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q313",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "자동화재탐지설비 및 시각경보장치의 화재안전기준(NFSC 203)에 따른 배선의 시설기준으로 틀린 것은?",
+      "options": [
+        "감지기 사이의 회로의 배선은 송배전식으로 할 것",
+        "감지기회로의 도통시험을 위한 종단저항은 감지기회로의 끝 부분에 설치할 것",
+        "피(P)형 수신기의 감지기 회로의 배선에 있어서 하나의 공통선에 접속할 수 있는 경계구역은 5개이하로 할 것",
+        "수신기의 각 회로별 종단에 설치되는 감지기에 접속되는 배선의 전압은 감지기 정격전압의 80% 이상이어야 할 것",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q314",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "무선통신보조설비의 화재안전기준(NFSC 505)에 따른 용어의 정의로 옳은 것은?",
+      "options": [
+        "“혼합기”는 신호의 전송로가 분기되는 장소에 설치하는 장치를 말한다.",
+        "“분배기”는 서로 다른 주파수의 합성된 신호를 분리하기 위해서 사용하는 장치를 말한다.",
+        "“증폭기”는 두 개 이상의 입력신호를 원하는 비율로 조합한 출력이 발생되도록 하는 장치를 말한다.",
+        "“누설동축케이블”은 동축케이블의 외부도체에 가느다란 홈을 만들어서 전파가 외부로 새어나갈 수 있도록 한 케이블을 말한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q315",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "비상조명등의 화재안전기준(NFSC 304)에 따라 비상조명등의 조도는 비상조명등이 설치된 장소의 각 부분의 바닥에서 몇 lx 이상이 되도록 하여야 하는가?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "10",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q316",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "화재안전기준(NFSC)에 따른 비상전원 및 건전지의 유효 사용시간에 대한 최소 기준이 가장 긴 것은?",
+      "options": [
+        "휴대용비상조명등의 건전지 용량",
+        "무선통신보조설비 증폭기의 비상전원",
+        "지하층을 제외한 층수가 11층 미만의 층인 특정소방대상물에 설치되는 유도등의 비상전원",
+        "지하층을 제외한 층수가 11층 미만의 층인 특정소방대상물에 설치되는 비상조명등의 비상전원",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q317",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "비상경보설비 및 단독경보형감지기의 화재안전기준(NFSC 201)에 따른 단독경보형감지기의 시설기준에 대한 내용이다. 다음 ( )에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "㉠ 100, ㉡ 100",
+        "㉠ 100, ㉡ 150",
+        "㉠ 150, ㉡ 150",
+        "㉠ 150, ㉡ 200",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210515/nc20210515m77.gif"
+    },
+    {
+      "id": "fire_fighting_electric_q318",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "무선통신보조설비의 화재안전기준(NFSC 505)에 따라 무선통신보조설비의 누설동축케이블 및 안테나는 고압의 전로로부터 1.5m 이상 떨어진 위치에 설치해야 하나 그렇게 하지 않아도 되는 경우는?",
+      "options": [
+        "끝부분에 무반사 종단저항을 설치한 경우",
+        "불연재료로 구획된 반자 안에 설치한 경우",
+        "해당 전로에 정전기 차폐장치를 유효하게 설치한 경우",
+        "금속제 등의 지지금구로 일정한 간격으로 고정한 경우",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q319",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "유도등 및 유도표지의 화재안전기준(NFSC 303)에 따라 유도표지는 각 층마다 복도 및 통로의 각 부분으로부터 하나의 유도표지까지의 보행거리가 몇 m 이하가 되는 곳과 구부러진 모퉁이의 벽에 설치하여야 하는가? (단, 계단에 설치하는 것은 제외한다.)",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "25",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "fire_fighting_electric_q320",
+      "subject": "소방설비기사(전기)",
+      "round": "2021-05-15 기출",
+      "question_text": "자동화재탐지설비 및 시각경보장치의 화재안전기준(NFSC 203)에 따른 발신기의 시설기준에 대한 내용이다. 다음 ( )에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "㉠ 10, ㉡ 10",
+        "㉠ 15, ㉡ 10",
+        "㉠ 25, ㉡ 15",
+        "㉠ 25, ㉡ 20",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nc/nc20210515/nc20210515m80.gif"
+    }
+  ]
+}

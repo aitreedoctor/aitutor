@@ -1,0 +1,3605 @@
+{
+  "pack_name": "산림 기능사 기출 팩",
+  "questions": [
+    {
+      "id": "forest_craftsman_q1",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "인공조림과 비교한 천연갱신의 특징이 아닌 것은?",
+      "options": [
+        "생산된 목재가 균일하다.",
+        "조림실패의 위험이 적다.",
+        "숲 조성에 시간이 걸린다.",
+        "생태계 구성원 보호에 유리하다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q2",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "예비벌을 실시하는 주요 목적으로 거리가 먼 것은?",
+      "options": [
+        "벌채목의 반출 용이",
+        "잔존목의 결실 촉진",
+        "부식질의 분해 촉진",
+        "어린나무 발생의 적합한 환경 조성",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q3",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "소나무의 용기묘 생산에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "시비는 관수와 함께 실시한다.",
+        "겨울에는 생장을 하지 않으므로 관수하지 않는다.",
+        "육묘용 비료는 하이포넥스(Hyponex)나 BS그린을 사용한다.",
+        "피트모스, 펄라이트, 질석을 1 : 1 : 1의 비율로 상토를 제조한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q4",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "묘포지 선정 요건으로 거리가 먼 것은?",
+      "options": [
+        "교통이 편리한 곳",
+        "양토나 사질양토로 관배수가 용이한 곳",
+        "1 ~ 5°정도의 경사지로 국부적 기상피해가 없는 곳",
+        "토지의 물리적 성질보다 화학적 성질이 중요하므로 매우 비옥한 곳",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q5",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "구과가 성숙한 후에 10년 이상이나 모수에 부착되어 있어 종자의 발아력이 상실되지 않고 산불이 나면 인편이 열리는 수종은?",
+      "options": [
+        "편백",
+        "소나무",
+        "잣나무",
+        "방크스소나무",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q6",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "개화한 다음 해에 결실하는 수종으로만 짝지어 진 것은?",
+      "options": [
+        "소나무, 자작나무",
+        "전나무, 아까시나무",
+        "오리나무, 버드나무",
+        "삼나무, 가문비나무",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q7",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "침엽수 가지치기 방법으로서 적당한 것은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q8",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "수종별 무기양료의 요구도가 적은 것에서 큰 순서로 나열된 것은?",
+      "options": [
+        "백합나무＜자작나무＜소나무",
+        "자작나무＜백합나무＜소나무",
+        "소나무＜자작나무＜백합나무",
+        "소나무＜백합나무＜자작나무",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q9",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "파종상에서 2년, 판갈이 상에서 1년 된 만 3년생의 묘목의 표기 방법은?",
+      "options": [
+        "1 - 2",
+        "2 - 1",
+        "1 - 1 - 1",
+        "1 - 0 - 2",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q10",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "미래목의 구비 요건으로 틀린 것은?",
+      "options": [
+        "피압을 받지 않은 상층의 우세목",
+        "나무줄기가 곧고 갈라지지 않은 것",
+        "병충해 등 물리적인 피해가 없을 것",
+        "주위 임목보다 월등히 수고가 높은 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q11",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "종자 발아시험 기간이 가장 긴 수종들로 짝지어진 것은?",
+      "options": [
+        "소나무, 삼나무",
+        "곰솔, 사시나무",
+        "버드나무, 느릅나무",
+        "일본잎갈나무, 가문비나무",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q12",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "T/R율에 대한 설명으로 틀린 것은?",
+      "options": [
+        "T/R율의 값이 클수록 좋은 묘목이다.",
+        "묘목의 지상부와 지하부의 중량비이다.",
+        "질소질 비료를 과용하면 T/R율의 값이 커진다.",
+        "좋은 묘목은 지하부와 지상부가 균형 있게 발달해 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q13",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "모수작업의 모수본수보다 많은 모수를 수광생장을 촉진시켜 다음 벌기에 대경재를 생산하면서 갱신을 동시에 실시하는 방법은?",
+      "options": [
+        "택벌작업",
+        "중림작업",
+        "개벌작업",
+        "보잔목작업",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q14",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "주로 뿌리를 이용하여 삽목하는 수종은?",
+      "options": [
+        "삼나무",
+        "동백나무",
+        "오동나무",
+        "사철나무",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q15",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "솎아베기가 잘된 임지, 유령림 단계에서 집약적으로 관리된 임분에서 생략이 가능한 산벌작업과정은?",
+      "options": [
+        "후벌",
+        "종벌",
+        "하종벌",
+        "예비벌",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q16",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "소나무 종자의 무게가 45g이고 협잡물을 제거한 후의 무게가 43.2g일 때 순량률은?",
+      "options": [
+        "43%",
+        "45%",
+        "86%",
+        "96%",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q17",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "왜림의 특징이 아닌 것은?",
+      "options": [
+        "벌기가 길다.",
+        "수고가 낮다.",
+        "맹아로 갱신된다.",
+        "땔감 생산용으로 알맞다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q18",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "봄에 가식할 장소로서 옳지 않은 것은?",
+      "options": [
+        "바람이 적은 곳",
+        "남향으로 양지 바른 곳",
+        "토양의 습도가 적절한 곳",
+        "배수가 양호하고 그늘진 곳",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q19",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "간벌에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "지름생장을 촉진하고 숲을 건전하게 만든다.",
+        "빽빽한 밀도로 경쟁을 촉진시켜 나무의 형질을 좋게 한다.",
+        "벌채가 되기 전에 나무를 솎아베어 중간 수입을 얻을 수 있다.",
+        "나무를 솎아 벤 곳에 잡초가 무성하게 되어 표토의 유실을 막고 빗물을 오래 머무르게 하여 숲땅이 비옥해진다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q20",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "채종림의 조성 목적으로 가장 적합한 것은?",
+      "options": [
+        "방풍림 조성",
+        "산사태 방지",
+        "우량종자 생산",
+        "휴양 공간 조성",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q21",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "우리나라가 원산인 수종은?",
+      "options": [
+        "백송",
+        "삼나무",
+        "잣나무",
+        "연필향나무",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q22",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "택벌작업의 특징으로 옳지 않은 것은?",
+      "options": [
+        "보속적인 생산",
+        "산림 경관 조성",
+        "양수 수종 갱신",
+        "임지의 생산력 보전",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q23",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "묘목을 1.8m×1.8m 정방향으로 식재할 때 1ha 당 묘목의 본수로 가장 적당한 것은?",
+      "options": [
+        "약 308본",
+        "약 555본",
+        "약 3086본",
+        "약 5555본",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q24",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "파종상의 해가림 시설을 제거하는 시기로 가장 적절한 것은?",
+      "options": [
+        "5월 중순 ~ 6월 중순",
+        "7월 하순 ~ 8월 중순",
+        "9월 중순 ~ 10월 상순",
+        "10월 중순 ~ 11월 중순",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q25",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "순량률 80%, 발아율 90%인 종자의 효율은?",
+      "options": [
+        "10%",
+        "72%",
+        "89%",
+        "90%",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q26",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "바이러스에 의하여 발병하는 것은?",
+      "options": [
+        "청변병",
+        "불마름병",
+        "뿌리혹병",
+        "모자이크병",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q27",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "향나무를 중간기주로 하여 기주교대를 하는 병은?",
+      "options": [
+        "잣나무털녹병",
+        "밤나무 줄기마름병",
+        "대추나무빗자루병",
+        "배나무 붉은별무늬병",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q28",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "성충 및 유충 모두가 나무를 가해하는 것은?",
+      "options": [
+        "솔나방",
+        "솔잎혹파리",
+        "미국흰불나방",
+        "오리나무잎벌레",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q29",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "묘포에서 지표면 부분의 뿌리 부분을 주로 가해하는 곤충류는?",
+      "options": [
+        "솜벌레과",
+        "풍뎅이과",
+        "혹파리과",
+        "유리나방과",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q30",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "곤충과 거미의 차이에 대한 설명으로 옳은 것은?",
+      "options": [
+        "다리의 경우 곤충과 거미 모두 3쌍이다.",
+        "더듬이의 경우 곤충은 1쌍이고, 거미는 2쌍이다.",
+        "날개의 경우 곤충은 보통 2쌍이고, 거미는 1쌍이거나 없다.",
+        "곤충은 머리, 가슴, 배의 3부분이고, 거미는 머리가슴, 배의 2부분으로 구분된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q31",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "연 1회 발생하며 9월 하순 유충이 월동하기 위해 나무에서 땅으로 떨어지는 해충은?",
+      "options": [
+        "소나무좀",
+        "솔잎혹파리",
+        "미국흰불나방",
+        "오리나무잎벌레",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q32",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "벚나무빗자루병의 병원체는?",
+      "options": [
+        "세균",
+        "자낭균",
+        "바이러스",
+        "파이토플라스마",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q33",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "다음 중 솔나방의 주요 가해 부위는?",
+      "options": [
+        "소나무 잎",
+        "소나무 뿌리",
+        "소나무 줄기",
+        "소나무 종자",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q34",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "산불에 의한 피해 및 위험도에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "침엽수는 활엽수에 비해 피해가 심하다.",
+        "음수는 양수에 비해 산불위험도가 낮다.",
+        "단순림과 동령림이 혼효림 또는 이령림보다 산불의 위험도가 낮다.",
+        "낙엽활엽수 중에서 코르크층이 두꺼운 수피를 가진 수종은 산불에 강하다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q35",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "아바멕틴 유제 1000배액을 만들려면 물 18L에 몇 ml를 타야 하는가?",
+      "options": [
+        "0.018",
+        "1.8",
+        "18",
+        "180",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q36",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "진딧물의 화학적 방제법 중 천적보호에 유리한 방제약제로 가장 좋은 것은?",
+      "options": [
+        "훈증제",
+        "기피제",
+        "접촉 살충제",
+        "침투성 살충제",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q37",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "곤충이 생활하는 도중에 환경이 좋지 않으면 발육을 멈추고 좋은 환경이 될 때까지 임시적으로 정지하는 현상으로 정상으로 돌아오는데 다소 시간이 걸리는 것은?",
+      "options": [
+        "휴면",
+        "이주",
+        "탈피",
+        "휴지",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q38",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "균류 병원균이 과습한 토양에서 묘목 뿌리로 침입하여 발생하는 것은?",
+      "options": [
+        "반점병",
+        "탄저병",
+        "모잘록병",
+        "불마름병",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q39",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "주로 나무의 상처부위로 병원균이 침입하여 발병하는 것으로 상처부위에 올바른 외과 수술을 해야 하며, 저항성 품종을 심어 방제하는 병은?",
+      "options": [
+        "향나무 녹병",
+        "소나무 잎떨림병",
+        "밤나무 줄기마름병",
+        "삼나무붉은마름병",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q40",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "이른 봄에 수목의 발육이 시작된 후에 갑자기 내린 서리에 의해 어린잎이 받는 피해는?",
+      "options": [
+        "조상",
+        "만상",
+        "동상",
+        "춘상",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q41",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "농약의 물리적 형태에 따른 분류가 아닌 것은?",
+      "options": [
+        "유제",
+        "분제",
+        "전착제",
+        "수화제",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q42",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "포플러류 잎의 뒷면에 초여름 오렌지색의 작은 가루덩이가 생기고, 정상적인 나무보다 먼저 낙엽이 지는 현상이 나타나는 병은?",
+      "options": [
+        "잎녹병",
+        "갈반병",
+        "잎마름병",
+        "점무늬잎떨림병",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q43",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "솔나방의 발생 예찰을 하기 위한 방법 중 가장 좋은 것은?",
+      "options": [
+        "산란수를 조사한다.",
+        "번데기의 수를 조사한다.",
+        "산란기 기상 상태를 조사한다.",
+        "월동하기 전 유충의 밀도를 조사한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q44",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "농약의 독성에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "경구와 경피에 투여하여 시험한다.",
+        "농약의 독성은 중위치사량으로 표시한다.",
+        "LD50은 시험동물의 50%가 죽는 농약의 양을 뜻한다.",
+        "농약의 독성은 [농약의 양(mg)/시험동물의 체적(m3)]으로 표시한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q45",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "잣나무 털녹병균의 침입 부위는?",
+      "options": [
+        "잎",
+        "줄기",
+        "종자",
+        "뿌리",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q46",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "체인톱에 의한 벌목작업의 기본원칙으로 옳지 않은 것은?",
+      "options": [
+        "벌목작업 시 도피로를 정해둔다.",
+        "걸린 나무는 지렛대 등을 이용하여 넘긴다.",
+        "벌목방향은 집재하기가 용이한 방향으로 한다.",
+        "벌목영역은 벌도목을 중심으로 수고의 1.2배에 해당한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q47",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "벌목 방법의 순서로 옳은 것은?",
+      "options": [
+        "벌목 방향 설정 - 수구자르기 - 추구자르기 - 벌목",
+        "벌목 방향 설정 - 추구자르기 - 수구자르기 - 벌목",
+        "수구자르기 - 추구자르기 - 벌목 방향 설정 - 벌목",
+        "추구자르기 - 수구자르기 - 벌목 방향 설정 - 벌목",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q48",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "체인톱의 평균 수명과 안내판의 평균 수명으로 옳은 것은?",
+      "options": [
+        "1000시간, 300시간",
+        "1500시간, 450시간",
+        "2000시간, 600시간",
+        "2500시간, 700시간",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q49",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "2사이클 가솔린엔진의 휘발유와 윤활유의 적정 혼합비는?",
+      "options": [
+        "5 : 1",
+        "1 : 5",
+        "25 : 1",
+        "1 : 25",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q50",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "예불기의 톱이 회전하는 방향은?",
+      "options": [
+        "시계 방향",
+        "좌우 방향",
+        "상하 방향",
+        "반시계 방향",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q51",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "체인톱의 체인오일을 급유하는 과정에서 묽은 윤활유를 사용하게 되었을 때 나타나는 가장 주된 현상은?",
+      "options": [
+        "가이드바의 마모가 빨리된다.",
+        "엔진의 내부가 쉽게 마모된다.",
+        "엔진이 과열되어 화재 위험이 높다.",
+        "체인톱날이 수축되어 회전속도가 감소한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q52",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "엔진의 성능을 나타내는 것으로 1초 동안에 75kg의 중량을 1m 들어 올리는데 필요한 동력단위를 의미하는 것은?",
+      "options": [
+        "강도",
+        "토크",
+        "마력",
+        "RPM",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q53",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "예불날의 종류에 따른 예불기의 분류가 아닌 것은?",
+      "options": [
+        "회전날식 예불기",
+        "로터리식 예불기",
+        "왕복요동식 예불기",
+        "나일론코드식 예불기",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q54",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "무육 작업을 위한 도구로 가장 거리가 먼 것은?",
+      "options": [
+        "쐐기",
+        "보육낫",
+        "이리톱",
+        "가지치기 톱",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q55",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "산림작업용 도끼의 날을 관리하는 방법으로 옳지 않은 것은?",
+      "options": [
+        "아치형으로 연마하여야 한다.",
+        "날카로운 삼각형으로 연마하여야 한다.",
+        "벌목용 도끼의 날의 각도는 9~12도가 적당하다.",
+        "가지치기용 도끼의 날의 각도는 8~10도가 적당하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q56",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "체인톱에 사용되는 연료인 혼합유를 제조하기 위해 휘발유와 함께 혼합하는 것은?",
+      "options": [
+        "그리스",
+        "방청유",
+        "엔진오일",
+        "기어오일",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q57",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "활엽수 벌목작업 시 손톱의 삼각형 톱니날 젖힘 크기로 가장 적당한 것은?",
+      "options": [
+        "0.1~0.2㎜",
+        "0.2~0.3㎜",
+        "0.3~0.5㎜",
+        "0.5~0.6㎜",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q58",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "4행정기관과 비교한 2행정기관의 특징으로 옳지 않은 것은?",
+      "options": [
+        "연료 소모량이 크다.",
+        "저속운전이 곤란하다.",
+        "동일배기량에 비해 출력이 작다.",
+        "혼합연료 이외에 별도의 엔진오일을 주입하지 않아도 된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q59",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "체인톱의 장기 보관 시 처리하여야 할 사항으로 옳지 않은 것은?",
+      "options": [
+        "연료와 오일을 비운다.",
+        "특수오일로 엔진을 보호한다.",
+        "매월 10분 정도 가동시켜 건조한 방에 보관한다.",
+        "장력 조정나사를 조정하여 체인을 항상 팽팽하게 유지한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q60",
+      "subject": "산림 기능사",
+      "round": "2016-07-10 기출",
+      "question_text": "체인톱의 안전장치가 아닌 것은?",
+      "options": [
+        "체인잡이",
+        "핸드가드",
+        "방진고무",
+        "체인장력 조절장치",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q61",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "종자 정선 방법으로 풍선법을 적용하기 어려운 수종은?",
+      "options": [
+        "밤나무",
+        "소나무",
+        "가문비나무",
+        "일본잎갈나무",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q62",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "덩굴식물을 제거하는 방법으로 옳지 않은 것은?",
+      "options": [
+        "디캄바액제는 콩과식물에 적용한다.",
+        "인력으로 덩굴의 줄기를 제거하거나 뿌리를 굴취한다.",
+        "글라신액제는 2~3월 또는 10~11월에 사용하는 것이 효과적이다.",
+        "약제 처리 후 24시간 이내에 강우가 예상될 경우 약제처리를 중지한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q63",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "어린나무 가꾸기의 1차 작업시기로 가장 알맞은 것은?",
+      "options": [
+        "풀베기가 끝난 3 ~ 5년 후",
+        "가지치기가 끝난 5 ~ 6년 후",
+        "덩굴제거가 끝난 1 ~ 2년 후",
+        "솎아베기가 끝난 6 ~ 9년 후",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q64",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "임목 간 식재밀도를 조절하기 위한 벌채 방법에 속하는 것은?",
+      "options": [
+        "간벌작업",
+        "개벌작업",
+        "산벌작업",
+        "중림작업",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q65",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "대목의 수피에 T자형으로 칼자국을 내고 그 안에 접아를 넣어 접목하는 방법은?",
+      "options": [
+        "절접",
+        "눈접",
+        "설접",
+        "할접",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q66",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "일정한 면적에 직사각형 식재를 할 때 소요묘목수 계산식은?",
+      "options": [
+        "조림지면적 / 묘간거리",
+        "조림지면적 / 묘간거리2",
+        "조림지면적 / (묘간거리2×0.866)",
+        "조림지면적 / (묘간거리×줄 사이의 거리)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q67",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "용재 생산목적 수종으로 가장 거리가 먼 것은?",
+      "options": [
+        "소나무",
+        "느티나무",
+        "자작나무",
+        "상수리나무",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q68",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "지력이 좋고 수분이 많아 잡초가 무성하고 기후가 온난하며, 주로 소나무 조림지에 적합한 풀베기 방법은?",
+      "options": [
+        "줄베기",
+        "점베기",
+        "모두베기",
+        "둘레베기",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q69",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "종자의 발아력 조사에 쓰이는 약제는?",
+      "options": [
+        "에틸렌",
+        "지베렐린",
+        "테트라졸륨",
+        "사이토키닌",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q70",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "늦은 가을철 묘목 가식을 할 때 묘목의 끝 방향으로 가장 적합한 것은?",
+      "options": [
+        "동쪽",
+        "서쪽",
+        "남쪽",
+        "북쪽",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q71",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "묘포 상에서 해가림이 필요 없는 수종은?",
+      "options": [
+        "전나무",
+        "삼나무",
+        "사시나무",
+        "가문비나무",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q72",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "파종상에서 2년, 그 뒤 판갈이 상에서 1년을 지낸 3년생 묘목의 표시 방법은?",
+      "options": [
+        "1 - 2 묘",
+        "2 - 1묘",
+        "0 - 3 묘",
+        "1 - 1 - 1 묘",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q73",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "어미나무를 비교적 많이 남겨서 천연갱신을 통해 후계림을 조성하되 어미나무는 대경재 생산을 위해 그대로 두는 작업종은?",
+      "options": [
+        "개벌작업",
+        "산벌작업",
+        "택벌작업",
+        "보잔목작업",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q74",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "그루터기에서 발생하는 맹아를 이용하여 후계림을 만드는 작업을 무엇이라 하는가?",
+      "options": [
+        "왜림작업",
+        "개벌작업",
+        "산벌작업",
+        "택벌작업",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q75",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "데라사키식 간벌에 있어서 간벌량이 가장 적은 방식은?",
+      "options": [
+        "A종 간벌",
+        "B종 간벌",
+        "C종 간벌",
+        "D종 간벌",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q76",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "일본잎갈나무 1 - 1묘 산출시 근원경의 표준규격은?",
+      "options": [
+        "3mm 이상",
+        "4mm 이상",
+        "5mm 이상",
+        "6mm 이상",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q77",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "지력을 향상시키기 위한 비료목으로 적당하지 않은 것은?",
+      "options": [
+        "오리나무",
+        "갈참나무",
+        "자귀나무",
+        "소귀나무",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q78",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "묘목 가식에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "동해에 약한 유묘는 움가식을 한다.",
+        "비가 올 때에는 가식하는 것을 피한다.",
+        "선묘 결속된 묘목은 즉시 가식하여야 한다.",
+        "지제부는 낮게 묻어 이식이 편리하게 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q79",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "산벌작업 과정에서 모수로 부적합한 것을 선정하여 벌채하는 작업은?",
+      "options": [
+        "종벌",
+        "후벌",
+        "하종벌",
+        "예비벌",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q80",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "겉씨식물에 속하는 수종은?",
+      "options": [
+        "밤나무",
+        "은행나무",
+        "가시나무",
+        "신갈나무",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q81",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "종자 정선 후 바로 노천매장을 하는 수종은?",
+      "options": [
+        "벚나무",
+        "피나무",
+        "전나무",
+        "삼나무",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q82",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "갱신 대상 조림지를 띠모양으로 나누어 순차 적으로 개벌해 가면서 갱신하는 것으로 3차례 이상에 걸쳐서 개벌하는 것은?",
+      "options": [
+        "군상 개벌법",
+        "대면적 개벌법",
+        "교호 대상개벌법",
+        "연속 대상개벌법",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q83",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "개벌작업의 장점으로 옳지 않은 것은?",
+      "options": [
+        "양수 수종 갱신에 유리하다.",
+        "방법이 간단하여 경영이 용이하다.",
+        "임지의 모두 수목이 제거되어 지력 유지에 용이하다.",
+        "동령림이 형성되어 모든 숲 가꾸기 작업이 편하고 경제적이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q84",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "매년 결실하는 수종은?",
+      "options": [
+        "소나무",
+        "오리나무",
+        "자작나무",
+        "아까시나무",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q85",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "모수작업법에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "양수 수종의 갱신에 유리하다.",
+        "작업방법이 용이하고 경제적이다.",
+        "작업 후 낙엽층이 손상되지 않도록 주의한다.",
+        "소나무의 갱신 치수가 발생하면 풀베기를 해줘야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q86",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "파이토플라스마에 의해 발병하지 않는 것은?",
+      "options": [
+        "뽕나무 오갈병",
+        "벚나무빗자루병",
+        "오동나무빗자루병",
+        "대추나무빗자루병",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q87",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "소나무좀에 대한 설명으로 옳은 것은?",
+      "options": [
+        "주로 건전한 나무를 가해한다.",
+        "월동 성충이 수피를 뚫고 들어가 알을 낳는다.",
+        "1년 2회 발생하며 주로 봄과 가을에 활동한다.",
+        "부화한 유충은 성충의 갱도와 평행하게 내수피를 섭식한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q88",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "잠복기간이 가장 짧은 수목병은?",
+      "options": [
+        "소나무 혹병",
+        "잣나무털녹병",
+        "포플러잎녹병",
+        "낙엽송 잎떨림병",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q89",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "밤나무혹벌의 번식형태로 옳은 것은?",
+      "options": [
+        "단위생식",
+        "유성생식",
+        "다배생식",
+        "유성번식",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q90",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "주제를 용제에 녹여 계면활성제를 유화제로 첨가하여 제재한 약제 종류는?",
+      "options": [
+        "유제",
+        "입제",
+        "분제",
+        "수화제",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q91",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "주풍(계속적이고 규칙적으로 부는 바람)에 의한 피해로 가장 거리가 먼 것은?",
+      "options": [
+        "수형을 불량하게 한다.",
+        "임목의 생장량이 감소된다.",
+        "침엽수는 상방편심 생장을 하게 된다.",
+        "기공이 폐쇄되어 광합성 능력이 저하된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q92",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "손이나 그물 등을 사용하여 해충을 직접 잡아 방제하는 것은?",
+      "options": [
+        "포살법",
+        "소살법",
+        "직살법",
+        "수살법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q93",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "주로 묘목에 큰 피해를 주며 종자를 소독하여 방제하는 것은?",
+      "options": [
+        "잣나무털녹병",
+        "두릅나무 녹병",
+        "밤나무 줄기마름병",
+        "오리나무 갈색무늬병",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q94",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "아황산가스에 대한 저항성이 가장 약한 수종은?",
+      "options": [
+        "향나무",
+        "은행나무",
+        "자작나무",
+        "동백나무",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q95",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "알로 월동하는 해충은?",
+      "options": [
+        "독나방",
+        "매미나방",
+        "미국흰불나방",
+        "참나무재주나방",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q96",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "우리나라에서 발생하는 상주(서릿발)에 대한 설명으로 옳은 것은?",
+      "options": [
+        "가장 추운 1월 중순에 많이 발생한다.",
+        "중부지방보다 남부지방에 잘 발생한다.",
+        "토양함수량이 90% 이상으로 많을 때 발생한다.",
+        "비료를 주어 상주 생성을 막을 수 있지만 질소비료는 가장 효과가 낮다",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q97",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "가뭄이나 해충의 피해를 받아 약해진 나무에 잘 발생하는 병으로 주로 신초의 침엽기부를 고사시키는 것은?",
+      "options": [
+        "소나무혹병",
+        "소나무 줄기녹병",
+        "소나무 재선충병",
+        "소나무 가지끝마름병",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q98",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "송이풀이나 까치밥나무와 기주교대를 하는 것은?",
+      "options": [
+        "소나무 혹병",
+        "소나무 잎녹병",
+        "잣나무털녹병",
+        "배나무 붉은별무늬병",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q99",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "솔잎혹파리에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "주로 1년에 1회 발생한다.",
+        "충영 속에서 번데기로 월동한다.",
+        "1920년대 초반 일본에서 우리나라로 침입한 것으로 추정한다.",
+        "생물학적 방제법으로 솔잎혹파리먹좀벌 등기생성 천적을 이용하여 방제하기도 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q100",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "모잘록병의 방제법으로 옳지 않은 것은?",
+      "options": [
+        "병이 심한 묘포지는 돌려짓기를 한다.",
+        "인산질 비료를 많이 주어 묘목을 관리한다.",
+        "묘상이 과습할 정도로 수분을 충분히 보충한다.",
+        "파종량을 적게 하고 복토가 너무 두껍지 않게 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q101",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "대추나무빗자루병 방제를 위한 약제로 가장 적합한 것은?",
+      "options": [
+        "피리다벤 수화제",
+        "디플루벤주론 수화제",
+        "비티쿠르스타키 수화제",
+        "옥시테트라사이클린 수화제",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q102",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "해충 방제이론 중 경제적 피해수준에 대한 설명으로 옳은 것은?",
+      "options": [
+        "해충에 의한 피해액과 방제비가 같은 수준인 해충의 밀도를 말한다.",
+        "해충에 의한 피해액이 방제비보다 높은 때의 해충의 밀도를 말한다.",
+        "해충에 의한 피해액이 방제비보다 낮을 때의 해충의 밀도를 말한다.",
+        "해충에 의한 피해액과 무관하게 방제를 해야 하는 해충의 밀도를 말한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q103",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "해충이 나무에서 내려올 때 줄기에 짚이나 가마니를 감아 해충이 파고들도록 하여 이것을 태워서 해충을 방제하는 방법은?",
+      "options": [
+        "등화 유살법",
+        "경운 유살법",
+        "잠복장소 유살법",
+        "번식장소 유살법",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q104",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "외국에서 들어온 해충이 아닌 것은?",
+      "options": [
+        "솔나방",
+        "밤나무혹벌",
+        "미국흰불나방",
+        "버즘나무방패벌레",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q105",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "포플러잎녹병의 중간기주에 해당하는 것은?",
+      "options": [
+        "잔대, 모싯대",
+        "쑥부쟁이, 참취",
+        "소나무, 등골나무",
+        "일본잎갈나무, 현호색",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q106",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "산림 작업용 도끼 날 형태 중에서 나무 속에 끼어 쉽게 무뎌지는 것은?",
+      "options": [
+        "아치형",
+        "삼각형",
+        "오각형",
+        "무딘 둔각형",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q107",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "체인톱 작업 중 위험에 대비한 안전장치가 아닌 것은?",
+      "options": [
+        "스프라킷",
+        "핸드가드",
+        "체인잡이",
+        "체인브레이크",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q108",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "와이어로프로 고리를 만들 때 와이어로프 직경의 몇 배 이상으로 하는가?",
+      "options": [
+        "10배",
+        "15배",
+        "20배",
+        "25배",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q109",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "2행정 내연기관에 일정 비율의 오일을 섞어야 하는 이유로 가장 적당한 것은?",
+      "options": [
+        "엔진 윤활을 위하여",
+        "조기점화를 막기 위하여",
+        "연소를 빨리 시키기 위하여",
+        "연료의 흡입을 빨리 하기 위하여",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q110",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "스카이라인을 집재기로 직접 견인하기 어려움에 따라 견인력을 높이기 위한 가선장비는?",
+      "options": [
+        "샤클",
+        "힐블럭",
+        "반송기",
+        "윈치드럼",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q111",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "기계톱으로 가지치기를 할 때 지켜야 할 유의사항이 아닌 것은?",
+      "options": [
+        "후진하면서 작업한다.",
+        "안내판이 짧은 기계톱을 사용한다.",
+        "작업자는 벌목한 나무에 가까이에 서서 작업한다.",
+        "벌목한 나무를 몸과 체인톱 사이에 놓고 작업한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q112",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "내연기관(4행정)에 부착되어 있는 캠축의 역할로 가장 적당한 것은?",
+      "options": [
+        "오일의 순환 추진",
+        "피스톤의 상·하 운동",
+        "연료의 유입량을 조절",
+        "흡기공과 배기공을 열고 닫음",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q113",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "손톱의 톱니 부분별 기능에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "톱니가슴 : 나무를 절단한다.",
+        "톱니홈 : 톱밥이 임시 머문 후 빠져나가는 곳이다.",
+        "톱니등 : 쐐기역할을 하며 크기가 클수록 톱니가 약하다.",
+        "톱니꼭지선 : 일정하지 않으면 톱질할 때 힘이 많이 든다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q114",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "벌목용 작업도구로 이용되는 것은?",
+      "options": [
+        "쐐기",
+        "이식판",
+        "식혈봉",
+        "양날괭이",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q115",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "기계톱의 연료통(또는 연료통 덮개)에 있는 공기구멍이 막혀 있으면 어떤 현상이 나타나는가?",
+      "options": [
+        "연료가 새지 않아 운반 시 편리하다.",
+        "연료의 소모량을 많게 하여 연료비가 높게 된다.",
+        "연료를 기화기로 공급하지 못해 엔진가동이 안 된다.",
+        "가솔린과 오일이 분리되어 가솔린만 기화기로 들어간다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q116",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "농업용 트랙터를 임업용으로 활용 시 앞차축과 뒷차축의 하중비로 가장 적절한 것은?",
+      "options": [
+        "50 : 50",
+        "40 : 60",
+        "60 : 40",
+        "30 : 70",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q117",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "벌도목 운반이 주목적인 임업기계는?",
+      "options": [
+        "지타기",
+        "포워더",
+        "펠러번쳐",
+        "프로세서",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q118",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "체인톱의 점화플러그 정비 주기로 옳은 것은?",
+      "options": [
+        "일일정비",
+        "주간정비",
+        "월간정비",
+        "계절정비",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q119",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "벌목작업 시 안전사고예방을 위하여 지켜야 하는 사항으로 옳지 않은 것은?",
+      "options": [
+        "벌목방향은 작업자의 안전 및 집재를 고려하여 결정한다.",
+        "도피로는 사전에 결정하고 방해물도 제거한다.",
+        "벌목구역 안에는 반드시 작업자만 있어야 한다.",
+        "조재작업 시 벌도목의 경사면 아래에서 작업을 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q120",
+      "subject": "산림 기능사",
+      "round": "2016-04-02 기출",
+      "question_text": "정원목 및 정원석 주위에 입목을 휘감은 풀들을 깎을 때 안심하고 사용가능한 예불기의 날 형태는?",
+      "options": [
+        "회전날식",
+        "왕복요동식",
+        "직선왕복날식",
+        "나일론코드식",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q121",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "묘목의 굴취시기로 가장 좋지 않은 때는?",
+      "options": [
+        "흐린 날",
+        "비오는 날",
+        "바람이 없는 날",
+        "잎의 이슬이 마른 새벽",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q122",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "동령림과 비교한 이령림의 장점으로 옳지 않은 것은?",
+      "options": [
+        "산림경영상 산림조사 및 수확이 간편하다.",
+        "병충해 등 유해인자에 대한 저항력이 높다.",
+        "시장의 목재 경기에 따라 벌기 조절에 융통성이 있다.",
+        "숲의 공간구조가 복잡하여 생태적 측면에서는 바람직한 형태이다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q123",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "제벌작업에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "가급적 여름철에 실행한다.",
+        "낫, 톱, 도끼 등의 작업도구가 필요하다.",
+        "침입수종과 불량목 등 잡목 솎아베기 작업을 실시한다.",
+        "간벌작업 실시 후 실시하는 작업단계로서 보육작업에서 가장 중요한 단계이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q124",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "묘목을 단근할 때 나타나는 현상으로 옳은 것은?",
+      "options": [
+        "주근 발달 촉진",
+        "활착율이 낮아짐",
+        "T/R율이 낮은 묘목 생산",
+        "품질이 안 좋은 묘목 생산",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q125",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "접목의 활착률이 가장 높은 것은?",
+      "options": [
+        "대목과 접수 모두 휴면 중일 때",
+        "대목과 접수 모두 생리적 활동을 시작하였을 때",
+        "대목은 생리적 활동을 시작하고 접수는 휴면중일 때",
+        "대목은 휴면 중이고 접수는 생리적 활동을 시작하였을 때",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q126",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "산림 부식질의 기능으로서 옳지 않은 것은?",
+      "options": [
+        "토양 가비중을 높인다.",
+        "토양 입자를 단단히 결합한다.",
+        "토양수분의 이동, 저장에 영향을 미친다.",
+        "질소, 인산 같은 양분의 공급원으로 제공된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q127",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "발아에 가장 오랜 시일이 필요한 수종은?",
+      "options": [
+        "화백",
+        "옻나무",
+        "솔송나무",
+        "자작나무",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q128",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "종자의 과실이 시과(翅果)로 분류되는 수종은?",
+      "options": [
+        "참나무",
+        "소나무",
+        "단풍나무",
+        "호두나무",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q129",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "참나무속에 속하며 우리나라 남쪽 도서지방 등 따뜻한 곳에서 나는 상록성 수종은?",
+      "options": [
+        "굴참나무",
+        "신갈나무",
+        "가시나무",
+        "너도밤나무",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q130",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "종자의 저장과 발아촉진을 겸하는 방법은?",
+      "options": [
+        "냉습적법",
+        "노천매장법",
+        "침수처리법",
+        "황산처리법",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q131",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "수목의 측아 생장을 억제하여 정아 생장을 촉진시키는 호르몬은?",
+      "options": [
+        "옥신",
+        "에틸렌",
+        "사이토키닌",
+        "아브시스산",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q132",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "가식 작업에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "가급적 물이 잘 고이는 곳에 묻는다.",
+        "일시적으로 뿌리를 묻어 건조를 방지한다.",
+        "낙엽수는 묘목 전체를 땅 속에 묻어도 된다.",
+        "조림지의 환경에 순응시키기 위해 실시한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q133",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "묘목의 연령을 표시할 때 1/2묘란?",
+      "options": [
+        "6개월 된 삽목묘이다.",
+        "뿌리가 1년, 줄기가 2년 된 묘목이다.",
+        "1/1묘의 지상부를 자른지 1년이 지난 묘이다.",
+        "이식상에서 1년, 파종상에서 2년을 보낸 만 3년생의 묘목이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q134",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "부숙마찰법으로 종자 탈종이 가능한 수종은?",
+      "options": [
+        "벚나무",
+        "밤나무",
+        "전나무",
+        "향나무",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q135",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "결실을 촉진하기 위한 작업이 아닌 것은?",
+      "options": [
+        "환상박피",
+        "솎아베기",
+        "단근처리",
+        "콜히친 처리",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q136",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "용재생산과 연료생산을 동시에 생산할 수 있으며, 하목은 짧은 윤벌기로 모두 베어지고 상목은 택벌식으로 벌채되는 작업종은?",
+      "options": [
+        "택벌작업",
+        "산벌작업",
+        "중림작업",
+        "왜림작업",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q137",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "천연갱신의 장점으로 옳지 않은 것은?",
+      "options": [
+        "임지를 보호한다.",
+        "생산된 목재가 대체로 균일하다.",
+        "인공갱신에 비해 경비가 적게 든다.",
+        "환경에 잘 적응된 수종으로 구성되어 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q138",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "우량 묘목의 기준으로 옳지 않은 것은?",
+      "options": [
+        "뿌리에 상처가 없는 것",
+        "뿌리의 발달이 충실한 것",
+        "겨울눈이 충실하고 가지가 도장하지 않는 것",
+        "뿌리에 비해 지상부의 발육이 월등히 좋은 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q139",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "특정 임분의 야생동물군집 보전을 위한 임분구성 관리 방법으로 적절하지 못한 것은?",
+      "options": [
+        "택벌사업",
+        "대면적 개벌사업",
+        "혼효림 또는 복층림화",
+        "침엽수 인공림 내외에 활엽수의 도입",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q140",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "모수작업법에 대한 설명으로 옳은 것은?",
+      "options": [
+        "벌채가 집중되므로 경비가 많이 든다.",
+        "토양의 침식과 유실 우려가 거의 없다.",
+        "종자의 비산능력을 갖추지 않은 수종도 가능하다.",
+        "개벌작업보다 신생임분의 구성을 잘 조절할 수 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q141",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "도태간벌에 대한 설명으로 옳은 것은?",
+      "options": [
+        "복층구조 유도가 힘들다.",
+        "간벌재 이용에 유리하다.",
+        "간벌양식으로 볼 때 하층간벌에 속한다.",
+        "장벌기 고급 대경재 생산에는 부적합하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q142",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "수피에 코르크가 발달되고 잎의 뒷면에 백색성모가 많이 있는 수종은?",
+      "options": [
+        "굴참나무",
+        "갈참나무",
+        "신갈나무",
+        "상수리나무",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q143",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "데라사키(寺崎)의 상층간벌에 속하는 것은?",
+      "options": [
+        "A종 간벌",
+        "B종 간벌",
+        "C종 간벌",
+        "D종 간벌",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q144",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "파종량을 구하는 공식에서 득묘율이란?",
+      "options": [
+        "일정 면적에서 묘목을 얻은 비율",
+        "솎아낸 묘목수에 대한 잔존 묘목수의 비율",
+        "발아한 묘목수에 대한 잔존 묘목수의 비율",
+        "파종된 종자입수에 대한 잔존 묘목수의 비율",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q145",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "나무아래심기(수하 식재)에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "수하 식재는 임내의 미세환경을 개량하는 효과가 있다.",
+        "수하 식재는 주임목의 불필요한 가지 발생을 억제하는 효과도 있다.",
+        "수하 식재는 표토 건조 방지, 지력 증진, 황폐와 유실방지 등을 목적으로 한다.",
+        "수하 식재용 수종으로는 양수 수종으로 척박한 토양에 견디는 힘이 강한 것이 좋다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q146",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "잡초나 관목이 무성한 경우의 피해로서 적당하지 않은 것은?",
+      "options": [
+        "지표를 건조하게 한다.",
+        "병충해의 중간기주 역할을 한다.",
+        "양수 수종의 어린나무 생장을 저해한다.",
+        "임지를 갱신하려 할 때 방해요인이 된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q147",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "매미나방에 대한 설명으로 옳은 것은?",
+      "options": [
+        "2, 4 - D 액제를 사용하여 방제한다.",
+        "연간 2회 발생하며 유층으로 월동한다.",
+        "침엽수, 활엽수를 가리지 않는 잡식성이다.",
+        "암컷이 활발하게 날아다니며 수컷을 찾아다닌다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q148",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "산림해충 방제법 중 임업적 방제법에 속하는 것은?",
+      "options": [
+        "천적 방사",
+        "기생벌 이식",
+        "내충성 수종 이용",
+        "병원 미생물 이용",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q149",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "포플러잎녹병의 중간기주는?",
+      "options": [
+        "오동나무",
+        "오리나무",
+        "졸참나무",
+        "일본잎갈나무",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q150",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "완전변태를 하는 해충에 속하는 것은?",
+      "options": [
+        "솔거품벌레",
+        "도토리거위벌레",
+        "솔껍질깍지벌레",
+        "버즘나무방패벌레",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q151",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "작은 나뭇가지에 다음 그림과 같은 모양으로 알을 낳는 해충은?",
+      "options": [
+        "매미나방",
+        "천막벌레나방",
+        "미국흰불나방",
+        "복숭아심식나방",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nz/nz20160124/nz20160124m31.gif"
+    },
+    {
+      "id": "forest_craftsman_q152",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "아황산가스에 의한 피해가 아닌 것은?",
+      "options": [
+        "증산작용이 쇠퇴한다.",
+        "잎의 주변부와 엽맥 사이 조직이 괴사한다.",
+        "소나무류에서는 침엽이 적갈색으로 변한다.",
+        "어린잎의 엽맥과 주변부에 백화현상이나 황화현상을 일으킨다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q153",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "오동나무빗자루병의 병원체를 전파시키는 주요 매개 곤충은?",
+      "options": [
+        "응애",
+        "진딧물",
+        "나무이",
+        "담배장님노린재",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q154",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "파이토플라스마에 의한 수목병은?",
+      "options": [
+        "뽕나무 오갈병",
+        "벚나무빗자루병",
+        "소나무 잎떨림병",
+        "아카시아 모자이크병",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q155",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "땅 속에서 월동하는 해충이 아닌 것은?",
+      "options": [
+        "솔잎혹파리",
+        "어스렝이나방",
+        "잣나무넓적잎벌",
+        "오리나무잎벌레",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q156",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "페니트로티온 50% 유제(비중 1.0)를 0.1%로 희석하여 ha당 1000L를 살포하려고 할 때 이때 필요한 소요 약량은?",
+      "options": [
+        "500ml",
+        "1000ml",
+        "2000ml",
+        "2500ml",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q157",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지상부의 접목부위, 삽목의 하단부 등으로 병원균이 침입하고, 고온다습할 때 알칼리성 토양에서 주로 발생하는 것은?",
+      "options": [
+        "탄저병",
+        "뿌리혹병",
+        "불마름병",
+        "리지나뿌리썩음병",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q158",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "포플러잎녹병의 증상으로 옳지 않는 것은?",
+      "options": [
+        "병든 나무는 급속히 말라 죽는다.",
+        "초여름에는 잎 뒷면에 노란색 작은 돌기가 발생한다.",
+        "초가을이 되면 잎 양면에 짙은 갈색 겨울포자퇴가 형성된다.",
+        "중간기주의 잎에 형성된 녹포자가 포플러로 날아와 여름포자퇴를 만든다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q159",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "솔나방이 주로 산란하는 곳은?",
+      "options": [
+        "솔잎 사이",
+        "솔방울 속",
+        "소나무 수피 틈",
+        "소나무 뿌리 부근 땅 속",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q160",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "대추나무빗자루병 방제에 효과적인 약제는?",
+      "options": [
+        "베노밀 수화제",
+        "아바멕틴 유제",
+        "아세타미프리드 액제",
+        "옥시테트라사이클린 수화제",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q161",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "낙엽송잎벌에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "1년에 3회 발생한다.",
+        "어린 유충이 군서하여 잎을 가해한다.",
+        "3령 유충부터는 분산하여 잎을 가해한다.",
+        "기존의 가지보다는 새로운 가지에서 나오는 짧은 잎을 식해한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q162",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "세균에 의한 수목 병해는?",
+      "options": [
+        "소나무 잎녹병",
+        "낙엽송 잎떨림병",
+        "호두나무 뿌리혹병",
+        "밤나무 줄기마름병",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q163",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "밤나무 줄기마름병의 병원체가 침입하는 경로는?",
+      "options": [
+        "뿌리를 통한 침입",
+        "수피를 통한 침입",
+        "잎의 기공을 통한 침입",
+        "줄기의 상처를 통한 침입",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q164",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "곤충의 몸 밖으로 방출되어 같은 졸끼리 통신을 하는데 이용되는 물질은?",
+      "options": [
+        "퀴논(quinone)",
+        "호르몬(hormone)",
+        "테르펜(terpenes)",
+        "페로몬(pheromone)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q165",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "유해 가스에 예민한 수목은 피해를 받으면 비교적 선명한 증상을 나타내는 현상을 이용하여 대기오염의 해를 감정하는 방법은?",
+      "options": [
+        "지표식물법",
+        "혈청진단법",
+        "표징진단법",
+        "코흐의 법칙",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q166",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "산림작업용 도구의 자루를 원목으로 제작하려 할 때 가장 부적합한 것은?",
+      "options": [
+        "옹이가 있으면 더욱 단단해서 좋다.",
+        "목질섬유가 길고 탄성이 크며 질긴 나무가 좋다.",
+        "일반적으로 가래나무 또는 물푸레나무 등이 적합하다.",
+        "다듬어진 각목의 섬유방향은 긴 방향으로 배열되어야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q167",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "4기통 디젤엔진의 실린더 내경이 10㎝, 행정이 4㎝ 일 때 이 엔진의 총배기량은?",
+      "options": [
+        "785cc",
+        "1256cc",
+        "4000cc",
+        "3140cc",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q168",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "기계톱에 연료를 혼합하여 사용하고 있다. 이에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "윤활유가 과다하면 출력저하나 시동불량의 현상이 나타난다.",
+        "윤활유로 인해 휘발유가 희석되기 때문에 기계톱에는 옥탄가가 높은 휘발유를 사용한다.",
+        "휘발유에 대한 윤활유의 혼합비가 부족하면 피스톤, 실린더 및 엔진 각 부분에 눌러붙을 수 있다.",
+        "휘발유와 윤활유를 20 : 1~25 : 1의 비율로 혼합하나 체인톱 전용 윤활유를 사용하는 경우 40 : 1로 혼합하기도 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q169",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "가솔린엔진과 비교할 때 디젤엔진의 특징으로 옳지 않은 것은?",
+      "options": [
+        "열효율이 높다.",
+        "토크변화가 작다.",
+        "배기가스 온도가 높다.",
+        "엔진 회전속도에 따른 연료공급이 자유롭다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q170",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "기계톱의 연속조작 시간으로 가장 적당한 것은?",
+      "options": [
+        "10분 이내",
+        "30분 이내",
+        "45분 이내",
+        "1시간 이내",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q171",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "전목집재 후 집재장에서 가지치기 및 조재작업을 수행하기에 가장 적합한 장비는?",
+      "options": [
+        "스키더",
+        "포워더",
+        "프로세서",
+        "펠러번처",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q172",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "가선 집재용 장비가 아닌 것은?",
+      "options": [
+        "타워야더",
+        "아크야윈치",
+        "파르미 트랙터",
+        "나무운반미끄럼틀",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q173",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "대표적인 다공정 처리기계로서 벌도, 가지치기, 조재목 다듬질, 토막내기 작업을 모두 수행할 수 있는 기계는?",
+      "options": [
+        "포워더",
+        "펠러번처",
+        "하베스터",
+        "프로세서",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q174",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 그림과 같이 나무가 걸쳐 있을 때에 압력부는 어느 위치인가?",
+      "options": [
+        "1번",
+        "2번",
+        "3번",
+        "4번",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/nz/nz20160124/nz20160124m54.gif"
+    },
+    {
+      "id": "forest_craftsman_q175",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "집재용 도구로 적합하지 않는 것은?",
+      "options": [
+        "로그잭",
+        "피커룬",
+        "캔트훅",
+        "파이크폴",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q176",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "기계톱 체인의 수명 연장 및 파손 방지 예방방법으로 가장 적합한 것은?",
+      "options": [
+        "석유에 넣어 둔다.",
+        "윤활유에 넣어 둔다.",
+        "가솔린에 넣어 둔다.",
+        "구리스에 넣어 둔다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q177",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "임업용 기계톱의 쏘체인 톱니의 피치의 정의로 옳은 것은?",
+      "options": [
+        "서로 접한 3개의 리벳간격을 2로 나눈 값",
+        "서로 접한 2개의 리벳간격을 3으로 나눈 값",
+        "서로 접한 4개의 리벳간격을 3으로 나눈 값",
+        "서로 접한 3개의 리벳간격을 4로 나눈 값",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q178",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "예불기 캬브레이터의 일반적인 청소 주기는?",
+      "options": [
+        "10시간",
+        "20시간",
+        "50시간",
+        "100시간",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q179",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "집재거리가 길어 스카이라인이 지면에 닿아 반송기의 주행이 곤란할 때 설치하는 장치는?",
+      "options": [
+        "턴버클",
+        "도르래",
+        "힐블럭",
+        "중간지지대",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q180",
+      "subject": "산림 기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "예불기를 휴대 형식으로 구분한 것으로 가장 거리가 먼 것은?",
+      "options": [
+        "등짐식",
+        "손잡이식",
+        "허리걸이식",
+        "어깨걸이식",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q181",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "산림토양층에서 가장 위층에 있는 것은?",
+      "options": [
+        "표토층",
+        "심토층",
+        "모재층",
+        "유기물층",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q182",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "덩굴제거 작업에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "물리적방법과 화학적방법이 있다.",
+        "콩과식물은 디캄바액제를 살포한다.",
+        "일반적인 덩굴류는 글라신액제로 처리한다.",
+        "24시간 이내 강우가 예상될 경우 약제 필요량보다 1.5배 정도 더 사용한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q183",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "묘목의 가식 작업에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "장기간 가식할 때에는 다발채로 묻는다.",
+        "장기간 가식할 때에는 묘목을 바로 세운다.",
+        "충분한 양의 흙으로 묻은 다음 관수(灌水)를 한다.",
+        "일시적으로 뿌리를 묻어 건조 방지 및 생기 회복을 위해 실시한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q184",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "묘목의 식혈식재(구덩이 식재)순서를 바르게 나열한 것은?",
+      "options": [
+        "d → a → c → f → b → e",
+        "d → c → a → f → b → e",
+        "d → a → c → b → f → e",
+        "d → c → a → b → f → e",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/nz/nz20150719/nz20150719m4.gif"
+    },
+    {
+      "id": "forest_craftsman_q185",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "다음 중 맹아갱신 작업에 가장 유리한 수종은?",
+      "options": [
+        "소나무",
+        "전나무",
+        "신갈나무",
+        "은행나무",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q186",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "결실을 촉진시키는 방법으로 옳은 것은?",
+      "options": [
+        "수목의 식재밀도를 높게 한다.",
+        "줄기의 껍질을 환상으로 박피한다.",
+        "간벌이나 가지치기를 하지 않는다.",
+        "차광망을 씌워 그늘을 만들어 준다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q187",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "다음 중 내음성이 가장 강한 수종은?",
+      "options": [
+        "밤나무",
+        "사철나무",
+        "오리나무",
+        "버드나무",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q188",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "실생묘 표시법에서 1 - 1 묘란?",
+      "options": [
+        "판갈이한 후 1년간 키운 1년생 묘목이다.",
+        "파종상에서만 1년 키운 1년생 묘목이다.",
+        "판갈이를 하지 않고 1년 경과된 종자에서 나온 묘목이다.",
+        "파종상에서 1년 보낸 다음, 판갈이하여 다시 1년이 지난 만 2년생 묘목으로 한 번 옮겨 심은 실생묘이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q189",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "다음 중 결실주기가 가장 긴 수종은?",
+      "options": [
+        "곰솔",
+        "소나무",
+        "전나무",
+        "일본잎갈나무",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q190",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "수확을 위한 벌채 금지 구역으로 옳지 않은 것은?",
+      "options": [
+        "내화수림대로 조성 ㆍ 관리되는 지역",
+        "도로변 지역은 도로로부터 평균 수고폭",
+        "벌채구역과 벌채구역 사이 100m 폭의 잔존수림대",
+        "생태통로 역할을 하는 8부 능선 이상부터 정상 부, 다만 표고가 100m 미만인 지역은 제외",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q191",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "조림목과 경쟁하는 목적 이외의 수종 및 형질불량 목이나 폭목 등을 제거하여 원하는 수종의 조림목이 정상적으로 생장하기 위해 수행하는 작업은?",
+      "options": [
+        "풀베기",
+        "간벌작업",
+        "개벌작업",
+        "어린나무 가꾸기",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q192",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "리기다소나무 노지묘 1년생 묘목의 곤포당 본수는?",
+      "options": [
+        "1000본",
+        "2000본",
+        "3000본",
+        "4000본",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q193",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "종묘사업 실시요령의 종자품질기준에서 다음 중 발아율이 가장 높은 수종은?",
+      "options": [
+        "곰솔",
+        "주목",
+        "전나무",
+        "비자나무",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q194",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "연료채취를 목적으로 벌기령을 짧게 하는 작업종은?",
+      "options": [
+        "죽림작업",
+        "택벌작업",
+        "왜림작업",
+        "개벌작업",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q195",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "중림작업의 상층목 및 하층목에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "일반적으로 하층목은 비교적 내음력이 강한 수종이 유리하다.",
+        "하층목이 상층목의 생장을 방해하여 대경재생산에 어려운 단점이 있다.",
+        "상층목은 지하고가 높고 수관의 틈이 많은 참나무류 등 양수종이 적합하다.",
+        "상층목과 하층목은 동일 수종으로 주로 실시하나, 침엽수 상층목과 활엽수 하층목의 임분구성을 중림으로 취급하는 경우도 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q196",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "가지치기에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "포플러류는 역지(으뜸가지) 이하의 가지를 제거한 다.",
+        "임목의 질적 개선으로 옹이가 없고 통직한 완만재 생산을 위한 육림작업이다.",
+        "큰 생가지를 잘라도 위험성이 적은 수종은 물푸레나무, 단풍나무, 벚나무, 느릅나무 등이다.",
+        "나무가 생리적으로 활동하고 있을 때 가지치기를 하면 껍질이 잘 벗겨지고 상처가 크게 된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q197",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "다음의 표를 참고하여 아래 조건에 대하여 적합한 수종은?",
+      "options": [
+        "소나무",
+        "잣나무",
+        "삼나무",
+        "신갈나무",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/nz/nz20150719/nz20150719m17.gif"
+    },
+    {
+      "id": "forest_craftsman_q198",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "잔존시키는 임목의 성장 및 형질 향상을 위하여 임목 간의 경쟁을 완화시키는 작업은?",
+      "options": [
+        "개벌작업",
+        "간벌작업",
+        "택벌자업",
+        "산벌작업",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q199",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "3년생 잣나무를 관리하기 위해 풀베기 작업 계획 수립 시 가장 적절하지 않은 것은?",
+      "options": [
+        "모두베기를 한다.",
+        "5~8년간은 계속한다.",
+        "5~7월 중에 실행한다.",
+        "잡초가 무성한 곳은 한 해에 2번 실행한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q200",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "나무를 굽게 하고 생장을 저하시키며 심한 경우 나무줄기를 부러뜨리는 기후 인자는?",
+      "options": [
+        "수분",
+        "바람",
+        "광선",
+        "온도",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q201",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "모수작업법을 이용한 산림 갱신에서 모수의 조건으로 적합하지 않은 것은?",
+      "options": [
+        "유전적 형질이 좋아야 한다.",
+        "우세목 중에서 고르도록 한다.",
+        "종자는 많이 생산할 수 있어야 한다.",
+        "바람에 대한 저항력은 고려 대상이 아니다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q202",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "종자 검사에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "실중이란 1리터에 대한 무게를 나타낸 것이다.",
+        "효율이란 발아율과 순량율의 곱으로 계산할 수 있다.",
+        "발아율이란 일정한 수의 종자 중에서 발아력이 있는 것을 백분율로 표시한 것이다.",
+        "순량율이란 일정한 양의 종자 중 협잡물을 제외한 종자량을 백분율로 표시한 것이다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q203",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "2ha의 면적에 2m 간격으로 정방형으로 묘목을 식재 하고자 할 때 소요 묘목본수는?",
+      "options": [
+        "2000본",
+        "2500본",
+        "4000본",
+        "5000본",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q204",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "산벌작업의 순서로 옳은 것은?",
+      "options": [
+        "예비벌 → 후벌 → 하종벌",
+        "하종벌 → 예비벌 → 후벌",
+        "예비벌 → 하종벌 → 후벌",
+        "하종벌 → 후벌 → 예비벌",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q205",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "밤나무 종자의 정선 방법으로 가장 좋은 것은?",
+      "options": [
+        "입선법",
+        "수선법",
+        "풍선법",
+        "사선법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q206",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "솔잎혹파리에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "완전변태를 한다.",
+        "솔잎의 기부에서 즙액을 빨아 먹는다.",
+        "1년에 2회 발생하며 알로 월동한다.",
+        "기생성 천적으로 솔잎혹파리먹좀벌 등이 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q207",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "다음 살충제 중에서 불임제의 작용 특성을 가진 것은?",
+      "options": [
+        "비산석회",
+        "알킬화제",
+        "크레오소트",
+        "메틸브로마이드",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q208",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "잣이나 솔방울 등 침엽수의 구과를 가해하는 해충 은?",
+      "options": [
+        "솔나방",
+        "솔박각시",
+        "소나무좀",
+        "솔알락명나방",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q209",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "어스렝이나방에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "알로 월동한다.",
+        "1년에 1회 발생한다.",
+        "유충이 열매를 가해한다.",
+        "플라타너스, 호두나무 등을 가해한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q210",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "세균에 의한 병이 아닌 것은?",
+      "options": [
+        "잎떨림병",
+        "불마름병",
+        "뿌리혹병",
+        "세균성 구멍병",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q211",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "벚나무빗자루병의 방제법으로 옳지 않은 것은?",
+      "options": [
+        "디페노코나졸 입상수화제를 살포한다.",
+        "옥시테트라사이클린 항생제를 수간주사 한다.",
+        "동절기에 병든 가지 밑부분을 잘라 소각한다.",
+        "이미녹타딘트리스알베실레이트 수화제를 살포한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q212",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "다음 살충제 중 가장 친환경적인 농약은?",
+      "options": [
+        "비티수화제",
+        "디프수화제",
+        "메프수화제",
+        "베스트수화제",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q213",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "피해목을 벌채한 후 약제 훈증처리의 방제가 필요한 수병은?",
+      "options": [
+        "뽕나무 오갈병",
+        "잣나무털녹병",
+        "소나무 잎녹병",
+        "참나무 시들음병",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q214",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "저온에 의한 피해의 종류가 아닌 것은?",
+      "options": [
+        "상한(frost harm)",
+        "상렬(frost crack)",
+        "상해(frost injury)",
+        "상주(frost heaving)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q215",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "대기오염물질 중 아황산가스에 잘 견디는 수종으로 옳은 것은?",
+      "options": [
+        "전나무, 느릅나무",
+        "소나무, 사시나무",
+        "단풍나무, 향나무",
+        "오리나무, 자작나무",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q216",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "미국흰불나방이나 텐트나방의 유충은 함께 모여 살면서 잎을 가해하는 습성이 잇는데, 이를 이용하여 유충을 태워 죽이는 해충 방제 방법은?",
+      "options": [
+        "경운법",
+        "차단법",
+        "소살법",
+        "유살법",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q217",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "바이러스에 의한 수목병으로 옳은 것은?",
+      "options": [
+        "전나무 잎녹병",
+        "밤나무 줄기마름병",
+        "대추나무빗자루병",
+        "아까시나무 모자이크병",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q218",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "내화력이 강한 수종으로 옳은 것은?",
+      "options": [
+        "사철나무, 피나무",
+        "분비나무, 녹나무",
+        "가문비나무, 삼나무",
+        "사시나무, 아까시나무",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q219",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "우리나라에서 발생하는 주요 소나무류 잎녹병균의 중간기주가 아닌 것은?",
+      "options": [
+        "잔대",
+        "현호색",
+        "황벽나무",
+        "등골나물",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q220",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "선충에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "기생성 선충과 비기생성 선충이 있다.",
+        "대부분이 잎에 기생하며 잎의 즙액을 먹는다.",
+        "선충에 의한 수목병은 뿌리썩이선충병과 소나무재 선충병 등이 있다.",
+        "기생 부위에 따라 내부기생, 외부기생, 반내부기생선충으로 나눌 수 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q221",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "2행정 내연기관에서 외부의 공기가 크랭크실로 유입되는 원리로 옳은 것은?",
+      "options": [
+        "피스톤의 흡입력",
+        "기화기의 공기펌프",
+        "크랭크축 운동의 원심력",
+        "크랭크실과 외부와의 기압차",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q222",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "기계톱에 사용하는 윤활유에 대한 설명으로 옳은 것은?",
+      "options": [
+        "윤활유 SAE 20 W 중 W는 중량을 의미한다.",
+        "윤활유 SAE 30 중 SAE는 국제자동차협회의 약자이다.",
+        "윤활유의 점액도 표시는 사용 외기온도로 구분된 다.",
+        "윤활유 등급을 표시하는 번호가 높을수록 점도가 낮다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q223",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "내연기관에서 연접봉(커넥팅 로드)이란?",
+      "options": [
+        "크랭크 양쪽으로 연결된 부분을 말한다.",
+        "엔진의 파손된 부분을 용접하는 봉이다.",
+        "크랭크와 피스톤을 연결하는 역할을 한다.",
+        "엑셀 레버와 기화기를 연결하는 부분이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q224",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "기계톱의 에어필터를 청소하고자 할 때 가장 적합한 것은?",
+      "options": [
+        "물",
+        "오일",
+        "휘발유",
+        "휘발유와 오일 혼합액",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q225",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "기계톱 작업 중 소음이 발생하는데 이에 대한 방음 대책으로 옳지 않은 것은?",
+      "options": [
+        "작업시간 단축",
+        "방음용 귀마개 사용",
+        "머플러(배기구) 개량",
+        "안전복 및 안전화 착용",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q226",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "디젤기관의 특징이 아닌 것은?",
+      "options": [
+        "압축열에 의한 자연발화 방식이다.",
+        "연료는 윤활유와 함께 혼합하여 넣는다.",
+        "진동 및 소음이 가솔린기관에 비해 크다.",
+        "배기가스 온도가 가솔린기관에 비해 낮다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q227",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "기계톱에서 깊이 제한부의 주요 역할은?",
+      "options": [
+        "톱날 보호",
+        "절삭 두께 조절",
+        "톱날 연결 고정",
+        "톱날 속도 조절",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q228",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "예불기 구성요소인 기어 케이스 내 그리스(윤활유) 의 교환은 얼마 사용 후 실시하는 것이 가장 효과적인가?",
+      "options": [
+        "10시간",
+        "20시간",
+        "50시간",
+        "200시간",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q229",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "무육작업용 장비로 활용하기 가장 부적합한 것은?",
+      "options": [
+        "손도끼",
+        "전정가위",
+        "재래식 낫",
+        "가지치기 톱",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q230",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "산림용 기계톱에 사용하는 연료의 배합기준(휘발 유 : 엔진오일)으로 가장 적합한 것은?",
+      "options": [
+        "25 : 1",
+        "4 : 1",
+        "1 : 25",
+        "1 : 4",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q231",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "삼각톱니의 젖히기에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "침엽수는 활엽수보다 많이 젖혀 준다.",
+        "나무와의 마찰을 줄이기 위한 것이다.",
+        "젖힘의 크기는 0.2~0.5㎜가 적당하다.",
+        "톱니 뿌리선으로부터 1/3지점을 중심으로 젖혀준 다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q232",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "임업용 기계톱의 엔진을 냉각하는 방식으로 주로 사용되는 것은?",
+      "options": [
+        "공냉식",
+        "수냉식",
+        "호퍼식",
+        "라디에이터식",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q233",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "분해된 기계톱의 체인 및 안내판을 다시 결합할 때 제일 먼저 해야 될 사항은?",
+      "options": [
+        "스프라켓에 체인이 잘 걸려있는지 확인한다.",
+        "체인장력 조정나사를 시계 방향으로 돌려 체인장력을 조절한다.",
+        "체인을 스프라켓에 걸고 안내판의 아래쪽 큰 구멍을 안내판 조정핀에 끼운다.",
+        "체인장력 조정나사를 시계 반대 방향으로 돌려 장력조절핀을 안쪽으로 유도시킨다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q234",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "벌목작업 도구 중에서 쐐기는?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q235",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "벌도와 벌도목을 모아쌓는 기능이 주목적으로 가지 제거나 절단 기능은 없는 임업기계는?",
+      "options": [
+        "스키더",
+        "펠러번쳐",
+        "하베스터",
+        "프로세서",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q236",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "산림작업의 벌출공정 구성요소로 옳지 않은 것은?",
+      "options": [
+        "조사",
+        "벌목",
+        "조재",
+        "집재",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q237",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "산림작업 도구에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "도구의 손잡이는 사용자의 손에 잘 맞아야 한다.",
+        "작업자의 힘이 최대한 도구의 날 부분에 전달 될 수 있어야 한다.",
+        "도구의 자루에 사용되는 재료는 열전도율이 높고 탄력이 좋아야 한다.",
+        "도구의 날과 자루는 작업 시 발생하는 충격을 작업자에게 최소한으로 줄일 수 있어야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q238",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "산림용 기계톱 구성요소인 쏘체인(sawchain)의 톱날 모양으로 옳지 않은 것은?",
+      "options": [
+        "리벳형(rivet)",
+        "안전형(safety)",
+        "치젤형(chisel)",
+        "치퍼형(chipper)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q239",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "산림작업 시 준수할 사항으로 옳지 않은 것은?",
+      "options": [
+        "안전장비를 착용한다.",
+        "규칙적으로 휴식한다.",
+        "가급적 혼자서 작업한다.",
+        "서서히 작업속도를 높인다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "forest_craftsman_q240",
+      "subject": "산림 기능사",
+      "round": "2015-07-19 기출",
+      "question_text": "전문 벌목용 기계톱에서 본체의 일반적인 수명은?",
+      "options": [
+        "약 150시간",
+        "약 450시간",
+        "약 600시간",
+        "약 1500시간",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    }
+  ]
+}

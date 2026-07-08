@@ -3,21 +3,53 @@ import os
 import shutil
 
 def reconstruct():
-    source_file = "d:/AITutor/datapacks/tree_doctor_past.json"
-    backup_file = "d:/AITutor/datapacks/tree_doctor_past.json.bak"
+    source_file = "./datapacks/tree_doctor_past.json"
+    backup_file = "./datapacks/tree_doctor_past.json.bak"
     
-    if not os.path.exists(source_file):
-        print(f"Error: Source file {source_file} not found.")
-        return
+    # 1. Load backup if it exists
+    backup_questions = []
+    backup_data = None
+    if os.path.exists(backup_file):
+        try:
+            with open(backup_file, "r", encoding="utf-8") as f:
+                backup_data = json.load(f)
+                backup_questions = backup_data.get("questions", [])
+        except Exception as e:
+            print(f"Warning: Failed to load backup file: {e}")
+
+    # 2. Load source if it exists
+    source_questions = []
+    source_data = None
+    if os.path.exists(source_file):
+        try:
+            with open(source_file, "r", encoding="utf-8") as f:
+                source_data = json.load(f)
+                source_questions = source_data.get("questions", [])
+        except Exception as e:
+            print(f"Warning: Failed to load source file: {e}")
+
+    # 3. Choose the best/largest dataset to reconstruct from
+    if len(backup_questions) > len(source_questions):
+        print(f"Loading questions from backup file ({len(backup_questions)} questions) to prevent data loss...")
+        questions = backup_questions
+        data = backup_data
         
-    # Create a backup
-    shutil.copyfile(source_file, backup_file)
-    print(f"Backup created at: {backup_file}")
-    
-    with open(source_file, "r", encoding="utf-8") as f:
-        data = json.load(f)
+        # Save a safety backup of source before proceeding
+        if os.path.exists(source_file):
+            shutil.copyfile(source_file, source_file + ".safety_bak")
+            print(f"Safety copy of current source saved to: {source_file}.safety_bak")
+    else:
+        if not os.path.exists(source_file):
+            print(f"Error: Source file {source_file} not found and no backup available.")
+            return
+        print(f"Loading questions from source file ({len(source_questions)} questions)...")
+        questions = source_questions
+        data = source_data
         
-    questions = data.get("questions", [])
+        # Create standard backup before overwriting
+        shutil.copyfile(source_file, backup_file)
+        print(f"Standard backup created at: {backup_file}")
+        
     print(f"Original questions count: {len(questions)}")
     
     cbt_rounds = [f"제{i}회 기출" for i in range(5, 13)]

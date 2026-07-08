@@ -1,0 +1,3605 @@
+{
+  "pack_name": "지적기능사 기출 팩",
+  "questions": [
+    {
+      "id": "jisung_craftsman_q1",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "일람도 제도에서 붉은색 0.2mm 폭의 2선으로 제도하는 것은?",
+      "options": [
+        "수도용지",
+        "기타도로",
+        "철도용지",
+        "하천",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q2",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "방위가 S 20° 20′ W인 측선에 대한 방위각은?",
+      "options": [
+        "100° 20′",
+        "159° 40′",
+        "200° 20′",
+        "249° 40′",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q3",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "경위의측량방법으로 세부측량을 한 지역의 필지별 면적측정 방법으로 옳은 것은?",
+      "options": [
+        "전자면적측정기법",
+        "좌표면적계산법",
+        "축척자삼사법",
+        "방안지조사법",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q4",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "목장용지의 부호 표기로 옳은 것은?",
+      "options": [
+        "전",
+        "장",
+        "목",
+        "용",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q5",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "전자면적측정기에 따른 면적측정을 하는 경우, 교차를 구하기 위한 A = 0.0232M√F 공식 중 M의 값으로 옳은 것은?",
+      "options": [
+        "허용면적",
+        "축척분모",
+        "산출면적",
+        "보정계수",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q6",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "경위의측량방법에 따른 세부측량을 시행할 때 거리측정의 단위로 옳은 것은?",
+      "options": [
+        "0.1 cm",
+        "1 cm",
+        "5 cm",
+        "10 cm",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q7",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "새로 조성·완료된 토지를 지적공부에 등록하는 경우 어떤 신청을 하는가?",
+      "options": [
+        "신규등록",
+        "축척변경",
+        "토지분할",
+        "등록전환",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q8",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지적공부의 열람 및 등본발급은 어떤 이념에 의한 것인가?",
+      "options": [
+        "공신의 원칙",
+        "공시의 원칙",
+        "직권등록주의",
+        "사실심사주의",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q9",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "축척 1/1200 지역에서 원면적이 400m2의 토지를 분할하는 경우 분할 후의 각 필지의 면적의 합계와 분할 전 면적과의 오차의 허용범위는?",
+      "options": [
+        "± 32 m2",
+        "± 18 m2",
+        "± 16 m2",
+        "± 13 m2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q10",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지번색인표의 등재사항이 아닌 것은?",
+      "options": [
+        "제명",
+        "지번",
+        "면적",
+        "결번",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q11",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 축척변경 시행지역의 토지는 언제를 기준으로 토지의 이동이 있는 것으로 보는가?",
+      "options": [
+        "축척변경 승인신청공고일",
+        "축척변경 확정공고일",
+        "축척변경 청산금정산일",
+        "축척변경 이의신청통지일",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q12",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "평판측량방법에 따른 세부측량을 교회법으로 시행한 결과 시오삼각형이 생긴 경우의 처리 기준으로 옳은 것은?",
+      "options": [
+        "내접원의 지름이 1mm 이하일 때에는 그 중심을 점의 위치로 한다.",
+        "내접원의 지름이 2mm 이하일 때에는 그 중심을 점의 위치로 한다.",
+        "내접원의 지름이 3mm 이하일 때에는 그 중심을 점의 위치로 한다.",
+        "내접원의 지름이 5mm 이하일 때에는 그 중심을 점의 위치로 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q13",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지적도에 등록하는 행정구역선의 제도 폭은?",
+      "options": [
+        "0.1 mm",
+        "0.2 mm",
+        "0.3 mm",
+        "0.4 mm",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q14",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 간주지적도에 등록된 토지의 대장을 토지 대장과는 별도로 작성하여 사용하였던 것에 해당하지 않는 것은?",
+      "options": [
+        "별책 토지대장",
+        "을호 토지대장",
+        "산 토지대장",
+        "지세 명기장",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q15",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "토지에 지목을 부여하는 주된 목적은?",
+      "options": [
+        "토지의 이용 구분",
+        "토지의 특정화",
+        "토지의 식별",
+        "토지의 위치 추측",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q16",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지적삼각보조점의 제도시 원의 크기로 맞는 것은?",
+      "options": [
+        "직경 1.5 mm",
+        "직경 2 mm",
+        "직경 2.5 mm",
+        "직경 3 mm",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q17",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "면적을 측정하는 경우 도곽선의 길이에 최소 얼마 이상의 신축이 있을 때에 이를 보정해 주어야 하는가?",
+      "options": [
+        "0.5 mm",
+        "0.1 mm",
+        "1 mm",
+        "5 mm",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q18",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "축척 1/1000 도면에서 도곽선의 신축량이 가로, 세로 각각 +2.0 mm 일 때 면적보정계수는?",
+      "options": [
+        "1.0117",
+        "0.9884",
+        "1.0035",
+        "0.9965",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q19",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 지적기준점이 아닌 것은?",
+      "options": [
+        "지적삼각점",
+        "공공수준점",
+        "지적보조삼각점",
+        "지적도근점",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q20",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지번의 기능에 해당되지 않는 것은?",
+      "options": [
+        "토지의 식별",
+        "위치의 확인",
+        "용도의 구분",
+        "토지의 고정화",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q21",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 토지합병을 신청할 수 없는 경우가 아닌 것은?",
+      "options": [
+        "합병하려는 토지의 지번부여지역이 서로 다른 경우",
+        "합병하려는 토지에 전세권의 등기가 있는 경우",
+        "합병하려는 토지의 지목이 서로 다른 경우",
+        "합병하려는 토지의 지적도 및 임야도의 축척이 서로 다른 경우",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q22",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "블록(block)마다 하나의 본번을 부여하고 블록 내 필지마다 부번을 부여하는 지번 설정 방법으로 '블록식'이라고도 하는 것은?",
+      "options": [
+        "단지식",
+        "사행식",
+        "기우식",
+        "방사식",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q23",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지적의 3요소로 가장 거리가 먼 것은?",
+      "options": [
+        "지물",
+        "토지",
+        "등록",
+        "지적공부",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q24",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 지적도의 축척이 아닌 것은?",
+      "options": [
+        "1/500",
+        "1/1500",
+        "1/2400",
+        "1/3000",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q25",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "토지이동이 있을 때 토지소유자가 하여야 하는 신청을 대위할 수 있는 사람이 아닌 것은?",
+      "options": [
+        "구획정리 사업을 시행하는 토지의 주민",
+        "공공사업 등으로 인하여 하천, 구거, 제방 등의 지목으로 되는 토지의 경우 그 사업시행자",
+        "지방자치단체가 매입 등으로 취득하는 토지의 경우 지방자치단체의 장",
+        "국가가 매입 등으로 취득하는 토지의 경우 국가기관의 장",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q26",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "경계점좌표등록부의 등록사항이 아닌 것은?",
+      "options": [
+        "지번",
+        "좌표",
+        "부호 및 부호도",
+        "면적",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q27",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "수치지적에 대한 설명이 틀린 것은?",
+      "options": [
+        "수학적인 평면직각 종횡선 수치(X·Y좌표)의 형태로 표시한다.",
+        "도해지적보다 정밀성이 훨씬 떨어진다.",
+        "열람용의 별도 도면을 작성하여 보관해야 한다.",
+        "우리나라는 1975년부터 수치지적제도를 도입하였다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q28",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지적공부에 등록하는 면적이란?",
+      "options": [
+        "지구 구면상의 면적",
+        "필지의 수평면상 넓이",
+        "토지의 경사면상 넓이",
+        "필지의 입체적 지표상 넓이",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q29",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "축척변경위원회의 심의·의결사항이 아닌 것은?",
+      "options": [
+        "축척변경 시행계획의 관한 사항",
+        "청산금의 이의신청에 관한 사항",
+        "지번별 제곱미터당 금액의 결정에 의한 사항",
+        "지번별 측량방법에 관한 사항",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q30",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지적소관청은 1필지의 토지소유자가 최소 몇 인 이상일 때 공유지연명부를 비치하는가?",
+      "options": [
+        "2인",
+        "3인",
+        "4인",
+        "5인",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q31",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지적측량 중 세부측량은 위성기준점, 통합기준점, 지적기준점 및 경계점을 기초로 하여 어떤 방법에 따라야 하는가?",
+      "options": [
+        "레벨측량방법",
+        "평판측량방법",
+        "전파기측량방법",
+        "사진측량방법",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q32",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "축척 1/1200지역에서 도곽선을 측정한바 +1.0m, +0.8m, 0.9m, +0.8m이고 도상거리가 8cm 일 때 보정거리는?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "95.00 m",
+        "95.81 m",
+        "96.00 m",
+        "96.81 m",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q33",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지적제도를 세지적, 법지적, 다목적지적으로 분류하는 기준으로 옳은 것은?",
+      "options": [
+        "등록사항의 차원에 의한 분류",
+        "발전 단계에 의한 분류",
+        "등록의무의 강약에 의한 분류",
+        "경계의 표시방법에 의한 분류",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q34",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 지적공부가 아닌 것은?",
+      "options": [
+        "토지대장",
+        "공유지연명부",
+        "대지권등록부",
+        "도로대장",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q35",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "현행 지적 관련 법률에서 규정하고 있는 지목의 종류는?",
+      "options": [
+        "16개",
+        "20개",
+        "24개",
+        "28개",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q36",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 토지대장의 등록사항이 아닌 것은?",
+      "options": [
+        "지번",
+        "지목",
+        "경계",
+        "면적",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q37",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "도곽선의 역할과 가장 거리가 먼 것은?",
+      "options": [
+        "인접 도면과의 접합 기준",
+        "지적기준점 전개의 기준",
+        "도곽 신축량의 측정 기준",
+        "필지별 경계를 결정하는 기준",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q38",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "물권이 미치는 권리의 객체로서 지적공부에 등록하는 토지의 등록단위는?",
+      "options": [
+        "택지",
+        "필지",
+        "대지",
+        "획지",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q39",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "축척이 1/1000 인 지적도의 포용면적 규격은 얼마인가?",
+      "options": [
+        "30000 m2",
+        "50000 m2",
+        "80000 m2",
+        "120000 m2",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q40",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지적공부를 멸실하여 이를 복구하고자 하는 경우, 지적소관청은 멸실 당시의 지적공부와 가장 부합된다고 인정되는 관계자료에 의하여 토지의 표시에 관한 사항을 복구하여야 한다. 이 때의 복구자료에 해당하지 않는 것은?",
+      "options": [
+        "지적공부의 등본",
+        "임대계약서",
+        "토지이동정리결의서",
+        "측량결과도",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q41",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 일람도에 등재하여야 하는 사항에 해당하지 않는 것은?",
+      "options": [
+        "도면의 제명 및 축척",
+        "지번부여지역의 경계",
+        "도곽선과 그 수치",
+        "지번과 결번",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q42",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지적공부의 정리시 검은 색으로 하는 것은?",
+      "options": [
+        "도곽선",
+        "도곽선수치",
+        "말소사항",
+        "문자정리사항",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q43",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지적소관청은 바다로 된 등록말소 토지의 대상이 있는 때에는 토지소유자에게 등록말소신청을 하도록 통지하여야 하는데, 이 때 토지소유자의 등록말소 신청기간 기준은?",
+      "options": [
+        "통지받은 날부터 15일 이내",
+        "통지받은 날부터 30일 이내",
+        "통지받은 날부터 60일 이내",
+        "통지받은 날부터 90일 이내",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q44",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지목의 설정원칙에 해당하지 않는 것은?",
+      "options": [
+        "1필지 1지목의 원칙",
+        "일시변경 가능의 원칙",
+        "주용도 추종의 원칙",
+        "지목 법정주의",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q45",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "대한제국시대에 양전을 위해 설치된 최초의 지적행정 관청은?",
+      "options": [
+        "지계아문",
+        "양지아문",
+        "양안",
+        "토지조사국",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q46",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 경계의 결정 원칙에 해당하는 것은?",
+      "options": [
+        "축척종대의 원칙",
+        "주지목추종의 원칙",
+        "평등배분의 원칙",
+        "일시 변경의 원칙",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q47",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "토렌스시스템(Torrens System)의 일반적 이론과 거리가 먼 것은?",
+      "options": [
+        "거울이론",
+        "보험이론",
+        "커튼이론",
+        "점증이론",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q48",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 임야도의 축척 구분이 옳은 것은?",
+      "options": [
+        "1/1000, 1/3000",
+        "1/1200, 1/3000",
+        "1/1200, 1/6000",
+        "1/3000, 1/6000",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q49",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "공유지연명부의 등록사항에 해당하지 않는 것은?",
+      "options": [
+        "토지의 소재",
+        "지번",
+        "소유자의 성명",
+        "대지권 비율",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q50",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "경계를 기하학적으로 표시하여 위치나 형태를 파악하기 쉬운 지적제도는?",
+      "options": [
+        "경제지적",
+        "유사지적",
+        "도해지적",
+        "3차원지적",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q51",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "신규등록할 토지가 있을 때는 발생한 날부터 최대 며칠 이내에 지적소관청에 신청하여야 하는가?",
+      "options": [
+        "30일",
+        "40일",
+        "50일",
+        "60일",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q52",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지적소관청이 토지소유자에게 지적정리 등을 통지하여야 하는 시기는 그 등기완료의  통지서를 접수한 날부터 며칠 이내에 하여야 하는가? (단, 표지의 표시에 관한 변경등기가 필요한 경우)",
+      "options": [
+        "60일",
+        "30일",
+        "15일",
+        "7일",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q53",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 중 우리나라 지적측량에 사용하는 구소삼각원점이 아닌 것은?",
+      "options": [
+        "망산원점",
+        "현창원점",
+        "고성원점",
+        "금산원점",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q54",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "일필지의 모양이 다음과 같은 경우 토지의 면적은?",
+      "options": [
+        "500 m2",
+        "350 m2",
+        "200 m2",
+        "150 m2",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/fq/fq20160124/fq20160124m54.gif"
+    },
+    {
+      "id": "jisung_craftsman_q55",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지적측량 방법에 속하지 않는 것은?",
+      "options": [
+        "위성측량",
+        "전파기측량",
+        "사진측량",
+        "천문측량",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q56",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "다음 일반적인 경계의 구분 중 측량사에 의하여 측량이 행해지고 지적 관리청의 사정에 의하여 확정된 토지 경계는?",
+      "options": [
+        "고정경계",
+        "지상경계",
+        "보증경계",
+        "인공경계",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q57",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "지번이 105-1, 111, 122, 132-3 인 4필지를 합병할 경우 새로이 부여해야 할 지번으로 옳은 것은?",
+      "options": [
+        "105-1",
+        "111",
+        "122",
+        "132-3",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q58",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "축척 1/1200 지적도에서 원면적이 1500m2인 필지를 분할할 때 273번지의 면적이 850m2, 273-1의 면적이 670m2이라면 273-1번지의 결정면적은?",
+      "options": [
+        "661 m2",
+        "670 m2",
+        "839 m2",
+        "850 m2",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q59",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "결번발생으로 결번대장에 등록할 사유에 해당되지 않는 것은?",
+      "options": [
+        "행정구역변경",
+        "도시개발사업",
+        "지번변경",
+        "토지분할",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q60",
+      "subject": "지적기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "현행 지적업무처리규정에 의한 지적도의 도곽크기는?",
+      "options": [
+        "가로 30cm, 세로 20cm",
+        "가로 40cm, 세로 30cm",
+        "가로 30cm, 세로 40cm",
+        "가로 40cm, 세로 50cm",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q61",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "∠ABC=90°, ∠CAB=30°, AB의 거리가 100.0m일 경우 BC의 거리는?",
+      "options": [
+        "50.0m",
+        "57.7m",
+        "86.6m",
+        "100.0m",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/fq/fq20151010/fq20151010m1.gif"
+    },
+    {
+      "id": "jisung_craftsman_q62",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "토지소유자가 지적공부의 등록사항에 대한 정정을 신청할 때, 경계의 변경을 가져오는 경우 정정사유를 적은 신청서와 함께 제출하여야 하는 것은?",
+      "options": [
+        "등록사항 정정 측량성과도",
+        "경계복원측량성과도",
+        "지적도 또는 임야도 사본",
+        "토지분할측량성과도",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q63",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "지적측량을 크게 2가지로 구분할 때 그 구분이 옳은 것은?",
+      "options": [
+        "도근측량과 세부측량",
+        "삼각측량과 세부측량",
+        "기초측량과 수준측량",
+        "기초측량과 세부측량",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q64",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "임야조사사업 당시의 재결기관은?",
+      "options": [
+        "도지사",
+        "임야조사위원회",
+        "고등토지조사위원회",
+        "임시토지조사국",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q65",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "토지이동 신청에 관한 특례와 관련하여 사업의 착수ㆍ변경 및 완료 사실을 지적소관청에 신고하여야 하는 대통령령으로 정하는 토지개발사업이 아닌 것은?",
+      "options": [
+        "「주택법」에 따른 주택건설사업",
+        "「산업입지 및 개발에 관한 법률」에 따른 산업단지개발사업",
+        "「공유수면 관리 및 매립에 관한 법률」에 따른 매립사업",
+        "「국토의 계획 및 이용에 관한 법률」에 따른 토지형질변경사업",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q66",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "경위의의 시준축과 수평축이 직교하지 않아 생기는 오차의 처리 방법으로 옳은 것은?",
+      "options": [
+        "망원경을 정위, 반위로 측정하여 평균값을 취한다.",
+        "시독의 위치를 변경하여 측정한 값의 평균값을 취한다.",
+        "두 점 사이의 높이를 같게 하여 측정한다.",
+        "연직축과 수평 기포관축과의 직교를 조정한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q67",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "토지대장과 임야대장에 등록할 사항이 아닌 것은?",
+      "options": [
+        "토지의 소재",
+        "소유권 지분",
+        "지번",
+        "면적",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q68",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "토지 거래의 안전과 국민의 토지 소유권을 보호하기 위해 만들어진 지적제도는?",
+      "options": [
+        "세지적",
+        "법지적",
+        "과세지적",
+        "경제지적",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q69",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "공간정보 구축 및 관리 등에 관한 법률상 등록전환의 정의로 옳은 것은?",
+      "options": [
+        "축척을 바꾸어 등록하는 것",
+        "면적을 바꾸어 등록하는 것",
+        "지적공부에 등록된 지목을 다른 지목으로 바꾸어 등록하는 것",
+        "임야대장 및 임야도를 등록된 토지를 토지대장 및 지적도에 옳겨 등록하는 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q70",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "도곽선의 역할과 거리가 먼 것은?",
+      "options": [
+        "지적측량 기준점 전개시의 기준",
+        "측량준비도에서의 북방향 표시의 기준",
+        "인접 도면과의 접합 기준",
+        "행정구역 결정의 기준",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q71",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "토지의 경계가 자연적인 지형지물 즉 도로, 담장, 울타리, 도랑, 하천 등으로 이루어진 것을 무엇이라 하는가?",
+      "options": [
+        "보증경계",
+        "고정경계",
+        "일반경계",
+        "확정경계",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q72",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "토지가 해면에 접하는 경우 지상 경계를 결정하는 기준은?",
+      "options": [
+        "평균중조위선",
+        "최대만조위선",
+        "최저만조위선",
+        "최고간조위선",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q73",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "지적소관청이 지적공부를 정리하여야 하는 경우가 아닌 것은?",
+      "options": [
+        "지적공부를 복구하는 경우",
+        "토지의 이동이 있는 경우",
+        "지번을 변경하는 경우",
+        "토지대장의 등본을 교부하는 경우",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q74",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "경위의측량방법으로 세부측량을 하는 경우 측량결과도에 기재하여야 할 사항이 아닌 것은?",
+      "options": [
+        "지상에서 측정한 거리 및 방위각",
+        "측량 대상 토지의 경계점 간 실측거리",
+        "지적도의 도면번호",
+        "도곽선의 신축량 및 보정계수",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q75",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "지적소관청이 시ㆍ도지사로부터 축척변경 승인을 받았을 때 관련 사항을 며칠 이상 공고 하여야 하는가?",
+      "options": [
+        "60일 이상",
+        "40일 이상",
+        "30일 이상",
+        "20일 이상",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q76",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "대장에 등록하는 면적의 단위 기준은?",
+      "options": [
+        "제곱킬로미터",
+        "제곱미터",
+        "제곱센티미터",
+        "헥타르",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q77",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "행정구역선이 2종 이상 겹치는 경우의 제도방법은?",
+      "options": [
+        "최상급 행정구역선만 제도한다.",
+        "최상급 행정구역선과 최하급 행정구역선을 경계선 양쪽에 제도한다.",
+        "최하급 행정구역선만 제도한다.",
+        "최상급 행정구역선과 최하급 행정구역선을 교대로 제도한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q78",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "3cm가 늘어난 50m 길이의 줄자로 거리를 측정한 값이 500m일 때 실제거리는 얼마인가?",
+      "options": [
+        "499.3m",
+        "501.5m",
+        "500.3m",
+        "550.5m",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q79",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "공간정보의 구축 및 관리 등에 관한 법률의 법규상 임야도의 축척은 모두 몇 종인가?",
+      "options": [
+        "2종",
+        "3종",
+        "4종",
+        "5종",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q80",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "국가의 통치권이 미치는 모든 영토를 필지 단위로 구획하여 지번, 지목, 경계 또는 좌표와 면적 등을 결정하여 지적공부에 등록ㆍ공시해야만 효력이 인정된다는 이념은?",
+      "options": [
+        "지적국정주의",
+        "지적형식주의",
+        "지적공개주의",
+        "실직적 심사주의",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q81",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "둘 이상의 기지점을 측정점으로하여 미지점의 위치를 결정하는 방법은?",
+      "options": [
+        "전방교회법",
+        "후방교회법",
+        "복전진법",
+        "단전진법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q82",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "지적도 도관선의 신축량이 각각 △x1 =+0.4mm, △x2=-0.1mm, △y1=-2.0, △y2=+2.1mm 일 때, 이 지적도의 신축량은? (단, △x1은 왼쪽 종선의 신축된 차, △x2는 오른쪽 종선의 신축된 차, △y1은 위쪽 횡선의 신축된 차, △y2는 아래쪽 횡선의 신축된 차)",
+      "options": [
+        "-0.4 mm",
+        "-0.2 mm",
+        "+0.1 mm",
+        "+2.1 mm",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q83",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "등록전환을 하는 경우 임야대장의 면적과 등록전환될 면적의 오차 허용범위를 구하는 계산식으로 옳은 것은? (단, A : 오차 허용면적, M : 임야도 축척분모, F : 등록전환될 면적)",
+      "options": [
+        "A=0.023×M×√F",
+        "A=0.026×M×√F",
+        "A=0.0232×M×√F",
+        "A=0.0262×M×√F",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q84",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "지적공부의 복구자료로 활용할 수 없는 것은?",
+      "options": [
+        "측량 결과도",
+        "공시지가전산자료",
+        "부동산등기부 등본",
+        "토지이동정리 결의서",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q85",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "두 점 A(492400m, 187300m)와 B(492000m, 187000m) 사이의 거리는?",
+      "options": [
+        "350m",
+        "400m",
+        "450m",
+        "500m",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q86",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "전 국토를 대상으로 실시한 토지조사사업의 특징으로 보기 어려운 것은?",
+      "options": [
+        "순수한 우리나라의 측량 기술에 바탕을 둔 사업이었다.",
+        "도로, 하천, 구거 등을 토지조사사업에서 제외하였다.",
+        "우리나라의 근대적 토지제도가 확립되었다.",
+        "토지조사사업을 위해 지적의 교육에 주력하였다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q87",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "우리나라에서 채택하고 있는 지목설정 방식은?",
+      "options": [
+        "용도 지목",
+        "토성 지목",
+        "지형 지목",
+        "지질 지목",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q88",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "지적기준점에 해당하지 않는 것은?",
+      "options": [
+        "지적도근점",
+        "지적삼각점",
+        "지적삼각보조점",
+        "수준점",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q89",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "두 점 간의 경사거리가 50m, 연직각이 30°인 경우 수평거리는 얼마인가?",
+      "options": [
+        "24.20m",
+        "25.00m",
+        "28.87m",
+        "43.30m",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q90",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 공유지연명부의 등록사항이 아닌 것은?",
+      "options": [
+        "건물의 명칭",
+        "소유자의 주민등록번호",
+        "소유권 지분",
+        "소유자의 주소",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q91",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "토지조사사업 당시 조사 내용이 아닌 것은?",
+      "options": [
+        "토지소유권 조사",
+        "토지이용권 조사",
+        "지가의 조사",
+        "지형지모의 조사",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q92",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "토지소유자는 등록전환할 토지가 있으면 대통령령으로 정하는 바에 따라 그 사유가 발생한 날부터 며칠 이내에 지적소관청에 등록전환을 신청하여야 하는가?",
+      "options": [
+        "15일 이내",
+        "20일 이내",
+        "30일 이내",
+        "60일 이내",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q93",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "제주도 지역은 직각좌표계 투영원점에 종선 및 횡선을 각각 얼마씩 가산하여 정하는가?",
+      "options": [
+        "종선 50만m, 횡선 20만m",
+        "종선 20만m, 횡선 50만m",
+        "종선 55만m, 횡선 25만m",
+        "종선 55만m, 횡선 20만m",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q94",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "축척 1/500 인 지적도 종선(X)의 도상 규격은?",
+      "options": [
+        "400mm",
+        "333.3mm",
+        "300mm",
+        "250mm",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q95",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "지적제도의 등록 성질별 분류에서 토지를 지적공부에 등록하는 것을 의무화하지 않고 당사자가 신고할 때 신고된 사항만을 등록하는 것은?",
+      "options": [
+        "적극적 지적",
+        "트렌스 시스템",
+        "강제적 등록",
+        "소극적 지적",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q96",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 각을 측정할 수 없는 장비는?",
+      "options": [
+        "트랜싯",
+        "데오도라이트",
+        "광파 앨리데이드",
+        "토털스테이션",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q97",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "자오선의 북방향(북극)을 기준으로 하여 시계방향(우회)으로 측정한 각은?",
+      "options": [
+        "도북방위각",
+        "자북방위각",
+        "진북방위각",
+        "편방위각",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q98",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "면적을 측정하는 경우 도곽선의 길이에 몇 mm 이상의 신축이 있을 때 이를 보정하여야 되는가?",
+      "options": [
+        "0.1mm",
+        "0.2mm",
+        "0.3mm",
+        "0.5mm",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q99",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "조선시대 토지나 가옥의 매매계약이 성립하기 위하여 매수인, 매도인 쌍방의 합의 외에 대가의 수수목적물의 인도 시 서면으로 작성하는 계약서로, 오늘날 매매계약서와 동일한 기능을 한 것은?",
+      "options": [
+        "입안",
+        "양안",
+        "문기",
+        "지권",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q100",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "일람도의 제도 방법으로 틀린 것은?",
+      "options": [
+        "도면번호는 3mm의 크기로 한다.",
+        "인접 동ㆍ리 명칭은 4mm 크기로 한다.",
+        "지방도로 이상은 검은색 0.2mm 폭의 2선으로 제도한다.",
+        "철도용지는 검은색 0.3mm 폭의 선으로 제도한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q101",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "고의로 지적측량성과를 사실과 다르게 한 지적측량수행자에 대한 벌칙 기준이 옳은 것은?",
+      "options": [
+        "300만원 이하의 과태료",
+        "1년 이하의 징역 또는 1천만원 이하의 벌금",
+        "2년 이하의 징역 또는 2천만원 이하의 벌금",
+        "3년 이하의 징역 또는 3천만원 이하의 벌금",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q102",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "지적공부의 정리 시 검은색을 사용할 수 없는 사항은?",
+      "options": [
+        "경계",
+        "행정구역선",
+        "지번, 지목의 말소",
+        "지번, 지목의 주기",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q103",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "지적측량의 원칙적인 측량기간 기준으로 옳은 것은?",
+      "options": [
+        "4일",
+        "5일",
+        "6일",
+        "7일",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q104",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "토지대장과 지적도를 작성하여 비치하게 된 최초의 근거법령은?",
+      "options": [
+        "토지조사령",
+        "지세법",
+        "지적측량규정",
+        "지적법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q105",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "지목을 지적도면에 등록하는 부호가 틀린 것은?",
+      "options": [
+        "목장용지 - 목",
+        "종교용지 - 종",
+        "공장용지 - 공",
+        "철도용지 – 철",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q106",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 지적도의 등록사항이 아닌 것은?",
+      "options": [
+        "지면도면의 색인도",
+        "지적도면의 제명",
+        "도곽선과 그 수치",
+        "토지 소유자",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q107",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 지적공부가 아닌 것은?",
+      "options": [
+        "공유지연명부",
+        "경계점좌표등록부",
+        "대지권등록부",
+        "일람도",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q108",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "축척이 1/1000 인 지역에서 평판측량방법에 따른 세부측량 시 도상에 영향을 미치지 않는 지상거리의 허용범위는?",
+      "options": [
+        "0.01cm",
+        "0.1cm",
+        "1cm",
+        "10cm",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q109",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "경계점좌표등록부 시행 지역에선 산출한 면적이 319.36m2 일 때 결정 면적은?",
+      "options": [
+        "319m2",
+        "319.3m2",
+        "319.4m2",
+        "319.36m2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q110",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "어떤 도면에 1변의 길이가 2cm로 등록된 정사각형 토지의 면적이 900m2 이라면 이 도면의 축척은 얼마인가?",
+      "options": [
+        "1/1500",
+        "1/3000",
+        "1/4500",
+        "1/6000",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q111",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "지번의 부여 방법으로 옳은 것은?",
+      "options": [
+        "남동에서 북서로 순차적으로 부여한다.",
+        "북서에서 남동으로 순차적으로 부여한다.",
+        "남서에서 북동으로 순차적으로 부여한다.",
+        "북동에서 남서로 순차적으로 부여한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q112",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "지적측량을 필요로 하지 않는 경우는?",
+      "options": [
+        "지적기준점을 정하는 경우",
+        "경계점을 지상에 복원하는 경우",
+        "지적공부를 복구하는 경우",
+        "토지의 지목을 변경하는 경우",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q113",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "토지소유자가 미등기 토지에 대하여 토지소유자의 성명 또는 명칭, 주민등록번호, 주소 등에 관한 사항의 정정을 신청한 경우로서 그 등록사항이 명백히 잘못된 경우 참고하여야 하는 자료는?",
+      "options": [
+        "등기필증",
+        "가족관계 기록사항에 관한 증명서",
+        "등기완료통지서",
+        "등기기관서에서 제공한 등기전산정보자료",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q114",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "일필지로 정할 수 있는 기준으로 틀린 것은?",
+      "options": [
+        "토지소유자가 동일하여야 한다.",
+        "토지의 가격이 동일하여야 한다.",
+        "지번부여지역의 토지이어야 한다.",
+        "토지의 용도가 동일하여야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q115",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "오늘날의 지적과 유사한 토지의 기록에 관한 것이 아닌 것은?",
+      "options": [
+        "백제의 도적(圖籍)",
+        "신라의 장적(帳籍)",
+        "고려의 전적(田籍)",
+        "조선의 이적(移籍)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q116",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "일람도의 축척은 그 도면축척의 얼마로 하는 것을 기준으로 하는가?",
+      "options": [
+        "1/5",
+        "1/10",
+        "1/20",
+        "1/50",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q117",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "지적제도의 발전과정에 따른 분류에 해당하지 않는 것은?",
+      "options": [
+        "세지적",
+        "도해지적",
+        "법지적",
+        "다목적지적",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q118",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "토지조사사업 당시 사정한 사항은?",
+      "options": [
+        "지번",
+        "지목",
+        "강계",
+        "토지의 소재",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q119",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "지번에 대한 설명으로 옳은 것은?",
+      "options": [
+        "필지에 부여하여 지적공부에 등록한 번호이다.",
+        "지번의 부여단위는 읍ㆍ면이다.",
+        "지번제도는 우리나라에서만 사용하고 있다.",
+        "지번은 토지의 소유자에 따라 표시한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q120",
+      "subject": "지적기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "토지를 신규등록하는 경우 면적의 결정은 누가 하는가?",
+      "options": [
+        "토지소유자",
+        "측량 대행사",
+        "한국국토정보공사",
+        "지적소관청",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q121",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 지번색인표의 등재사항으로만 나열된 것은?",
+      "options": [
+        "제명, 지번, 도면번호, 결번",
+        "지번, 지목, 결번, 도면번호",
+        "축척, 지번, 본번, 결번",
+        "지번, 경계, 결번, 제명",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q122",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "토지등록의 편성주의가 아닌 것은?",
+      "options": [
+        "물적 편성주의",
+        "연대적 편성주의",
+        "권리적 편성주의",
+        "인적 편성주의",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q123",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 지목의 설정원칙에 해당하지 않는 것은?",
+      "options": [
+        "지목불변의 원칙",
+        "일필 일 지목의 원칙",
+        "주지목추종의 원칙",
+        "등록선후의 원칙",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q124",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "지번 설정 방법 등 부여 단위에 따른 분류에 속하지 않는 것은?",
+      "options": [
+        "지역 단위법",
+        "단지 단위법",
+        "도엽 단위법",
+        "북동 단위법",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q125",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "경계점좌표등록부의 등록사항이 아닌 것은?",
+      "options": [
+        "지목",
+        "토지의 소재",
+        "좌표",
+        "지번",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q126",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "지적측량성과 결정 사항 중 틀린 것은?",
+      "options": [
+        "지적삼각점 : 0.20m 이내",
+        "지적삼각보조점 : 0.25m 이내",
+        "경계점좌표등록지역의 지적 도근점 : 0.10m 이내",
+        "경계점좌표등록지역의 경계점 : 0.10m 이내",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q127",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "수림･수로조사 및 지적에 관한 법률상 등록전환의 의미로 옳은 것은?",
+      "options": [
+        "형질변경으로 인하여 타지목으로 바꾸는 것",
+        "소축적을 지적공부에 등록하는 것",
+        "미등록지를 지적공부에 등록하는 것",
+        "임야대장 및 임야도에 등록된 토지를 토지대장 및 지적도에 옮겨 등록하는 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q128",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "지적측량수행자가 지적측량성과의 정확성을 검사 받기 위하여 지적소관청에 제출해야 할 서류가 아닌 것은?",
+      "options": [
+        "면적측정부",
+        "측량결과도",
+        "측량의뢰서",
+        "측량성과 파일",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q129",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 법정지목의 명칭이 아닌 것은?",
+      "options": [
+        "체육용지",
+        "공장용지",
+        "차고용지",
+        "철도용지",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q130",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "토지의 지목을 정리하는 부호로서 옳지 않은 것은?",
+      "options": [
+        "잡종지-잡",
+        "임야-임",
+        "수도용지-용",
+        "유지-유",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q131",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "신규 등록의 대상 토지가 아닌 것은?",
+      "options": [
+        "미등록 공공용 토지",
+        "미등록 도서",
+        "공유수면매립 준공 토지",
+        "토지분할 측량을 실시한 토지",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q132",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "지번 및 지목을 제도하는 경우 글자크기는?",
+      "options": [
+        "1mm 이상 2mm 이하",
+        "2mm 이상 3mm 이하",
+        "3mm 이상 4mm 이하",
+        "4mm 이상 5mm 이하",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q133",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "두 점간의 방위각이 V 이고, 횡선차가 Y 일 때 두 점간의 거리 D 를 구하는 공식은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q134",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "지적측량 중 기초측량에 해당하지 않는 것은?",
+      "options": [
+        "지적삼각점측량",
+        "지적삼각보조점측량",
+        "국가수준원점측량",
+        "지적도근점측량",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q135",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "토지의 합병신청에 관한 설명으로 틀린 것은?",
+      "options": [
+        "토지를 합병하고자 한 때에는 지적소관청에 신청하여야 한다.",
+        "주택법에 의한 공동주택의 부지로서 합병사유 발생 시 합병신청을 해야 한다.",
+        "토지합병 사유 발생일로부터 60일 이내 합병신청하지 않은 경우 과태료를 부과한다.",
+        "토지의 합병신청이 있는 때에는 지적소관청이 조사하여 사실을 확인한 후에 지적공부를 정리하는 것은 실질적 심사주의이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q136",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 임야도의 축척에 해당하는 것은?",
+      "options": [
+        "1/600",
+        "1/1200",
+        "1/2400",
+        "1/6000",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q137",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 축척변경 시행지역의 토지가 이동이 있는 것으로 보는 시기는?",
+      "options": [
+        "토지공사착수일",
+        "사업시행공고일",
+        "축척변경 확정공고일",
+        "청산금 결정공고일",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q138",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 토지의 분할을 신청할 수 있는 경우가 아닌 것은?",
+      "options": [
+        "토지이용상 불합리한 지상 경계를 시정하기 위한 경우",
+        "소유권이전, 매매 등을 위하여 필요한 경우",
+        "1필지의 일부가 형질변경 등으로 용도가 변경된 경우",
+        "임야도에 등록된 토지가 사실상 형질 변경되었으나 지목변경을 할 수 없는 경우",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q139",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "토지소유자가 지적소관청에 신규 등록을 신청하고자 할 경우 구비서류가 아닌 것은?",
+      "options": [
+        "법원의 확정판결서 정본 또는 사본",
+        "소유권을 증명할 수 있는 서류의 사본",
+        "공유수면 관리 및 매립에 관한 법률에 따른 준공검사 확인증 사본",
+        "토지의 형질변경 준공필증 사본",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q140",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "공유수면 매립준공에 의한 신규 등록의 경우 소유자 변동일자는?",
+      "options": [
+        "매립허가일자",
+        "등기접수일자",
+        "매립준공일자",
+        "등기교부일자",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q141",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 공유지연명부의 등록 사항이 아닌 것은?",
+      "options": [
+        "토지의 고유번호",
+        "토지의 소재",
+        "소유권 지분",
+        "건물명칭",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q142",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "전자면적측정기에 의한 측정 면적은 도상에서 2회 측정하여 그 평균치를 사용하는데 그 허용교차를 구하는 식은? (단, A : 허용교차면적, M : 축척분모, F : 2회 측정한 면적의 합계를 2로 나눈 수)",
+      "options": [
+        "A = 0.0232M√F",
+        "A = 0.0262M√F",
+        "A = 0.0232F√M",
+        "A = 0.0262F√M",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q143",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 거리와 각을 동시에 관측하여 현장에서 즉시 좌표를 확인함으로써 시공 계획에 맞추어 신속한 측량을 할 수 있는 기기는?",
+      "options": [
+        "트랜싯",
+        "토탈스테이션",
+        "데오돌라이트",
+        "전파거리측량기",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q144",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "지상 경계의 결정기준으로 옳은 것은?",
+      "options": [
+        "토지가 해면에 접하는 경우-최대만조위선",
+        "구거의 토지에 절토된 부분이 있는 경우-지물의 중앙부",
+        "공유수면매립지의 토지 중 제방을 토지에 편입하여 등록하는 경우-안쪽 어깨부분",
+        "도로의 토지에 절토된 부분이 있는 경우-경사의 하단부",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q145",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "세부측량의 실시 대상이 아닌 것은?",
+      "options": [
+        "신규등록 측량",
+        "경계복원 측량",
+        "도근 측량",
+        "분할 측량",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q146",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "두 점 간의 거리가 도상에서 2mm이다. 실제 두 점간의 거리가 50m가 되기 위한 축척은 얼마인가?",
+      "options": [
+        "1/1,000",
+        "1/2,500",
+        "1/25,000",
+        "1/50,000",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q147",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "지적도의 등록사항이 아닌 것은?",
+      "options": [
+        "토지의 소재",
+        "지번",
+        "도곽선과 그 수치",
+        "소유자의 주소",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q148",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "등록사항 정정시 지적소관청이 직권으로 조사･측량하여 정정할 수 있는 경우가 아닌 것은?",
+      "options": [
+        "토지이동정리결의서의 내용과 다르게 정리된 경우",
+        "인접 토지간 경계분쟁이 발생한 경우",
+        "지적측량성과와 다르게 정리된 경우",
+        "지적공부의 등록사항이 잘못 입력된 경우",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q149",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "우리나라 지적제도의 발달과정으로 옳은 것은?",
+      "options": [
+        "세지적 → 법지적 → 다목적지적",
+        "법지적 → 세지적 → 다목적지적",
+        "다목적지적 → 법지적 → 세지적",
+        "법지적 → 다목적지적 → 세지적",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q150",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "일람도의 제도방법을 설명한 것으로 옳은 것은?",
+      "options": [
+        "철도용지는 붉은색 0.1mm폭의 2선으로 제도한다.",
+        "수도용지 중 선로는 검은색 0.1mm 폭의 2선으로 제도한다.",
+        "하천･구거･유지는 남색 0.1mm폭의 2선으로 제도하고 그 내부를 남색으로 엷게 채색한다.",
+        "취락지･건물 등은 0.1mm 폭의 선으로 제도하고 그 내부를 붉은색으로 엷게 채색한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q151",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "한 필지의 보정면적이 608.6m2, 보정면적 전체의 합계가 1749.2m2, 원면적이 1811m2 일 때 산출면적은?",
+      "options": [
+        "587.2m2",
+        "618.6m2",
+        "630.1m2",
+        "657.2m2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q152",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 임야조사사업에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "임야는 토지에 비하여 경제적 가치가 높지 않아 분쟁은 적었다.",
+        "토지조사사업에 비해 적은 인원으로 업무를 수행하였다.",
+        "역둔토를 국유화하여 공공연한 토지수탈을 감행하였다.",
+        "적은 예산으로 사업을 완성하였다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q153",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "토지조사사업의 목적에 속하지 않는 것은?",
+      "options": [
+        "토지의 외모조사",
+        "토지의 이름조사",
+        "토지의 가격조사",
+        "토지의 소유권조사",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q154",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 지적측량의 대상이 아닌 것은?",
+      "options": [
+        "토지를 신규등록 하는 경우",
+        "토지를 분할하는 경우",
+        "토지를 지목 변경하는 경우",
+        "지적공부를 복구하는 경우",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q155",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "지적소관청은 시･도시자 또는 대도시 시장으로부터 축척변경 승인을 받았을 때에는 관련사항을 최소 몇 일 이상 공고하여야 하는가?",
+      "options": [
+        "10일",
+        "20일",
+        "30일",
+        "40일",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q156",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "축척변경위원회의 구성에 필요한 인원수로 옳은 것은?",
+      "options": [
+        "15명 이상 20명 이하",
+        "10명 이상 15명 이하",
+        "5명 이상 10명 이하",
+        "1명 이상 5명 이하",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q157",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 지적공부에 해당하는 것은?",
+      "options": [
+        "가목대장",
+        "도로대장",
+        "임야대장",
+        "하천대장",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q158",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "축척변경 절차에 있어서 축척변경 시행지역의 토지소유자 또는 점유자는 시행공고가 된 날부터 몇 일 이내에 시행공고일 현재 점유하고 있는 경계에 경계점표지를 설치하여야 하는 가?",
+      "options": [
+        "10일",
+        "30일",
+        "60일",
+        "90일",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q159",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "평판측량방법에 있어서 1/3000 지역에서 도상에 영향을 미치지 않는 지상거리의 축척법 허용범위는?",
+      "options": [
+        "3cm",
+        "18cm",
+        "30cm",
+        "50cm",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q160",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 3차원지적에 대한 설명으로 가장 거리가 먼 것은?",
+      "options": [
+        "입체지적이라고도 한다.",
+        "지하의 각종 시설물과 지상의 고층화된 건축물을 효율적으로 관리할 수 있다.",
+        "다목적 지적으로서 다양한 토지 정보를 제공해 주는 역할을 한다.",
+        "경계를 표시하는 방법 및 측량방법에 따른 분류에 해당한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q161",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 세부측량의 측량결과도에 기재하지 않아도 되는 것은?",
+      "options": [
+        "측정점의 위치",
+        "측량결과도의 제명",
+        "측량 대상 토지의 점유현황선",
+        "건물의 명칭",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q162",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "지적도의 축척이 1/600지역 토지의 등록단위는?",
+      "options": [
+        "1평",
+        "1홉",
+        "0.1m2",
+        "1m2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q163",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 토지의 지번 앞에 “산”자를 붙여 표기하는 지적공부는?",
+      "options": [
+        "토지대장",
+        "임야대장",
+        "경계점좌표등록부",
+        "토지대장 부본",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q164",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "저수지의 지목은 다음 중 어디에 해당 되는가?",
+      "options": [
+        "유지",
+        "하천",
+        "잡종지",
+        "광천지",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q165",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "지적측량기준점의 좌표산정을 위하여 원점으로부터 종･횡선수치에 가산하는 거리는 각각 몇 m 인가? (단, 제주도 지역은 제외)",
+      "options": [
+        "종선 : 20만m 횡선 : 5만m",
+        "종선 : 30만m 횡선 : 10만m",
+        "종선 : 40만m 횡선 : 15만m",
+        "종선 : 50만m 횡선 : 20만m",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q166",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "도시개발사업 등에 의하여 지적공부의 작성이 완료된 때에는 새로 지적공부가 확정 시행됨을 몇 일 이상 시･군･구 게시판 또는 홈페이지 등에 게시하여야 하는가?",
+      "options": [
+        "7일",
+        "14일",
+        "21일",
+        "30일",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q167",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "토지의 이동이라고 할 수 없는 것은?",
+      "options": [
+        "토지분할",
+        "경계복원",
+        "토지합병",
+        "등록전환",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q168",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 지적의 발생설과 거리가 먼 것은?",
+      "options": [
+        "과세설",
+        "치수설",
+        "지배설",
+        "권리설",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q169",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "3변의 길이가 각각 20m, 30m, 20m인 삼각형의 면적은 얼마인가?",
+      "options": [
+        "280.6m2",
+        "250.4m2",
+        "198.4m2",
+        "152.6m2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q170",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "문화재로 지정된 역사적인 유적을 보존할 목적으로 구획된 토지의 지목은?",
+      "options": [
+        "사적지",
+        "잡종지",
+        "종교용지",
+        "공원",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q171",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 지번에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "필지에 부여하여 지적공부에 등록한 번호다.",
+        "지번은 호적에서 사람의 이름과 같다.",
+        "토지의 종류를 구분･표시하는 명칭을 말한다.",
+        "토지의 개별성을 확보하기 위하여 붙이는 번호다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q172",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 중 지번을 부여하는 진행방향에 따른 분류에 해당하지 않는 것은?",
+      "options": [
+        "사행식",
+        "기우식",
+        "단지식",
+        "방사식",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q173",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "두 점 A와 B의 종선차(△x)가 +123.12m, 횡선차(△y)가 -321.21m 일 때 두 점간의 거리는 얼마인가?",
+      "options": [
+        "약 343.15m",
+        "약 343.72m",
+        "약 344.00m",
+        "약 344.48m",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q174",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "지적공부에 등록된 1필지를 2필지 이상으로 나누어 등록하는 것을 무엇이라 하는가?",
+      "options": [
+        "지목",
+        "경계",
+        "분할",
+        "합병",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q175",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "바다로 된 토지의 등록사항 말소된 토지를 회복 등록하는 방법으로 옳은 것은? (단, 말소한 토지가 지형의 변화 등으로 다시 토지가 된 경우)",
+      "options": [
+        "지적측량성과 및 등록말소당시의 지적공부 등 관계 자료에 따라야 한다.",
+        "지적소관청의 관계자가 직접 현지 출장 없이 등록한다.",
+        "공유수면의 관리청으로부터 관계 증명 서류의 사본에 따라야 한다.",
+        "토지소유자의 신청에 의하되 확정판결서 정본 또는 사본에 따라야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q176",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "도곽선의 보정계수 계산식으로 옳은 것은? (단, Z는 보정계수, X는 도곽선 종선길이, Y는 도곽선 횡선길이, △X는 신축된 도곽선 종선길이의 합 ÷2, △Y는 신축된 도곽선 횡선길이의 합 ÷2)",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q177",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "필지 합병의 경우 지번부여의 원칙은?",
+      "options": [
+        "합병 대상 지번 중 선순위의 지번으로 한다.",
+        "합병 대상 지번 중 최종 지번으로 한다.",
+        "합병 대상 선순위와 지번에 부번을 부여한다.",
+        "합병 대상 최종지번에 부번을 부여한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q178",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "지적공부를 복구하려는 경우에는 복구하려는 토지의 표시등을 시･군･게시판 및 인터넷 홈페이지에 몇 일 이상 게시하여야 하는가?",
+      "options": [
+        "10일",
+        "15일",
+        "20일",
+        "25일",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q179",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "지적업무처리규정상 지적도의 도곽 크기는?",
+      "options": [
+        "가로 40cm, 세로 25cm",
+        "가로 40cm, 세로 30cm",
+        "가로 45cm, 세로 30cm",
+        "가로 50cm, 세로 40cm",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q180",
+      "subject": "지적기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "토지 등록에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "국가가 행정목적을 위해 작성한다.",
+        "토지에 관한 필요한 사항을 공적 장부에 기록하는 것이다.",
+        "토지소유자의 희망에 의해서만 등록한다.",
+        "토지의 변동사항을 지속적으로 수정하여 유지･관리하는 행위이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q181",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지적의 일반적인 특성과 가장 거리가 먼것은?",
+      "options": [
+        "역사성",
+        "공개성",
+        "개발성",
+        "전문성",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q182",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 필지의 배열이 불규칙한 지역에서 진행 순서에 따라 지번을 부여하여, 진행 방향으로 지번이 순차적으로 연속되는 지번 부여 방법은?",
+      "options": [
+        "사행식",
+        "단지식",
+        "부번식",
+        "합병식",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q183",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지적도근점측량의 도선 구분이 가장 옳은 것은?",
+      "options": [
+        "ㄱ도선과 ㄴ도선",
+        "가도선과 나도선",
+        "1등도선과 2등도선",
+        "A도선과 B도선",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q184",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "평판측량방법에 따라 조준의를 사용하여 측정한 경사거리가 89.6m이고 경사분획이 17 이었을 때 수평거리는 얼마인가?",
+      "options": [
+        "88.3m",
+        "88.7m",
+        "89.1m",
+        "89.9m",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q185",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "두 점간의 거리가 96m이고 종선차가 34m일 때 방위각은?",
+      "options": [
+        "20° 44' 33＂",
+        "69° 15' 27＂",
+        "200° 44' 33＂",
+        "249° 15' 27＂",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q186",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "현행 지적 관련 법률에서 규정하고 있는 지목의 종류는?",
+      "options": [
+        "16개",
+        "20개",
+        "24개",
+        "28개",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q187",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "공유수면매립지의 토지 중 제방 등을 토지에 편입하여 등록하는 경우 지상경계를 새로이 결정하는 기준은?",
+      "options": [
+        "최대만조위",
+        "구조물 중앙",
+        "최저수위",
+        "바깥쪽 어깨부분",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q188",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "토지등록의 원리로 우리나라에서 적용해 온 지적의 원리에 해당하지 않는 것은?",
+      "options": [
+        "자유주의",
+        "형식주의",
+        "공개주의",
+        "국정주의",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q189",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 임야조사사업에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "임야는 토지에 비하여 경제적 가치가 높지 않아 분쟁은 적었다.",
+        "토지조사사업에 비해 적은 인원으로 업무를 수행하였다.",
+        "역둔토를 국유화하여 공공연한 토지수탈을 감행하였다.",
+        "적은 예산으로 사업을 완성하였다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q190",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 평판측량방법에 따른 세부측량의 방법에 해당하지 않는 것은?",
+      "options": [
+        "교회법",
+        "도선법",
+        "방사법",
+        "지거법",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q191",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 도면에 실선과 허선을 각각 3m로 연결하고, 허선에 0.3mm의 점 2개를 제도하는 행정구역선은?",
+      "options": [
+        "시·도계",
+        "시·군계",
+        "읍·면계",
+        "동·리계",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q192",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 토지소유자가 지적공부의 등록사항에 잘못이 있음을 발견하고 소관청에 그 정정을 신청함으로 인하여 인접 토지의 경계가 변경되는 경우 그 정정 방법으로 가장 옳은 것은?",
+      "options": [
+        "소관청의 직권으로 처리한다.",
+        "큰 면적의 토지소유자의 의견으로 처리한다.",
+        "인접 토지소유자의 승낙서에 의한다.",
+        "지적공부만 정정한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q193",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 임야조사사업 당시의 사정기관으로 옳은 것은?",
+      "options": [
+        "임야심사위원회",
+        "토지조사위원회",
+        "도지사",
+        "법원",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q194",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지적의 발전 단계별 분류에 해당하지 않는 것은?",
+      "options": [
+        "세지적",
+        "도해지적",
+        "법지적",
+        "다목적지적",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q195",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "지적의 지목은 사람의 신분에 관한 기록인 호적의 무엇과 비교할 수 있는가?",
+      "options": [
+        "본관",
+        "성명",
+        "성별",
+        "호주",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q196",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 임야도의 축척 구분이 옳은 것은?",
+      "options": [
+        "1/1000, 1/3000",
+        "1/1200, 1/3000",
+        "1/1200, 1/6000",
+        "1/3000, 1/6000",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q197",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지적측량의 면적 측정 방법으로만 옳게 나열한 것은? (단, 지적측량 시행규칙에 따름)",
+      "options": [
+        "삼사법, 전자면적측정기법",
+        "전자면적측정기법, 푸라니미터법",
+        "전자면적측정기법, 좌표면적계산법",
+        "좌표면적계산법, 삼사법",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q198",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지적도에 등록하여야 하는 사항이 아닌것은?",
+      "options": [
+        "지번",
+        "지목",
+        "면적",
+        "경계",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q199",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지번을 부여하는 방법으로 옳은 것은?",
+      "options": [
+        "지번은 북서에서 남동으로 순차적으로 부여한다.",
+        "지번은 북동에서 남서로 순차적으로 부여한다.",
+        "지번은 남에서 북으로 순차적으로 부여한다.",
+        "지번은 동에서 서로 순차적으로 부여한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q200",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 등록전환에 대한 설명으로 옳은 것은?",
+      "options": [
+        "임야대장 및 임야도에 등록된 토지를 토지대장 및 지적도에 옮겨 등록하는 것",
+        "지적도에 등록된 토지를 임야도에 옮겨 등록하는 것",
+        "토지대장에 등록된 토지를 임야대장에 옮겨 등록하는 것",
+        "경계점좌표등록부에 등록된 사항을 임야대장에 옮겨 등록하는 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q201",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "토지조사사업 당시 사정한 사항을 재심사하여 확정한 처분을 무엇이라 하는가?",
+      "options": [
+        "결정",
+        "재결",
+        "재사정",
+        "토지조사",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q202",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지번색인표의 등재사항으로만 나열된 것은?",
+      "options": [
+        "제명, 지번, 도면번호, 결번",
+        "지번, 지목, 결번, 도면번호",
+        "축척, 지번, 본번, 결번",
+        "지번, 경계, 결번, 제명",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q203",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 중앙지적위원회의 구성 기준에 대한 아래 설명에서 ①~③에 들어갈 내용이 모두 옳은 것은?",
+      "options": [
+        "① 1명 ② 1명 ③ 5명 이상 10명 이하",
+        "① 1명 ② 1명 ③ 7명 이상 11명 이하",
+        "① 1명 ② 2명 ③ 7명 이상 11명 이하",
+        "① 1명 ② 2명 ③ 15명 이상 20명 이하",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/fq/fq20110213/fq20110213m23.gif"
+    },
+    {
+      "id": "jisung_craftsman_q204",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지적측량을 필요로 하는 토지의 이동과 거리가 먼 것은?",
+      "options": [
+        "등록전환",
+        "분할",
+        "지목변경",
+        "신규등록",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q205",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "축척이 1/1000인 지적도의 포용면적 규격은 얼마인가?",
+      "options": [
+        "30000m2",
+        "50000m2",
+        "80000m2",
+        "120000m2",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q206",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 현행 지적 관련 법률에 따른 지적공부에 해당하지 않는 것은?",
+      "options": [
+        "공유지연명부",
+        "토지대장",
+        "토지조사부",
+        "지적도",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q207",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 경계점좌표등록부의 정리 방법 기준에 대한 설명으로 옳은 것은?",
+      "options": [
+        "부호도의 각 필지의 경계점 부호는 왼쪽 위에서부터 오른쪽으로 경계를 따라 부여한다.",
+        "합병으로 존치되는 필지의 부호도는 그대로 유지한다.",
+        "합병으로 인하여 말소된 필지의 경계점좌표등록부는 폐기한다.",
+        "토지대장에 등록된 토지는 경계점좌표등록부를 작성할 수 없다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q208",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 미지점에 측판을 세우고 기지점을 시준한 방향선에 의하여 위치를 측정하는 방법은?",
+      "options": [
+        "전방교회법",
+        "후방교회법",
+        "측방교회법",
+        "원호교회법",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q209",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지적의 기능으로 가장 거리가 먼 것은?",
+      "options": [
+        "토지등기의 기초",
+        "토지거래의 기준",
+        "토지감정평가의 기초",
+        "토지표고측정의 기준",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q210",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 그림에서 의 거리는 얼마인가? (단, = 10m, = 5m, = 7m, //이다.)",
+      "options": [
+        "3.5m",
+        "14m",
+        "21m",
+        "28m",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/fq/fq20110213/fq20110213m30m1.gif"
+    },
+    {
+      "id": "jisung_craftsman_q211",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "각 도곽선의 신축된 차가 ΔX1 = -3mm, ΔX2= -4mm, ΔY1 = -4mm, ΔY2 = -5mm 일 때 신축량은?",
+      "options": [
+        "-3mm",
+        "-4mm",
+        "-5mm",
+        "-6mm",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q212",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 축척변경위원회의 심의·의결사항이 아닌것은?",
+      "options": [
+        "축척변경 시행계획에 관한 사항",
+        "청산금의 이의신청에 관한 사항",
+        "지번별 제곱미터당 금액의 결정에 관한 사항",
+        "지번별 측량방법에 관한 사항",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q213",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지적기준점에 해당하지 않는 것은?",
+      "options": [
+        "지적삼각점",
+        "지적삼각보조점",
+        "공간삼각점",
+        "지적도근점",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q214",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 공유지연명부에 등록하여야 할 사항이 아닌 것은?",
+      "options": [
+        "소유자의 성명",
+        "소유자의 주소",
+        "소유자의 주민등록번호",
+        "소유면적과 지목",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q215",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 토지조사사업 당시 작성된 지적도의 축척이 아닌 것은?",
+      "options": [
+        "1/600",
+        "1/1000",
+        "1/1200",
+        "1/2400",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q216",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 토지의 이용의 이용에 따른 지목의 구분이 옳지 않은 것은?",
+      "options": [
+        "일반 공중의 위락·휴양에 적합한 시설물을 갖춘 경마장 - 유원지",
+        "자동차 정비공장 안에 설치된 송유시설 부지 - 주유소용지",
+        "축산업을 하기 위하여 초지를 조성한 토지 - 목장용지",
+        "산림을 이루고 있는 수림지 - 임야",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q217",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지적공부에 등록하는 지번, 지목, 면적, 경계 또는 좌표는 토지의 이동이 있을 때 토지소유자의 신청을 받아 누가 결정하는가?",
+      "options": [
+        "토지소유자",
+        "지적소관청",
+        "대한지적공사",
+        "지적측량업자",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q218",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 토지의 합병을 신청할 수 없는 경우가 아닌 것은?",
+      "options": [
+        "합병하려는 토지가 등기된 토지와 등기되지 아니한 토지인 경우",
+        "합병하려는 각 필지의 면적이 서로 다른 경우",
+        "합병하려는 토지의 지적도 및 임야도의 축척이 서로 다른 경우",
+        "합병하려는 각 필지의 지반이 연속되지 아니한 경우",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q219",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "경위의측량방법으로 세부측량을 하는 경우 측량결과도에 기재하여야 할 사항이 아닌 것은?",
+      "options": [
+        "지상에서 측정한 거리 및 방위각",
+        "측량 대상 토지의 경계점 간 실측거리",
+        "지적도의 도면번호",
+        "도곽선의 신축량과 보정계수",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q220",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 도면에 등록하는 도관선은 얼마의 폭으로 제도하여야 하는가?",
+      "options": [
+        "0.05mm",
+        "0.1mm",
+        "0.2mm",
+        "0.3mm",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q221",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지적공부의 정리방법 기준에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "지적공부를 이용하여 지적 측량을 한 때에는 지적 측량 성과파일에 의하여 지적공부를 정리하여서는 아니된다.",
+        "지적공부의 정리사항 중 도곽선과 그 수치 및 말소는 붉은색으로 한다.",
+        "지적공부에 등록된 사항은 칼로 긁거나 덮어서 고쳐 정리하여서는 아니된다.",
+        "지적확정측량 ⁃ 축척변경 및 지번변경에 따른 토지 이동의 경우를 제외하고는 폐쇄 또는 말소된 지번은 다시 사용할 수 없다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q222",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 토지 등록 장부로서 오늘날의 토지 대장과 같은 양안이 있었던 시대는?",
+      "options": [
+        "고구려",
+        "백제",
+        "고려",
+        "조선",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q223",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지적측량의 구분이 가장 옳은 것은?",
+      "options": [
+        "기초측량과 세부측량",
+        "삼각측량과 도근측량",
+        "경위의측량과 평판측량",
+        "사진측량과 위성측량",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q224",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "방위각법에 의한 지적도근점측량에서 각의 관측과 계산단위 기준은 얼마인가?",
+      "options": [
+        "라디안",
+        "초",
+        "분",
+        "도",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q225",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 오차의 종류 중 최소제곱법에 의한 확률법칙에 의해 처리가 가능한 것은?",
+      "options": [
+        "누차",
+        "착오",
+        "정오차",
+        "우연오차",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q226",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지적 관련 법률에 따른 경계의 의미로 옳은 것은?",
+      "options": [
+        "담장, 둑·철조망 등 인위적으로 설치한 경계",
+        "계곡, 능선 등 자연적으로 형성된 경계",
+        "눈으로 식별할 수 있는 형태를 갖는 선",
+        "지적공부에 등록한 선",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q227",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "축척 1/1200 인 지역의 원면적이 900m2 인 토지를 분할하는 경우, 분할 후의 각 필지의 합계와 분할전 면적과의 오차의 최대허용범위는 얼마인가?",
+      "options": [
+        "±14m2",
+        "±18m2",
+        "±24m2",
+        "±36m2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q228",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 도곽선의 역할에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "인접 도면과의 접합 기준이다.",
+        "면적 측정 방법 결정의 기준이다.",
+        "기준점 전개의 기준이다.",
+        "도곽의 신축량을 측정하는 기준이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q229",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 각을 측정할 수 있는 장비에 해당하지 않는 것은?",
+      "options": [
+        "트랜싯",
+        "데오도라이트",
+        "앨리데이드",
+        "토탈스테이션",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q230",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 트랜싯의 3축에 해당하지 않는 것은?",
+      "options": [
+        "시준축",
+        "수평축",
+        "상부축",
+        "수직축",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q231",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 그림에 대한 설명으로 옳은 것은?(단, 도면의 모든 선은 실선으로 간주한다.)",
+      "options": [
+        "주소정정에 따른 도면 정리다.",
+        "위치정정에 따른 도면 정리다.",
+        "분할에 따른 도면 정리다.",
+        "합병에 따른 도면 정리다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/fq/fq20110213/fq20110213m51.gif"
+    },
+    {
+      "id": "jisung_craftsman_q232",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "지번부여지역 안의 토지로서 토지에 대한 물권의 효력이 미치는 범위를 정하고 거래 단위로서 개별화시키기 위하여 인위적으로 구획한 법적 등록 단위를 무엇이라고 하는가?",
+      "options": [
+        "필지",
+        "대지",
+        "획지",
+        "택지",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q233",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "3변의 길이가 각각 12m, 16m, 20m 인 삼각형 모양의 토지 면적은 얼마인가?",
+      "options": [
+        "60m2",
+        "96m2",
+        "120m2",
+        "186m2",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q234",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지적공부를 열람하거나 등본에 의하여 외부에서 알 수 있도록 하는 것과 가장 관계가 밀접한 것은?",
+      "options": [
+        "지적공개주의",
+        "지적형식주의",
+        "일필일목의 원칙",
+        "경계불가분의 원칙",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q235",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 일람도에 등재하여야 하는 사항이 아닌것은?",
+      "options": [
+        "도곽선",
+        "기초점",
+        "도면번호",
+        "도면의 축척",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q236",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 주된 용도의 토지에 편입하여 1필지로 할수 있는 경우가 아닌 것은?",
+      "options": [
+        "종된 용도의 토지의 지목이 \"대\" 인 경우",
+        "주된 용도의 토지의 편의를 위하여 설치된 도로 부지",
+        "주된 용도의 토지로 둘러싸인 토지로서 다른 용도로 사용되고 있는 토지",
+        "주된 용도의 토지의 편의를 위하여 설치된 구거 부지",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q237",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "도면에 등록하는 지적측량기준점의 명칭과 번호는 얼마의 크기로 제도하여야 하는가?",
+      "options": [
+        "1.5mm 내지 2.0mm",
+        "2.0mm 내지 3.0mm",
+        "2.5mm 내지 4.0mm",
+        "2.5mm 내지 5.0mm",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q238",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "다음 중 지적소관청이 토지의 표시 변경에 관하여 관할등기관서에 그 등기를 촉탁하여야 하는 경우에 해당하지 않는 것은?",
+      "options": [
+        "축척변경을 하는 경우",
+        "지적공부에 등록된 지번을 변경하는 경우",
+        "잘못된 지적공부의 등록사항을 정정하는 경우",
+        "토지를 신규등록 하는 경우",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q239",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "지적소관청이 토지소유자에 관하여 지적공부에 등록된 사항을 정정하고자 하는 경우 참고하여야 하는 자료에 해당하지 않는 것은?",
+      "options": [
+        "등기필증",
+        "등기필증사본",
+        "등기부등본",
+        "등기부초본",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "jisung_craftsman_q240",
+      "subject": "지적기능사",
+      "round": "2011-02-13 기출",
+      "question_text": "토지조사사업 당시 확정된 소유자가 다른 토지 간의 사정된 경계선을 뜻하는 것으로 사정선이라고도 하는 것은?",
+      "options": [
+        "강계선",
+        "지계선",
+        "구획선",
+        "지역선",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    }
+  ]
+}

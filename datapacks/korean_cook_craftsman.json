@@ -1,0 +1,3605 @@
+{
+  "pack_name": "한식조리기능사 기출 팩",
+  "questions": [
+    {
+      "id": "korean_cook_craftsman_q1",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "황색 포도상구균의 특징이 아닌 것은?",
+      "options": [
+        "균체가 열에 강함",
+        "독소형 식중독 유발",
+        "화농성 질환의 원인균",
+        "엔테로톡신(enterotoxin) 생성",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q2",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "섭조개에서 문제를 일으킬 수 있는 독소 성분은?",
+      "options": [
+        "테트로도톡신(tetrodotoxin)",
+        "셉신(sepsine)",
+        "베네루핀(venerupin)",
+        "삭시톡신(saxitoxin)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q3",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "어패류의 선도 평가에 이용되는 지표성분은?",
+      "options": [
+        "헤모글로빈",
+        "트리메틸아민",
+        "메탄올",
+        "이산화탄소",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q4",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "식품에서 자연적으로 발생하는 유독물질을 통해 식중독을 일으킬 수 있는 식품과 가장 거리가 먼 것은?",
+      "options": [
+        "피마자",
+        "표고버섯",
+        "미숙한 매실",
+        "모시조개",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q5",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "과거 일본 미나마타병의 집단발병 원인이 되는 중금속은?",
+      "options": [
+        "카드뮴",
+        "납",
+        "수은",
+        "비소",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q6",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "소시지 등 가공육 제품의 육색을 고정하기 위해 사용하는 식품첨가물은?",
+      "options": [
+        "발색제",
+        "착색제",
+        "강화제",
+        "보존제",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q7",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "소독의 지표가 되는 소독제는?",
+      "options": [
+        "석탄산",
+        "크레졸",
+        "과산화수소",
+        "포르말린",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q8",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "식품의 변화현상에 대한 설명 중 틀린 것은?",
+      "options": [
+        "산패 : 유지식품의 지방질 산화",
+        "발효 : 화학물질에 의한 유기화합물의 분해",
+        "변질 : 식품의 품질 저하",
+        "부패 : 단백질과 유기물이 부패 미생물에 의해 분해",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q9",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "파라티온(parathion), 말라티온(malathion)과 같이 독성이 강하지만 빨리 분해되어 만성중독을 일으키지 않는 농약은?",
+      "options": [
+        "유기인제 농약",
+        "유기염소제 농약",
+        "유기불소제 농약",
+        "유기수은제 농약",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q10",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "식품첨가물의 주요용도 연결이 옳은 것은?",
+      "options": [
+        "삼이산화철－표백제",
+        "이산화티타늄－발색제",
+        "명반－보존료",
+        "호박산－산도 조절제",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q11",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "식품위생법상 식중독 환자를 진단한 의사는 누구에게 이 사실을 제일 먼저 보고하여야 하는가?",
+      "options": [
+        "보건복지부장관",
+        "경찰서장",
+        "보건소장",
+        "관할 시장·군수·구청장",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q12",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "조리사 면허 취소에 해당하지 않는 것은?",
+      "options": [
+        "식중독이나 그 밖에 위생과 관련한 중대한 사고 발생에 직무상의 책임이 있는 경우",
+        "면허를 타인에게 대여하여 사용하게 한 경우",
+        "조리사가 마약이나 그 밖의 약물에 중독이 된 경우",
+        "조리사 면허의 취소처분을 받고 그 취소된 날부터 2년이 지나지 아니한 경우",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q13",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "식품위생법상 식품 등의 위생적인 취급에 관한 기준이 아닌 것은?",
+      "options": [
+        "식품 등을 취급하는 원료보관실·제조가공실·조리실·포장실 등의 내부는 항상 청결하게 관리하여야 한다.",
+        "식품 등의 원료 및 제품 중 부패·변질되기 쉬운 것은 냉동·냉장시설에 보관·관리하여야 한다.",
+        "유통기한이 경과된 식품 등을 판매하거나 판매의 목적으로 전시하여 진열·보관하여서는 아니 된다.",
+        "모든 식품 및 원료는 냉장·냉동시설에 보관·관리하여야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q14",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "식품위생법상 허위표시, 과대광고, 비방광고 및 과대포장의 범위에 해당하지 않는 것은?",
+      "options": [
+        "허가·신고 또는 보고한 사항이나 수입신고한 사항과 다른 내용의 표시·광고",
+        "제조방법에 관하여 연구하거나 발견한 사실로서 식품학·영양학 등의 분야에서 공인된 사항의 표시",
+        "제품의 원재료 또는 성분과 다른 내용의 표시·광고",
+        "제조연월일 또는 유통기한을 표시함에 있어서 사실과 다른 내용의 표시·광고",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q15",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "식품위생법상 “식품을 제조·가공 또는 보존하는 과정에서 식품에 넣거나 섞는 물질 또는 식품을 적시는 등에 사용하는 물질”로 정의된 것은?",
+      "options": [
+        "식품첨가물",
+        "화학적 합성품",
+        "항생제",
+        "의약품",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q16",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "β-전분이 가열에 의해 α-전분으로 되는 현상은?",
+      "options": [
+        "호화",
+        "호정화",
+        "산화",
+        "노화",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q17",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "중성지방의 구성 성분은?",
+      "options": [
+        "탄소와 질소",
+        "아미노산",
+        "지방산과 글리세롤",
+        "포도당과 지방산",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q18",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "젓갈의 숙성에 대한 설명으로 틀린 것은?",
+      "options": [
+        "농도가 묽으면 부패하기 쉽다.",
+        "새우젓의 소금 사용량은 60% 정도가 적당하다.",
+        "자기소화 효소작용에 의한 것이다.",
+        "호염균의 작용이 일어날 수 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q19",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "결합수의 특징이 아닌 것은?",
+      "options": [
+        "전해질을 잘 녹여 용매로 작용한다.",
+        "자유수보다 밀도가 크다.",
+        "식품에서 미생물의 번식과 발아에 이용되지 못한다.",
+        "동·식물의 조직에 존재할 때 그 조직에 큰 압력을 가하여 압착해도 제거되지 않는다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q20",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "요구르트 제조는 우유 단백질의 어떤 성질을 이용하는가?",
+      "options": [
+        "응고성",
+        "용해성",
+        "팽윤",
+        "수화",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q21",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "알칼리성 식품에 대한 설명으로 옳은 것은?",
+      "options": [
+        "Na, K, Ca, Mg이 많이 함유되어 있는 식품",
+        "S, P, Cl이 많이 함유되어 있는 식품",
+        "당질, 지질, 단백질 등이 많이 함유되어 있는 식품",
+        "곡류, 육류, 치즈 등의 식품",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q22",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "우유의 균질화(homogenization)에 대한 설명이 아닌 것은?",
+      "options": [
+        "지방구 크기를 0.1~2.2㎛ 정도로 균일하게 만들 수 있다.",
+        "탈지유를 첨가하여 지방의 함량을 맞춘다.",
+        "큰 지방구의 크림층 형성을 방지한다.",
+        "지방의 소화를 용이하게 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q23",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "레드 캐비지로 샐러드를 만들 때 식초를 조금 넣은 물에 담그면 고운 적색을 띠는 것은 어떤 색소 때문인가?",
+      "options": [
+        "안토시아닌(anthocyanin)",
+        "클로로필(chlorophyll)",
+        "안토잔틴(anthoxanthin)",
+        "미오글로빈(myoglobin)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q24",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "섬유소와 한천에 대한 설명 중 틀린 것은?",
+      "options": [
+        "산을 첨가하여 가열하면 분해되지 않는다.",
+        "체내에서 소화되지 않는다.",
+        "변비를 예방한다.",
+        "모두 다당류이다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q25",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "과실의 젤리화 3요소와 관계없는 것은?",
+      "options": [
+        "젤라틴",
+        "당",
+        "펙틴",
+        "산",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q26",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "탄수화물의 분류 중 5탄당이 아닌 것은?",
+      "options": [
+        "갈락토오스(galactose)",
+        "자일로오스(xylose)",
+        "아라비노오스(arabinose)",
+        "리보오스(ribose)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q27",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "CA저장에 가장 적합한 식품은?",
+      "options": [
+        "육류",
+        "과일류",
+        "우유",
+        "생선류",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q28",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "황함유 아미노산이 아닌 것은?",
+      "options": [
+        "트레오닌(threonine)",
+        "시스틴(cystine)",
+        "메티오닌(methionine)",
+        "시스테인(cysteine)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q29",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "하루 필요 열량이 2500kcal일 경우 이 중의 18%에 해당하는 열량을 단백질에서 얻으려 한다면, 필요한 단백질의 양은 얼마인가?",
+      "options": [
+        "50.0g",
+        "112.5g",
+        "121.5g",
+        "171.3g",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q30",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "조리와 가공 중 천연색소의 변색 요인과 거리가 먼 것은?",
+      "options": [
+        "산소",
+        "효소",
+        "질소",
+        "금속",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q31",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "조리에 사용하는 냉동식품의 특성이 아닌 것은?",
+      "options": [
+        "완만 동결하여 조직이 좋다.",
+        "미생물 발육을 저지하여 장기간 보존이 가능하다.",
+        "저장 중 영양가 손실이 적다.",
+        "산화를 억제하여 품질 저하를 막는다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q32",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "조리기구의 재질 중 열전도율이 커서 열을 전달하기 쉬운 것은?",
+      "options": [
+        "유리",
+        "도자기",
+        "알루미늄",
+        "석면",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q33",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "달걀을 이용한 조리식품과 관계가 없는 것은?",
+      "options": [
+        "오믈렛",
+        "수란",
+        "치즈",
+        "커스터드",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q34",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "소금 절임 시 저장성이 좋아지는 이유는?",
+      "options": [
+        "pH가 낮아져 미생물이 살아갈 수 없는 환경이 조성된다.",
+        "pH가 높아져 미생물이 살아갈 수 없는 환경이 조성된다.",
+        "고삼투성에 의한 탈수효과로 미생물의 생육이 억제된다.",
+        "저삼투성에 의한 탈수효과로 미생물의 생육이 억제된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q35",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "밀가루의 용도별 분류는 어느 성분을 기준으로 하는가?",
+      "options": [
+        "글리아딘",
+        "글로불린",
+        "글루타민",
+        "글루텐",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q36",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "소고기의 부위별 용도와 조리법 연결이 틀린 것은?",
+      "options": [
+        "앞다리－불고기, 육회, 장조림",
+        "설도－탕, 샤브샤브, 육회",
+        "목심－불고기, 국거리",
+        "우둔－산적, 장조림, 육포",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q37",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "젤라틴의 응고에 관한 설명으로 틀린 것은?",
+      "options": [
+        "젤라틴의 농도가 높을수록 빨리 응고된다.",
+        "설탕의 농도가 높을수록 응고가 방해된다.",
+        "염류는 젤라틴의 응고를 방해한다.",
+        "단백질의 분해효소를 사용하면 응고력이 약해진다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q38",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "과일의 일반적인 특성과는 다르게 지방 함량이 가장 높은 과일은?",
+      "options": [
+        "아보카도",
+        "수박",
+        "바나나",
+        "감",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q39",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "전자레인지의 주된 조리 원리는?",
+      "options": [
+        "복사",
+        "전도",
+        "대류",
+        "초단파",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q40",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "닭고기 20kg으로 닭강정 100인분을 판매한 매출액이 1,000,000원이다. 닭고기의 kg당 단가를 12,000원에 구입하였고 총양념 비용으로 80,000원이 들었다면 식재료의 원가 비율은?",
+      "options": [
+        "24%",
+        "28%",
+        "32%",
+        "40%",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q41",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "생선에 레몬즙을 뿌렸을 때 나타나는 현상이 아닌 것은?",
+      "options": [
+        "신맛이 가해져서 생선이 부드러워진다.",
+        "생선의 비린내가 감소한다.",
+        "pH가 산성이 되어 미생물의 증식이 억제된다.",
+        "단백질이 응고된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q42",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "튀김의 특징이 아닌 것은?",
+      "options": [
+        "고온 단시간 가열로 영양소의 손실이 적다.",
+        "기름의 맛이 더해져 맛이 좋아진다.",
+        "표면이 바삭바삭해 입안에서의 촉감이 좋아진다.",
+        "불미성분이 제거된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q43",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "생선의 조리방법에 관한 설명으로 옳은 것은?",
+      "options": [
+        "생선은 결제조직의 함량이 많으므로 습열조리법을 많이 이용한다.",
+        "지방 함량이 낮은 생선보다는 높은 생선으로 구이를 하는 것이 풍미가 더 좋다.",
+        "생선찌개를 할 때 생선 자체의 맛을 살리기 위해서 찬물에 넣고 은근히 끓인다.",
+        "선도가 낮은 생선은 조림국물의 양념을 담백하게 하여 뚜껑을 닫고 끓인다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q44",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "계량방법이 잘못된 것은?",
+      "options": [
+        "된장, 흑설탕은 꼭꼭 눌러 담아 수평으로 깎아서 계량한다.",
+        "우유는 투명기구를 사용하여 액체 표면의 윗부분을 눈과 수평으로 하여 계량한다.",
+        "저울은 반드시 수평한 곳에서 0으로 맞추고 사용한다.",
+        "마가린은 실온일 때 꼭꼭 눌러 담아 평평한 것으로 깎아 계량한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q45",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "총원가에 대한 설명으로 맞는 것은?",
+      "options": [
+        "제조간접비와 직접원가의 합이다.",
+        "판매관리비와 제조원가의 합이다.",
+        "판매관리비, 제조간접비, 이익의 합이다.",
+        "직접재료비, 직접노무비, 직접경비, 직접원가, 판매관리비의 합이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q46",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "대상집단의 조직체가 급식운영을 직접 하는 형태는?",
+      "options": [
+        "준위탁급식",
+        "위탁급식",
+        "직영급식",
+        "협동조합급식",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q47",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "수라상의 찬품 가짓수는?",
+      "options": [
+        "5첩",
+        "7첩",
+        "9첩",
+        "12첩",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q48",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "덩어리 육류를 건열로 표면에 갈색이 나도록 구워 내부의 육즙이 나오지 않게 한 후 소량의 물, 우유와 함께 습열조리하는 것은?",
+      "options": [
+        "브레이징(braising)",
+        "스튜잉(stewing)",
+        "브로일링(broiling)",
+        "로스팅(roasting)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q49",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "식품검수 방법의 연결이 틀린 것은?",
+      "options": [
+        "화학적 방법 : 영양소의 분석, 첨가물, 유해성분 등을 검출하는 방법",
+        "검경적 방법 : 식품의 중량, 부피, 크기 등을 측정하는 방법",
+        "물리학적 방법 : 식품의 비중, 경도, 점도, 빙점 등을 측정하는 방법",
+        "생화학적 방법 : 효소반응, 효소 활성도, 수소이온농도 등을 측정하는 방법",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q50",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "한천 젤리를 만든 후 시간이 지나면 내부에서 표면으로 수분이 빠져나오는 현상은?",
+      "options": [
+        "삼투현상(osmosis)",
+        "이장현상(Syneresis)",
+        "님비현상(NIMBY)",
+        "노화현상(retrogradation)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q51",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "인분을 사용한 밭에서 특히 경피적 감염을 주의해야 하는 기생충은?",
+      "options": [
+        "십이지장충",
+        "요충",
+        "회충",
+        "말레이사상충",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q52",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "무구조충(민촌충) 감염의 올바른 예방대책은?",
+      "options": [
+        "게나 가재의 가열 섭취",
+        "음료수의 소독",
+        "채소류의 가열 섭취",
+        "소고기의 가열 섭취",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q53",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "사람이 예방접종을 통하여 얻는 면역은?",
+      "options": [
+        "선천면역",
+        "자연수동면역",
+        "자연능동면역",
+        "인공능동면역",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q54",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "쥐에 의하여 옮겨지는 감염병은?",
+      "options": [
+        "유행성이하선염",
+        "페스트",
+        "파상풍",
+        "일본뇌염",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q55",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "눈 보호를 위해 가장 좋은 인공조명 방식은?",
+      "options": [
+        "직접조명",
+        "간접조명",
+        "반직접조명",
+        "전반확산조명",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q56",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "중금속과 중독 증상의 연결이 잘못된 것은?",
+      "options": [
+        "카드뮴－신장기능 장애",
+        "크롬－비중격천공",
+        "수은－홍독성 흥분",
+        "납－섬유화 현상",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q57",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "국소진동으로 인한 질병 및 직업병의 예방대책이 아닌 것은?",
+      "options": [
+        "보건교육",
+        "완충장치",
+        "방열복 착용",
+        "작업시간 단축",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q58",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "쓰레기 처리방법 중 미생물까지 사멸할 수는 있으나 대기오염을 유발할 수 있는 것은?",
+      "options": [
+        "소각법",
+        "투기법",
+        "매립법",
+        "재활용법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q59",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "디피티(D.P.T) 기본접종과 관계없는 질병은?",
+      "options": [
+        "디프테리아",
+        "풍진",
+        "백일해",
+        "파상풍",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q60",
+      "subject": "한식조리기능사",
+      "round": "2016-01-24 기출",
+      "question_text": "국가의 보건수준 평가를 위하여 가장 많이 사용되고 있는 지표는?",
+      "options": [
+        "조사망률",
+        "성인병 발생률",
+        "결핵 이완율",
+        "영아 사망률",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q61",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "식품에 존재하는 유기물질을 고온으로 가열할 때 단백질이나 지방이 분해되어 생기는 유해물질은?",
+      "options": [
+        "에틸카바메이트(ethylcarbamate)",
+        "다환방향족탄화수소(polycyclic aromatic hydrocarbon)",
+        "엔-니트로소아민(N-nitrosoamine)",
+        "메탄올(methanol)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q62",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "식품의 위생과 관련된 곰팡이의 특징이 아닌 것은?",
+      "options": [
+        "건조식품을 잘 변질시킨다.",
+        "대부분 생육에 산소를 요구하는 절대 호기성 미생물이다.",
+        "곰팡이독을 생성하는 것도 있다.",
+        "일반적으로 생육 속도가 세균에 비하여 빠르다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q63",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 대장균의 최적 증식 온도 범위는?",
+      "options": [
+        "0~5℃",
+        "5~10℃",
+        "30~40℃",
+        "55~75℃",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q64",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "모든 미생물을 제거하여 무균 상태로 하는 조작은?",
+      "options": [
+        "소독",
+        "살균",
+        "멸균",
+        "정균",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q65",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "60℃에서 30분간 가열하면 식품 안전에 위해가 되지 않는 세균은?",
+      "options": [
+        "살모넬라균",
+        "클로스트리디움 보틀리늄균",
+        "황색포도상구균",
+        "장구균",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q66",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "육류의 발색제로 사용되는 아질산염이 산성 조건에서 식품 성분과 반응하여 생성되는 발암성 물질은?",
+      "options": [
+        "지질 과산화물(aldehyde)",
+        "벤조피렌(benzopyrene)",
+        "니트로사민(nitrosamine)",
+        "포름알데히드(formaldehyde)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q67",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "사용이 허가된 산미료는?",
+      "options": [
+        "구연산",
+        "계피산",
+        "말톨",
+        "초산에틸",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q68",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "식품과 자연독의 연결이 맞는 것은?",
+      "options": [
+        "독버섯一솔라닌(solanine)",
+        "감자-무스카린(muscarine)",
+        "살구씨-파세오루나틴(phaseolunatin)",
+        "목화씨一고시폴(gossypol)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q69",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "식품첨가물 중 보존료의 목적을 가장 잘 표현한 것은?",
+      "options": [
+        "산도 조절",
+        "미생물에 의한 부패 방지",
+        "산화에 의한 변패 방지",
+        "가공과정에서 파괴되는 영양소 보충",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q70",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "알레르기성 식중독을 유발하는 세균은?",
+      "options": [
+        "병원성 대장균(E. coli 0157 : H7)",
+        "모르가넬라 모르가니 (Morganella morganii)",
+        "엔테로박터 사카자키(Enterobacter sakazakii)",
+        "비브리오 콜레라(Vibrio cholerae)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q71",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "식품위생법상 식품위생 수준의 향상을 위하여 필요한 경우 조리사에게 교육을 받을 것을 명할 수 있는 자는?",
+      "options": [
+        "관할시장",
+        "보건복지부장관",
+        "식품의약품안전처장",
+        "관할 경찰서장",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q72",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "식품위생법의 정의에 따른 “기구”에 해당하지 않는 것은?",
+      "options": [
+        "식품 섭취에 사용되는 기구",
+        "식품 또는 식품첨가물에 직접 닿는 기구",
+        "농산품 채취에 사용되는 기구",
+        "식품 운반에 사용되는 기구",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q73",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "즉석판매제조·가공업소 내에서 소비자에게 원하는 만큼 덜어서 직접 최종 소비자에게 판매하는 대상 식품이 아닌 것은?",
+      "options": [
+        "벌꿀",
+        "식빵",
+        "우동",
+        "어육제품",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q74",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "식품위생법상 조리사가 식중독이나 그 밖에 위생과 관련한 중대한 사고 발생의 직무상 책임에 대한 1차 위반 시 행정처분기준은?",
+      "options": [
+        "시정명령",
+        "업무정지 1개월",
+        "업무정지 2개월",
+        "면허취소",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q75",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "식품위생법상 식품접객업 영업을 하려는 자는 몇 시간의 식품위생교육을 미리 받아야 하는가?",
+      "options": [
+        "2시간",
+        "4시간",
+        "6시간",
+        "8시간",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q76",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "카제인(casein)은 어떤 단백질에 속하는가?",
+      "options": [
+        "당단백질",
+        "지단백질",
+        "도단백질",
+        "인단백질",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q77",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "전분 식품의 노화를 억제하는 방법으로 적합하지 않은 것은?",
+      "options": [
+        "설탕을 첨가한다.",
+        "식품을 냉장 보관한다.",
+        "식품의 수분함량을 15% 이하로 한다.",
+        "유화제를 사용한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q78",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "과실 저장고의 온도, 습도, 기체 조성 등을 조절하여 장기간 동안 과실을 저장하는 방법은?",
+      "options": [
+        "산 저장",
+        "자외선 저장",
+        "무균포장 저장",
+        "CA 저장",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q79",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "유지를 가열할 때 생기는 변화에 대한 설명으로 틀린 것은?",
+      "options": [
+        "유리지방산의 함량이 높아지므로 발연점이 낮아진다.",
+        "연기 성분으로 알데히드(aldehyde), 케톤(ketone) 등이 생성된다.",
+        "요오드값이 높아진다.",
+        "중합반응에 의해 점도가 증가된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q80",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "완두콩 통조림을 가열하여도 녹색이 유지되는 것은 어떤 색소 때문인가?",
+      "options": [
+        "chlorophyll(클로로필)",
+        "Cu-chlorophyll(구리-클로로필)",
+        "Fe-chlorophyll(철-클로로필)",
+        "chlorophylline(클로로필린)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q81",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "신맛 성분과 주요 소재 식품의 연결이 틀린 것은?",
+      "options": [
+        "구연산(citric acid) - 감귤류",
+        "젖산(lactic acid) - 김치류",
+        "호박산(succinic acid) - 늙은 호박",
+        "주석산(tartaric acid) - 포도",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q82",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "미생물의 생육에 필요한 수분활성도의 크기로 옳은 것은?",
+      "options": [
+        "세균 > 효모 > 곰팡이",
+        "곰팡이 > 세균 > 효모",
+        "효모 >곰팡이 > 세균",
+        "세균 > 곰팡이 > 효모",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q83",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "달걀 100g 중에 당질 5g, 단백질 8g, 지질 4.4g이 함유되어 있다면 달걀 5개의 열량은 얼마인가? (단, 달걀 1개의 무게는 50g이다.)",
+      "options": [
+        "91.6kcal",
+        "229kcal",
+        "274kcal",
+        "458kcal",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q84",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "근채류 중 생식하는 것보다 기름에 볶는 조리법을 적용하는 것이 좋은 식품은?",
+      "options": [
+        "무",
+        "고구마",
+        "토란",
+        "당근",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q85",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 단백가가 가장 높은 것은?",
+      "options": [
+        "쇠고기",
+        "달걀",
+        "대두",
+        "버터",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q86",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "가정에서 많이 사용되는 다목적 밀가루는?",
+      "options": [
+        "강력분",
+        "중력분",
+        "박력분",
+        "초강력분",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q87",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "산성 식품에 해당하는 것은?",
+      "options": [
+        "곡류",
+        "사과",
+        "감자",
+        "시금치",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q88",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "아미노산, 단백질 등이 당류와 반응하여 갈색 물질을 생성하는 반응은?",
+      "options": [
+        "폴리페놀 옥시다아제 (polyphenol oxidase)",
+        "마이야르(Maillard) 반응",
+        "캐러멜화(caramelization) 반응",
+        "티로시나아제 (tyrosinase) 반응",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q89",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "제조 과정 중 단백질 변성에 의한 응고 작용이 일어나지 않는 것은?",
+      "options": [
+        "치즈 가공",
+        "두부 제조",
+        "달걀 삶기",
+        "딸기잼 제조",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q90",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "난황에 주로 함유되어 있는 색소는?",
+      "options": [
+        "클로로필",
+        "안토시아닌",
+        "카로티노이드",
+        "플라보노이드",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q91",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "튀김옷의 재료에 관한 설명으로 틀린 것은?",
+      "options": [
+        "중조를 넣으면 탄산가스가 발생하면서 수분도 증발되어 바삭하게 된다.",
+        "달걀을 넣으면 달걀 단백질의 응고로 수분 흡수가 방해되어 바삭하게 된다.",
+        "글루텐 함량이 높은 밀가루가 오랫동안 바삭한 상태를 유지한다.",
+        "얼음물에 반죽을 하면 점도를 낮게 유지하여 바삭하게 된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q92",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "식품구매 시 폐기율을 고려한 총발주량을 구하는 식은?",
+      "options": [
+        "총발주량 = (100 – 폐기율) × 100 × 인원수",
+        "총발주량 = [(정미중량 – 폐기율) / (100 - 가식률)] × 100",
+        "총발주량 = (1인당 사용량 – 폐기율) × 인원수",
+        "총발주량 = [정미중량 / (100 – 폐기율)] × 100 × 인원수",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q93",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "달걀의 기능을 이용한 음식의 연결이 잘못된 것은?",
+      "options": [
+        "응고성 - 달걀찜",
+        "팽창제 - 시폰케이크",
+        "간섭제 - 맑은 장국",
+        "유화성 - 마요네즈",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q94",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "냉장고 사용방법으로 틀린 것은?",
+      "options": [
+        "뜨거운 음식은 식혀서 냉장고에 보관한다.",
+        "문을 여닫는 횟수를 가능한 한 줄인다.",
+        "온도가 낮으므로 식품을 장기간 보관해도 안전하다.",
+        "식품의 수분이 건조되므로 밀봉하여 보관한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q95",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "식품을 고를 때 채소류의 감별법으로 틀린 것은?",
+      "options": [
+        "오이는 굵기가 고르며 만졌을 때 가시가 있고 무거운 느낌이 나는 것이 좋다.",
+        "당근은 일정한 굵기로 통통하고 마디나 뿔이 없는 것이 좋다.",
+        "양배추는 가볍고 잎이 얇으며 신선하고 광택이 있는 것이 좋다.",
+        "우엉은 껍질이 매끈하고 수염뿌리가 없는 것으로 굵기가 일정한 것이 좋다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q96",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "조리장의 설비에 대한 설명 중 부적합한 것은?",
+      "options": [
+        "조리장의 내벽은 바닥으로부터 5㎝까지 수성 자재로 한다.",
+        "충분한 내구력이 있는 구조여야 한다.",
+        "조리장에는 식품 및 식기류의 세척을 위한 위생적인 세척 시설을 갖춘다.",
+        "조리원 전용의 위생적 수세 시설을 갖춘다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q97",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "고추장에 대한 설명으로 틀린 것은?",
+      "options": [
+        "고추장은 곡류, 메주가루, 소금, 고춧가루, 물을 원료로 제조한다.",
+        "고추장의 구수한 맛은 단백질이 분해하여 생긴 맛이다.",
+        "고추장은 된장보다 단맛이 더 약하다.",
+        "고추장의 전분 원료로 찹쌀가루, 보릿가루, 밀가루를 사용한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q98",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 원가의 구성에 해당하는 것은?",
+      "options": [
+        "판매가격",
+        "간접원가",
+        "제조원가",
+        "총원가",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ja/ja20151010/ja20151010m38.gif"
+    },
+    {
+      "id": "korean_cook_craftsman_q99",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "조리 시 일어나는 현상과 그 원인으로 연결이 틀린 것은?",
+      "options": [
+        "장조림 고기가 단단하고 잘 찢어지지 않음一물에서 먼저 삶은 후 양념간장을 넣어 약한 불로 서서히 조렸기 때문",
+        "튀긴 도넛에 기름 흡수가 많음一낮은 온도에서 튀겼기 때문",
+        "오이무침의 색이 누렇게 변함一식초를 미리 넣었기 때문",
+        "생선을 굽는데 석쇠에 붙어 잘 떨어지지 않음一석쇠를 달구지 않았기 때문",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q100",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "식단을 작성할 때 구비해야 하는 자료로 가장 거리가 먼 것은?",
+      "options": [
+        "계절 식품표",
+        "비, 기기 위생점검표",
+        "대치 식품표",
+        "식품영양구성표",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q101",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "탈수가 일어나지 않으면서 간이 맞도록 생선을 구우려면 일반적으로 생선 중량 대비 소금의 양은 얼마가 가장 적당한가?",
+      "options": [
+        "0.1%",
+        "2%",
+        "16%",
+        "20%",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q102",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "쇠고기 40g을 두부로 대체하고자 할 때 필요한 두부의 양은 약 얼마인가? (단, 100g당 쇠고기 단백질 함량은 20.1g, 두부 단백질 함량은 8.6g으로 계산한다.)",
+      "options": [
+        "70g",
+        "74g",
+        "90g",
+        "94g",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q103",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "약과를 반죽할 때 필요 이상으로 기름과 설탕을 넣으면 어떤 현상이 일어나는가?",
+      "options": [
+        "매끈하고 모양이 좋아진다.",
+        "튀길 때 둥글게 부푼다.",
+        "튀길 때 모양이 풀어진다.",
+        "켜가 좋게 생긴다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q104",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "육류 조리에 대한 설명으로 맞는 것은?",
+      "options": [
+        "육류를 오래 끓이면 질긴 지방조직인 콜라겐이 젤라틴화되어 국물이 맛있게 된다.",
+        "목심, 양지, 사태는 건열조리에 적당하다.",
+        "편육을 만들 때 고기는 처음부터 찬물에서 끓인다.",
+        "육류를 찬물에 넣어 끓이면 맛성분 용출이 용이해져 국물 맛이 좋아진다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q105",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "단체급식에서 식품의 재고관리에 대한 설명으로 틀린 것은?",
+      "options": [
+        "각 식품에 적당한 재고기간을 파악하여 이용하도록 한다.",
+        "식품의 특성이나 사용 빈도 등을 고려하여 저장 장소를 정한다.",
+        "비상시를 대비하여 가능한 한 많은 재고량을 확보할 필요가 있다.",
+        "먼저 구입한 것은 먼저 소비한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q106",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "식혜에 대한 설명으로 틀린 것은?",
+      "options": [
+        "전분이 아밀라아제에 의해 가수분해되어 맥아당과 포도당을 생성한다.",
+        "밥을 지은 후 엿기름을 부어 효소반응이 잘 일어나도록 한다.",
+        "80°C의 온도가 유지되어야 효소반응이 잘 일어나 밥알이 뜨기 시작한다.",
+        "식혜 물에 뜨기 시작한 밥알은 건져내어 냉수에 헹구어 놓았다가 차게 식힌 식혜에 띄워 낸다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q107",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "중조를 넣어 콩을 삶을 때 가장 문제가 되는 것은?",
+      "options": [
+        "비타민 B1의 파괴가 촉진됨",
+        "콩이 잘 무르지 않음",
+        "조리수가 많이 필요함",
+        "조리시간이 길어짐",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q108",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "고기를 연하게 하기 위해 사용하는 과일에 들어 있는 단백질 분해효소가 아닌 것은?",
+      "options": [
+        "피신(ficin)",
+        "브로멜린(bromelin)",
+        "파파인(papain)",
+        "아밀라아제(amylase)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q109",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "찹쌀떡이 멥쌀떡보다 더 늦게 굳는 이유는?",
+      "options": [
+        "pH가 낮기 때문에",
+        "수분함량이 적기 때문에",
+        "아밀로오스의 함량이 많기 때문에",
+        "아밀로펙틴의 함량이 많기 때문에",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q110",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 일반적으로 폐기율이 가장 높은 식품은?",
+      "options": [
+        "살코기",
+        "달걀",
+        "생선",
+        "곡류",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q111",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "하수오염 조사 방법과 관련이 없는 것은?",
+      "options": [
+        "THM의 측정",
+        "COD의 측정",
+        "DO의 측정",
+        "BOD의 측정",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q112",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "다음 중 가장 강한 살균력을 갖는 것은?",
+      "options": [
+        "적외선",
+        "자외선",
+        "가시광선",
+        "근적외선",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q113",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "호흡기계 감염병이 아닌 것은?",
+      "options": [
+        "폴리오",
+        "홍역",
+        "백일해",
+        "디프테리아",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q114",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "학교 급식의 교육 목적으로 옳지 않은 것은?",
+      "options": [
+        "편식 예방 교육",
+        "올바른 식생활 교육",
+        "빈곤 아동들의 급식 교육",
+        "영양에 대한 올바른 교육",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q115",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "채소로부터 감염되는 기생충으로 짝지어진 것은?",
+      "options": [
+        "편충, 동양모양선충",
+        "폐흡충, 회충",
+        "구충, 선모충",
+        "회충, 무구조충",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q116",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "감각온도의 3요소가 아닌 것은?",
+      "options": [
+        "기온",
+        "기습",
+        "기류",
+        "기압",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q117",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "인수공통감염병에 속하지 않는 것은?",
+      "options": [
+        "광견병",
+        "탄저",
+        "고병원성조류인플루엔자",
+        "백일해",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q118",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "아메바에 의해서 발생되는 질병은?",
+      "options": [
+        "장티푸스",
+        "콜레라",
+        "유행성 간염",
+        "이질",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q119",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "폐기물 소각 처리시의 가장 큰 문제점은?",
+      "options": [
+        "악취가 발생되며 수질이 오염된다.",
+        "다이옥신이 발생한다.",
+        "처리방법이 불쾌하다.",
+        "지반이 약화되어 균열이 생길 수 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q120",
+      "subject": "한식조리기능사",
+      "round": "2015-10-10 기출",
+      "question_text": "공중보건사업과 거리가 먼 것은?",
+      "options": [
+        "보건교육",
+        "인구보건",
+        "감염병 치료",
+        "보건행정",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q121",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "사람이 평생 동안 매일 섭취하여도 아무런 장해가 일어나지 않는 최대량으로 1일 체중 kg당 mg수로 표시 하는 것은?",
+      "options": [
+        "최대무작용량(NOEL)",
+        "1일 섭취 허용량(ADI)",
+        "50% 치사량(LD50)",
+        "50% 유효량(ED50)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q122",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "바지락 속에 들어 있는 독성분은?",
+      "options": [
+        "베네루핀(venerupin)",
+        "솔라닌(solanine)",
+        "무스카린(muscarine)",
+        "아마니타톡신(amanitatoxin)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q123",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "다음 중 잠복기가 가장 짧은 식중독은?",
+      "options": [
+        "황색포도상구균 식중독",
+        "살모넬라균 식중독",
+        "장염 비브리오 식중독",
+        "장구균 식중독",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q124",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "세균 번식이 잘되는 식품과 가장 거리가 먼 것은?",
+      "options": [
+        "온도가 적당한 식품",
+        "수분을 함유한 식품",
+        "영양분이 많은 식품",
+        "산이 많은 식품",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q125",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "세균성식중독과 병원성소화기계감염병을 비교한 것으로 틀린 것은?(순서대로 세균성식중독, 병원성소화기계감염병)",
+      "options": [
+        "많은 균량으로 발병, 균량이 적어도 발병",
+        "2차 감염이 빈번함, 2차 감염이 없음",
+        "식품위생법으로 관리, 감염병예방법으로 관리",
+        "비교적 짧은 잠복기, 비교적 긴 잠복기",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q126",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "관능을 만족시키는 식품첨가물이 아닌 것은?",
+      "options": [
+        "동클로로필린나트륨",
+        "질산나트륨",
+        "아스파탐",
+        "소르빈산",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q127",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "생선 및 육류의 초기부패 판정 시 지표가 되는 물질에 해당되지 않는 것은?",
+      "options": [
+        "휘발성염기질소(VBN)",
+        "암모니아(ammonia)",
+        "트리메틸아민(trimethylamine)",
+        "아크롤레인(acrolein)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q128",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "중금속에 대한 설명으로 옳은 것은?",
+      "options": [
+        "비중이 4.0 이상의 금속을 말한다.",
+        "생체기능유지에 전혀 필요하지 않다.",
+        "다량이 축적될 때 건강장해가 일어난다.",
+        "생체와의 친화성이 거의 없다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q129",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "이타이이타이병과 관계있는 중금속 물질은?",
+      "options": [
+        "수은(Hg)",
+        "카드뮴(Cd)",
+        "크롬(Cr)",
+        "납(Pb)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q130",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "오래된 과일이나 산성 채소 통조림에서 유래되는 화학성 식중독의 원인물질은?",
+      "options": [
+        "칼슘",
+        "주석",
+        "철분",
+        "아연",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q131",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "조리사 또는 영양사 면허의 취소처분을 받고 그 취소된 날부터 얼마의 기간이 경과되어야 면허를 받을 자격이 있는가?",
+      "options": [
+        "1개월",
+        "3개월",
+        "6개월",
+        "1년",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q132",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "식품위생법상 출입·검사·수거에 대한 설명 중 틀린 것은?",
+      "options": [
+        "관계 공무원은 영업소에 출입하여 영업에 사용하는 식품 또는 영업시설 등에 대하여 검사를 실시한다.",
+        "관계 공무원은 영업상 사용하는 식품 등을 검사를 위하여 필요한 최소량이라 하더라도 무상으로 수거할 수 없다.",
+        "관계 공무원은 필요에 따라 영업에 관계되는 장부 또는 서류를 열람 할 수 있다.",
+        "출입·검사·수거 또는 열람하려는 공무원은 그 권한을 표시하는 증표를 지니고 이를 관계인에 내보여야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q133",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "일반음식점의 모범업소의 지정기준이 아닌 것은?",
+      "options": [
+        "화장실에 1회용 위생종이 또는 에어타월이 비치되어 있어야 한다.",
+        "주방에는 입식조리대가 설치되어 있어야 한다.",
+        "1회용 물컵을 사용하여야 한다.",
+        "종업원은 청결한 위생복을 입고 있어야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q134",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "우리나라 식품위생법 등 식품위생 행정업무를 담당하고 있는 기관은?",
+      "options": [
+        "환경부",
+        "고용노동부",
+        "보건복지부",
+        "식품의약품안전처",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q135",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "소분업 판매를 할 수 있는 식품은?",
+      "options": [
+        "전분",
+        "식용유지",
+        "식초",
+        "빵가루",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q136",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "탄수화물의 조리가공 중 변화되는 현상과 가장 관계 깊은 것은?",
+      "options": [
+        "거품생성",
+        "호화",
+        "유화",
+        "산화",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q137",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "색소를 보존하기 위한 방법 중 틀린 것은?",
+      "options": [
+        "녹색채소를 데칠 때 식초를 넣는다.",
+        "매실지를 담글 때 소엽(차조기 잎)을 넣는다.",
+        "연근을 조릴 때 식초를 넣는다.",
+        "햄 제조 시 질산칼륨을 넣는다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q138",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "효소적 갈변반응에 의해 색을 나타내는 식품은?",
+      "options": [
+        "분말 오렌지",
+        "간장",
+        "캐러멜",
+        "홍차",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q139",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "단맛성분에 소량의 짠맛성분을 혼합할 때 단맛이 증가하는 현상은?",
+      "options": [
+        "맛의 상쇄현상",
+        "맛의 억제현상",
+        "맛의 변조현상",
+        "맛의 대비현상",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q140",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "브로멜린(bromelin)이 함유되어 있어 고기를 연화시키는 이용되는 과일은?",
+      "options": [
+        "사과",
+        "파인애플",
+        "귤",
+        "복숭아",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q141",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "지방의 경화에 대한 설명으로 옳은 것은?",
+      "options": [
+        "물과 지방이 서로 섞여 있는 상태이다.",
+        "불포화지방산에 수소를 첨가하는 것이다.",
+        "기름을 7.2℃까지 냉각시켜서 지방을 여과하는 것이다.",
+        "반죽 내에서 지방층을 형성하여 글루텐 형성을 막는 것이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q142",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "어류의 염장법 중 건염법(마른간법)에 대한 설명 중 틀린 것은?",
+      "options": [
+        "식염의 침투가 빠르다.",
+        "품질이 균일하지 못하다.",
+        "선도가 낮은 어류로 염장을 할 경우 생산량이 증가한다.",
+        "지방질의 산화로 변색이 쉽게 일어난다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q143",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "대두를 구성하는 콩단백질의 주성분은?",
+      "options": [
+        "글리아딘",
+        "글루텔린",
+        "글루텐",
+        "글리시닌",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q144",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "간장, 다시마 등의 감칠맛을 내는 주된 아미노산은?",
+      "options": [
+        "알라닌(alanine)",
+        "글루탐산(glutamic acid)",
+        "리신(lysine)",
+        "트레오닌(threonine)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q145",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "열에 의해 가장 쉽게 파괴되는 비타민은?",
+      "options": [
+        "비타민 C",
+        "비타민 A",
+        "비타민 E",
+        "비타민 K",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q146",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "가열에 의해 고유의 냄새성분이 생성되지 않는 것은?",
+      "options": [
+        "장어구이",
+        "스테이크",
+        "커피",
+        "포도주",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q147",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "연제품 제조에서 탄력성을 주기위해 꼭 첨가해야 하는 것은?",
+      "options": [
+        "소금",
+        "설탕",
+        "펙틴",
+        "글루타민산소다",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q148",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "어떤 단백질의 질소함량이 18%라면 이 단백질의 질소계수는 약 얼마인가?",
+      "options": [
+        "5.56",
+        "6.30",
+        "6.47",
+        "6.67",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q149",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "맥아당은 어떤 성분으로 구성되어 있는가?",
+      "options": [
+        "포도당 2분자가 결합된 것",
+        "과당과 포도당 각 1분자가 결합된 것",
+        "과당 2분자가 결합된 것",
+        "포도당과 전분이 결합된 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q150",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "1g당 발생하는 열량이 가장 큰 것은?",
+      "options": [
+        "당질",
+        "단백질",
+        "지방",
+        "알코올",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q151",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "냉동생선을 해동하는 방법으로 위생적이며 영양 손실이 가장 적은 경우는?",
+      "options": [
+        "18 ~22 ℃ 의 실온에 둔다.",
+        "40℃ 의 미지근한 물에 담가둔다.",
+        "냉장고 속에 해동한다.",
+        "23 ~ 25℃의 흐르는 물에 담가둔다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q152",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "식품의 감별법 중 틀린 것은?",
+      "options": [
+        "쌀알은 투명하고 앞니로 씹었을 때 강도가 센 것이 좋다.",
+        "생선은 안구가 돌출되어 있고 비늘이 단단하게 붙어 있는 것이 좋다.",
+        "닭고기의 뼈(관절) 부위가 변색된 것은 변질된 것으로 맛이 없다.",
+        "돼지고기의 색이 검붉은 것은 늙은 돼지에서 생산된 고기일 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q153",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "다음 중 신선한 달걀은?",
+      "options": [
+        "달걀을 흔들어서 소리가 나는 것",
+        "삶았을 때 난황의 표면이 암녹색으로 쉽게 변하는 것",
+        "껍질이 매끈하고 윤기 있는 것",
+        "깨보면 많은 양의 난백이 난황을 에워싸고 있는 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q154",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "식혜를 만들 때 엿기름을 당화시키는데 가장 적합한 온도는?",
+      "options": [
+        "10~20℃",
+        "30~40℃",
+        "50~60℃",
+        "70~80℃",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q155",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "많이 익은 김치(신김치)는 오래 끓여도 쉽게 연해지지 않는 이유는?",
+      "options": [
+        "김치에 존재하는 소금에 의해 섬유소가 단단해지기 때문이다.",
+        "김치에 존재하는 소금에 의해 팽압이 유지되기 때문이다.",
+        "김치에 존재하는 산에 의해 섬유소가 단단해지기 때문이다.",
+        "김치에 존재하는 산에 의해 팽압이 유지되기 때문이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q156",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "조리대 배치형태 중 환풍기와 후드의 수를 최소화할 수 있는 것은?",
+      "options": [
+        "일렬형",
+        "병렬형",
+        "ㄷ자형",
+        "아일랜드형",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q157",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "우유를 데울 때 가장 좋은 방법은?",
+      "options": [
+        "냄비에 담고 끓기 시작할 때까지 강한 불로 데운다.",
+        "이중냄비에 넣고 젓지 않고 데운다.",
+        "냄비에 담고 약한 불에서 젓지 않고 데운다.",
+        "이중냄비에 넣고 저으면서 데운다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q158",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "아래의 조건에서 당질 함량을 기준으로 고구마 180g을 쌀로 대치하려면 필요한 쌀의 양은?",
+      "options": [
+        "165.8g",
+        "170.6g",
+        "177.5g",
+        "184.7g",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ja/ja20150404/ja20150404m38.gif"
+    },
+    {
+      "id": "korean_cook_craftsman_q159",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "아래 [보기] 중 단체급식 조리장을 신축할 때 우선적으로 고려할 사항 순으로 배열된 것은?",
+      "options": [
+        "다→나→가",
+        "나→가→다",
+        "가→다→나",
+        "나→다→가",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ja/ja20150404/ja20150404m39.gif"
+    },
+    {
+      "id": "korean_cook_craftsman_q160",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "스파게티와 국수 등에 이용되는 문어나 오징어 먹물의 색소는?",
+      "options": [
+        "타우린(taurine)",
+        "멜라닌(melanin)",
+        "미오글로빈(myoglobin)",
+        "히스타민(histamine)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q161",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "수분 70g, 당질 40g, 섬유질 7g, 단백질 5g, 무기질 4g, 지방 3g이 들어있는 식품의 열량은?",
+      "options": [
+        "165kcal",
+        "178kcal",
+        "198kcal",
+        "207kcal",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q162",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "조리장의 입지조건으로 적당하지 않은 곳은?",
+      "options": [
+        "급‧배수가 용이하고 소음, 악취, 분진, 공해 등이 없는 곳",
+        "사고발생시 대피하기 쉬운 곳",
+        "조리장이 지하층에 위치하여 조용한 곳",
+        "재료의 반입, 오물의 반출이 편리한 곳",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q163",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "버터 대용품으로 생산되고 있는 식물성 유지는?",
+      "options": [
+        "쇼트닝",
+        "마가린",
+        "마요네즈",
+        "땅콩버터",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q164",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "조미의 기본 순서로 가장 옳은 것은?",
+      "options": [
+        "설탕 → 소금 → 간장 → 식초",
+        "설탕 → 식초 → 간장 → 소금",
+        "소금 → 식초 → 간장 → 설탕",
+        "간장 → 설탕 → 식초 → 소금",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q165",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "편육을 할 때 가장 적합한 삶기 방법은?",
+      "options": [
+        "끓는 물에 고기를 덩어리째 넣고 삶는다.",
+        "끓는 물에 고기를 잘게 썰어 넣고 삶는다.",
+        "찬물에서부터 고기를 넣고 삶는다.",
+        "찬물에서부터 고기와 생강을 넣고 삶는다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q166",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "단체급식의 목적이 아닌 것은?",
+      "options": [
+        "피급식자의 건강의 회복, 유지, 증진을 도모한다.",
+        "피급식자의 식비를 경감한다.",
+        "피급식자에게 물질적 충족을 준다.",
+        "영양교육과 음식의 중요성을 교육함으로써 바람직한 급식을 실현한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q167",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "소화흡수가 잘 되도록 하는 방법으로 가장 적절한 것은?",
+      "options": [
+        "짜게 먹는다.",
+        "동물성 식품과 식물성 식품을 따로따로 먹는다.",
+        "식품을 잘고 연하게 조리하여 먹는다.",
+        "한꺼번에 많은 양을 먹는다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q168",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "젤라틴과 한천에 관한 설명으로 틀린 것은?",
+      "options": [
+        "한천은 보통 28~35℃에서 응고되는데 온도가 낮을수록 빨리 굳는다.",
+        "한천은 식물성 급원이다",
+        "젤라틴은 젤리, 양과자 등에서 응고제로 쓰인다.",
+        "젤라틴에 생파인애플을 넣으면 단단하게 응고한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q169",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "밀가루 반죽 시 넣는 첨가물에 관한 설명으로 옳은 것은?",
+      "options": [
+        "유지는 글루텐 구조형성을 방해하여 반죽을 부드럽게 한다.",
+        "소금은 글루텐 단백질을 연화시켜 밀가루 반죽의 점탄성을 떨어뜨린다.",
+        "설탕은 글루텐 망사구조를 치밀하게 하여 반죽을 질기고 단단하게 한다.",
+        "달걀을 넣고 가열하면 단백질의 연화작용으로 반죽이 부드러워 진다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q170",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "원가계산의 목적으로 옳지 않은 것은?",
+      "options": [
+        "원가의 절감 방안을 모색하기 위해서",
+        "제품의 판매가격을 결정하기 위해서",
+        "경영손실을 제품가격에서 만회하기 위해서",
+        "예산편성의 기초자료로 활용하기 위해서",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q171",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "다음의 상수처리 과정에서 가장 마지막 단계는?",
+      "options": [
+        "급수",
+        "취수",
+        "정수",
+        "도수",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q172",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "규폐증에 대한 설명으로 틀린 것은?",
+      "options": [
+        "먼지 입자의 크기가 0.5~5.0㎛일 때 잘 발생한다.",
+        "대표적인 진폐증이다.",
+        "암석가공업, 도자기 공업, 유리제조업의 근로자들이 주로 많이 발생한다.",
+        "일반적으로 위험요인에 노출된 근무 경력이 1년 이후부터 자각 증상이 발생한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q173",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "공중보건학의 목표에 관한 설명으로 틀린 것은?",
+      "options": [
+        "건강 유지",
+        "질병 예방",
+        "질병 치료",
+        "지역사회 보건수준 향상",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q174",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "생균(live vaccine)을 사용하는 예방접종으로 면역이 되는 질병은?",
+      "options": [
+        "파상풍",
+        "콜레라",
+        "폴리오",
+        "백일해",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q175",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "돼지고기를 날 것으로 먹거나 불완전하게 가열하여 섭취할 때 감염될 수 있는 기생충은?",
+      "options": [
+        "유구조충",
+        "무구조충",
+        "광절열두조충",
+        "간디스토마",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q176",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "소음의 측정단위는?",
+      "options": [
+        "dB",
+        "kg",
+        "Å",
+        "℃",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q177",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "인수공통감염병으로 그 병원체가 세균인 것은?",
+      "options": [
+        "일본뇌염",
+        "공수병",
+        "광견병",
+        "결핵",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q178",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "음식물이나 식수에 오염되어 경구적으로 침입되는 감염병이 아닌 것은?",
+      "options": [
+        "유행성이하선염",
+        "파라티푸스",
+        "세균성 이질",
+        "폴리오",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q179",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "적외선에 속하는 파장은?",
+      "options": [
+        "200nm",
+        "400nm",
+        "600nm",
+        "800nm",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q180",
+      "subject": "한식조리기능사",
+      "round": "2015-04-04 기출",
+      "question_text": "매개 곤충과 질병이 잘못 연결된 것은?",
+      "options": [
+        "이 – 발진티푸스",
+        "쥐벼룩 – 페스트",
+        "모기 – 사상충증",
+        "벼룩 - 렙토스피라증",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q181",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "식품을 조리 또는 가공할 때 생성되는 유해물질과 그 생성 원인을 잘못 짝지은 것은?",
+      "options": [
+        "엔-니트로소아민(N-nitrosoamine) - 육가공품의 발색제 사용으로 인한 아질산과 아민과의 반응 생성물",
+        "다환방향족탄화수소(polycyclicaromatic hydrocarbon) - 유기물질을 고온으로 가열할 때 생성되는 단백질이나 지방의 분해생성물",
+        "아크릴아미드(acrylamide) - 전분식품 가열시 아미노산과 당의 열에 의한 결합반응 생성물",
+        "헤테로고리아민(heterocyclicamine) - 주류 제조 시 에탄올과 카바밀기의 반응에 의한 생성물",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q182",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "복어 중독을 일으키는 독성분은?",
+      "options": [
+        "테트로도톡신(tetrodotoxin)",
+        "솔라닌(solanine)",
+        "베네루핀(venerupin)",
+        "무스카린(muscarine)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q183",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "과일 통조림으로부터 용출되어 구토, 설사, 복통의 중독 증상을 유발할 가능성이 있는 물질은?",
+      "options": [
+        "안티몬",
+        "주석",
+        "크롬",
+        "구리",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q184",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "화학성 식중독의 원인이 아닌 것은?",
+      "options": [
+        "설사성 패류 중독",
+        "환경오염에 기인하는 식품 유독성분 중독",
+        "중금속에 의한 중독",
+        "유해성 식품첨가물에 의한 중독",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q185",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "안식향산(benzoic acid)의 사용 목적은?",
+      "options": [
+        "식품의 산미를 내기 위하여",
+        "식품의 부패를 방지하기 위하여",
+        "유지의 산화를 방지하기 위하여",
+        "식품의 향을 내기 위하여",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q186",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "식중독 중 해산어류를 통해 많이 발생하는 식중독은?",
+      "options": [
+        "살모넬라균 식중독",
+        "클로스트리디움 보툴리늄균 식중독",
+        "황색포도상구균 식중독",
+        "장염 비브리오균 식중독",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q187",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "색소를 함유하고 있지는 않지만 식품 중의 성분과 결합하여 색을 안정화시키면서 선명하게 하는 식품첨가물은?",
+      "options": [
+        "착색료",
+        "보존료",
+        "발색제",
+        "산화방지제",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q188",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "식품의 부패 또는 변질과 관련이 적은 것은?",
+      "options": [
+        "수분",
+        "온도",
+        "압력",
+        "효소",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q189",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "세균으로 인한 식중독 원인물질이 아닌 것은?",
+      "options": [
+        "살모넬라균",
+        "장염비브리오균",
+        "아플라톡신",
+        "보툴리늄독소",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q190",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "중온균 증식의 최적온도는?",
+      "options": [
+        "10~12℃",
+        "25~37℃",
+        "55~60℃",
+        "65~75℃",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q191",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "업종별 시설기준으로 틀린 것은?",
+      "options": [
+        "휴게음식점에는 다른 객석에서 내부가 보이도록 하여야 한다.",
+        "일반음식점의 객실에는 잠금장치를 설치할 수 있다.",
+        "일반음식점의 객실 안에는 무대장치, 우주볼 등의 특수조명시설을 설치하여서는 아니 된다.",
+        "일반음식점에는 손님이 이용할 수 있는 자동반주장치를 설치하여서는 아니 된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q192",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "HACCP의 7가지 원칙에 해당하지 않는 것은?",
+      "options": [
+        "위해요소분석",
+        "중요관리점(CCP) 결정",
+        "개선조치방법 수립",
+        "회수명령의 기준 설정",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q193",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "판매의 목적으로 식품 등을 제조·가공·소분·수입 또는 판매한 영업자는 해당 식품이 식품 등의 위해와 관련이 있는 규정으로 위반하여 유통 중인 당해 식품 등을 회수하고자 할 때 회수계획을 보고해야 하는 대상이 아닌 것은?",
+      "options": [
+        "시·도지사",
+        "식품의약품안전처장",
+        "보건소장",
+        "시장·군수·구청장",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q194",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "식품위생법에 명시된 목적이 아닌 것은?",
+      "options": [
+        "위생상의 위해 방지",
+        "건전한 유통·판매 도모",
+        "식품영양의 질적 향상 도모",
+        "식품에 관한 올바른 정보 제공",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q195",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "식품위생법상 영업에 종사하지 못하는 질병의 종류가 아닌 것은?",
+      "options": [
+        "비감염성 결핵",
+        "세균성이질",
+        "장티푸스",
+        "화농성질환",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q196",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "우유 가공품이 아닌 것은?",
+      "options": [
+        "치즈",
+        "버터",
+        "마시멜로우",
+        "액상 발효유",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q197",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "육류의 사후경직을 설명한 것 중 틀린 것은?",
+      "options": [
+        "근육에서 호기성 해당과정에 의해 산이 증가된다.",
+        "해당과정으로 생성된 산에 의해 ph가 낮아진다.",
+        "경직 속도는 도살전의 동물의 상태에 따라 다르다.",
+        "근육의 글리코겐 젖산으로 된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q198",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "효소의 주된 구성성분은?",
+      "options": [
+        "지방",
+        "탄수화물",
+        "단백질",
+        "비타민",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q199",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 냄새 성분 중 어류와 관계가 먼 것은?",
+      "options": [
+        "트리메틸아민(trimethylamine)",
+        "암모니아(ammonia)",
+        "피페리딘(piperidine)",
+        "디아세틸(diacetyl)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q200",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "식품에 존재하는 물의 형태 중 자유수에 대한 설명으로 틀린 것은?",
+      "options": [
+        "식품에서 미생물의 번식에 이용된다.",
+        "-20℃에서도 얼지 않는다.",
+        "100℃에서 증발하여 수증기가 된다.",
+        "식품을 건조시킬 때 쉽게 제거된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q201",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "전분의 노화를 억제하는 방법으로 적합하지 않은 것은?",
+      "options": [
+        "수분함량 조절",
+        "냉동",
+        "설탕의 첨가",
+        "산의 첨가",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q202",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "우유 100mL에 칼슘이 180mg 정도 들어있다면 우유 250mL에는 칼슘이 약 몇 mg 정도 들어있는가?",
+      "options": [
+        "450mg",
+        "540mg",
+        "595mg",
+        "650mg",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q203",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "찹쌀의 아밀로오스와 아밀로펙틴에 대한 설명 중 맞는 것은?",
+      "options": [
+        "아밀로오스 함량이 더 많다.",
+        "아밀로오스 함량과 아밀로펙틴의 함량이 거의 같다.",
+        "아밀로펙틴으로 이루어져 있다.",
+        "아밀로펙틴은 존재하지 않는다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q204",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "과일향기의 주성분을 이루는 냄새 성분은?",
+      "options": [
+        "알데히드(aldehyde)류",
+        "함유황화합물",
+        "테르펜(terpene)류",
+        "에스테르(ester)류",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q205",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "불건성유에 속하는 것은?",
+      "options": [
+        "들기름",
+        "땅콩기름",
+        "대두유",
+        "옥수수기름",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q206",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "채소의 가공 시 가장 손실되기 쉬운 비타민은?",
+      "options": [
+        "비타민 A",
+        "비타민 D",
+        "비타민 C",
+        "비타민 E",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q207",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "일반적으로 포테이토칩 등 스낵류에 질소충전 포장 을 실시할 때 얻어지는 효과로 가장 거리가 먼 것은?",
+      "options": [
+        "유지의 산화 방지",
+        "스낵의 파손 방지",
+        "세균의 발육 억제",
+        "제품의 투명성 유지",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q208",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "달걀흰자로 거품을 낼 때 식초를 약간 첨가하는 것은 다음 중 어떤 것 과 가장 관계가 깊은가?",
+      "options": [
+        "난백의 등전점",
+        "용해도 증가",
+        "향 형성",
+        "표백효과",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q209",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "붉은 양배추를 조리할 때 식초나 레몬즙을 조금 넣으면 어떤 변화가 일어나는가?",
+      "options": [
+        "안토시아닌계 색소가 선명하게 유지된다.",
+        "카로티노이드계 색소가 변색되어 녹색으로 된다.",
+        "클로로필계 색소가 선명하게 유지된다.",
+        "플라보노이드계 색소가 변색되어 청색으로 된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q210",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "단맛을 갖는 대표적인 식품과 가장 거리가 먼 것은?",
+      "options": [
+        "사탕무",
+        "감초",
+        "벌꿀",
+        "곤약",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q211",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "신선한 달걀의 감별법으로 설명이 잘못된 것은?",
+      "options": [
+        "햇빛(전등)에 비출 때 공기집의 크기가 작다.",
+        "흔들 때 내용물이 잘 흔들린다.",
+        "6% 소금물에 넣으면 가라앉는다.",
+        "깨트려 접시에 놓으면 노른자가 볼록하고 흰자의 점도가 높다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q212",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "열량급원 식품이 아닌 것은?",
+      "options": [
+        "감자",
+        "쌀",
+        "풋고추",
+        "아이스크림",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q213",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "마늘에 함유된 황화합물로 특유의 냄새를 가지는 성분은?",
+      "options": [
+        "알리신(allicin)",
+        "디메틸설파이드(dimethyl sulfide)",
+        "머스타드 오일(mustard oil)",
+        "캡사이신(capsaicin)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q214",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "당근의 구입단가는 kg당 1300원이다. 10kg 구매 시 표준수율이 86%이라면, 당근 1인분(80g)의 원가는 약 얼마인가?",
+      "options": [
+        "51원",
+        "121원",
+        "151원",
+        "181원",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q215",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 조립법 중 비타민C 파괴율이 가장 적은 것은?",
+      "options": [
+        "시금치 국",
+        "무생채",
+        "고사리 무침",
+        "오이지",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q216",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "조리 시 일어나는 비타민, 무기질의 변화 중 맞는 것은?",
+      "options": [
+        "비타민A는 지방음식과 함께 섭취할 때 흡수율이 높아진다.",
+        "비타민D는 자외선과 접하는 부분이 클수록, 오래 끓일수록 파괴율이 높아진다.",
+        "색소의 고정효과로는 Ca＋＋이 많이 사용되며 식물 색소를 고정시키는 역할을 한다.",
+        "과일을 깎을 때 쇠칼을 사용하는 것이 맛, 영양가, 외관상 좋다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q217",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "급식 시설에서 주방면적을 산출할 때 고려해야할 사항으로 가장거리가 먼 것은?",
+      "options": [
+        "피급식자의 기호",
+        "조리 기기의 선택",
+        "조리 인원",
+        "식단",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q218",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "다음 급식시설 중 1인 1식 사용 급수 량이 가장 많이 필요한 시설은?",
+      "options": [
+        "학교급식",
+        "보통급식",
+        "산업체급식",
+        "병원급식",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q219",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "생선의 비린내를 억제하는 방법으로 부적합한 것은?",
+      "options": [
+        "물로 깨끗이 씻어 수용성 냄새 성분을 제거한다.",
+        "처음부터 뚜껑을 닫고 끓여 생선을 완전히 응고시킨다.",
+        "조리 전에 우유에 담가 둔다.",
+        "생선 단백질이 응고 된 후 생강을 넣는다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q220",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "총원가는 제조원가에 무엇을 더한 것인가?",
+      "options": [
+        "제조간접비",
+        "판매관리비",
+        "이익",
+        "판매가격",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q221",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "조리 시 첨가하는 물질의 역할에 대한 설명으로 틀 린 것은?",
+      "options": [
+        "식염 - 면 반죽의 탄성 증가",
+        "식초 - 백색채소의 색 고정",
+        "중조 - 펙틴 물질의 불용성 강화",
+        "구리 - 녹색채소의 색 고정",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q222",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "쇠고기의 부위 중 탕, 스튜, 찜 조리에 가장 적합 한 부위는?",
+      "options": [
+        "목심",
+        "설도",
+        "양지",
+        "사태",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q223",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "유지의 발연점이 낮아지는 원인에 대한 설명으로 틀린 것은?",
+      "options": [
+        "유리지방산의 함량이 낮은 경우",
+        "튀김기의 표면적이 넓은 경우",
+        "기름에 이물질이 많이 들어 있는 경우",
+        "오래 사용하여 기름이 지나치게 산패된 경우",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q224",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "김치 저장 중 김치조직의 연부현상이 일어나는 이유에 대한 설명으로 가장 거리가 먼 것은?",
+      "options": [
+        "조직을 구성하고 있는 펙틴질이 분해되기 때문에",
+        "미생물이 펙틴분해효소를 생성하기 때문에",
+        "용기에 꼭 눌러 담지 않아 내부에 공기가 존재하여 호기성 미생물이 성장번식하기 때문에",
+        "김치가 국물에 잠겨 수분을 흡수하기 때문에",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q225",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "편육을 끓는 물에 삶아 내는 이유는?",
+      "options": [
+        "고기 냄새를 없애기 위해",
+        "육질을 단단하게 하기 위해",
+        "지방 용출을 적게 하기 위해",
+        "국물에 맛 성분이 적게 용출되도록 하기 위해",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q226",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "에너지 공급원으로 감자 160g 을 보리쌀로 대체할 때 필요한 보리쌀 양은? (단, 감자 당질함량 : 14.4%, 보리쌀 당질함량 :: 68.4%)",
+      "options": [
+        "20.9g",
+        "27.6g",
+        "31.5g",
+        "33.7g",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q227",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "육류 조리 시 열에 의한 변화로 맞는 것은?",
+      "options": [
+        "불고기는 열의 흡수로 부피가 증가한다.",
+        "스테이크는 가열하면 질겨져서 소화가 잘 되지 않는다.",
+        "미트로프(meatloaf)는 가열하면 단백질이 응고, 수축, 변성된다.",
+        "쇠꼬리의 젤라틴이 콜라겐 화 된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q228",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "차, 커피, 코코아, 과일 등에서 수렴성 맛을 주는 성분은?",
+      "options": [
+        "타닌(tannin)",
+        "카로틴(carotene)",
+        "엽록소(chlorophyll)",
+        "안토시아닌(anthocyanin)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q229",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "식단을 작성하고자 할 때 식품의 선택요령으로 가장 적합한 것은?",
+      "options": [
+        "영양보다는 경제적인 효율성을 우선으로 고려한다.",
+        "쇠고기가 비싸서 대체식품으로 닭고기를 선정하였다.",
+        "시금치의 대체식품으로 값이 싼 달걀을 구매하였다.",
+        "한창 제철일 때 보다 한 발 앞서서 식품을 구입하여 식단을 구성하는 것이 보다 새롭고 경제적이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q230",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "우유의 카제인을 응고시킬 수 있는 것으로 되어 있는 것은?",
+      "options": [
+        "타닌 - 레닌 - 설탕",
+        "식초 - 레닌 - 타닌",
+        "레닌 - 설탕 - 소금",
+        "소금 - 설탕 - 식초",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q231",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "칼슘(Ca)와 인(P)이 소변 중으로 유출되는 골연화증 현상을 유발하는 유해 중금속은?",
+      "options": [
+        "납",
+        "카드뮴",
+        "수은",
+        "주석",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q232",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "실내 공기오염의 지표로 이용되는 기체는?",
+      "options": [
+        "산소",
+        "이산화탄소",
+        "일산화탄소",
+        "질소",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q233",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "기생충과 중간숙주의 연결이 틀린 것은?",
+      "options": [
+        "십이지장충 - 모기",
+        "말라리아 - 사람",
+        "폐흡충 - 가재, 게",
+        "무구조충 - 소",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q234",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "감염병 중에서 비말감염과 관계가 먼 것은?",
+      "options": [
+        "백일해",
+        "디프테리아",
+        "발진열",
+        "결핵",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q235",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "환경위생의 개선으로 발생이 감소되는 감염병과 가장 거리가 먼 것은?",
+      "options": [
+        "장티푸스",
+        "콜레라",
+        "이질",
+        "인플루엔자",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q236",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "우리나라의 법정 감염병이 아닌 것은?",
+      "options": [
+        "말라리아",
+        "유행성이하선염",
+        "매독",
+        "기생충",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q237",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "수질의 오염정도를 파악하기 위한 BOD(생물화학적산소요구량) 측정 시 일반적인 온도와 측정기간은?",
+      "options": [
+        "10℃에서 10일간",
+        "20℃에서 10일간",
+        "10℃에서 5일간",
+        "20℃에서 5일간",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q238",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "지역사회나 국가사회의 보건수준을 나타낼 수 있는 가장 대표적인 지표는?",
+      "options": [
+        "모성사망률",
+        "평균수명",
+        "질병이환율",
+        "영아사망률",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q239",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "자외선에 의한 인체 건강 장해가 아닌 것은?",
+      "options": [
+        "설안염",
+        "피부암",
+        "폐기종",
+        "결막염",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "korean_cook_craftsman_q240",
+      "subject": "한식조리기능사",
+      "round": "2015-01-25 기출",
+      "question_text": "고열장해로 인한 직업병이 아닌 것은?",
+      "options": [
+        "열경련",
+        "일사병",
+        "열쇠약",
+        "참호족",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    }
+  ]
+}

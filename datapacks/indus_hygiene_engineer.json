@@ -1,0 +1,6005 @@
+{
+  "pack_name": "산업위생관리기사 기출 팩",
+  "questions": [
+    {
+      "id": "indus_hygiene_engineer_q1",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "현재 총 흡음량이 1200 sabins인 작업장의 천장에 흡음 물질을 첨가하여 2400 sabins를 추가할 경우 예측되는 소음감음량은(NR)은 약 몇 dB인가?",
+      "options": [
+        "2.6",
+        "3.5",
+        "4.8",
+        "5.2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q2",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "젊은 근로자에 있어서 약한 쪽 손의 힘은 평균 45kp라고 한다. 이러한 근로자가 무게 8kg인 상자를 양손으로 들어 올릴 경우 작업강도 (%MS)는 약 얼마인가?",
+      "options": [
+        "17.8%",
+        "8.9%",
+        "4.4%",
+        "2.3%",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q3",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "누적외상성 질환(CTDs) 또는 근골격계질환(MSDs)에 속하는 것으로 보기 어려운 것은?",
+      "options": [
+        "건초염(Tendosynoitis)",
+        "스티븐스존슨증후군(Stevens Johnson syndrome)",
+        "손목뼈터널증후군(Carpal tunnel syndrome)",
+        "기용터널증후군(Guyon tunnel syndrome)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q4",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "심리학적 적성검사에 해당하는 것은?",
+      "options": [
+        "지각동작검사",
+        "감각기능검사",
+        "심폐기능검사",
+        "체력검사",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q5",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "산업위생의 4가지 주요 활동에 해당하지 않는 것은?",
+      "options": [
+        "예측",
+        "평가",
+        "관리",
+        "제거",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q6",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "사고예방대책의 기본원리 5단계를 순서대로 나열한 것으로 옳은 것은?",
+      "options": [
+        "사실의 발견 → 조직 → 분석 → 시정책(대책)의 선정 → 시정책(대책)의 적용",
+        "조직 → 분석 → 사실의 발견 → 시정책(대책)의 선정 → 시정책(대책)의 적용",
+        "조직 → 사실의 발견 → 분석 → 시정책(대책)의 선정 → 시정책(대책)의 적용",
+        "사실의 발견 → 분석 → 조직 → 시정책(대책)의 선정 → 시정책(대책)의 적용",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q7",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "산업안전보건법령상 보건관리자의 자격 기준에 해당하지 않는 사람은?",
+      "options": [
+        "「의료법」에 따른 의사",
+        "「의료법」에 따른 간호사",
+        "「국가기술자격법」에 따른 환경기능사",
+        "「산업안전보건법」에 따른 산업보건지도사",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q8",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "근육운동의 에너지원 중 혐기성대사의 에너지원에 해당되는 것은?",
+      "options": [
+        "지방",
+        "포도당",
+        "단백질",
+        "글리코겐",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q9",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "산업재해의 기본원인을 4M(Management, Machine, Media, Man)이라고 할 때 다음 중 Man(사람)에 해당되는 것은?",
+      "options": [
+        "안전교육과 훈련의 부족",
+        "인간관계·의사소통의 불량",
+        "부하에 대한 지도·감독부족",
+        "작업자세·작업동작의 결함",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q10",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "직업성 질환의 범위에 해당되지 않는 것은?",
+      "options": [
+        "합병증",
+        "속발성 질환",
+        "선천적 질환",
+        "원발성 질환",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q11",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "18세기에 Percivall Pott가 어린이 굴뚝청소부에게서 발견한 직업성 질환은?",
+      "options": [
+        "백혈병",
+        "골육종",
+        "진폐증",
+        "음낭암",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q12",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "산업피로의 대책으로 적합하지 않은 것은?",
+      "options": [
+        "불필요한 동작을 피하고 에너지 소모를 적게 한다.",
+        "작업과정에 따라 적절한 휴식시간을 가져야 한다.",
+        "작업능력에는 개인별 차이가 있으므로 각 개인마다 작업량을 조정해야 한다.",
+        "동적인 작업은 피로를 더하게 하므로 가능한 한 정적인 작업으로 전환한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q13",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "미국산업위생학술원(AAIH)에서 채택한 산업위생분야에 종사하는 사람들이 지켜야 할 윤리강령에 포함되지 않는 것은?",
+      "options": [
+        "국가에 대한 책임",
+        "전문가로서의 책임",
+        "일반 대중에 대한 책임",
+        "기업주와 고객에 대한 책임",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q14",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "사무실 공기관리 지침상 근로자가 건강장해를 호소하는 경우 사무실 공기관리 상태를 평가하기 위해 사업주가 실시해야 하는 조사 항목으로 옳지 않은 것은?",
+      "options": [
+        "사무실 조명의 조도 조사",
+        "외부의 오염물질 유입경로 조사",
+        "공기정화시설 환기량의 적정여부 조사",
+        "근로자가 호소하는 증상(호흡기, 눈, 피부 자극 등)에 대한 조사",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q15",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "ACGIH에서 제정한 TLVs(Threshold Limit Values)의 설정근거가 아닌 것은?",
+      "options": [
+        "동물실험자료",
+        "인체실험자료",
+        "사업장 역학조사",
+        "선진국 허용기준",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q16",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 중 점멸 – 융합 테스트(Flicker test)의 용도로 가장 적합한 것은?",
+      "options": [
+        "진동 측정",
+        "소음 측정",
+        "피로도 측정",
+        "열중증 판정",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q17",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "산업안전보건법령상 물질안전보건자료 작성 시 포함되어야 할 항목이 아닌 것은? (단, 그 밖의 참고사항은 제외한다.)",
+      "options": [
+        "유해성·위험성",
+        "안정성 및 반응성",
+        "사용빈도 및 타당성",
+        "노출방지 및 개인보호구",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q18",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "직업병의 원인이 되는 유해요인, 대상 직종과 직업병 종류의 연결이 잘못된 것은?",
+      "options": [
+        "면분진 – 방직공 – 면폐증",
+        "이상기압 – 항공기조종 – 잠함병",
+        "크롬 – 도금 – 피부점막 궤양, 폐암",
+        "납 – 축전지제조 – 빈혈, 소화기장애",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q19",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "산업안전보건법령상 특수건강진단 대상자에 해당하지 않는 것은?",
+      "options": [
+        "고온환경 하에서 작업하는 근로자",
+        "소음환경 하에서 작업하는 근로자",
+        "자외선 및 적외선을 취급하는 근로자",
+        "저기압 하에서 작업하는 근로자",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q20",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "방직공장의 면분진 발생 공정에서 측정한 공기 중 면분진 농도가 2시간은 2.5mg/m3, 3시간은 1.8mg/m3, 3시간은 2.6mg/m3 일 때, 해당 공정의 시간가중평균노출기준 환산값은 약 얼마인가?",
+      "options": [
+        "0.86mg/m3",
+        "2.28mg/m3",
+        "2.35mg/m3",
+        "2.60mg/m3",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q21",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "작업환경측정치의 통계처리에 활용되는 변이계수에 관한 설명과 가장 거리가 먼 것은?",
+      "options": [
+        "평균값의 크기가 0에 가까울수록 변이계수의 의의는 작아진다.",
+        "측정단위와 무관하게 독립적으로 산출되며 백분율로 나타낸다.",
+        "단위가 서로 다른 집단이나 특성값의 상호산포도를 비교하는데 이용될 수 있다.",
+        "편차의 제곱 합들의 평균값으로 통계집단의 측정값들에 대한 균일성, 정밀도 정도를 표현한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q22",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "산업안전보건법령상 1회라도 초과노출되어서는 안되는 충격소음의 음압수준(dB(A)) 기준은?",
+      "options": [
+        "120",
+        "130",
+        "140",
+        "150",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q23",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "예비조사 시 유해인자 특성파악에 해당되지 않는 것은?",
+      "options": [
+        "공정보고서 작성",
+        "유해인자의 목록 작성",
+        "월별 유해물질 사용량 조사",
+        "물질별 유해성 자료 조사",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q24",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "분석에서 언급되는 용어에 대한 설명으로 옳은 것은?",
+      "options": [
+        "LOD는 LOQ의 10배로 정의하기도 한다.",
+        "LOQ는 분석결과가 신뢰성을 가질 수 있는 양이다.",
+        "회수율(%)은 첨가량/분석량×100으로 정의된다.",
+        "LOQ란 검출한계를 말한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q25",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "작업환경 내 유해물질 노출로 인한 위험성(위해도)의 결정 요인은?",
+      "options": [
+        "반응성과 사용량",
+        "위해성과 노출요인",
+        "노출기준과 노출량",
+        "반응성과 노출기준",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q26",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "AIHA에서 정한 유사노출군(SEG)별로 노출농도 범위, 분포 등을 평가하며 역학조사에 가장 유용하게 활용되는 측정방법은?",
+      "options": [
+        "진단모니터링",
+        "기초모니터링",
+        "순응도(허용기준 초과여부)모니터링",
+        "공정안전조사",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q27",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "알고 있는 공기 중 농도를 만드는 방법인 Dynamic Method에 관한 내용으로 틀린 것은?",
+      "options": [
+        "만들기가 복잡하고 가격이 고가이다.",
+        "온습도 조절이 가능하다.",
+        "소량의 누출이나 벽면에 의한 손실은 무시할 수 있다.",
+        "대개 운반용으로 제작하기가 용이하다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q28",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "기체크로마토그래피 검출기 중 PCBs나 할로겐 원소가 포함된 유기계 농약성분을 분석할 때 가장 적당한 것은?",
+      "options": [
+        "NPD(질소 인 검출기)",
+        "ECD(전자포획 검출기)",
+        "FID(불꽃 이온화 검출기)",
+        "TCD(열전도 검출기)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q29",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "호흡성 먼지(PRM)의 입경(㎛) 범위는? (단, 미국 ACGIH 정의 기준)",
+      "options": [
+        "0 ~ 10",
+        "0 ~ 20",
+        "0 ~ 25",
+        "10 ~ 100",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q30",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "원자흡광광도계의 표준시약으로서 적당한 것은?",
+      "options": [
+        "순도가 1급 이상인 것",
+        "풍화에 의한 농도변화가 있는 것",
+        "조해에 의한 농도변화가 있는 것",
+        "화학변화 등에 의한 농도변화가 있는 것",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q31",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "공기 중 acetone 500ppm, sec-butyl acetate 100ppm 및 methyl ketone 150ppm이 혼합물로서 존재할 때 복합노출지수(ppm)는? (단, acetone, sec-butyl acetate 및 methyl ethyl ketone의 TLV는 각각 750, 200, 200ppm이다.)",
+      "options": [
+        "1.25",
+        "1.56",
+        "1.74",
+        "1.92",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q32",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "화학공장의 작업장 내에 Toluene 농도를 측정하였더니 5, 6, 5, 6, 6, 6, 4, 8, 9, 20ppm일 때, 측정치의 기하표준편차(GSD)는?",
+      "options": [
+        "1.6",
+        "3.2",
+        "4.8",
+        "6.4",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q33",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "고열장해와 가장 거리가 먼 것은?",
+      "options": [
+        "열사병",
+        "열경련",
+        "열호족",
+        "열발진",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q34",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "산업안전보건법령상 누적소음노출량 측정기로 소음을 측정하는 경우의 기기설정값은?",
+      "options": [
+        "Ⓐ : 80, Ⓑ : 10, Ⓒ : 90",
+        "Ⓐ : 90, Ⓑ : 10, Ⓒ : 80",
+        "Ⓐ : 80, Ⓑ : 4, Ⓒ : 90",
+        "Ⓐ : 90, Ⓑ : 5, Ⓒ : 80",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220424/bw20220424m34.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q35",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "직경분립충돌기에 관한 설명으로 틀린 것은?",
+      "options": [
+        "흡입성, 흉곽성, 호흡성 입자의 크기별 분포와 농도를 계산할 수 있다.",
+        "호흡기의 부분별로 침착된 입자 크기를 추정할 수 있다.",
+        "입자의 질량크기분포를 얻을 수 있다.",
+        "되튐 또는 과부하로 인한 시료 손실이 비교적 정확한 측정이 가능하다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q36",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "옥외(태양광선이 내리쬐지 않는 장소)의 온열조건이 아래와 같을 때, WBGT(℃)는?",
+      "options": [
+        "26.5",
+        "29.5",
+        "33",
+        "55.5",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220424/bw20220424m36.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q37",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "여과지에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "막 여과지에서 유해물질은 여과지 표면이나 그 근처에서 채취된다.",
+        "막 여과지는 섬유상 여과지에 비해 공기저항이 심하다.",
+        "막 여과지는 여과지 표면에 채취된 입자의 이탈이 없다.",
+        "섬유상 여과지는 여과지 표면뿐 아니라 단면 깊게 입자상 물질이 들어가므로 더 많은 입자상 물질을 채취할 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q38",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "어느 작업장에서 A물질의 농도를 측정 한 결과가 아래와 같을 때, 측정 결과의 중앙값(median; ppm)은?",
+      "options": [
+        "22.7",
+        "23.0",
+        "23.3",
+        "23.9",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220424/bw20220424m38.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q39",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "복사선(Radiation)에 관한 설명 중 틀린 것은?",
+      "options": [
+        "복사선은 전리작용의 유무에 따라 전리복사선과 비전리복사선으로 구분한다.",
+        "비전리복사선에는 자외선, 가시광선, 적외선 등이 있고, 전리복사선에는 X선, γ선 등이 있다.",
+        "비전리복사선은 에너지 수준이 낮아 분자구조나 생물학적 세포조직에 영향을 미치지 않는다.",
+        "전리복사선이 인체에 영향을 미치는 정도에 복사선의 형태, 조사량, 신체조직, 연령 등에 따라 다르다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q40",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "산업안전보건법령에서 사용하는 용어의 정의로 틀린 것은?",
+      "options": [
+        "신뢰도란 분석치가 참값에 얼마나 접근하였는가 하는 수치상의 표현을 말한다.",
+        "가스상 물질이란 화학적인자가 공기중으로 가스·증기의 형태로 발생되는 물질을 말한다.",
+        "정도관리란 작업환경측정·분석 결과에 대한 정확성과 정밀도를 확보하기 위하여 작업환경측정기관의 측정·분석능력을 확인하고, 그 결과에 따라 지도·교육 등 측정·분석능력 향상을 위하여 행하는 모든 관리적 수단을 말한다.",
+        "정밀도란 일정한 물질에 대해 반복측정·분석을 했을 때 나타나는 자료 분석치의 변동크기가 얼마나 작은가 하는 수치상의 표현을 말한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q41",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "후드 제어속도에 대한 내용 중 틀린 것은?",
+      "options": [
+        "제어속도는 오염물질의 증발속도와 후드 주위의 난기류 속도를 합한 것과 같아야 한다.",
+        "포위식 후드의 제어속도를 결정하는 지점은 후드의 개구면이 된다.",
+        "외부식 후드의 제어속도를 결정하는 지점은 유해물질이 흡인되는 범위 안에서 후드의 개구 면으로부터 가장 멀리 떨어진 지점이 된다.",
+        "오염물질의 발생상황에 따라서 제어속도는 달라진다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q42",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "전기 집진장치에 대한 설명 중 틀린 것은?",
+      "options": [
+        "초기 설치비가 많이 든다.",
+        "운전 및 유지비가 비싸다.",
+        "가연성 입자의 처리가 곤란하다.",
+        "고온가스를 처리할 수 있어 보일러와 철강로 등에 설치 할 수 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q43",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "후드의 유입계수 0.86, 속도압 25mmH2O일 때 후드의 압력손실(mmH2O)은?",
+      "options": [
+        "8.8",
+        "12.2",
+        "15.4",
+        "17.2",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q44",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "국소배기시스템 설계과정에서 두 덕트가 한 합류점에서 만났다. 정압(절대치)이 낮은 쪽 대 정압이 높은 쪽의 정압비가 1:1.1로 나타났을 때, 적절한 설계는?",
+      "options": [
+        "정압이 낮은 쪽의 유량을 증가시킨다.",
+        "정압이 낮은 쪽의 덕트직경을 줄여 압력손실을 증가시킨다.",
+        "정압이 높은 쪽의 덕트직경을 늘려 압력손실을 감소시킨다.",
+        "정압의 차이를 무시하고 높은 정압을 지배정압으로 계속 계산해 나간다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q45",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "어떤 사업장의 산화 규소 분진을 측정하기 위한 방법과 결과가 아래와 같을 때, 다음 설명 중 옳은 것은? (단, 산화규소(결정체 석영)의 호흡성 분진 노출기준은 0.045mg/m3이다.)",
+      "options": [
+        "8시간 시간가중평가노출기준을 초과한다.",
+        "공기채취유량을 알 수가 없어 농도계산이 불가능하므로 위의 자료로는 측정결과를 알 수가 없다.",
+        "산화규소(결정체 석영)는 진폐증을 일으키는 분진이므로 흡입성 먼지를 측정하는 것이 바람직하므로 먼지시료를 채취하는 방법이 잘못됐다.",
+        "38㎍은 0.038mg이므로 단시간 노출 기준을 초과하지 않는다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220424/bw20220424m45.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q46",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "마스크 본체 자체가 필터 역할을 하는 방진마스크의 종류는?",
+      "options": [
+        "격리식 방진마스크",
+        "직결식 방진마스크",
+        "안면부 여과식 마스크",
+        "전동식 마스크",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q47",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "샌드 블라스트(sand blast) 그라인더 분진 등 보통 산업분진을 닥트로 운반할 때의 최소설계속도(m/s)로 가장 적절한 것은?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q48",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "입자의 침강속도에 대한 설명으로 틀린 것은? (단, 스토크스 식을 기준으로 한다.)",
+      "options": [
+        "입자직경의 제곱에 비례한다.",
+        "공기와 입자 사이의 밀도차에 반비례한다.",
+        "중력가속도에 비례한다.",
+        "공기의 점성계수에 반비례한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q49",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "어떤 공장에서 1시간에 0.2L의 벤젠이 증발되어 공기를 오염시키고 있다. 전체환기를 위해 필요한 환기량(m3/s)은? (단, 벤젠의 안전계수, 밀도 및 노출기준은 각각 6, 0.879g/mL, 0.5ppm이며, 환기량은 21℃, 1기압을 기준으로 한다.)",
+      "options": [
+        "82",
+        "91",
+        "146",
+        "181",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q50",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "환기시스템에서 포착속도(capture velocity)p 대한 설명 중 틀린 것은?",
+      "options": [
+        "먼지나 가스의 성상, 확산조건, 발생원 주변 기류 등에 따라서 크게 달라질 수 있다.",
+        "제어풍속이라고도 하며 후드 앞 오염원에서의 기류로서 오염공기를 후드로 흡인하는데 필요하며, 방해기류를 극복해야 한다.",
+        "유해물질의 발생기류가 높고 유해물질이 활발하게 발생할 때는 대략 15 ~ 20m/s이다.",
+        "유해물질이 낮은 기류로 발생하는 도금 또는 용접 작업공정에서는 대략 0.5 ~ 1.0m/s이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q51",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "국소배기시설에서 필요 환기량을 감소시키기 위한 방법으로 틀린 것은?",
+      "options": [
+        "후드 개구면에서 기류가 균일하게 분포되도록 설계한다.",
+        "공정에서 발생 또는 배출되는 오염물질의 절대량을 감소시킨다.",
+        "포집형이나 레시버형 후드를 사용할 때에는 가급적 후드를 배출 오염원에 가깝게 설치한다.",
+        "공정 내 측면부착 차폐막이나 커튼 사용을 줄여 오염물질의 희석을 유도한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q52",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 중 도금조와 사형주조에 사용되는 후드형식으로 가장 적절한 것은?",
+      "options": [
+        "부스식",
+        "포위식",
+        "외부식",
+        "장갑부착상자식",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q53",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "차음보호구인 귀마개(Ear Plug)에 대한 설명으로 가장 거리가 먼 것은?",
+      "options": [
+        "차음효과는 일반적으로 귀덮개보다 우수하다.",
+        "외청도에 이상이 없는 경우에 사용이 가능하다.",
+        "더러운 손으로 만짐으로써 외청도를 오염시킬 수 있다.",
+        "귀덮개와 비교하면 제대로 착용하는데 시간은 걸리나 부피가 작아서 휴대하기가 편리하다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q54",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "760mmH2O를 mmHg로 환산한 것으로 옳은 것은?",
+      "options": [
+        "5.6",
+        "56",
+        "560",
+        "760",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q55",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "정압이 –1.6cmH2O이고, 전압이 –0.7cmH2O로 측정되었을 때, 속도압(VP; cmH2O)과 유속 (u:m/s)은?",
+      "options": [
+        "VP: 0.9, u: 3.8",
+        "VP: 0.9, u: 12",
+        "VP: 2.3, u: 3.8",
+        "VP: 2.3, u: 12",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q56",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "사이클론 설계 시 블로우다운 시스템에 적용되는 처리량으로 가장 적절한 것은?",
+      "options": [
+        "처리 배기량의 1 ~ 2%",
+        "처리 배기량의 5 ~ 10%",
+        "처리 배기량의 40 ~ 50%",
+        "처리 배기량의 80 ~ 90%",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q57",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "레시버식 캐노피형 후드의 유량비법에 의한 필요 송풍량(Q)을 구하는 식에서 “A”는? (단, q는 오염원에서 발생하는 오염기류의 양을 의미한다.)",
+      "options": [
+        "열상승 기류량",
+        "누입한계 유량비",
+        "설계 유량비",
+        "유도 기류량",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220424/bw20220424m57.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q58",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "방진마스크에 대한 설명 중 틀린 것은?",
+      "options": [
+        "공기중에 부유하는 미세 입자 물질을 흡입함으로써 인체에 장해의 우려가 있는 경우에 사용한다.",
+        "방진마스크의 종류에는 격리식과 직결식이 있고, 그 성능에 따라 특급, 1급 및 2급으로 나누어 진다.",
+        "장시간 사용 시 분진의 포집효율이 증가하고 압력강하는 감소한다.",
+        "베릴륨, 석면 등에 대해서는 특급을 사용하여야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q59",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "오염물질의 농도가 200ppm까지 도달하였다가 오염물질 발생이 중지되었을 때, 공기 중 농도가 200ppm에서 19ppm으로 감소하는 데 걸리는 시간(min)은? (단, 환기를 통한 오염물질의 농도는 시간에 대한 지수함수(1차 반응)으로 근사된다고 가정하고 환기가 필요한 공간의 부피는 3000m3, 환기 속도는 1.17m3/s이다.)",
+      "options": [
+        "89",
+        "101",
+        "109",
+        "115",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q60",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "길이가 2.4m, 폭이 0.4m인 플랜지 부착 슬롯형 후드가 바닥에 설치되어 있다. 포촉점까지의 거리가 0.5m, 제어속도가 0.4m/s일 때 필요 송풍량(m3/min)은?",
+      "options": [
+        "20.2",
+        "46.1",
+        "80.6",
+        "161.3",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q61",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "전기성 안염(전광선 안염)과 가장 관련이 깊은 비전리 방사선은?",
+      "options": [
+        "자외선",
+        "적외선",
+        "가시광선",
+        "마이크로파",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q62",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "방사선의 투과력이 큰 것에서부터 작은 순으로 올바르게 나열한 것은?",
+      "options": [
+        "X > β > γ",
+        "X > β > α",
+        "α > X > γ",
+        "γ > α > β",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q63",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "소음에 의한 인체의 장해(소음성난청)에 영향을 미치는 요인이 아닌 것은?",
+      "options": [
+        "소음의 크기",
+        "개인의 감수성",
+        "소음 발생 장소",
+        "소음의 주파수 구성",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q64",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "일반적으로 눈을 부시게 하지 않고 조도가 균일하여 눈의 피로를 줄이는데 가장 효과적인 조명 방법은?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q65",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "도르노선(Dorno-ray)에 대한 내용으로 옳은 것은?",
+      "options": [
+        "가시광선의 일종이다.",
+        "280 ~ 315Å 파장의 자외선을 의미한다.",
+        "소독작용, 비타민 D 형성 등 생물학적 작용이 강하다.",
+        "절대온도 이상의 모든 물체는 온도에 비례하여 방출한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q66",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "산업안전보건법령상 충격소음의 노출기준과 관련된 내용으로 옳은 것은?",
+      "options": [
+        "충격소음의 강도가 120dB(A)일 경우 1일 최대 노출 회수는 1000회이다.",
+        "충격소음의 강도가 130dB(A)일 경우 1일 최대 노출 회수는 100회이다.",
+        "최대 음압수준이 135dB(A)를 초과하는 충격소음에 노출되어서는 안 된다.",
+        "충격소음이란 최대 음압수준에 120dB(A) 이상인 소음이 1초 이상의 간격으로 발생하는 것을 말한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q67",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "감압에 따른 인체의 기포 형성량을 좌우하는 요인과 가장 거리가 먼 것은?",
+      "options": [
+        "감압속도",
+        "산소공급량",
+        "조직에 용해된 가스량",
+        "혈류를 변화시키는 상태",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q68",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "작업환경측정 및 정도관리 등에 관한 고시상 고열 측정방법으로 옳지 않은 것은?",
+      "options": [
+        "예비조사가 목적인 경우 검지관방식으로 측정할 수 있다.",
+        "측정은 단위작업 장소에서 측정대상이 되는 근로자의 주 작업 위치에서 측정한다.",
+        "측정기의 위치는 바닥면으로부터 50cm 이상 150cm 이하의 위치에서 측정한다.",
+        "측정기를 설치한 후 충분히 안정화 시킨 상태에서 1일 작업시간 중 가장 높은 고열에 노출되는 1시간을 10분 간격으로 연속하여 측정한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q69",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "지적환경(optimum working environment)을 평가하는 방법이 아닌 것은?",
+      "options": [
+        "생산적(productive) 방법",
+        "생리적(physiological) 방법",
+        "정신적(psychological) 방법",
+        "생물역학적(biomechanical) 방법",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q70",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "한랭작업과 관련된 설명으로 옳지 않은 것은?",
+      "options": [
+        "저체온증은 몸의 심부온도가 35℃이하로 내려간 것을 말한다.",
+        "손가락의 온도가 내려가면 손동작의 정밀도가 떨어지고 시간이 많이 걸려 작업능률이 저하된다.",
+        "동상은 혹심한 한냉에 노출됨으로써 피부 및 피하조직 자체가 동결하여 조직이 손상되는 것을 말한다.",
+        "근로자의 발이 한랭에 장기간 노출되고 동시에 지속적으로 습기나 물에 잠기게 되면 ‘선단자람증’의 원인이 된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q71",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 방사선 중 입자방사선으로만 나열된 것은?",
+      "options": [
+        "α선, β선, γ선",
+        "α선, β선, X선",
+        "α선, β선, 중성자",
+        "α선, β선, γ선, X선",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q72",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 계측기기 중 기류 측정기가 아닌 것은?",
+      "options": [
+        "흑구온도계",
+        "카타온도계",
+        "풍차풍속계",
+        "열선풍속계",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q73",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음은 빛과 밝기의 단위를 설명한 것으로 ㉠, ㉡에 해당하는 용어로 옳은 것은?",
+      "options": [
+        "㉠ : 캔들(Candle), ㉡ : 럭스(Lux)",
+        "㉠ : 럭스(Lux), ㉡ : 캔들(Candle)",
+        "㉠ : 럭스(Lux), ㉡ : 푸트캔들(Footcandle)",
+        "㉠ : 푸트캔들(Footcandle), ㉡ : 럭스(Lux)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220424/bw20220424m73.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q74",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "고압환경에서의 2차적 가압현상(화학적 장해)에 의한 생체 영향과 거리가 먼 것은?",
+      "options": [
+        "질소 마취",
+        "산소 중독",
+        "질소기포 형성",
+        "이산화탄소 중독",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q75",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 중 공장내부에 기계 및 설비가 복잡하게 설치되어 있는 경우에 작업장 기계에 의한 흡음이 고려되지 않아 실제흡음보다 과소평가되기 쉬운 흡음 측정방법은?",
+      "options": [
+        "Sabin method",
+        "Reverberation time method",
+        "Sound power method",
+        "Loss due to distance method",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q76",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "작업자 A의 4시간 작업 중 소음노출량이 76%일 때, 측정시간에 있어서이 평균치는 약 몇 dB(A)인가?",
+      "options": [
+        "88",
+        "93",
+        "98",
+        "103",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q77",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "진동이 인체에 미치는 영향에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "맥박수가 증가한다.",
+        "1 ~ 3Hz에서 호흡이 힘들고 산소소비가 증가한다.",
+        "13Hz에서 허리, 가슴 및 등 쪽에 감각적으로 가장 심한 통증을 느낀다.",
+        "신체의 공진형상은 앉아 있을 때가 서 있을 때보다 심하게 나타난다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q78",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "공장 내 각기 다른 3대의 기계에서 각각 90dB(A), 95dB(A), 88dB(A)의 소음이 발생된다면 동시에 기계를 가동시켰을 때의 합산 소음(dB(A))은 약 얼마인가?",
+      "options": [
+        "96",
+        "97",
+        "98",
+        "99",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q79",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "사람이 느끼는 최소 진동역치로 옳은 것은?",
+      "options": [
+        "35 ± 5dB",
+        "45 ± 5dB",
+        "55 ± 5dB",
+        "65 ± 5dB",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q80",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "산업안전보건법령상 적정공기의 범위에 해당하는 것은?",
+      "options": [
+        "산소농도 18% 미만",
+        "일산화탄소 농도 50ppm 미만",
+        "탄산가스 농도 10% 미만",
+        "황화수소 농도 10ppm 미만",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q81",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "규폐증(silicosis)에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "직업적으로 석영 분진에 노출될 때 발생하는 진폐증의 일종이다.",
+        "석면의 고농도분진을 단기적으로 흡입할 때 주로 발생되는 질병이다.",
+        "채석장 및 모래분사 작업장에 종사하는 작업자들이 잘 걸리는 폐질환이다.",
+        "역사적으로 보면 이집트의 미이라에서도 발견되는 오래된 질병이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q82",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "입자상 물질의 하나인 흄(fume)의 발생기전 3단계에 해당하지 않는 것은?",
+      "options": [
+        "산화",
+        "입자화",
+        "응축",
+        "증기화",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q83",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 중 20년간 석면을 사용하여 자동차 브레이크 라이닝과 패드를 만들었던 근로자가 걸릴 수 있는 대표적인 질병과 거리가 가장 먼 것은?",
+      "options": [
+        "폐암",
+        "석면폐증",
+        "악성중피종",
+        "급성골수성백혈병",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q84",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "유해물질의 생체내 배설과 관련된 설명으로 옳지 않은 것은?",
+      "options": [
+        "유해물질은 대부분 위(胃)에서 대사된다.",
+        "흡수된 유해물질은 수용성으로 대사된다.",
+        "유해물질의 분포량은 혈중농도에 대한 투여량으로 산출된다.",
+        "유해물질의 혈장농도가 50%로 감소하는데 소요되는 시간을 반감기라고 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q85",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 중 조혈장기에 장해를 입히는 정도가 가장 낮은 것은?",
+      "options": [
+        "망간",
+        "벤젠",
+        "납",
+        "TNT",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q86",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "화학물질을 투여한 실험동물의 50%가 관찰 가능한 가역적인 반응을 나타내는 양을 의미하는 것은?",
+      "options": [
+        "ED50",
+        "LC50",
+        "LE50",
+        "TE50",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q87",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "금속의 독성에 관한 일반적인 특성을 설명한 것으로 옳지 않은 것은?",
+      "options": [
+        "금속의 대부분은 이온상태로 작용된다.",
+        "생리과정에 이온상태의 금속이 활용되는 정도는 용해도에 달려있다.",
+        "금속이온과 유기화합물 사이의 강한 결합력은 배설율에도 영향을 미치게 한다.",
+        "용해성 금속염은 생체 내 여러 가지 물질과 작용하여 수용성 화합물로 전환된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q88",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "작업자가 납 흄에 장기간 노출되어 혈액 중 납의 농도가 높아졌을 때 일어나는 혈액 내 현상이 아닌 것은?",
+      "options": [
+        "K+와 수분이 손실된다.",
+        "삼투압에 의하여 적혈구가 위축된다.",
+        "적혈구 생존시간이 감소한다.",
+        "적혈구내 전해질이 급격히 증가한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q89",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "화학물질의 생리적 작용에 의한 분류에서 종말기관지 및 폐포점막 자극제에 해당되는 유해가스는?",
+      "options": [
+        "불화수소",
+        "이산화질소",
+        "염화수소",
+        "아황산가스",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q90",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "단시간노출기준(STEL)은 근로자가 1회 몇 분 동안 유해인자에 노출되는 경우의 기준을 말하는가?",
+      "options": [
+        "5분",
+        "10분",
+        "15분",
+        "30분",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q91",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "폴리비닐 중합체를 생산하는 데 많이 쓰이며, 간장해와 발암작용이 있다고 알려진 물질은?",
+      "options": [
+        "납",
+        "PCB",
+        "염화비닐",
+        "포름알데히드",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q92",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "알레르기성 접촉 피부염에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "알레르기성 반응은 극소량 노출에 의해서도 피부염이 발생할 수 있는 것이 특징이다.",
+        "알레르기 반응을 일으키는 관련세포는 대식세포, 림프구, 랑거한스 세포로 구분된다.",
+        "항원에 노출되고 일정시간이 지난 후에 다시 노출되었을 때 세포매개성 과민반응에 의하여 나타나는 부작용의 결과이다.",
+        "알레르기원에 노출되고 이 물질이 알레르기원으로 작용하기 위해서는 일정기간이 소요되며 그 기간을 휴지기라 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q93",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "망간중독에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "호흡기 노출이 주경로이다.",
+        "언어장애, 균형감각상실 등의 증세를 보인다.",
+        "전기용접봉 제조업, 도자기 제조업에서 빈번하게 발생되다.",
+        "만성중독은 3가 이상의 망간화합물에 의해서 주로 발생한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q94",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "남성 근로자의 생식독성 유발요인이 아닌 것은?",
+      "options": [
+        "풍진",
+        "흡연",
+        "망간",
+        "카드뮴",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q95",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "연(납)의 인체 내 침입경로 중 피부를 통하여 침입하는 것은?",
+      "options": [
+        "일산화연",
+        "4메틸연",
+        "아질산연",
+        "금속연",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q96",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "산업역학에서 상대위험도의 값이 1인 경우가 의미하는 것은?",
+      "options": [
+        "노출되면 위험하다.",
+        "노출되어서는 절대 안된다.",
+        "노출과 질병발생 사이에는 연관이 없다.",
+        "노출되면 질병에 대하여 방어효과가 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q97",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "유해물질과 생물학적 노출지표와의 연결이 잘못된 것은?",
+      "options": [
+        "벤젠 – 소변 중 페놀",
+        "크실렌 – 소변 중 카테콜",
+        "스티렌 – 소변 중 만델린산",
+        "퍼클로로에틸렌 – 소변 중 삼연화초산",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q98",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 설명에 해당하는 중금속의 종류는?",
+      "options": [
+        "납",
+        "크롬",
+        "수은",
+        "카드뮴",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220424/bw20220424m98.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q99",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "납에 노출된 근로자가 납중독 되었는지를 확인하기 위하여 소변을 시료로 채취하였을 경우 측정할 수 있는 항목이 아닌 것은?",
+      "options": [
+        "델타-ALA",
+        "납 정량",
+        "coproporphyrin",
+        "protoporphyrin",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q100",
+      "subject": "산업위생관리기사",
+      "round": "2022-04-24 기출",
+      "question_text": "다음 중 중추신경 억제작용이 가장 큰 것은?",
+      "options": [
+        "알칸",
+        "에테르",
+        "알코올",
+        "에스테르",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q101",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "중량물 취급으로 인한 요통발생에 관여 하는 요인으로 볼 수 없는 것은?",
+      "options": [
+        "근로자의 육체적 조건",
+        "작업빈도와 대상의 무게",
+        "습관성 약물의 사용 유무",
+        "작업습관과 개인적인 생활태도",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q102",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산업위생의 기본적인 과제에 해당하지 않는 것은?",
+      "options": [
+        "작업환경이 미치는 건강장애에 관한 연구",
+        "작업능률 저하에 따른 작업조건에 관한 연구",
+        "작업환경의 유해물질이 대기오염에 미치는 영향에 관한 연구",
+        "작업환경에 의한 신체적 영향과 최적환경의 연구",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q103",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "작업시작 및 종료 시 호흡의 산소소비량에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "산소소비량은 작업부하가 계속 증가하면 일정한 비율로 계속 증가한다.",
+        "작업이 끝난 후에도 맥박과 호흡수가 작업개시 수준으로 즉시 돌아오지 않고 서서히 감소한다.",
+        "작업부하 수준이 최대 산소소비량 수준보다 높아지게 되면, 젖산의 제거 속도가 생성 속도에 못 미치게 된다.",
+        "작업이 끝난 후에 남아 있는 젖산을 제거하기 위해서는 산소가 더 필요하며, 이 때 동원되는 산소소비량을 산소부채(oxygen debt)라 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q104",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "38세 된 남성근로자의 육체적 작업능력(PWC)은 15 kcal/min이다. 이 근로자가 1일 8시간 동안 물체를 운반하고 있으며 이때의 작업 대사량은 7kcal/min이고, 휴식 시 대사량은 1.2 kcal/min이다. 이 사람의 적정 휴식시간과 작업시간의 배분(매시간별)은 어떻게 하는 것이 이상적인가?",
+      "options": [
+        "12분 휴식 48분 작업",
+        "17분 휴식 43분 작업",
+        "21분 휴식 39분 작업",
+        "27분 휴식 33분 작업",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q105",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산업위생의 역사에 있어 주요 인물과 업적의 인결이 올바른 것은?",
+      "options": [
+        "Percivall Pott - 구리광산의 산 증기 위험성 보고",
+        "Hippocrates - 역사상 최초의 직업병(납중독) 보고",
+        "G. Agricola - 검댕에 의한 직업성 암의 최초 보고",
+        "Bernardino Ramazzini - 금속 중독과 수은의 위험성 규명",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q106",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산업안전보건법령상 자격을 갖춘 보건관리자가 해당 사업장의 근로자를 보호하기 위한 조치에 해당하는 의료행위를 모두 고른 것은? (단, 보건관리자는 의료법에 따른 의사로 한정한다.)",
+      "options": [
+        "가, 나",
+        "가, 다",
+        "가, 다, 라",
+        "가, 나, 다, 라",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220305/bw20220305m6.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q107",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "온도 25 ℃, 1기압 하에서 분당 100 mL 씩 60분 동안 채취한 공기 중에서 벤젠이 5mg 검출되었다면 검출된 벤젠은 약 몇 ppm 인가? (단, 벤젠의 분자량은 78 이다.)",
+      "options": [
+        "15.7",
+        "26.1",
+        "157",
+        "261",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q108",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산업위생전문가들이 지켜야 할 윤리강령에 있어 전문가로서의 책임에 해당하는 것은?",
+      "options": [
+        "일반 대중에 관한 사항은 정직하게 발표한다.",
+        "위험요소와 예방조치에 관하여 근로자와 상담한다.",
+        "과학적 방법의 적용과 자료의 해석에서 객관성을 유지한다.",
+        "위험요인의 측정, 평가 및 관리에 있어서 외부의 압력에 굴하지 않고 중립적 태도를 취한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q109",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "어떤 플라스틱 제조 공장에 200명의 근로자가 근무하고 있다. 1년에 40건의 재해가 발생하였다면 이 공장의 도수율은? (단, 1일 8시간, 연간 290일 근무기준이다.)",
+      "options": [
+        "200",
+        "86.2",
+        "17.3",
+        "4.4",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q110",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산업스트레스에 대한 반응을 심리적 결과와 행동적 결과로 구분할 때 행동적 결과로 볼수 없는 것은?",
+      "options": [
+        "수면 방해",
+        "약물 남용",
+        "식욕 부진",
+        "돌발 행동",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q111",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산업안전보건법령상 충격소음의 강도가 130 dB(A)일 때 1일 노출횟수 기준으로 옳은 것은?",
+      "options": [
+        "50",
+        "100",
+        "500",
+        "1000",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q112",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 중 일반적인 실내공기질 오염과 가장 관련이 적은 질환은?",
+      "options": [
+        "규폐증(silicosis)",
+        "가습기 열(humidifier fever)",
+        "레지오넬라병 (legionnaires disease)",
+        "과민성 폐렴(hypersensitivity pneumonitis)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q113",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "물체의 실제무게를 미국 NIOSH의 권고 중량물한계기준(RWL : recommended weight limit)으로 나누어 준 값을 무엇이라 하는가?",
+      "options": [
+        "중량상수(LC)",
+        "빈도승수(FM)",
+        "비대칭승수(AM)",
+        "중량물 취급지수(LI)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q114",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산업안전보건법령상 사업주가 위험성평가의 결과와 조치사항을 기록·보존할 때 포함되어야 할 사항이 아닌 것은? (단, 그 밖에 위험성평가의 실시내용을 확인하기 위하여 필요한 사항은 제외한다.)",
+      "options": [
+        "위험성 결정의 내용",
+        "유해위험방지계획서 수립 유무",
+        "위험성 결정에 따른 조치의 내용",
+        "위험성평가 대상의 유해·위험요인",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q115",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 중 규폐증을 일으키는 주요 물질은?",
+      "options": [
+        "면분진",
+        "석탄 분진",
+        "유리규산",
+        "납흄",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q116",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "화학물질 및 물리적 인자의 노출기준 고시상 다음 (    )에 들어갈 유해물질들 간의 상호작용은?",
+      "options": [
+        "상승작용",
+        "강화작용",
+        "상가작용",
+        "길항작용",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220305/bw20220305m16.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q117",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "A사업장에서 중대재해인 사망사고가 1년간 4건 발생하였다면 이 사업장의 1년간 4일 미만의 치료를 요하는 경미한 사고건수는 몇 건이 발생하는지 예측되는가? (단, Heinrich의 이론에 근거하여 추정한다.)",
+      "options": [
+        "116",
+        "120",
+        "1160",
+        "1200",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q118",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "교대작업이 생기게 된 배경으로 옳지 않은 것은?",
+      "options": [
+        "사회 환경의 변화로 국민생활과 이용자들의 편의를 위한 공공사업의 증가",
+        "의학의 발달로 인한 생체주기 등의 건강상 문제 감소 및 의료기관의 증가",
+        "석유화학 및 제철업 등과 같이 공정상 조업중단이 불가능한 산업의 증가",
+        "생산설비의 완전가동을 통해 시설투자비용을 조속히 회수하려는 기업의 증가",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q119",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "작업장에 존재하는 유해인자와 직업성 질환의 연결이 옳지 않은 것은?",
+      "options": [
+        "망간 - 신경염",
+        "무기 분진 - 진폐증",
+        "6가크롬 - 비중격천공",
+        "이상기압 - 레이노씨 병",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q120",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "심한 노동 후의 피로 현상으로 단기간의 휴식에 의해 회복될 수 없는 병적상태를 무엇이라 하는가?",
+      "options": [
+        "곤비",
+        "과로",
+        "전신피로",
+        "국소피로",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q121",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "고체 흡착제를 이용하여 시료채취를 할 때 영향을 주는 인자에 관한 설명으로 틀린 것은?",
+      "options": [
+        "오염물질 농도 : 공기 중 오염물질의 농도가 높을수록 파과 용량은 증가한다.",
+        "습도 : 습도가 높으면 극성 흡착제를 사용할 때 파과 공기량이 적어진다.",
+        "온도 : 일반적으로 흡착은 발열 반응이므로 열역학적으로 온도가 낮을수록 흡착에 좋은 조건이다.",
+        "시료 채취유량 : 시료 채취유량이 높으면 쉽게 파과가 일어나나 코팅된 흡착제인 경우는 그 경향이 약하다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q122",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "불꽃방식의 원자흡광광도계의 특징으로 옳지 않은 것은?",
+      "options": [
+        "조작이 쉽고 간편하다.",
+        "분석시간이 흑연로장치에 비하여 적게 소요된다.",
+        "주입 시료액의 대부분이 불꽃부분으로 보내지므로 감도가 높다.",
+        "고체 시료의 경우 전처리에 의하여 매트릭스를 제거해야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q123",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산업안전보건법령상 소음의 측정시간에 관한 내용 중 A에 들어갈 숫자는?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220305/bw20220305m23.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q124",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산업안전보건법령상 다음과 같이 정의되는 용어는?",
+      "options": [
+        "정밀관리",
+        "정확관리",
+        "적정관리",
+        "정도관리",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220305/bw20220305m24.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q125",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "한 근로자가 하루 동안 TCE에 노출되는 것을 측정한 결과가 아래와 같을 때, 8시간 시간가중 평균치(TWA; ppm)는?",
+      "options": [
+        "15.7",
+        "14.2",
+        "13.8",
+        "10.6",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220305/bw20220305m25.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q126",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "피토관(Pitot tube)에 대한 설명 중 옳은 것은? (단, 측정 기체는 공기이다.)",
+      "options": [
+        "Pitot tube의 정확성에는 한계가 있어 정밀한 측정에서는 경사마노미터를 사용한다.",
+        "Pitot tube를 이용하여 곧바로 기류를 측정할 수 있다.",
+        "Pitot tube를 이용하여 총압과 속도압을 구하여 정압을 계산한다.",
+        "속도압이 25mmH2O 일때 기류속도는 28.58 m/s이다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q127",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산업안전보건법령상 작업환경측정 대상이 되는 작업장 또는 공정에서 정상적인 작업을 수행하는 동일 노출집단의 근로자가 작업을 하는 장소를 지칭하는 용어는?",
+      "options": [
+        "동일작업 장소",
+        "단위작업 장소",
+        "노출측정 장소",
+        "측정작업 장소",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q128",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "근로자가 일정시간 동안 일정 농도의 유해물질에 노출될 때 체내에 흡수되는 유해물질의 양은 아래의 식을 적용하여 구한다. 각 인자에 대한 설명이 틀린 것은?",
+      "options": [
+        "C : 공기 중 유해물질 농도",
+        "T : 노출시간",
+        "R : 체내 잔류율",
+        "V : 작업공간 공기의 부피",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220305/bw20220305m28.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q129",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "고열 (Heat stress)의 작업환경 평가와 관련된 내용으로 틀린 것은?",
+      "options": [
+        "가장 일반적인 방법은 습구흑구온도(WBGT)를 측정하는 방법이다.",
+        "자연습구온도는 대기온도를 측정하긴 하지만 습도와 공기의 움직임에 영향을 받는다.",
+        "흑구온도는 복사열에 의해 발생하는 온도이다.",
+        "습도가 높고 대기 흐름이 적을 때 낮은 습구온도가 발생한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q130",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "같은 작업 장소에서 동시에 5개의 공기시료를 동일한 채취조건하에서 채취하여 벤젠에 대해 아래의 도표와 같은 분석결과를 얻었다. 이 때 벤젠농도 측정의 변이계수(CV%)는?",
+      "options": [
+        "8%",
+        "14%",
+        "56%",
+        "96%",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220305/bw20220305m30.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q131",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "작업장 내 다습한 공기에 포함된 비극성 유기증기를 채취하기 위해 이용할 수 있는 흡착제의 종류로 가장 적절한 것은?",
+      "options": [
+        "활성탄(Activated charcoal)",
+        "실리카겔(Silica Gel)",
+        "분자체(Molecular sieve)",
+        "알루미나(Alumina)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q132",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산업안전보건법령상 가스상 물질의 측정에 관한 내용 중 일부이다. (  )에 들어갈 내용으로 옳은 것은?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220305/bw20220305m32.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q133",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "벤젠과 톨루엔이 혼합된 시료를 길이 30cm, 내경 3mm인 충진관이 장치된 기체크로마토그래피로 분석한 결과가 아래와 같을 때, 혼합 시료의 분리효율을 99.7%로 증가시키는 데 필요한 충진관의 길이(cm)는? (단, N, H, L, W, Rs, tR은 각각 이론단수, 높이(HETP), 길이, 봉우리 너비, 분리계수, 머무름 시간을 의미하며, 문자 위 “-”(bar)는 평균값을, 하첨자 A와 B는 각각의 물질을 의미하며, 분리효율이 99.7%가 되기 위한 Rs는 1.5이다.)",
+      "options": [
+        "60",
+        "62.5",
+        "67.5",
+        "72.5",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220305/bw20220305m33.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q134",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "단위작업 장소에서 소음의 강도가 불규칙적으로 변동하는 소음을 누적소음 노출량측정기로 측정하였다. 누적소음 노출량이 300%인 경우, 시간가중평균 소음수준(dB(A))은?",
+      "options": [
+        "92",
+        "98",
+        "103",
+        "106",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q135",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "공장에서 A용제 30%(노출기준 1200 mg/m3),B용제 30%(노출기준 1400 mg/m3) 및 C용제 40%(노출기준 1600 mg/m3)의 중량비로 조성된 액체용제가 증발되어 작업 환경을 오염시킬 때, 이 혼합물의 노출기준(mg/m3)은? (단, 혼합물의 성분은 상가 작용을 한다.)",
+      "options": [
+        "1400",
+        "1450",
+        "1500",
+        "1550",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q136",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "WBGT 측정기의 구성요소로 적절하지 않은 것은?",
+      "options": [
+        "습구온도계",
+        "건구온도계",
+        "카타온도계",
+        "흑구온도계",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q137",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "유량, 측정시간, 회수율 및 분석에 의한 오차가 각각 18%, 3%, 9%, 5%일 때, 누적 오차(%)는?",
+      "options": [
+        "18",
+        "21",
+        "24",
+        "29",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q138",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "흡광광도법에 관한 설명으로 틀린 것은?",
+      "options": [
+        "광원에서 나오는 빛을 단색화 장치를 통해 넓은 파장 범위의 단색 빛으로 변화시킨다.",
+        "선택된 파장의 빛을 시료액 층으로 통과시킨 후 흡광도를 측정하여 농도를 구한다.",
+        "분석의 기초가 되는 법칙은 램버어트-비어의 법칙이다.",
+        "표준액에 대한 흡광도와 농도의 관계를 구한 후, 시료의 흡광도를 측정하여 농도를 구한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q139",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "작업환경 중 분진의 측정 농도가 대수정규분포를 할 때, 측정 자료의 대표치에 해당되는 용어는?",
+      "options": [
+        "기하평균치",
+        "산술평균치",
+        "최빈치",
+        "중앙치",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q140",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "진동을 측정하기 위한 기기는?",
+      "options": [
+        "충격측정기(Impulse meter)",
+        "레이저판독판(Laser readout)",
+        "가속측정기(Accelerometer)",
+        "소음측정기(Sound level meter)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q141",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "국소배기 시설에서 장치 배치 순서로 가장 적절한 것은?",
+      "options": [
+        "송풍기 → 공기정화기 → 후드 → 덕트 → 배출구",
+        "공기정화기 → 후드→ 송풍기 → 덕트 → 배출구",
+        "후드 → 덕트 → 공기정화기 → 송풍기 → 배출구",
+        "후드 → 송풍기 → 공기정화기 → 덕트 → 배출구",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q142",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "금속을 가공하는 음압수준이 98 dB(A)인 공정에서 NRR이 17인 귀마개를 착용했을 때의 차음효과(dB(A))는? (단, OSHA의 차음효과 예측방법을 적용한다.)",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "7",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q143",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 중 중성자의 차폐(shielding) 효과가 가장 적은 물질은?",
+      "options": [
+        "물",
+        "파라핀",
+        "납",
+        "흑연",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q144",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "테이블에 붙여서 설치한 사각형 후드의 필요환기량 Q(m3/min)를 구하는 식으로 적절한 것은? (단, 플랜지는 부착되지 않았고, A(m2)는 개구면적, X(m)는 개구부와 오염원 사이의 거리, V(m/s)는 제어 속도를 의미한다.)",
+      "options": [
+        "Q = V×(5X2 + A)",
+        "Q = V×(7X2 + A)",
+        "Q = 60×V×(5X2 + A)",
+        "Q = 60×V×(7X2 + A)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q145",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "원심력집진장치에 관한 설명 중 옳지 않은 것은?",
+      "options": [
+        "비교적 적은 비용으로 집진이 가능하다.",
+        "분진의 농도가 낮을수록 집진효율이 증가한다.",
+        "함진가스에 선회류를 일으키는 원심력을 이용한다.",
+        "입자의 크기가 크고 모양이 구체에 가까울수록 집진효율이 증가한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q146",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "직경이 38cm, 유효높이 2.5m의 원통형 백필터를 사용하여 60 m3/min의 함진 가스를 처리할 때 여과속도(cm/s)는?",
+      "options": [
+        "25",
+        "32",
+        "50",
+        "64",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q147",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "표준상태(STP; 0℃, 1기압)에서 공기의 밀도가 1.293 kg/m3일 때, 40℃, 1기압에서 공기의 밀도(kg/m3)는?",
+      "options": [
+        "1.040",
+        "1.128",
+        "1.185",
+        "1.312",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q148",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "국소배기장치로 외부식 측방형 후드를 설치할 때, 제어 풍속을 고려하여야 할 위치는?",
+      "options": [
+        "후드의 개구면",
+        "작업자의 호흡 위치",
+        "발산되는 오염 공기 중의 중심위치",
+        "후드의 개구면으로부터 가장 먼 작업 위치",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q149",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "작업장에서 작업공구와 재료 등에 적용할 수 있는 진동대책과 가장 거리가 먼 것은?",
+      "options": [
+        "진동공구의 무게는 10 kg 이상 초과하지 않도록 만들어야 한다.",
+        "강철로 코일용수철을 만들면 설계를 자유스럽게 할 수 있으나 oil damper 등의 저항요소가 필요할 수 있다.",
+        "방진고무를 사용하면 공진 시 진폭이 지나치게 커지지 않지만 내구성, 내약품성이 문제가 될 수 있다.",
+        "코르크는 정확하게 설계할 수 있고 고유진동수가 20Hz 이상이므로 진동방지에 유용하게 사용할 수 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q150",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "여과 집진 장치의 여과지에 대한 설명으로 틀린 것은?",
+      "options": [
+        "0.1um 이하의 입자는 주로 확산에 의해 채취된다.",
+        "압력강하가 적으면 여과지의 효율이 크다.",
+        "여과지의 특성을 나타내는 항목으로 기공의 크기, 여과지의 두께 등이 있다.",
+        "혼합섬유 여과지로 가장 많이 사용되는 것은 microsorban 여과지이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q151",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "일반적인 후드 설치의 유의사항으로 가장 거리가 먼 것은?",
+      "options": [
+        "오염원 전체를 포위시킬 것",
+        "후드는 오염원에 가까이 설치할 것",
+        "오염 공기의 성질, 발생상태, 발생원인을 파악할 것.",
+        "후드의 흡인 방향과 오염 가스의 이동방향은 반대로 할 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q152",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "앞으로 구부리고 수행하는 작업공정에서 올바른 작업자세라고 볼 수 없는 것은?",
+      "options": [
+        "작업 점의 높이는 팔꿈치보다 낮게 한다.",
+        "바닥의 얼룩을 닦을 때에는 허리를 구부리지 말고 다리를 구부려서 작업한다.",
+        "상체를 구부리고 작업을 하다가 일어설 때는 무릎을 굴절시켰다가 다리 힘으로 일어난다.",
+        "신체의 중심이 물체의 중심보다 뒤쪽에 있도록 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q153",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "호흡기 보호구의 사용 시 주의사항과 가장 거리가 먼 것은?",
+      "options": [
+        "보호구의 능력을 과대평가 하지 말아야 한다.",
+        "보호구 내 유해물질 농도는 허용기준 이하로 유지해야 한다.",
+        "보호구를 사용할 수 있는 최대 사용가능농도는 노출기준에 할당보호계수를 곱한 값이다.",
+        "유해물질의 농도가 즉시 생명에 위태로울 정도인 경우는 공기 정화식 보호구를 착용해야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q154",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "흡인구와 분사구의 등속선에서 노즐의 분사구 개구면 유속을 100%라고 할 때 유속이 10% 수준이 되는 지점은 분사구 내경(d)의 몇 배 거리인가?",
+      "options": [
+        "5d",
+        "10d",
+        "30d",
+        "40d",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q155",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "방진마스크의 성능 기준 및 사용 장소에 대한 설명 중 옳지 않은 것은?",
+      "options": [
+        "방진마스크 등급 중 2급은 포집효율이 분리식과 안면부 여과식 모두 90% 이상이어야 한다.",
+        "방진마스크 등급 중 특급의 포집효율은 분리식의 경우 99.95% 이상, 안면부 여과식의 경우 99.0% 이상이어야 한다.",
+        "베릴륨 등과 같이 독성이 강한 물질들을 함유한 분진이 발생하는 장소에서는 특급 방진마스크를 착용하여야 한다.",
+        "금속흄 등과 같이 열적으로 생기는 분진이 발생하는 장소에서는 1급 방진마스크를 착용하여야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q156",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "레시버식 캐노피형 후드 설치에 있어 열원 주위 상부의 퍼짐각도는? (단, 실내에는 다소의 난기류가 존재한다.)",
+      "options": [
+        "20°",
+        "40°",
+        "60°",
+        "90°",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q157",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "국소배기 시설의 투자비용과 운전비를 작게 하기 위한 조건으로 옳은 것은?",
+      "options": [
+        "제어속도 증가",
+        "필요송풍량 감소",
+        "후드개구면적 증가",
+        "발생원과의 원거리 유지",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q158",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "정상류가 흐르고 있는 유체 유동에 관한 연속 방정식을 설명하는데 적용된 법칙은?",
+      "options": [
+        "관성의 법칙",
+        "운동량의 법칙",
+        "질량보존의 법칙",
+        "점성의 법칙",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q159",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "공기 중의 포화증기압이 1.52 mmHg인 유기용제가 공기 중에 도달할 수 있는 포화농도(ppm)는?",
+      "options": [
+        "2000",
+        "4000",
+        "6000",
+        "8000",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q160",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "표준공기(21℃)에서 동압이 5mmHg일 때 유속(m/s)은?",
+      "options": [
+        "9",
+        "15",
+        "33",
+        "45",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q161",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "일반적으로 전신진동에 의한 생체반응에 관여하는 인자와 가장 거리가 먼 것은?",
+      "options": [
+        "온도",
+        "진동 강도",
+        "진동 방향",
+        "진동수",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q162",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "반향시간(reverberation time)에 관한 설명으로 옳은 것은?",
+      "options": [
+        "반향시간과 작업장의 공간부피만 알면 흡음량을 추정할 수 있다.",
+        "소음원에서 소음발생이 중지한 후 소음의 감소는 시간의 제곱에 반비례하여 감소한다.",
+        "반향시간은 소음이 닿는 면적을 계산하기 어려운 실외에서의 흡음량을 추정하기 위하여 주로 사용한다.",
+        "소음원에서 발생하는 소음과 배경소음간의 차이가 40dB 인 경우에는 60dB 만큼 소음이 감소하지 않기 때문에 반향시간을 측정할 수 없다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q163",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산업안전보건법령상 이상기압과 관련된 용어의 정의가 옳지 않은 것은?",
+      "options": [
+        "압력이란 게이지 압력을 말한다.",
+        "표면공급식 잠수작업은 호흡용 기체통을 휴대하고 하는 작업을 말한다.",
+        "고압작업이란 고기압에서 잠함공법이나 그 외의 압기 공법으로 하는 작업을 말한다.",
+        "기압조절실이란 고압작업을 하는 근로자가 가압 또는 감압을 받는 장소를 말한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q164",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "빛과 밝기의 단위에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "반사율은 조도에 대한 휘도의 비로 표시한다.",
+        "광원으로부터 나오는 빛의 양을 광속이라고 하며 단위는 루멘을 사용한다.",
+        "입사면의 단면적에 대한 광도의 비를 조도라 하며 단위는 촉광을 사용한다.",
+        "광원으로부터 나오는 빛의 세기를 광도라고 하며 단위는 칸델라를 사용한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q165",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "전리방사선의 종류에 해당하지 않는 것은?",
+      "options": [
+        "γ선",
+        "중성자",
+        "레이저",
+        "β선",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q166",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 중 방사선에 감수성이 가장 큰 인체조직은?",
+      "options": [
+        "눈의 수정체",
+        "뼈 및 근육조직",
+        "신경조직",
+        "결합조직과 지방조직",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q167",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산소결핍이 진행되면서 생체에 나타나는 영향을 순서대로 나열한 것은?",
+      "options": [
+        "㉠ → ㉢ → ㉣ → ㉡",
+        "㉠ → ㉣ → ㉢ → ㉡",
+        "㉢ → ㉠ → ㉣ → ㉡",
+        "㉢ → ㉣ → ㉠ → ㉡",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220305/bw20220305m67.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q168",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "자외선으로부터 눈을 보호하기 위한 차광보호구를 선정하고자 하는데 차광도가 큰것이 없어 두 개를 겹쳐서 사용하였다. 각각의 보호구의 차광도가 6과 3이었다면 두 개를 겹쳐서 사용한 경우의 차광도는?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "18",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q169",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "체온의 상승에 따라 체온조절중추인 시상하부에서 혈액온도를 감지하거나 신경망을 통하여 정보를 받아 들여 체온방산작용이 활발해지는 작용은?",
+      "options": [
+        "정신적 조절작용(spiritual thermoregulation)",
+        "화학적 조절작용(chemical themoregulation)",
+        "생물학적 조절작용(biological thermoregulation)",
+        "물리적 조절작용(physical thermoregulation)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q170",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 중 진동에 의한 장해를 최소화시키는 방법과 거리가 먼 것은?",
+      "options": [
+        "진동의 발생원을 격리시킨다.",
+        "진동의 노출시간을 최소화시킨다.",
+        "훈련을 통하여 신체의 적응력을 향상시킨다.",
+        "진동을 최소화하기 위하여 공학적으로 설계 및 관리한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q171",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "저온 환경에 의한 장해의 내용으로 옳지 않은 것은?",
+      "options": [
+        "근육 긴장이 증가하고 떨림이 발생한다.",
+        "혈압은 변화되지 않고 일정하게 유지된다.",
+        "피부 표면의 혈관들과 피하조직이 수축된다.",
+        "부종, 저림, 가려움, 심한 통증 등이 생긴다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q172",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "작업장의 조도를 균등하게 하기 위하여 국소조명과 전체조명이 병용될 때, 일반적으로전체 조명의 조도는 국부조명의 어느 정도가 적당한가?",
+      "options": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q173",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 중 소음에 의한 청력장해가 가장 잘 일어나는 주파수 대역은?",
+      "options": [
+        "1000 Hz",
+        "2000 Hz",
+        "4000 Hz",
+        "8000 Hz",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q174",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 중 감압과정에서 감압속도가 너무 빨라서 나타나는 종격기종, 기흉의 원인이 되는 것은?",
+      "options": [
+        "질소",
+        "이산화탄소",
+        "산소",
+        "일산화탄소",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q175",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "음향출력이 1000W 인 음원이 반자유공간(반구면파)에 있을 때 20 m 떨어진 지점에서의 음의 세기는 약 얼마인가?",
+      "options": [
+        "0.2 W/m2",
+        "0.4 W/m2",
+        "2.0 W/m2",
+        "4.0 W/m2",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q176",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음에서 설명하는 고열 건강장해는?",
+      "options": [
+        "열성 발진(heat rashes)",
+        "열사병(heat stroke)",
+        "열 피로(heat fatigue)",
+        "열 경련(heat cramps)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220305/bw20220305m76.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q177",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "마이크로파와 라디오파에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "마이크로파의 주파수 대역은 100~3000 MHz 정도이며, 국가(지역)에 따라 범위의 규정이 각각 다르다.",
+        "라디오파의 파장은 1MHz와 자외선 사이의 범위를 말한다.",
+        "마이크로파와 라디오파의 생체작용 중 대표적인 것은 온감을 느끼는 열작용이다.",
+        "마이크로파의 생물학적 작용은 파장 뿐만 아니라 출력, 노출시간, 노출된 조직에 따라 다르다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q178",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "18℃ 공기 중에서 800 Hz인 음의 파장은 약 몇 m인가?",
+      "options": [
+        "0.35",
+        "0.43",
+        "3.5",
+        "4.3",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q179",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "음압이 2배로 증가하면 음압레벨(sound pressure level)은 몇 dB 증가하는가?",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "12",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q180",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "고압환경의 영향 중 2차적인 가압 현상(화학적 장해)에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "4기압 이상에서 공기 중의 질소 가스는 마취 작용을 나타낸다",
+        "이산화탄소의 증가는 산소의 독성과 질소의 마취작용을 촉진시킨다.",
+        "산소의 분압이 2기압을 넘으면 산소 중독증세가 나타난다.",
+        "산소중독은 고압산소에 대한 노출이 중지되어도 근육경련, 환청 등 후유증이 장기간 계속된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q181",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산업안전보건법령상 사람에게 충분한 발암성 증거가 있는 유해물질에 해당하지 않는 것은?",
+      "options": [
+        "석면(모든 형태)",
+        "크롬광 가공(크롬산)",
+        "알루미늄(용접 흄)",
+        "황화니켈(흄 및 분진)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q182",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 설명에 해당하는 중금속은?",
+      "options": [
+        "납(Pb)",
+        "수은(Hg)",
+        "카드뮴(Cd)",
+        "안티몬(Sb)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220305/bw20220305m82.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q183",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "골수장애로 재생불량성 빈혈을 일으키는 물질이 아닌 것은?",
+      "options": [
+        "벤젠(benzene)",
+        "2-브로모프로판(2-bromopropane)",
+        "TNT(trinitrotoluene)",
+        "2,4-TDI(Toluene-2,4-diisocyanate)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q184",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "호흡성 먼지(Respirable particulate mass)에 대한 미국 ACGIH의 정의로 옳은 것은?",
+      "options": [
+        "크기가 10 ~ 100um 로 코와 인후두를 통하여 기관지나 폐에 침착한다.",
+        "폐포에 도달하는 먼지로 입경이 7.1um 미만인 먼지를 말한다.",
+        "평균 입경이 4um 이고, 공기역학적 직경이 10um 미만인 먼지를 말한다.",
+        "평균 입경이 10um인 먼지로 흉곽성(thoracic) 먼지라고도 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q185",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "무기성 분진에 의한 진폐증이 아닌 것은?",
+      "options": [
+        "규폐증(silicosis)",
+        "연초폐증(tabacosis)",
+        "흑연폐증(graphite lung)",
+        "용접공폐증(welder's lung)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q186",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "생물학적 모니터링에 관한 설명으로 옳지 않은 것을 모두 고른 것은?",
+      "options": [
+        "(A), (B), (C)",
+        "(A), (C), (D)",
+        "(B), (C), (E)",
+        "(B), (D), (E)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/bw/bw20220305/bw20220305m86.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q187",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "체내에 노출되면 metallothionein 이라는 단백질을 합성하여 노출된 중금속의 독성을 감소시키는 경우가 있는데 이에 해당되는 중금속은?",
+      "options": [
+        "납",
+        "니켈",
+        "비소",
+        "카드뮴",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q188",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산업안전보건법령상 다음 유해물질 중 노출기준(ppm)이 가장 낮은 것은? (단, 노출기준은 TWA기준이다.)",
+      "options": [
+        "오존(O3)",
+        "암모니아(NH3)",
+        "염소(CI2)",
+        "일산화탄소(CO)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q189",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "유해인자에 노출된 집단에서의 질병 발생률과 노출되지 않은 집단에서 질병 발생률과의 비를 무엇이라 하는가?",
+      "options": [
+        "교차비",
+        "발병비",
+        "기여위험도",
+        "상대위험도",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q190",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "수은중독의 예방대책이 아닌 것은?",
+      "options": [
+        "수은 주입과정을 밀폐공간 안에서 자동화한다.",
+        "작업장 내에서 음식물 섭취와 흡연 등의 행동을 금지한다.",
+        "수은취급 근로자의 비점막 궤양 생성여부를 면밀히 관찰한다.",
+        "작업장에 흘린 수은은 신체가 닿지 않는 방법으로 즉시 제거한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q191",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "일산화탄소 중독과 관련이 없는 것은?",
+      "options": [
+        "고압산소실",
+        "카나리아새",
+        "식염의 다량투여",
+        "카르복시헤모글로빈(carboxyhemoglobin)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q192",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "유해물질이 인체에 미치는 영향을 결정하는 인자와 가장 거리가 먼 것은?",
+      "options": [
+        "개인의 감수성",
+        "유해물질의 독립성",
+        "유해물질의 농도",
+        "유해물질의 노출시간",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q193",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "벤젠의 생물학적 지표가 되는 대사물질은?",
+      "options": [
+        "Phenol",
+        "Coproporphyrin",
+        "Hydroquinone",
+        "1,2,4 - Trihydroxybenzene",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q194",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "유기용제의 흡수 및 대사에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "유기용제가 인체로 들어오는 경로는 호흡기를 통한 경우가 가장 많다.",
+        "대부분의 유기용제는 물에 용해되어 지용성 대사산물로 전환되어 체외로 배설된다.",
+        "유기용제는 휘발성이 강하기 때문에 호흡기를 통하여 들어간 경우에 다시 호흡기로 상당량이 배출된다.",
+        "체내로 들어온 유기용제는 산화, 환원, 가수분해로 이루어지는 생전환과 포합체를 형성하는 포합반응인 두 단계의 대사과정을 거친다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q195",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다핵방향족 탄화수소(PAHs)에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "벤젠고리가 2개 이상이다.",
+        "대사가 활발한 다핵 고리화합물로 되어있으며 수용성이다.",
+        "시토크롬(cytochrome) P-450의 준개체단에 의하여 대사된다.",
+        "철강 제조업에서 석탄을 건류할 때나 아스팔트를 콜타르 피치로 포장할 때 발생된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q196",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "증상으로는 무력증, 식욕감퇴, 보행장해 등의 증상을 나타내며, 계속적인 노출시에는 파킨슨씨 증상을 초래하는 유해물질은?",
+      "options": [
+        "망간",
+        "카드뮴",
+        "산화칼륨",
+        "산화마그네슘",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q197",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "다음 중 중추신경 활성억제 작용이 가장 큰 것은?",
+      "options": [
+        "알칸",
+        "알코올",
+        "유기산",
+        "에테르",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q198",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "산업안전보건법령상 기타 분진의 산화규소 결정체 함유율과 노출기준으로 옳은 것은?",
+      "options": [
+        "함유율: 0.1% 이상, 노출기준: 5 mg/m3",
+        "함유율: 0.1% 이하, 노출기준: 10 mg/m3",
+        "함유율: 1% 이상, 노출기준: 5 mg/m3",
+        "함유율: 1% 이하, 노출기준: 10 mg/m3",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q199",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "단순 질식제로 볼 수 없는 것은?",
+      "options": [
+        "오존",
+        "메탄",
+        "질소",
+        "헬륨",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q200",
+      "subject": "산업위생관리기사",
+      "round": "2022-03-05 기출",
+      "question_text": "금속의 일반적인 독성작용 기전으로 옳지 않은 것은?",
+      "options": [
+        "효소의 억제",
+        "금속평형의 파괴",
+        "DNA 염기의 대체",
+        "필수 금속성분의 대체",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q201",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "화학물질 및 물리적 인자의 노출기준상 사람에게 충분한 발암성 증거가 있는 물질의 표기는?",
+      "options": [
+        "1A",
+        "1B",
+        "2C",
+        "1D",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q202",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "미국산업안전보건연구원(NIOSH)에서 제시한 중량물의 들기작업에 관한 감시기준(Action Limit)과 최대허용기준(Maximum Permissible Limit)의 관계를 바르게 나타낸 것은?",
+      "options": [
+        "MPL=5AL",
+        "MPL=3AL",
+        "MPL=10AL",
+        "MPL=√2AL",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q203",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "산업안전보건법령상 작업환경측정에 관한 내용으로 옳지 않은 것은?",
+      "options": [
+        "모든 측정은 지역 시료채취방법을 우선으로 실시하여야 한다.",
+        "작업환경측정을 실시하기 전에 예비조사를 실시하여야 한다.",
+        "작업환경측정자는 그 사업장에 소속된 사람으로 산업위생관리산업기사 이상의 자격을 가진 사람이다.",
+        "작업이 정상적으로 이루어져 작업시간과 유해인자에 대한 근로자의 노출 정도를 정확히 평가할 수 있을 때 실시하여야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q204",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "근골격계질환 평가 방법 중 JSI(Job Strain Index)에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "특히 허리와 팔을 중심으로 이루어지는 작업 평가에 유용하게 사용된다.",
+        "JSI 평가결과의 점수가 7점 이상은 위험한 작업이므로 즉시 작업개선이 필요한 작업으로 관리기준을 제시하게 된다.",
+        "이 기법은 힘, 근육사용 기간, 작업 자세, 하루 작업시간 등 6개의 위험요소로 구성되어, 이를 곱한 값으로 상지질환의 위험성을 평가한다.",
+        "이 평가방법은 손목의 특이적인 위험성만을 평가하고 있어 제한적인 작업에 대해서만 평가가 가능하고, 손, 손목 부위에서 중요한 진동에 대한 위험요인이 배제되었다는 단점이 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q205",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "휘발성 유기화합물의 특징이 아닌 것은?",
+      "options": [
+        "물질에 따라 인체에 발암성을 보이기도 한다.",
+        "대기 중에 반응하여 광화학 스모그를 유발한다.",
+        "증기압이 낮아 대기 중으로 쉽게 증발하지 않고 실내에 장기간 머무른다.",
+        "지표면 부근 오존 생성에 관여하여 결과적으로 지구온난화에 간접적으로 기여한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q206",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "체중이 60kg인 사람이 1일 8시간 작업 시 안전흡수량이 1mg/kg인 물질의 체내 흡수를 안전흡수량 이하로 유지하려면 공기 중 유해물질 농도를 몇 mg/m3이하로 하여야 하는가? (단, 작업 시 폐환기율은 1.25m3/hr, 체내 잔류율은 1로 가정한다.)",
+      "options": [
+        "0.06",
+        "0.6",
+        "6",
+        "60",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q207",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "업무상 사고나 업무상 질병을 유발할 수 있는 불안전한 행동의 직접원인에 해당되지 않는 것은?",
+      "options": [
+        "지식의 부족",
+        "기능의 미숙",
+        "태도의 불량",
+        "의식의 우회",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q208",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "산업위생의 목적과 가장 거리가 먼 것은?",
+      "options": [
+        "근로자의 건강을 유지시키고 작업능률을 향상시킴",
+        "근로자들의 육체적, 정신적, 사회적 건강을 증진시킴",
+        "유해한 작업환경 및 조건으로 발생한 질병을 진단하고 치료함",
+        "작업 환경 및 작업 조건이 최적화되도록 개선하여 질병을 예방함",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q209",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "교대근무에 있어 야간작업의 생리적 현상으로 옳지 않은 것은?",
+      "options": [
+        "체중의 감소가 발생한다.",
+        "체온이 주간보다 올라간다.",
+        "주간 근무에 비하여 피로를 쉽게 느낀다.",
+        "수면 부족 및 식사시간의 불규칙으로 위장장애를 유발한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q210",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "미국에서 1910년 납(lead) 공장에 대한 조사를 시작으로 레이온 공장의 이황화탄소 중독, 구리 광산에서 규폐증, 수은 광산에서의 수은 중독 등을 조사하여 미국의 산업보건 분야에 크게 공헌한 선구자는?",
+      "options": [
+        "Leonard Hill",
+        "Max Von Pettenkofer",
+        "Edward Chadwick",
+        "Alice Hamilton",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q211",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "산업안전보건법령상 작업환경측정 대상 유해인자(분진)에 해당하지 않는 것은? (단, 그 밖에 고용노동부장관이 정하여 고시하는 인체에 해로운 유해인자는 제외한다.)",
+      "options": [
+        "면 분진(Cotton dusts)",
+        "목재 분진(Wood dusts)",
+        "지류 분진(Paper dusts)",
+        "곡물 분진(Grain dusts)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q212",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "RMR이 10인 격심한 작업을 하는 근로자의 실동률(A)과 계속작업의 한계시간(B)으로 옳은 것은? (단, 실동률은 사이또 오시마식을 적용한다.)",
+      "options": [
+        "A: 55%, B: 약 7분",
+        "A: 45%, B: 약 5분",
+        "A: 35%, B: 약 3분",
+        "A: 25%, B: 약 1분",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q213",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 중 산업안전보건법령상 제조 등이 허가되는 유해물질에 해당하는 것은?",
+      "options": [
+        "석면(Asbestos)",
+        "베릴륨(Beryllium)",
+        "황린 성냥(Yellow phosphorus match)",
+        "β-나프틸아민과 그 염(β-Naphthylamine and its salts)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q214",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "직업병 진단 시 유해요인 노출 내용과 정도에 대한 평가 요소와 가장 거리가 먼 것은?",
+      "options": [
+        "성별",
+        "노출의 추정",
+        "작업환경측정",
+        "생물학적 모니터링",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q215",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "직업적성검사 중 생리적 기능검사에 해당하지 않는 것은?",
+      "options": [
+        "체력검사",
+        "감각기능검사",
+        "심폐기능검사",
+        "지각동작검사",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q216",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "산업재해 통계 중 재해발생건수(100만 배)를 총 연인원의 근로시간수로 나누어 산정하는 것으로 재해발생의 정도를 표현하는 것은?",
+      "options": [
+        "강도율",
+        "도수율",
+        "발생율",
+        "연천인율",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q217",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "직업병 및 작업관련성 질환에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "작업관련성 질환은 작업에 의하여 악화되거나 작업과 관련하여 높은 발병률을 보이는 질병이다.",
+        "직업병은 일반적으로 단일요인에 의해, 작업관련성 질환은 다수의 원인 요인에 의해서 발병된다.",
+        "직업병은 직업에 의해 발생된 질병으로서 직업 환경 노출과 특정 질병 간에 인과관계는 불분명하다.",
+        "작업관련성 질환은 작업환경과 업무수행상의 요인들이 다른 위험요인과 함께 질병발생의 복합적 병인 중 한 요인으로서 기여한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q218",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "미국산업위생학술원(AAIH)이 채택한 윤리강령 중 사업주에 대한 책임에 해당되는 내용은?",
+      "options": [
+        "일반 대중에 관한 사항은 정직하게 발표한다.",
+        "위험 요소와 예방 조치에 관하여 근로자와 상담한다.",
+        "성실성과 학문적 실력 면에서 최고 수준을 유지한다.",
+        "근로자의 건강에 대한 궁극적인 책임은 사업주에게 있음을 인식시킨다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q219",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "단기간의 휴식에 의하여 회복될 수 없는 병적상태를 일컫는 용어는?",
+      "options": [
+        "곤비",
+        "과로",
+        "국소피로",
+        "전신피로",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q220",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "사무실 공기관리 지침 상 오염물질과 관리기준이 잘못 연결된 것은? (단, 관리기준은 8시간 시간가중평균농도이며, 고용노동부 고시를 따른다.)",
+      "options": [
+        "총부유세균 – 800CFU/m3",
+        "일산화탄소(CO) - 10ppm",
+        "초미세먼지(PM2.5) - 50μg/m3",
+        "포름알데히드(HCHO) - 150μg/m3",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q221",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "금속탈지 공정에서 측정한 trichloroethylene의 농도(ppm)가 아래와 같을 때, 기하평균 농도(ppm)는?",
+      "options": [
+        "49.7",
+        "54.7",
+        "55.2",
+        "57.2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/bw/bw20210814/bw20210814m21.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q222",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "공기 중 먼지를 채취하여 채취된 입자 크기의 중앙값(median)은 1.12㎛이고 84%에 해당하는 크기가 2.68㎛일 때, 기하표준편차 값은? (단, 채취된 입경의 분포는 대수정규분포를 따른다.)",
+      "options": [
+        "0.42",
+        "0.94",
+        "2.25",
+        "2.39",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q223",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "입경이 20㎛이고 입자비중이 1.5인 입자의 침강 속도(cm/s)는?",
+      "options": [
+        "1.8",
+        "2.4",
+        "12.7",
+        "36.2",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q224",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "어느 작업장에서 시료채취기를 사용하여 분진 농도를 측정한 결과 시료채취 전/후 여과지의 무게가 각각 32.4/44.7mg일 때, 이 작업장의 분진 농도(mg/m3)는? (단, 시료채취를 위해 사용된 펌프의 유량은 20L/min이고, 2시간 동안 시료를 채취하였다.)",
+      "options": [
+        "5.1",
+        "6.2",
+        "10.6",
+        "12.3",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q225",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "근로자 개인의 청력 손실 여부를 알기 위해 사용하는 청력 측정용 기기는?",
+      "options": [
+        "Audiometer",
+        "Noise dosimeter",
+        "Sound level meter",
+        "Impact sound level meter",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q226",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "Fick법칙이 적용된 확산포집방법에 의하여 시료가 포집될 경우, 포집량에 영향을 주는 요인과 가장 거리가 먼 것은?",
+      "options": [
+        "공기 중 포집대상물질 농도와 포집매체에 함유된 포집대상물질의 농도 차이",
+        "포집기의 표면이 공기에 노출된 시간",
+        "대상물질과 확산매체와의 확산계수 차이",
+        "포집기에서 오염물질이 포집되는 면적",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q227",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "옥내의 습구흑구온도지수(WBGT)를 산출하는 식은?",
+      "options": [
+        "WBGT(℃)=0.7×자연습구온도+0.3×흑구온도",
+        "WBGT(℃)=0.4×자연습구온도+0.6×흑구온도",
+        "WBGT(℃)=0.7×자연습구온도+0.1×흑구온도+0.2×건구온도",
+        "WBGT(℃)=0.7×자연습구온도+0.2×흑구온도+0.1×건구온도",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q228",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "87℃와 동등한 온도는? (단, 정수로 반올림한다.)",
+      "options": [
+        "351K",
+        "189°F",
+        "700°R",
+        "186K",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q229",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "입자상 물질을 채취하는 방법 중 직경분립충돌기의 장점으로 틀린 것은?",
+      "options": [
+        "호흡기에 부분별로 침착된 입자크기의 자료를 추정할 수 있다.",
+        "흡입성, 흉곽성, 호흡성 입자의 크기별 분포와 농도를 계산할 수 있다.",
+        "시료 채취 준비에 시간이 적게 걸리며 비교적 채취가 용이하다.",
+        "입자의 질량크기분포를 얻을 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q230",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "공기 중 유기용제 시료를 활성탄관으로 채취하였을 때 가장 적절한 탈착용매는?",
+      "options": [
+        "황산",
+        "사염화탄소",
+        "중크롬산칼륨",
+        "이황화탄소",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q231",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "산업안전보건법령상 소음 측정방법에 관한 내용이다. ( Ⓐ )안에 맞는 내용은?",
+      "options": [
+        "110",
+        "120",
+        "130",
+        "140",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/bw/bw20210814/bw20210814m31.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q232",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "산업안전보건법령상 단위작업장소에서 작업근로자수가 17명일 때, 측정해야 할 근로자수는? (단, 시료채취는 개인 시료채취로 한다.)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q233",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "실리카겔과 친화력이 가장 큰 물질은?",
+      "options": [
+        "알데하이드류",
+        "올레핀류",
+        "파라핀류",
+        "에스테르류",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q234",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "시료채취방법 중 유해물질에 따른 흡착제의 연결이 적절하지 않은 것은?",
+      "options": [
+        "방향족 유기용제류 – Charcoal tube",
+        "방향족 아민류 – Silicagel tube",
+        "니트로벤젠 – Silicagel tube",
+        "알코올류 – Amberlite(XAD-2)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q235",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "직독식 기구에 대한 설명과 가장 거리가 먼 것은?",
+      "options": [
+        "측정과 작동이 간편하여 인력과 분석비를 절감할 수 있다.",
+        "연속적인 시료채취전략으로 작업시간 동안 하나의 완전한 시료채취에 해당된다.",
+        "현장에서 실제 작업시간이나 어떤 순간에서 유해인자의 수준과 변화를 쉽게 알 수 있다.",
+        "현장에서 즉각적인 자료가 요구될 때 민감성과 특이성이 있는 경우 매우 유용하게 사용될 수 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q236",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "측정값이 1, 7, 5, 3, 9일 때, 변이계수(%)는?",
+      "options": [
+        "183",
+        "133",
+        "63",
+        "13",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q237",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "어느 작업장에서 작동하는 기계 각각의 소음 측정결과가 아래와 같을 때, 총 음압수준(dB)은? (단, A, B, C기계는 동시에 작동된다.)",
+      "options": [
+        "91.5",
+        "92.7",
+        "95.3",
+        "96.8",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/bw/bw20210814/bw20210814m37.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q238",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "검지관의 장ㆍ단점에 관한 내용으로 옳지 않은 것은?",
+      "options": [
+        "사용이 간편하고, 복잡한 분석실 분석이 필요 없다.",
+        "산소결핍이나 폭발성 가스로 인한 위험이 있는 경우에도 사용이 가능하다.",
+        "민감도 및 특이도가 낮고 색변화가 선명하지 않아 판독자에 따라 변이가 심하다.",
+        "측정대상물질의 동정이 미리 되어 있지 않아도 측정을 용이하게 할 수 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q239",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "어떤 작업장의 8시간 작업 중 연속음 소음 100dB(A)가 1시간, 95dB(A)가 2시간 발생하고 그 외 5시간은 기준 이하의 소음이 발생되었을 때, 이 작업장의 누적소음도에 대한 노출기준 평가로 옳은 것은?",
+      "options": [
+        "0.75로 기준 이하였다.",
+        "1.0으로 기준과 같았다.",
+        "1.25로 기준을 초과하였다.",
+        "1.50으로 기준을 초과하였다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q240",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "유해인자에 대한 노출평가방법인 위해도평가(Risk assessment)를 설명한 것으로 가장 거리가 먼 것은?",
+      "options": [
+        "위험이 가장 큰 유해인자를 결정하는 것이다.",
+        "유해인자가 본래 가지고 있는 위해성과 노출요인에 의해 결정된다.",
+        "모든 유해인자 및 작업자, 공정을 대상으로 동일한 비중을 두면서 관리하기 위한 방안이다.",
+        "노출량이 높고 건강상의 영향이 큰 유해인자인 경우 관리해야 할 우선순위도 높게 된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q241",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "호흡기 보호구에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "호흡기 보호구를 선정할 때는 기대되는 공기중의 농도를 노출기준으로 나눈 값을 위해비(HR)라 하는데, 위해비보다 할당보호계수(APF)가 작은 것을 선택한다.",
+        "할당보호계수(APF)가 100인 보호구를 착용하고 작업장에 들어가면 외부 유해물질로부터 적어도 100배 만큼의 보호를 받을 수 있다는 의미이다.",
+        "보호구를 착용함으로써 유해물질로부터 얼마만큼 보호해주는지 나타내는 것은 보호계수(PF)이다.",
+        "보호계수(PF)는 보호구 밖의 농도(Co)와 안의 농도(Ci)의 비(Co/Ci)로 표현할 수 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q242",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "흡입관의 정압 및 속도압은 –30.5mmH2O, 7.2mmH2O이고, 배출관의 정압 및 속도압은 20.0mmH2O, 15mmH2O일 때, 송풍기의 유효전압(mmH2O)은?",
+      "options": [
+        "58.3",
+        "64.2",
+        "72.3",
+        "81.1",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q243",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "환기시설 내 기류가 기본적 유체역학적 원리에 의하여 지배되기 위한 전제 조건에 관한 내용으로 틀린 것은?",
+      "options": [
+        "환기시설 내외의 열교환은 무시한다.",
+        "공기의 압축이나 팽창을 무시한다.",
+        "공기는 포화 수증기 상태로 가정한다.",
+        "대부분의 환기시설에서는 공기 중에 포함된 유해물질의 무게와 용량을 무시한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q244",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "전기도금 공정에 가장 적합한 후드 형태는?",
+      "options": [
+        "캐노피 후드",
+        "슬롯 후드",
+        "포위식 후드",
+        "종형 후드",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q245",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "보호구의 재질에 따른 효과적 보호가 가능한 화학물질을 잘못 짝지은 것은?",
+      "options": [
+        "가죽 - 알코올",
+        "천연고무 - 물",
+        "면 – 고체상 물질",
+        "부틸고무 – 알코올",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q246",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "슬롯(Slot) 후드의 종류 중 전원주형의 배기량은 1/4원주형 대비 약 몇 배인가?",
+      "options": [
+        "2배",
+        "3배",
+        "4배",
+        "5배",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q247",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "터보(Turbo) 송풍기에 관한 설명으로 틀린 것은?",
+      "options": [
+        "후향날개형 송풍기라고도 한다.",
+        "송풍기의 깃이 회전방향 반대편으로 경사지게 설계되어 있다.",
+        "고농도 분진함유 공기를 이송시킬 경우, 집진기 후단에 설치하여 사용해야 한다.",
+        "방사날개형이나 전향날개형 송풍기에 비해 효율이 떨어진다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q248",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "밀도가 1.225kg/m3인 공기가 20m/s의 속도로 덕트를 통과하고 있을 때 동압(mmH2O)은?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q249",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "정압회복계수가 0.72이고 정압회복량이 7.2mmH2O인 원형 확대관의 압력손실(mmH2O)은?",
+      "options": [
+        "4.2",
+        "3.6",
+        "2.8",
+        "1.3",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q250",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "유기용제 취급 공정의 작업환경관리대책으로 가장 거리가 먼 것은?",
+      "options": [
+        "근로자에 대한 정신건강관리 프로그램 운영",
+        "유기용제의 대체사용과 작업공정 배치",
+        "유기용제 발산원의 밀폐등 조치",
+        "국소배기장치의 설치 및 관리",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q251",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "송풍기의 풍량조절기법 중에서 풍량(Q)을 가장 크게 조절할 수 있는 것은?",
+      "options": [
+        "회전수 조절법",
+        "안내의 조절법",
+        "댐퍼부착 조절법",
+        "흡입압력 조절법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q252",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "회전차 외경이 600mm인 원심 송풍기의 풍량은 200m3/min이다. 회전차 외경이 1200mm인 동류(상사구조)의 송풍기가 동일한 회전수로 운전된다면 이 송풍기의 풍량(m3/min)은? (단, 두 경우 모두 표준공기를 취급한다.)",
+      "options": [
+        "1000",
+        "1200",
+        "1400",
+        "1600",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q253",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "송풍기 축의 회전수를 측정하기 위한 측정기구는?",
+      "options": [
+        "열선풍속계(Hot wire anemometer)",
+        "타코미터(Tachometer)",
+        "마노미터(Manometer)",
+        "피토관(Pitot tube)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q254",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "20℃, 1기압에서 공기유속은 5m/s, 원형덕트의 단면적은 1.13m2일 때, Reynolds 수는? (단, 공기의 점성계수는 1.8×10-5kg/sㆍm이고, 공기의 밀도는 1.2kg/m3이다.)",
+      "options": [
+        "4.0×105",
+        "3.0×105",
+        "2.0×105",
+        "1.0×105",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q255",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "유해물질별 송풍관의 적정 반송속도로 옳지 않은 것은?",
+      "options": [
+        "가스상 물질: 10m/s",
+        "무거운 물질: 25m/s",
+        "일반 공업물질: 20m/s",
+        "가벼운 건조 물질: 30m/s",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q256",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "신체 보호구에 대한 설명으로 틀린 것은?",
+      "options": [
+        "정전복은 마찰에 의하여 발생되는 정전기의 대전을 방지하기 위하여 사용된다.",
+        "방열의에는 석면제나 섬유에 알루미늄 등을 중착한 알루미나이즈 방열의가 사용된다.",
+        "위생복(보호의)에서 방한복, 방한화, 방한모는 –18℃ 이하인 급냉동 창고 하역작업 등에 이용된다.",
+        "안면 보호구에는 일반 보호면, 용접면, 안전모, 방진 마스크 등이 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q257",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "국소환기시설 설계에 있어 정압조절평형법의 장점으로 틀린 것은?",
+      "options": [
+        "예기치 않은 침식 및 부식이나 퇴적문제가 일어나지 않는다.",
+        "설치된 시설의 개조가 용이하여 장치변경이나 확장에 대한 유연성이 크다.",
+        "설계가 정확할 때에는 가장 효율적인 시설이 된다.",
+        "설계 시 잘못 설계된 분지관 또는 저항이 제일 큰 분지관을 쉽게 발견 할 수 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q258",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "전체 환기의 목적에 해당되지 않는 것은?",
+      "options": [
+        "발생된 유해물질을 완전히 제거하여 건강을 유지ㆍ증진한다.",
+        "유해물질의 농도를 희석시켜 건강을 유지ㆍ증진한다.",
+        "실내의 온도와 습도를 조절한다.",
+        "화재나 폭발을 예방한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q259",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "심한 난류상태의 덕트 내에서 마찰계수를 결정하는데 가장 큰 영향을 미치는 요소는?",
+      "options": [
+        "덕트의 직경",
+        "공기점도와 밀도",
+        "덕트의 표면조도",
+        "레이놀즈수",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q260",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "호흡용 보호구 중 방독/방진 마스크에 대한 설명 중 옳지 않은 것은?",
+      "options": [
+        "방진 마스크의 흡기저항과 배기저항은 모두 낮은 것이 좋다.",
+        "방진 마스크의 포집효율과 흡기저항 상승률은 모두 높은 것이 좋다.",
+        "방독 마스크는 사용 중에 조금이라도 가스냄새가 나는 경우 새로운 정화통으로 교체하여야 한다.",
+        "방독 마스크의 흡수제는 활성탄, 실리카겔, sodalime 등이 사용된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q261",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 파장 중 살균 작용이 가장 강한 자외선의 파장범위는?",
+      "options": [
+        "220~234nm",
+        "254~280nm",
+        "290~315nm",
+        "325~400nm",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q262",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "산업안전보건법령상 고온의 노출기준 중 중등작업의 계속작업 시 노출기준은 몇 ℃(WBGT)인가?",
+      "options": [
+        "26.7",
+        "28.3",
+        "29.7",
+        "31.4",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q263",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 중 레이노 현상(Raynaud’s phenomenon)의 주요 원인으로 옳은 것은?",
+      "options": [
+        "국소진동",
+        "전신진동",
+        "고온환경",
+        "다습환경",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q264",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "일반소음에 대한 차음효과는 벽체의 단위표면적에 대하여 벽체의 무게가 2배될때마다 약 몇 dB씩 증가하는가? (단, 벽체 무게 이외의 조건은 동일하다.)",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q265",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "전기성 안염(전광선 안염)과 가장 관련이 깊은 비전리 방사선은?",
+      "options": [
+        "자외선",
+        "적외선",
+        "가시광선",
+        "마이크로파",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q266",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "한랭노출 시 발생하는 신체적 장해에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "동상은 조직의 동결을 말하며, 피부의 이론상 동결온도는 약 –1℃ 정도이다.",
+        "전신 체온강하는 장시간의 한랭노출과 체열상실에 따라 발생하는 급성 중증 장해이다.",
+        "참호족은 동결 온도 이하의 찬공기에 단기간의 접촉으로 급격한 동결이 발생하는 장해이다.",
+        "침수족은 부종, 저림, 작열감, 소양감 및 심한 동통을 수반하며, 수포, 궤양이 형성되기도 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q267",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "산업안전보건법령상 “적정한 공기”에 해당하지 않는 것은? (단, 다른 성분의 조건은 적정한 것으로 가정한다.)",
+      "options": [
+        "탄산가스 농도 1.5% 미만",
+        "일산화탄소 농도 100ppm 미만",
+        "황화수소 농도 10ppm 미만",
+        "산소 농도 18% 이상 23.5% 미만",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q268",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "인체와 작업환경 사이의 열교환이 이루어지는 조건에 해당되지 않는 것은?",
+      "options": [
+        "대류에 의한 열교환",
+        "복사에 의한 열교환",
+        "증발에 의한 열교환",
+        "기온에 의한 열교환",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q269",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "심한 소음에 반복 노출되면, 일시적인 청력변화는 영구적 청력변화로 변하게 되는데, 이는 다음 중 어느 기관의 손상으로 인한 것인가?",
+      "options": [
+        "원형창",
+        "삼반규반",
+        "유스타키오관",
+        "코르티기관",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q270",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "방진재료로 적절하지 않은 것은?",
+      "options": [
+        "방진고무",
+        "코르크",
+        "유리섬유",
+        "코일 용수철",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q271",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "전리방사선이 인체에 미치는 영향에 관여하는 인자와 가장 거리가 먼 것은?",
+      "options": [
+        "전리작용",
+        "피폭선량",
+        "회절과 산란",
+        "조직의 감수성",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q272",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "산업안전보건법령상 소음작업의 기준은?",
+      "options": [
+        "1일 8시간 작업을 기준으로 80데시벨 이상의 소음이 발생하는 작업",
+        "1일 8시간 작업을 기준으로 85데시벨 이상의 소음이 발생하는 작업",
+        "1일 8시간 작업을 기준으로 90데시벨 이상의 소음이 발생하는 작업",
+        "1일 8시간 작업을 기준으로 95데시벨 이상의 소음이 발생하는 작업",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q273",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "비전리 방사선이 아닌 것은?",
+      "options": [
+        "적외선",
+        "레이저",
+        "라디오파",
+        "알파(α)선",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q274",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "음원으로부터 40m되는 지점에서 음압수준이 75dB로 측정되었다면 10m되는 지점에서의 음압수준(dB)은 약 얼마인가?",
+      "options": [
+        "84",
+        "87",
+        "90",
+        "93",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q275",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "산업안전보건법령상 정밀작업을 수행하는 작업장의 조도기준은?",
+      "options": [
+        "150럭스 이상",
+        "300럭스 이상",
+        "450럭스 이상",
+        "750럭스 이상",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q276",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "고압환경의 2차적인 가압현상 중 산소중독에 관한 내용으로 옳지 않은 것은?",
+      "options": [
+        "일반적으로 산소의 분압이 2기압이 넘으면 산소중독증세가 나타난다.",
+        "산소중독에 따른 증상은 고압산소에 대한 노출이 중지되면 멈추게 된다.",
+        "산소의 중독작용은 운동이나 중등량의 이산화탄소의 공급으로 다소 완화될 수 있다.",
+        "수지와 족지의 작열통, 시력장해, 정신혼란, 근육경련 등의 증상을 보이며 나아가서는 간질 모양의 경련을 나타낸다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q277",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "빛과 밝기에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "광도의 단위로는 칸델라(candela)를 사용한다.",
+        "광원으로부터 한 방향으로 나오는 빛의 세기를 광속이라 한다.",
+        "루멘(Lumen)은 1촉광의 광원으로부터 단위 입체각으로 나가는 광속의 단위이다.",
+        "조도는 어떤 면에 들어오는 광속의 양에 비례하고, 입사면의 단면적에 반비례한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q278",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "감압병의 예방대책으로 적절하지 않은 것은?",
+      "options": [
+        "호흡용 혼합가스의 산소에 대한 질소의 비율을 증가시킨다.",
+        "호흡기 또는 순환기에 이상이 있는 사람은 작업에 투입하지 않는다.",
+        "감압병 발생 시 원래의 고압환경으로 복귀시키거나 인공 고압실에 넣는다.",
+        "고압실 작업에서는 탄산가스의 분압이 증가하지 않도록 신선한 공기를 송기한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q279",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "이상기압의 영향으로 발생되는 고공성 폐수종에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "어른보다 아이들에게서 많이 발생된다.",
+        "고공 순화된 사람이 해면에 돌아올 때에도 흔히 일어난다.",
+        "산소공급과 해면 귀환으로 급속히 소실되며, 증세가 반복되는 경향이 있다.",
+        "진해성 기침과 과호흡이 나타나고 폐동맥 혈압이 급격히 낮아진다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q280",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "1000Hz 에서의 음압레벨을 기준으로 하여 등청감곡선을 나타내는 단위로 사용되는 것은?",
+      "options": [
+        "mel",
+        "bell",
+        "sone",
+        "phon",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q281",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 중 무기연에 속하지 않는 것은?",
+      "options": [
+        "금속연",
+        "일산화연",
+        "사산화삼연",
+        "4메틸연",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q282",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "접촉에 의한 알레르기성 피부감작을 증명하기 위한 시험으로 가장 적절한 것은?",
+      "options": [
+        "첩포시험",
+        "진균시험",
+        "조직시험",
+        "유발시험",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q283",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "피부는 표피와 진피로 구분하는데, 진피에만 있는 구조물이 아닌 것은?",
+      "options": [
+        "혈관",
+        "모낭",
+        "땀샘",
+        "멜라닌 세포",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q284",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "근로자의 소변 속에서 마뇨산(hippuric acid)이 다량검출 되었다면 이 근로자는 다음 중 어떤 유해물질에 폭로되었다고 판단되는가?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "클로로포름",
+        "초산메틸",
+        "벤젠",
+        "톨루엔",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q285",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "카드뮴의 중독, 치료 및 예방대책에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "소변 속의 카드뮴 배설량은 카드뮴 흡수를 나타내는 지표가 된다.",
+        "BAL 또는 Ca-EDTA 등을 투여하여 신장에 대한 독작용을 제거한다.",
+        "칼슘대사에 장해를 주어 신결석을 동반한 증후군이 나타나고 다량의 칼슘배설이 일어난다.",
+        "폐활량 감소, 잔기량 증가 및 호흡곤란의 폐증세가 나타나며, 이 증세는 노출기간과 노출농도에 의해 좌우된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q286",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "접촉성 피부염의 특징으로 옳지 않은 것은?",
+      "options": [
+        "작업장에서 발생빈도가 높은 피부질환이다.",
+        "증상은 다양하지만 홍반과 부종을 동반하는 것이 특징이다.",
+        "원인물질은 크게 수분, 합성화학물질, 생물성 화학물질로 구분할 수 있다.",
+        "면역학적 반응에 따라 과거 노출경험이 있어야만 반응이 나타난다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q287",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "대사과정에 의해서 변화된 후에만 발암성을 나타내는 간접 발암원으로만 나열된 것은?",
+      "options": [
+        "benzo(a)pyrene, ethylbromide",
+        "PAH, methyl nitrosourea",
+        "benzo(a)pyrene, dimethyl sulfate",
+        "nitrosamine, ethyl methanesulfonate",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q288",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "직업성 피부질환에 영향을 주는 직접적인 요인에 해당되는 것은?",
+      "options": [
+        "연령",
+        "인종",
+        "고온",
+        "피부의 종류",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q289",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "호흡기계로 들어온 입자상 물질에 대한 제거기전의 조합으로 가장 적절한 것은?",
+      "options": [
+        "면역작용과 대식세포의 작용",
+        "폐포의 활발한 가스교환과 대식세포의 작용",
+        "점액 섬모운동과 대식세포에 의한 정화",
+        "점액 섬모운동과 면역작용에 의한 정화",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q290",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "노말헥산이 체내 대사과정을 거쳐 변환되는 물질로 노말헥산에 폭로된 근로자의 생물학적 노출지표로 이용되는 물질로 옳은 것은?",
+      "options": [
+        "hippuric acid",
+        "2,5-hexanedione",
+        "hydroquinone",
+        "9-hydroxyquinoline",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q291",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "근로자가 1일 작업시간동안 잠시라도 노출되어서는 아니 되는 기준을 나타내는 것은?",
+      "options": [
+        "TLV-C",
+        "TLV-STEL",
+        "TLV-TWA",
+        "TLV-skin",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q292",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "대상 먼지와 침강속도가 같고, 밀도가 1이며 구형인 먼지의 직경으로 환산하여 표현하는 입자상 물질의 직경을 무엇이라 하는가?",
+      "options": [
+        "입체적 직경",
+        "등면적 직경",
+        "기하학적 직경",
+        "공기역학적 직경",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q293",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "다음 중 규폐증(silicosis)을 일으키는 원인 물질과 가장 관계가 깊은 것은?",
+      "options": [
+        "매연",
+        "암석분진",
+        "일반부유분진",
+        "목재분진",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q294",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "방향족 탄화수소 중 만성노출에 의한 조혈장해를 유발 시키는 것은?",
+      "options": [
+        "벤젠",
+        "톨루엔",
+        "클로로포름",
+        "나프탈렌",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q295",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "금속열에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "금속열이 발생하는 작업장에서는 개인 보호용구를 착용해야 한다.",
+        "금속 흄에 노출된 후 일정 시간의 잠복기를 지나 감기와 비슷한 증상이 나타난다.",
+        "금속열은 일주일 정도가 지나면 증상은 회복되나 후유증으로 호흡기, 시신경 장애 등을 일으킨다.",
+        "아연, 마그네슘 등 비교적 융점이 낮은 금속의 제련, 용해, 용접 시 발생하는 산화금속 흄을 흡입할 경우 생기는 발열성 질병이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q296",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "납이 인체에 흡수됨으로 초래되는 결과로 옳지 않은 것은?",
+      "options": [
+        "δ-ALAD 활성치 저하",
+        "혈청 및 요중 δ-ALA 증가",
+        "망상적혈구수의 감소",
+        "적혈구내 프로토폴피린 증가",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q297",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "유해물질의 경구투여용량에 따른 반응범위를 결정하는 독성검사에서 얻은 용량-반응곡선(dose-response curve)에서 실험동물군의 50%가 일정시간 동안 죽는 치사량을 나타내는 것은?",
+      "options": [
+        "LC50",
+        "LD50",
+        "ED50",
+        "TD50",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q298",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "카드뮴에 노출되었을 때 체내의 주요 축적 기관으로만 나열한 것은?",
+      "options": [
+        "간, 신장",
+        "심장, 뇌",
+        "뼈, 근육",
+        "혈액, 모발",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q299",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "인체 내에서 독성이 강한 화학물질과 무독한 화학물질이 상호작용하여 독성이 증가되는 현상을 무엇이라 하는가?",
+      "options": [
+        "상가작용",
+        "상승작용",
+        "가승작용",
+        "길항작용",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q300",
+      "subject": "산업위생관리기사",
+      "round": "2021-08-14 기출",
+      "question_text": "무색의 휘발성 용액으로서 도금 사업장에서 금속표면의 탈지 및 세정용, 드라이클리닝, 접착제 등으로 사용되며, 간 및 신장 장해를 유발시키는 유기용제는?",
+      "options": [
+        "톨루엔",
+        "노르말헥산",
+        "클로르포름",
+        "트리클로로에틸렌",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q301",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 최초로 기록된 직업병은?",
+      "options": [
+        "규폐증",
+        "폐질환",
+        "음낭암",
+        "납중독",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q302",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "근골격계질환에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "점액낭염(bursitis)은 관절 사이의 윤활액을 싸고 있는 윤활낭에 염증이 생기는 질병이다.",
+        "건초염(tendosynovitis)은 건막에 염증이 생긴 질환이며, 건염(tendonitis)은 건의 염증으로, 건염과 건초염을 정확히 구분하기 어렵다.",
+        "수근관 증후군(carpal tunnel syndrome)은 반복적이고, 지속적인 손목의 압박, 무리한 힘 등으로 인해 수근관 내부에 정중신경이 손상되어 발생한다.",
+        "요추 염좌(lumbar sprain)는 근육이 잘못된 자세, 외부의 충격, 과도한 스트레스 등으로 수축되어 굳어지면 근섬유의 일부가 띠처럼 단단하게 변하여 근육의 특정 부위에 압통, 방사통, 목부위 운동제한, 두통 등의 증상이 나타난다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q303",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "근로자가 노동환경에 노출될 때 유해인자에 대한 해치(Hatch)의 양-반응관계곡선의 기관장해 3단계에 해당하지 않는 것은?",
+      "options": [
+        "보상단계",
+        "고장단계",
+        "회복단계",
+        "항상성 유지단계",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q304",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "산업피로의 용어에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "곤비란 단시간의 휴식으로 회복될 수 있는 피로를 말한다.",
+        "다음 날까지도 피로상태가 계속되는 것을 과로라 한다.",
+        "보통 피로는 하룻밤 잠을 자고 나면 다음날 회복되는 정도이다.",
+        "정신피로는 중추신경계의 피로를 말하는 것으로 정밀작업 등과 같은 정신적 긴장을 요하는 작업시에 발생된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q305",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "산업안전보건법령에서 정하고 있는 제조 등이 금지되는 유해물질에 해당되지 않는 것은?",
+      "options": [
+        "석면(Asbestos)",
+        "크롬산 아연(Zinc chromates)",
+        "황린 성냥(Yellow phosphorus match)",
+        "β-나프틸아민과 그 염(β-Naphthylamine and its salts)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q306",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "사무실 공기관리 지침에 관한 내용으로 옳지 않은 것은?(단, 고용노동부 고시를 기준으로 한다.)",
+      "options": [
+        "오염물질인 미세먼지(PM10)의 관리기준은 100μg/m3이다.",
+        "사무실 공기의 관리기준은 8시간 시간가중평균농도를 기준으로 한다.",
+        "총부유세균의 시료채취방법은 충돌법을 이용한 부유세균채취기(bioair sampler)로 채취한다.",
+        "사무실 공기질의 모든 항목에 대한 측정결과는 측정치 전체에 대한 평균값을 이용하여 평가한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q307",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "산업안전보건법령상 물질안전보건자료 대상물질을 제조ㆍ수입하려는 자가 물질안전보건자료에 기재해야하는 사항에 해당되지 않는 것은? (단, 그 밖에 고용노동부장관이 정하는 사항은 제외한다.)",
+      "options": [
+        "응급조치 요령",
+        "물리ㆍ화학적 특성",
+        "안전관리자의 직무범위",
+        "폭발ㆍ화재 시의 대처방법",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q308",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "산업안전보건법령상 근로자에 대해 실시하는 특수건강진단 대상 유해인자에 해당되지 않는 것은?",
+      "options": [
+        "에탄올(Ethanol)",
+        "가솔린(Gasoline)",
+        "니트로벤젠(Nitrobenzene)",
+        "디에틸 에테르(Diethyl ether)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q309",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "산업피로에 대한 대책으로 옳은 것은?",
+      "options": [
+        "커피, 홍차, 엽차 및 비타민 B1은 피로 회복에 도움이 되므로 공급한다.",
+        "신체 리듬의 적응을 위하여 야간 근무는 연속으로 7일 이상 실시하도록 한다.",
+        "움직이는 작업은 피로를 가중시키므로 될수록 정적인 작업으로 전환하도록 한다.",
+        "피로한 후 장시간 휴식하는 것이 휴식시간을 여러 번으로 나누는 것보다 효과적이다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q310",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "직업성 질환 중 직업상의 업무에 의하여 1차적으로 발생하는 질환은?",
+      "options": [
+        "합병증",
+        "일반 질환",
+        "원발성 질환",
+        "속발성 질환",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q311",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "재해예방의 4원칙에 해당되지 않는 것은?",
+      "options": [
+        "손실 우연의 원칙",
+        "예방 가능의 원칙",
+        "대책 선정의 원칙",
+        "원인 조사의 원칙",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q312",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "토양이나 암석 등에 존재하는 우라늄의 자연적 붕괴로 생성되어 건물의 균열을 통해 실내공기로 유입되는 발암성 오염물질은?",
+      "options": [
+        "라돈",
+        "석면",
+        "알레르겐",
+        "포름알데히드",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q313",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "NIOSH에서 제시한 권장무게한계가 6kg이고, 근로자가 실제 작업하는 중량물의 무게가 12kg일 경우 중량물 취급지수(LI)는?",
+      "options": [
+        "0.5",
+        "1.0",
+        "2.0",
+        "6.0",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q314",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "미국산업위생학술원(American Academy of Industrial Hygiene)에서 산업위생 분야에 종사하는 사람들이 반드시 지켜야 할 윤리강령 중 전문가로서의 책임부분에 해당하지 않는 것은?",
+      "options": [
+        "기업체의 기밀은 누설하지 않는다.",
+        "근로자의 건강보호 책임을 최우선으로 한다.",
+        "전문 분야로서의 산업위생을 학문적으로 발전시킨다.",
+        "과학적 방법의 적용과 자료의 해석에서 객관성을 유지한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q315",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "근육운동을 하는 동안 혐기성 대사에 동원되는 에너지원과 가장 거리가 먼 것은?",
+      "options": [
+        "글리코겐",
+        "아세트알데히드",
+        "크레아틴인산(CP)",
+        "아데노신삼인산(ATP)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q316",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "산업안전보건법령상 중대재해에 해당되지 않는 것은?",
+      "options": [
+        "사망사가 2명이 발생한 재해",
+        "상해는 없으나 재산피해 정도가 심각한 재해",
+        "4개월의 요양이 필요한 부상자가 동시에 2명이 발생한 재해",
+        "부상자 또는 직업성 질병자가 동시에 12명이 발생한 재해",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q317",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "마이스터(D.Meister)가 정의한 내용으로 시스템으로부터 요구된 작업결과(Performance)와의 차이(Deviation)가 의미하는 것은?",
+      "options": [
+        "인간실수",
+        "무의식 행동",
+        "주변적 동작",
+        "지름길 반응",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q318",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "작업대사율이 3인 강한작업을 하는 근로자의 실동률(%)은?",
+      "options": [
+        "50",
+        "60",
+        "70",
+        "80",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q319",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "산업위생활동 중 평가(Evaluation)의 주요과정에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "시료를 채취하고 분석한다.",
+        "예비조사의 목적과 범위를 결정한다.",
+        "현장조사로 정량적인 유해인자의 양을 측정한다.",
+        "바람직한 작업환경을 만드는 최종적인 활동이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q320",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "톨루엔(TLV=50ppm)을 사용하는 작업장의 작업시간이 10시간일 때 허용기준을 보정하여야 한다. OSHA 보정법과 Brief and Scala 보정법을 적용하였을 경우 보정된 허용기준치 간의 차이는?",
+      "options": [
+        "1ppm",
+        "2.5ppm",
+        "5ppm",
+        "10ppm",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q321",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "가스상 물질의 분석 및 평가를 위한 열탈착에 관한 설명으로 틀린 것은?",
+      "options": [
+        "이황화탄소를 활용한 용매 탈착은 독성 및 인화성이 크고 작업이 번잡하여 열탈착이 보다 간편한 방법이다.",
+        "활성탄관을 이용하여 시료를 채취한 경우, 열탈착에 300℃ 이상의 온도가 필요하므로 사용이 제한된다.",
+        "열탈착은 용매탈착에 비하여 흡착제에 채취된 일부 분석물질만 기기로 주입되어 감도가 떨어진다.",
+        "열탈착은 대개 자동으로 수행되며 탈착된 분석물질이 가스크로마토그래피로 직접 주입되도록 되어 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q322",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "정량한계에 관한 설명으로 옳은 것은?",
+      "options": [
+        "표준편차의 3배 또는 검출한계의 5배(또는 5.5배)로 정의",
+        "표준편차의 3배 또는 검출한계의 10배(또는 10.3배)로 정의",
+        "표준편차의 5배 또는 검출한계의 3배(또는 3.3배)로 정의",
+        "표준편차의 10배 또는 검출한계의 3배(또는 3.3배)로 정의",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q323",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "고온의 노출기준을 구분하는 작업강도 중 중등작업에 해당하는 열량(kcal/h)은? (단, 고용노동부 고시를 기준으로 한다.)",
+      "options": [
+        "130",
+        "221",
+        "365",
+        "445",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q324",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "고열(Heat stress) 환경의 온열 측정과 관련된 내용으로 틀린 것은?",
+      "options": [
+        "흑구온도와 기온과의 차를 실효복사온도라 한다.",
+        "실제 환경의 복사온도를 평가할 때는 평균복사온도를 이용한다.",
+        "고열로 인한 환경적인 요인은 기온, 기류, 습도 및 복사열이다.",
+        "습구흑구온도지수(WBGT) 계산 시에는 반드시 기류를 고려하여야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q325",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "입경범위가 0.1~0.5μm인 입자상 물질이 여과지에 포집될 경우에 관여하는 주된 메커니즘은?",
+      "options": [
+        "충돌과 간섭",
+        "확산과 간섭",
+        "확산과 충돌",
+        "충돌",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q326",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "노출기준이 1ppm인 acrylonitrile을 0.2L/min 유속으로 3.5L 채취 시 분석범위(working range)는 0.7~46ppm이다. 이 물질의 분석 시 정량한계(mg)는? (단, acrylonitrile의 분자량은 53.06g/mol이다.)",
+      "options": [
+        "2.45",
+        "4.91",
+        "5.25",
+        "10.50",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q327",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "1% Sodium bisulfite의 흡수액 20mL를 취한 유리제품의 미드젯임핀져를 고속시료포집 펌프에 연결하여 공기시료 0.480m3를 포집하였다. 가시광선흡광광도계를 사용하여 시료를 실험실에서 분석한 값이 표준검량선의 외삽법에 의하여 50μg/mL가 지시되었다. 표준상태에서 시료포집기간동안의 공기 중 포름알데히드 증기의 농도(ppm)는? (단, 포름알데히드 분자량은 30g/mol이다.)",
+      "options": [
+        "1.7",
+        "2.5",
+        "3.4",
+        "4.8",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q328",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "고체흡착관의 뒷층에서 분석된 양이 앞층의 25%였다. 이에 대한 분석자의 결정으로 바람직하지 않은 것은?",
+      "options": [
+        "파과가 일어났다고 판단하였다.",
+        "파과실험의 중요성을 인식하였다.",
+        "시료채취과정에서 오차가 발생되었다고 판단하였다.",
+        "분석된 앞층과 뒷층을 합하여 분석결과로 이용하였다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q329",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "옥내의 습구흑구온도지수(WBGT)를 계산하는 식으로 옳은 것은?",
+      "options": [
+        "WBGT=0.1×자연습구온도+0.9×흑구온도",
+        "WBGT=0.9×자연습구온도+0.1×흑구온도",
+        "WBGT=0.3×자연습구온도+0.7×흑구온도",
+        "WBGT=0.7×자연습구온도+0.3×흑구온도",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q330",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "활성탄관에 대한 설명으로 틀린 것은?",
+      "options": [
+        "흡착관은 길이 7cm, 외경 6mm인 것을 주로 사용한다.",
+        "흡입구 방향으로 가장 앞쪽에는 유리섬유가 장착되어 있다.",
+        "활성탄 입자는 크기가 20~40mesh인 것을 선별하여 사용한다.",
+        "앞층과 뒷층을 우레탄 폼으로 구분하며 뒷층이 100mg으로 앞층 보다 2배 정도 많다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q331",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "처음 측정한 측정치는 유량, 측정시간, 회수율, 분석에 의한 오차가 각각 15%, 3%, 10%, 7%이였으나 유량에 의한 오차가 개선되어 10%로 감소되었다면 개선 전 측정치의 누적오차와 개선 후 측정치의 누적오차의 차이(%)는?",
+      "options": [
+        "6.5",
+        "5.5",
+        "4.5",
+        "3.5",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q332",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "산업위생통계에서 적용하는 변이계수에 대한 설명으로 틀린 것은?",
+      "options": [
+        "표준오차에 대한 평균값의 크기를 나타낸 수치이다.",
+        "통계집단의 측정값들에 대한 균일성, 정밀성 정도를 표현하는 것이다.",
+        "단위가 서로 다른 집단이나 특성값의 상호 산포도를 비교하는데 이용될 수 있다.",
+        "평균값의 크기가 0에 가까울수록 변이계수의 의의가 작아지는 단점이 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q333",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "누적소음노출량 측정기로 소음을 측정할 때의 기기 설정값으로 옳은 것은? (단, 고용노동부 고시를 기준으로 한다.)",
+      "options": [
+        "Threshold = 80dB, Criteria = 90dB, Exchange Rate = 5dB",
+        "Threshold = 80dB, Criteria = 90dB, Exchange Rate = 10dB",
+        "Threshold = 90dB, Criteria = 80dB, Exchange Rate = 10dB",
+        "Threshold = 90dB, Criteria = 80dB, Exchange Rate = 5dB",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q334",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "석면농도를 측정하는 방법에 대한 설명 중 ( )안에 들어갈 적절한 기체는? (단, NIOSH 방법 기준)",
+      "options": [
+        "솔벤트, 메틸에틸케톤",
+        "아황산가스, 클로로포름",
+        "아세톤, 트리아세틴",
+        "트리클로로에탄, 트리클로로에틸렌",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/bw/bw20210515/bw20210515m34.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q335",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "방사성 물질의 단위에 대한 설명이 잘못된 것은?",
+      "options": [
+        "방사능의 SI단위는 Becquerel(Bq)이다.",
+        "1Bq는 3.7×1010dps이다.",
+        "물질에 조사되는 선량은 röntgen(R)으로 표시한다.",
+        "방사선의 흡수선량은 Gray(Gy)로 표시한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q336",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "세 개의 소음원의 소음수준을 한 지점에서 각각 측정해보니 첫 번째 소음원만 가동될 때 88dB, 두 번째 소음원만 가동될 때 86dB, 세 번째 소음원만이 가동될 때 91dB이었다. 세 개의 소음원이 동시에 가동될 때 측정 지점에서의 음압수준(dB)은?",
+      "options": [
+        "91.6",
+        "93.6",
+        "95.4",
+        "100.2",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q337",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "채취시료 10mL를 채취하여 분석한 결과 납(Pb)의 양이 8.5μg이고 Blank 시료도 동일한 방법으로 분석한 결과 납의 양이 0.7μg이다. 총 흡인 유량이 60L일 때 작업환경 중 납의 농도(mg/m3)는? (단, 탈착효율은 0.95이다.)",
+      "options": [
+        "0.14",
+        "0.21",
+        "0.65",
+        "0.70",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q338",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "작업환경 내 105dB(A)의 소음이 30분, 110dB(A) 소음이 15분, 115dB(A) 5분 발생하였을 때, 작업환경의 소음 정도는? (단, 105, 110, 115dB(A)의 1일 노출허용 시간은 각각 1시간, 30분, 15분이고, 소음은 단속음이다.)",
+      "options": [
+        "허용기준 초과",
+        "허용기준과 일치",
+        "허용기준 미만",
+        "평가할 수 없음(조건부족)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q339",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "금속가공유를 사용하는 절단작업 시 주로 발생할 수 있는 공기 중 부유물질의 형태로 가장 적합한 것은?",
+      "options": [
+        "미스트(mist)",
+        "먼지(dust)",
+        "가스(gas)",
+        "흄(fume)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q340",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "두 집단의 어떤 유해물질의 측정값이 아래 도표와 같을 때 두 집단의 표준편차의 크기 비교에 대한 설명 중 옳은 것은?",
+      "options": [
+        "A집단과 B집단은 서로 같다.",
+        "A집단의 경우가 B집단의 경우보다 크다.",
+        "A집단의 경우가 B집단의 경우보다 작다.",
+        "주어진 도표만으로 판단하기 어렵다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/bw/bw20210515/bw20210515m40.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q341",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 특급 분리식 방진마스크의 여과재 분진 등의 포집효율은? (단, 고용노동부 고시를 기준으로 한다.)",
+      "options": [
+        "80% 이상",
+        "94% 이상",
+        "99.0% 이상",
+        "99.95% 이상",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q342",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "방진마스크에 대한 설명으로 가장 거리가 먼 것은?",
+      "options": [
+        "방진마스크의 필터에는 활성탄과 실리카겔이 주로 사용된다.",
+        "방진마스크는 인체에 유해한 분진, 연무, 흄, 미스트, 스트레이 입자가 작업자가 흡입하지 않도록 하는 보호구이다.",
+        "방진마스크의 종류에는 격리식과 직결식, 면체여과식이 있다.",
+        "비휘발성 입자에 대한 보호만 가능하며, 가스 및 증기로부터의 보호는 안 된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q343",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "지름이 100cm인 원형 후드 입구로부터 200cm 떨어진 지점에 오염물질이 있다. 제어풍속이 3m/s일 때, 후드의 필요 환기량(m3/s)은? (단, 자유공간에 위치하며 플랜지는 없다.)",
+      "options": [
+        "143",
+        "122",
+        "103",
+        "83",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q344",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "보호구의 재질과 적용 물질에 대한 내용으로 틀린 것은?",
+      "options": [
+        "면: 고체상 물질에 효과적이다.",
+        "부틸(Butyl) 고무: 극성 용제에 효과적이다.",
+        "니트릴(Nitrile) 고무: 비극성 용제에 효과적이다.",
+        "천연 고무(latex): 비극성 용제에 효과적이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q345",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "국소환기장치 설계에서 제어속도에 대한 설명으로 옳은 것은?",
+      "options": [
+        "작업장 내의 평균유속을 말한다.",
+        "발산되는 유해물질을 후드로 흡인하는데 필요한 기류속도이다.",
+        "덕트 내의 기류속도를 말한다.",
+        "일명 반송속도라고도 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q346",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "흡인 풍량이 200m3/min, 송풍기 유효전압이 150mmH2O, 송풍기 효율이 80%인 송풍기의 소요 동력(kW)은?",
+      "options": [
+        "4.1",
+        "5.1",
+        "6.1",
+        "7.1",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q347",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "덕트 내 공기흐름에서의 레이놀즈수(Reynolds Number)를 계산하기 위해 알아야 하는 모든 요소는?",
+      "options": [
+        "공기속도, 공기점성계수, 공기밀도, 덕트의 직경",
+        "공기속도, 공기밀도, 중력가속도",
+        "공기속도, 공기온도, 덕트의 길이",
+        "공기속도, 공기점성계수, 덕트의 길이",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q348",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "작업환경관리 대책 중 물질의 대체에 해당되지 않는 것은?",
+      "options": [
+        "성냥을 만들 때 백린을 적린으로 교체한다.",
+        "보온 재료인 유리섬유를 석면으로 교체한다.",
+        "야광시계의 자판에 라듐 대신 인을 사용한다.",
+        "분체 입자를 큰 입자로 대체한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q349",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "7m×14m×3m의 체적을 가진 방에 톨루엔이 저장되어 있고 공기를 공급하기 전에 측정한 농도가 300ppm이었다. 이 방으로 10m3/min의 환기량을 공급한 후 노출기준인 100ppm으로 도달하는데 걸리는 시간(min)은?",
+      "options": [
+        "12",
+        "16",
+        "24",
+        "32",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q350",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "후드의 선택에서 필요 환기량을 최소화하기 위한 방법이 아닌 것은?",
+      "options": [
+        "측면 조절판 또는 커텐 등으로 가능한 공정을 둘러 쌀 것",
+        "후드를 오염원에 가능한 가깝게 설치할 것",
+        "후드 개구부로 유입되는 기류속도 분포가 균일하게 되도록 할 것",
+        "공정 중 발생되는 오염물질의 비산속도를 크게할 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q351",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "송풍기의 회전수 변화에 따른 풍량, 풍압 및 동력에 대한 설명으로 옳은 것은?",
+      "options": [
+        "풍량은 송풍기의 회전수에 비례한다.",
+        "풍압은 송풍기의 회전수에 반비례한다.",
+        "동력은 송풍기의 회전수에 비례한다.",
+        "동력은 송풍기 회전수의 제곱에 비례한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q352",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "1기압에서 혼합기체의 부피비가 질소 71%, 산소 14%, 탄산가스 15%로 구성되어 있을 때, 질소의 분압(mmH2O)은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "433.2",
+        "539.6",
+        "646.0",
+        "653.6",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q353",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "공기정화장치의 한 종류인 원심력집진기에서 절단입경의 의미로 옳은 것은?",
+      "options": [
+        "100% 분리 포집되는 입자의 최소 크기",
+        "100% 처리효율로 제거되는 입자크기",
+        "90% 이상 처리효율로 제거되는 입자크기",
+        "50% 처리효율로 제거되는 입자크기",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q354",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "작업환경개선에서 공학적인 대책과 가장 거리가 먼 것은?",
+      "options": [
+        "교육",
+        "환기",
+        "대체",
+        "격리",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q355",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "유입계수가 0.82인 원형 후드가 있다. 원형 덕트의 면적이 0.0314m2이고 필요 환기량이 30m3/min이라고 할 때, 후드의 정압(mmH2O)은? (단, 공기밀도는 1.2kg/m3이다.)",
+      "options": [
+        "16",
+        "23",
+        "32",
+        "37",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q356",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "방사형 송풍기에 관한 설명과 가장 거리가 먼 것은?",
+      "options": [
+        "고농도 분진함유 공기나 부식성이 강한 공기를 이송시키는데 많이 이용된다.",
+        "깃이 평판으로 되어 있다.",
+        "가격이 저렴하고 효율이 높다.",
+        "깃의 구조가 분진을 자체 정화할 수 있도록 되어 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q357",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "플랜지 없는 외부식 사각형 후드가 설치되어 있다. 성능을 높이기 위해 플랜지 있는 외부식 사각형 후드로 작업대에 부착했을 때, 필요환기량의 변화로 옳은 것은? (단, 포촉거리, 개구면적, 제어속도는 같다.)",
+      "options": [
+        "기존 대비 10%로 줄어든다.",
+        "기존 대비 25%로 줄어든다.",
+        "기존 대비 50%로 줄어든다.",
+        "기존 대비 75%로 줄어든다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q358",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "50℃의 송풍관에 15m/s의 유속으로 흐르는 기체의 속도압(mmH2O)은? (단, 기체의 밀도는 1.293kg/m3이다.)",
+      "options": [
+        "32.4",
+        "22.6",
+        "14.8",
+        "7.2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q359",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "온도 50℃인 기체가 관을 통하여 20m3/min으로 흐르고 있을 때, 같은 조건의 0℃에서 유량(m3/min)은? (단, 관내압력 및 기타 조건은 일정하다.)",
+      "options": [
+        "14.7",
+        "16.9",
+        "20.0",
+        "23.7",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q360",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "원심력 송풍기 중 다익형 송풍기에 관한 설명과 가장 거리가 먼 것은?",
+      "options": [
+        "큰 압력손실에서도 송풍량이 안정적이다.",
+        "송풍기의 임펠러가 다람쥐 쳇바퀴 모양으로 생겼다.",
+        "강도가 크게 요구되지 않기 때문에 적은 비용으로 제작가능하다.",
+        "다른 송풍기와 비교하여 동일 송풍량을 발생시키기 위한 임펠러 회전속도가 상대적으로 낮기 때문에 소음이 작다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q361",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "진동증후군(HAVS)에 대한 스톡홀름 워크숍의 분류로서 옳지 않은 것은?",
+      "options": [
+        "진동증후군의 단계를 0부터 4까지 5단계로 구분하였다.",
+        "1단계는 가벼운 증상으로 1개 또는 그 이상의 손가락 끝부분이 하얗게 변하는 증상을 의미한다.",
+        "3단계는 심각한 증상으로 1개 또는 그 이상의 손가락 가운뎃마디 부분까지 하얗게 변하는 증상이 나타나는 단계이다.",
+        "4단계는 매우 심각한 증상을 대부분의 손가락이 하얗게 변하는 증상과 함께 손끝에서 땀의 분비가 제대로 일어나지 않는 등의 변화가 나타나는 단계이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q362",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "인체와 작업환경과의 사이에 열교환의 영향을 미치는 것으로 가장 거리가 먼 것은?",
+      "options": [
+        "대류(convection)",
+        "열복사(radiation)",
+        "증발(evaporation)",
+        "열순응(acclimatization to heat)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q363",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "비전리방사선의 종류 중 옥외작업을 하면서 콜타르의 유도체, 벤조피렌, 안트라센 화합물과 상호작용하여 피부암을 유발시키는 것으로 알려진 비전리방사선은?",
+      "options": [
+        "γ선",
+        "자외선",
+        "적외선",
+        "마이크로파",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q364",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "소독작용, 비타민D형성, 피부색소 침착 등 생물학적 작용이 강한 특성을 가진 자외선(Dorno 선)의 파장 범위는 약 얼마인가?",
+      "options": [
+        "1000Å ~ 2800Å",
+        "2800Å ~ 3150Å",
+        "3150Å ~ 4000Å",
+        "4000Å ~ 4700Å",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q365",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "전리방사선 중 전자기방사선에 속하는 것은?",
+      "options": [
+        "α선",
+        "β선",
+        "γ선",
+        "중성자",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q366",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 이상기압의 인체작용으로 2차적인 가압현상과 가장 거리가 먼 것은? (단, 화학적 장해를 말한다.)",
+      "options": [
+        "질소 마취",
+        "산소 중독",
+        "이산화탄소의 중독",
+        "일산화탄소의 작용",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q367",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "출력이 10Watt의 작은 점음원으로부터 자유공간의 10m 떨어져 있는 곳의 음압레벨(Sound Pressure Level)은 몇 dB정도인가?",
+      "options": [
+        "89",
+        "99",
+        "161",
+        "229",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q368",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "1 sone이란 몇 Hz에서, 몇 dB의 음압레벨을 갖는 소음의 크기를 말하는가?",
+      "options": [
+        "1000Hz, 40dB",
+        "1200Hz, 45dB",
+        "1500Hz, 45dB",
+        "2000Hz, 48dB",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q369",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "자연조명에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "창의 면적은 바닥 면적의 15 ~ 20%정도가 이상적이다.",
+        "개각은 4 ~ 5°가 좋으며, 개각이 작을수록 실내는 밝다.",
+        "균일한 조명을 요구하는 작업실은 동북 또는 북창이 좋다.",
+        "입사각은 28°이상이 좋으며, 입사각이 클수록 실내는 밝다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q370",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "전신진동 노출에 따른 인체의 영향에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "평형감각에 영향을 미친다.",
+        "산소 소비량과 폐환기량이 증가한다.",
+        "작업수행 능력과 집중력이 저하된다.",
+        "지속노출 시 레이노드 증후군(Raynaud’s phenomenon)을 유발한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q371",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "소음에 의한 인체의 장해 정도(소음성난청)에 영향을 미치는 요인이 아닌 것은?",
+      "options": [
+        "소음의 크기",
+        "개인의 감수성",
+        "소음 발생 장소",
+        "소음의 주파수 구성",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q372",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 전리방사선에 대한 감수성의 크기를 올바른 순서대로 나열한 것은?",
+      "options": [
+        "ㄱ ＞ ㄴ ＞ ㄷ ＞ ㄹ",
+        "ㄱ ＞ ㄹ ＞ ㄴ ＞ ㄷ",
+        "ㄴ ＞ ㄱ ＞ ㄷ ＞ ㄹ",
+        "ㄴ ＞ ㄷ ＞ ㄹ ＞ ㄱ",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/bw/bw20210515/bw20210515m72.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q373",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "한랭 환경에서 인체의 일차적 생리적 반응으로 볼 수 없는 것은?",
+      "options": [
+        "피부혈관의 팽창",
+        "체표면적의 감소",
+        "화학적 대사작용의 증가",
+        "근육긴장의 증가와 떨림",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q374",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "10시간 동안 측정한 누적 소음노출량이 300%일 때 측정시간 평균 소음 수준은 약 얼마인가?",
+      "options": [
+        "94.2dB(A)",
+        "96.3dB(A)",
+        "97.4dB(A)",
+        "98.6dB(A)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q375",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "감압에 따른 인체의 기포 형성량을 좌우하는 요인과 가장 거리가 먼 것은?",
+      "options": [
+        "감압속도",
+        "산소공급량",
+        "조직에 용해된 가스량",
+        "혈류를 변화시키는 상태",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q376",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음에서 설명하는 고열장해는?",
+      "options": [
+        "열사병(heat stroke)",
+        "열 허탈(heat collapse)",
+        "열 경련(heat cramps)",
+        "열 발진(heat rashes)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/bw/bw20210515/bw20210515m76.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q377",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "소음의 흡음 평가 시 적용되는 반향시간(reverberation time)에 관한 설명으로 옳은 것은?",
+      "options": [
+        "반향시간은 실내공간의 크기에 비례한다.",
+        "실내 흡음량을 증가시키면 반향시간도 증가한다.",
+        "반향시간은 음압수준이 30dB 감소하는데 소요되는 시간이다.",
+        "반향시간을 측정하려면 실내 배경소음이 90dB 이상 되어야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q378",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "1촉광의 광원으로부터 한 단위 입체각으로 나가는 광속의 단위를 무엇이라 하는가?",
+      "options": [
+        "럭스(Lux)",
+        "램버트(Lambert)",
+        "캔들(Candle)",
+        "루멘(Lumen)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q379",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "밀폐공간에서 산소결핍의 원인을 소모(consumption), 치환(displacement), 흡수(absorption)로 구분할 때 소모에 해당하지 않는 것은?",
+      "options": [
+        "용접, 절단, 불 등에 의한 연소",
+        "금속의 산화, 녹 등의 화학반응",
+        "제한된 공간 내에서 사람의 호흡",
+        "질소, 아르곤, 헬륨 등의 불활성 가스 사용",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q380",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "산업안전보건법령상 이상기압에 의한 건강장해의 예방에 있어 사용되는 용어의 정의로 옳지 않은 것은?",
+      "options": [
+        "압력이란 절대압과 게이지압의 합을 말한다.",
+        "고압작업이란 고기압에서 잠함공법이나 그 외의 압기공법으로 하는 작업을 말한다.",
+        "기압조절실이란 고압작업을 하는 근로자 또는 잠수작업을 하는 근로자가 가압 또는 감압을 받는 장소를 말한다.",
+        "표면공급식 잠수작업이란 수면 위의 공기압축기 또는 호흡용 기체통에서 압축된 호흡용 기체를 공급받으면서 하는 작업을 말한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q381",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "건강영향에 따른 분진의 분류와 유발물질의 종류를 잘못 짝지은 것은?",
+      "options": [
+        "유기성 분진 – 목분진, 면, 밀가루",
+        "알레르기성 분진 – 크롬산, 망간, 황",
+        "진폐성 분진 – 규산, 석면, 활석, 흑연",
+        "발암성 분진 – 석면, 니켈카보닐, 아민계 색소",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q382",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 칼슘대사에 장해를 주어 신결석을 동반한 신증후군이 나타나고 다량의 칼슘배설이 일어나 뼈의 통증, 골연화증 및 골수공증과 같은 골격계 장해를 유발하는 중금속은?",
+      "options": [
+        "망간",
+        "수은",
+        "비소",
+        "카드뮴",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q383",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "폐에 침착된 먼지의 정화과정에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "어떤 먼지는 폐포벽을 통과하여 림프계나 다른 부위로 들어가기도 한다.",
+        "먼지는 세포가 방출하는 효소에 의해 용해되지 않으므로 점액층에 의한 방출 이외에는 체내에 축적된다.",
+        "폐에 침착된 먼지는 식세포에 의하여 포위되어, 포위된 먼지의 일부는 미세 기관지로 운반되고 점액 섬모운동에 의하여 정화된다.",
+        "폐에서 먼지를 포위하는 식세포는 수명이 다한 후 사멸하고 다시 새로운 식세포가 먼지를 포위하는 과정이 계속적으로 일어난다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q384",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "카드뮴이 체내에 흡수되었을 경우 주로 축적되는 곳은?",
+      "options": [
+        "뼈, 근육",
+        "뇌, 근육",
+        "간, 신장",
+        "혈액, 모발",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q385",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "생물학적 모니터링(biological monitoring)에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "주목적은 근로자 채용 시기를 조정하기 위하여 실시한다.",
+        "건강에 영향을 미치는 바람직하지 않은 노출상태를 파악하는 것이다.",
+        "최근의 노출량이나 과거로부터 축적된 노출량을 파악한다.",
+        "건강상의 위험은 생물학적 검체에서 물질별 결정인자를 생물학적 노출지수와 비교하여 평가된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q386",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "흡입분진의 종류에 따른 진폐증의 분류 중 유기성 분진에 의한 진폐증에 해당하는 것은?",
+      "options": [
+        "규폐증",
+        "활석폐증",
+        "연초폐증",
+        "석면폐증",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q387",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 중추신경의 자극작용이 가장 강한 유기용제는?",
+      "options": [
+        "아민",
+        "알코올",
+        "알칸",
+        "알데히드",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q388",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "화학물질의 상호작용인 길항작용 중 독성물질의 생체과정인 흡수, 대사 등에 변화를 일으켜 독성이 감소되는 것을 무엇이라 하는가?",
+      "options": [
+        "화학적 길항작용",
+        "배분적 길항작용",
+        "수용체 길항작용",
+        "기능적 길항작용",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q389",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "직업성 천식에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "작업 환경 중 천식을 유발하는 대표물질로 톨루엔 디이소시안산염(TDI), 무수 트리멜리트산(TMA)이 있다.",
+        "일단 질환에 이환하게 되면 작업 환경에서 추후 소량의 동일한 유발물질에 노출되더라도 지속적으로 증상이 발현된다.",
+        "항원공여세포가 탐식되면 T림프구 중 I형 T림프구(type I killer T cell)가 특정 알레르기 항원을 인식한다.",
+        "직업성 천식은 근무시간에 증상이 점점 심해지고, 휴일 같은 비근무시간에 증상이 완화되거나 없어지는 특징이 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q390",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 납중독에서 나타날 수 있는 증상을 모두 나열한 것은?",
+      "options": [
+        "ㄱ, ㄷ",
+        "ㄴ, ㄹ",
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄴ, ㄷ, ㄹ",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/bw/bw20210515/bw20210515m90.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q391",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "이황화탄소를 취급하는 근로자를 대상으로 생물학적 모니터링을 하는데 이용될 수 있는 생체 내 대사산물은?",
+      "options": [
+        "소변 중 마뇨산",
+        "소변 중 메탄올",
+        "소변 중 메틸마뇨산",
+        "소변 중 TTCA(2-thiothiazolidine-4-carboxylic acid)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q392",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "산업안전보건법령상 다음의 설명에서 ㉠~㉢에 해당하는 내용으로 옳은 것은?",
+      "options": [
+        "㉠:15, ㉡:20, ㉢:2",
+        "㉠:20, ㉡:15, ㉢:2",
+        "㉠:15, ㉡:15, ㉢:4",
+        "㉠:20, ㉡:20, ㉢:4",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/bw/bw20210515/bw20210515m92.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q393",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "사염화탄소에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "생식기에 대한 독성작용이 특히 심하다.",
+        "고농도에 노출되면 중추신경계 장애 외에 간장과 신장장애를 유발한다.",
+        "신장장애 증상으로 감뇨, 혈노 등이 발생하며, 완전 무뇨증이 되면 사망할 수도 있다.",
+        "초기 증상으로는 지속적인 두통, 구역 또는 구토, 복부선통과 설사, 간압통 등이 나타난다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q394",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "단순 질식제에 해당되는 물질은?",
+      "options": [
+        "아닐린",
+        "황화수소",
+        "이산화탄소",
+        "니트로벤젠",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q395",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "상기도 점막 자극제로 볼 수 없는 것은?",
+      "options": [
+        "포스겐",
+        "크롬산",
+        "암모니아",
+        "염화수소",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q396",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "적혈구의 산소운반 단백질을 무엇이라 하는가?",
+      "options": [
+        "백혈구",
+        "단구",
+        "혈소판",
+        "헤모글로빈",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q397",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "할로겐화탄화수소에 관한 설명으로 옳지 않은 것은?",
+      "options": [
+        "대개 중추신경계의 억제에 의한 마취작용이 나타난다.",
+        "가연성과 폭발의 위험성이 높으므로 취급시 주의하여야 한다.",
+        "일반적으로 할로겐화탄화수소의 독성 정도는 화합물의 분자량이 커질수록 증가한다.",
+        "일반적으로 할로겐화탄화수소의 독성 정도는 할로겐원소의 수가 커질수록 증가한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q398",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 표는 A작업장의 백혈병과 벤젠에 대한 코호트 연구를 수행한 결과이다. 이 때 벤젠의 백혈병에 대한 상대위험비는 약 얼마인가?",
+      "options": [
+        "3.29",
+        "3.55",
+        "4.64",
+        "4.82",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/bw/bw20210515/bw20210515m98.gif"
+    },
+    {
+      "id": "indus_hygiene_engineer_q399",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "다음 중 중절모자를 만드는 사람들에게 처음으로 발견되어 hatter’s shake라고 하며 근육경련을 유발하는 중금속은?",
+      "options": [
+        "카드뮴",
+        "수은",
+        "망간",
+        "납",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "indus_hygiene_engineer_q400",
+      "subject": "산업위생관리기사",
+      "round": "2021-05-15 기출",
+      "question_text": "유기용제별 중독의 대표적인 증상으로 올바르게 연결된 것은?",
+      "options": [
+        "벤젠 - 간장해",
+        "크실렌 - 조혈장해",
+        "염화탄화수소 - 시신경장해",
+        "에틸렌글리콜에테르 – 생식기능장해",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    }
+  ]
+}

@@ -1,0 +1,905 @@
+{
+  "pack_name": "정보처리기능사 기출 팩",
+  "questions": [
+    {
+      "id": "infopro_craftsman_q1",
+      "subject": "정보처리기능사",
+      "round": "2011-09-25 기출",
+      "question_text": "(     )은(는) CREATE문에서 사용되는 옵션으로 참조 테이블의 튜플이 삭제되면 기본 테이블의 관련 튜플도 모두 삭제되고, 속성이 변경되면 관련 튜플의 속성값도 변경되도록 하는 기능이다.",
+      "options": [
+        "DISTINCT",
+        "RESTRICT",
+        "카디널리티",
+        "CASCADE",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q2",
+      "subject": "정보처리기능사",
+      "round": "2011-09-25 기출",
+      "question_text": "(     )은(는) 데이터베이스에 표현하려는 것으로 사람이 생각하는 개념이나 정보 단위 같은 현실 세계의 대상체이다. (     )은(는) 유형, 무형의 정보로서 서로 연관된 몇 개의 속성으로 구성된다.",
+      "options": [
+        "Entity",
+        "스키마",
+        "무결성",
+        "튜플",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q3",
+      "subject": "정보처리기능사",
+      "round": "2011-09-25 기출",
+      "question_text": "(     )은(는) 데이터베이스에서 하나의 논리적 기능을 수행하기 위한 작업의 단위 또는 한꺼번에 모두 수행되어야 할 일련의 연산들을 의미한다.",
+      "options": [
+        "정규화",
+        "CASCADE",
+        "트랜잭션",
+        "관계해석",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q4",
+      "subject": "정보처리기능사",
+      "round": "2011-09-25 기출",
+      "question_text": "(     )은(는) SELECT문에서 사용되는 옵션으로 중복된 튜플이 있으면 그 중 첫 번째 한 개만 검색되도록 하는 기능을 한다.",
+      "options": [
+        "Entity",
+        "RESTRICT",
+        "CASCADE",
+        "DISTINCT",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q5",
+      "subject": "정보처리기능사",
+      "round": "2011-09-25 기출",
+      "question_text": "(     )은(는) 코드(E.F.Code)가 수학의 Predicate Calculus(술어해석)에 기반을 두고 관계 데이터베이스를 위해 제안했다. (     )은(는) 원하는 정보가 무엇이라는 것만 정의하는 비절차적 특성을 지닌다.",
+      "options": [
+        "조인연산",
+        "관계해석",
+        "정규화",
+        "트랜잭션",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q6",
+      "subject": "정보처리기능사",
+      "round": "2011-09-25 기출",
+      "question_text": "(     )은(는) 각종 센서에서 감지한 정보를 무선으로 수집할 수 있도록 구성한 네트워크이다. 센서의 종류로는 온도, 가속도, 위치 정보, 압력, 지문, 가스 등 다양하게 존재한다. 최근에는 물류의 흐름을 파악하기 위해 RFID(Radio Frequency IDentification) 기술을 이용하여 각종 물류 정보의 흐름을 파악하는 기술도 등장하고 있다.",
+      "options": [
+        "RSS",
+        "USB",
+        "USN",
+        "SMS",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q7",
+      "subject": "정보처리기능사",
+      "round": "2011-09-25 기출",
+      "question_text": "(     )은(는) 일반 전화망(PSTN)을 이용하여 음성, 팩스, 전자우편 메시지를 1개의 우편함(Mail Box)에서 통합 운영할수 있는 차세대 시스템이다. (     )을(를) 도입하면 기존의 부가 서비스를 제공하기 위해 개별적으로 존재했던 음성 우편 서비스(VMS), 팩스 우편 서비스(FMS), 음성 응답 서비스(IVR : Interactive Voice Response)를 하나로 통합하여 전체 시스템 비용을 크게 절감할 수 있으며, 개인 메시지를 시간과 장소에 관계없이 수시로 확인할 수 있고 인터넷을 통해 관리할 수 있다.",
+      "options": [
+        "UMS",
+        "USN",
+        "SSD",
+        "ISP",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q8",
+      "subject": "정보처리기능사",
+      "round": "2011-09-25 기출",
+      "question_text": "(     )은(는) 일반적으로 반도체 기억 소자인 플래시 메모리로 구성된 저장장치이다. HDD가 자기디스크와 구동장치로 구성되어 있는 것과 달리 (     )은(는) 구동장치가 없어 소음이 없고, 데이터 처리 속도가 빠르다. 노트북 컴퓨터나 차세대 모바일 제품의 대용량 기억 장치로 HDD를 대신해서 사용되고 있다.",
+      "options": [
+        "SSD",
+        "UMS",
+        "USB",
+        "SMS",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q9",
+      "subject": "정보처리기능사",
+      "round": "2011-09-25 기출",
+      "question_text": "(     )은(는) 인터넷 텔레포니의 핵심 기술로서 지금까지 PSTN 네트워크를 통해 이루어졌던 음성 서비스를 IP(Internet Protocol) 기술을 사용하여 제공하는 것이다. 음성이 디지털화되고, 전달 체계로 IP를 이용함으로써 전화는 물론 인터넷 팩스, 웹콜, 통합메세지 처리 등의 향상된 인터넷 텔레포티 서비스가 가능하게 된다.",
+      "options": [
+        "텔넷",
+        "VoIP",
+        "ISP",
+        "SSD",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q10",
+      "subject": "정보처리기능사",
+      "round": "2011-09-25 기출",
+      "question_text": "(     )은(는) 일반 사용자나 기업체, 기관, 단체 등이 인터넷에 접속하여 인터넷을 이용할수 있도록 해주는 사업자를 말한다. 1994년 6월 한국 통신이 일반인을 대상으로 인터넷 상용 서비스를 시작한 이래 매년 인터넷 이용자 수가 급증하여 현재는 데이콤, 한국 PC통신, 아이네트 기술 등 많은 수의 (     )이(가) 인터넷 서비스를 제공하고 있다.",
+      "options": [
+        "UNS",
+        "UMS",
+        "ISP",
+        "SMS",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q11",
+      "subject": "정보처리기능사",
+      "round": "2011-09-25 기출",
+      "question_text": "(     ) is a special type of EEPROM. (     ) dis nonvolatile, energy-efficient memory , which maintains data without any external source of power. (     ) is popular in many different devices including MP3 players, PDAs, cell phones and digital cameras because it retains data even when the power is turned off and easy access to data.",
+      "options": [
+        "CPU",
+        "RAM",
+        "Flash Memory",
+        "Protocol",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q12",
+      "subject": "정보처리기능사",
+      "round": "2011-09-25 기출",
+      "question_text": "The ( ) is the brains of the computer. Also called the Processor. it is made up of the control unit and ALU. Today, the (     )s of almost all computers are contained on a single chip. The (     ), clock and main memory make up a computer. A complete computer system requires the addition of control units, input, output and storage devices and an operating system.",
+      "options": [
+        "CPU",
+        "Dead Lock",
+        "Protocol",
+        "DNS",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q13",
+      "subject": "정보처리기능사",
+      "round": "2011-09-25 기출",
+      "question_text": "It rules governing transmitting and receiving of  data a telecommunication connection when they communicate. (     )s exit at several levels in a telecommunication  connection. For example, there are (     )s for the data interchange at the hardware device level and (     )s for data interchange at the application program level",
+      "options": [
+        "RAM",
+        "Protocol",
+        "CPU",
+        "Virus",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q14",
+      "subject": "정보처리기능사",
+      "round": "2011-09-25 기출",
+      "question_text": "(     ) is quantity of work which a computer system can process within a given time",
+      "options": [
+        "PMP",
+        "Throughput",
+        "Protocol",
+        "CPU",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q15",
+      "subject": "정보처리기능사",
+      "round": "2011-09-25 기출",
+      "question_text": "(     ) is every process in the set is waiting for an event that can only be caused by another process in the set. and it is a situation wherein two or more competing actions are waiting for the other to finish, so neither ever does.",
+      "options": [
+        "CPU",
+        "ERP",
+        "SMS",
+        "Deadlock",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q16",
+      "subject": "정보처리기능사",
+      "round": "2011-07-12 기출",
+      "question_text": "관계형 데이터베이스 내에서 (     )은(는) 속성의 모임이거나, 또는 테이블의 한 행에 들어 있는 값들의 모음이다. (     )은(는) 관계형이 아닌 다른 데이터베이스에서의 ‘레코드’와 유사한 개념이다.",
+      "options": [
+        "속성",
+        "튜플",
+        "스키마",
+        "DBMS",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q17",
+      "subject": "정보처리기능사",
+      "round": "2011-07-12 기출",
+      "question_text": "(     )은(는) 데이터베이스 관리 시스템에서 데이터베이스 서버와 함께 저장되어 있는 연산을 말하며 일반적인 SQL로 작성되어 있다. 클라이언트는 (     )을(를) 호출하는 것만으로 처리 결과를 얻을 수 있으므로 클라이언트와 서버 간에 주고받는 통신량이 감소되고 통신망의 부하가 경감되어 처리속도가 향상된다.",
+      "options": [
+        "정규화",
+        "DML",
+        "Stored Procedure",
+        "INDEX",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q18",
+      "subject": "정보처리기능사",
+      "round": "2011-07-12 기출",
+      "question_text": "(     )은(는) 레코드에 순차적으로 접근하거나 색인을 통해 선택적으로 접근하는 방식 둘 모두를 제공하는 파일 관리 시스템이다. 이 방식에서는 레코드들을 블록 단위로 나누어 한 블록안에서는 순차적으로 수록하고, 블록별로 시작 레코드의 위치를 기록한 색인 파일을 구성하여 키 값이 주어지면 이 색인을 기준으로 그 레코드를 빨리 찾아낼수 있도록 한다.",
+      "options": [
+        "색인순차접근방식",
+        "논리적 접근",
+        "임의접근방식",
+        "스키마",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q19",
+      "subject": "정보처리기능사",
+      "round": "2011-07-12 기출",
+      "question_text": "(     )(이)란 데이터베이스에 저장된 데이터 값과 그 것이 표현하는 현실 세계의 실제 값이 일치하는 정확성을 의미한다. (     ) 제약 조건(Constraint)은 데이터베이스에 저장된 데이터의 정확성을 보장하기 위해 정확하지 않은 데이터가 데이터베이스 내에 저장되는 것을 방지하기 위한 제약 조건을 말한다.",
+      "options": [
+        "INDEX",
+        "논리적 독립성",
+        "Stored Procedure",
+        "무결성",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q20",
+      "subject": "정보처리기능사",
+      "round": "2011-07-12 기출",
+      "question_text": "데이터베이스 질의 시에 사용되는 그룹함수- (     ) : 그룹별로 튜플수를 구하는 함수- MAX : 그룹별로 최대값을 구하는 함수- SUM : 그룹별로 합계를 구하는 함수",
+      "options": [
+        "COUNT",
+        "DCL",
+        "카디날리티",
+        "디그리",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q21",
+      "subject": "정보처리기능사",
+      "round": "2011-07-12 기출",
+      "question_text": "(     )은(는) ‘언제, 어디서나 있는’을 의미하는 라틴어로 개별 물건에 극소형 전자 태크가 삽입되어 있어 사용자가 시간과 장소에 구해받지 않고 언제 어디서나 자유롭게 네트워크에 접속할수 있는 환경을 말한다. (     ) 네트워킹은 갤별 물건에 네트워크를 통해 통신하며, 지능화, 자율화되어 생산, 유통, 물류 등의 경제활동 서비스, 의료, 요양 등의 복지 서비스, 그리고 환경 서비스 등 새로운 (     ) 서비스를 창출하는 등 인류의 삶을 더욱 윤택하게 해주는 기술로 각광받고 있다.",
+      "options": [
+        "블루투스",
+        "유비쿼터스",
+        "Wi-Fi",
+        "WIPI",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q22",
+      "subject": "정보처리기능사",
+      "round": "2011-07-12 기출",
+      "question_text": "(     )은(는) 디지털 이동 통신 방식의 일종으로 스펙트럼 확산 기술을 채택한 방식이다. 미국 퀼컴(Qualcomm)사에서 북미의 디지털 셀룰러 자동차/휴대 전화의 표준 방식으로 대역폭 1.25MHz의 (     )방식을 제안하였는데, 이것을 1993년 7월 미국 전자 공업 협회(EIA)의 자율 표준 IS-95로 제정하였다. (     )은(는) 사용자 통신 채널 고유의 의사 잡음 부호(PN부호)를 사용하여, 복수의 사용자가 같은 주파수 대역을 공유할 수 있다.",
+      "options": [
+        "와이브로",
+        "Wi-Fi",
+        "CDMA",
+        "MODEM",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q23",
+      "subject": "정보처리기능사",
+      "round": "2011-07-12 기출",
+      "question_text": "(     )은(는) 근거리에서 데이터 통신을 무선으로 가능하게 해주는 표준 기술이다. 핸드폰, PDA, 노트북과 같은 휴대 가능한 장치들 간의 양방향 근거리 통신을 복잡한 전선 없이도 저가격으로 구현할수 있다.",
+      "options": [
+        "블루투스",
+        "CDMA",
+        "유비쿼터스",
+        "MODEM",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q24",
+      "subject": "정보처리기능사",
+      "round": "2011-07-12 기출",
+      "question_text": "(     )은(는)자원 고유를 목적으로 회사, 학교, 연구소 등의 구내에서 사용하는 통신망으로서, 직원들이 가장 효과적으로 공동 사용할수 있도록 연결된 통신망이다. 전송 거리가 짧아 고속 전송이 가능하며 에러 발생률이 낮다.",
+      "options": [
+        "VAN",
+        "MAN",
+        "WAN",
+        "LAN",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q25",
+      "subject": "정보처리기능사",
+      "round": "2011-07-12 기출",
+      "question_text": "(     )은(는) 3세대 이동통신 서비스의 기본 요소로서 정지 영상, 음악, 음성 및 동영상 등의 다양한 형식의 데이터를 주고 받을수 있는 메시징 시스템이다. 2세대의 짧은 메시지 서비스(SMS)의 뒤를 이은 (     )은(는) 기존의 미디어 형식 메시지들과 멀티미디어 형식 메시지를 같이 제공하는 것으로, 이 시스템을 사용하여 실시간 전송 요구 없이 사용자들 간에 송,수신이 가능하다.",
+      "options": [
+        "Twitter",
+        "SMS",
+        "UMS",
+        "MMS",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q26",
+      "subject": "정보처리기능사",
+      "round": "2011-07-12 기출",
+      "question_text": "( ) is a program that generates object programs, converting the command of source program into that of machine languages. Most ( )es translate a source code text file written in a high level language such as C, C++, COBOL etc., to object code or machine language, e.g. into an executable .EXE or .COM file.",
+      "options": [
+        "Compiler",
+        "Protocol",
+        "CPU",
+        "VOD",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q27",
+      "subject": "정보처리기능사",
+      "round": "2011-07-12 기출",
+      "question_text": "A ( ) is an application program the provides a way to look at and interact with all the information on the World Wide Web. The word \"Browser\" seems to have originated prior to the Web as a generic term for user intergace that let you browse text files online. by the time the first ( ) with a graphical user interface was generally available*Mosaic, in 1993), the term seemed to apply to Web content, too",
+      "options": [
+        "Web Browser",
+        "HTML",
+        "Bit",
+        "Virus",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q28",
+      "subject": "정보처리기능사",
+      "round": "2011-07-12 기출",
+      "question_text": "A (     ) is language used to define data and their relationships to other data. It is used to create the data structure is a database.",
+      "options": [
+        "DCL",
+        "DBMS",
+        "DDL",
+        "RAM",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q29",
+      "subject": "정보처리기능사",
+      "round": "2011-07-12 기출",
+      "question_text": "(     ) is language for describing the format of a hypertext document. Written in plain-text, (     ) is plaform-independent and extremely easy to learn and use",
+      "options": [
+        "Compiler",
+        "HTML",
+        "Bit",
+        "Web Browser",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q30",
+      "subject": "정보처리기능사",
+      "round": "2011-07-12 기출",
+      "question_text": "( ) is rules governing transmitting and receiving of data in a telecommunication connection when they communicate. ( ) exist at several levels in a telecommunication connection.",
+      "options": [
+        "Virus",
+        "HTML",
+        "Protocol",
+        "CPU",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q31",
+      "subject": "정보처리기능사",
+      "round": "2011-04-20 기출",
+      "question_text": "(     ) 옵션은 참조 테이블의 튜플이 삭제되면 기본 테이블의 관련 튜플도 모두 삭제되고, 속성이 변경되면 관련 튜플의 속성도 모두 변경되도록 설정하기 위해 사용된다.",
+      "options": [
+        "DISTINCT",
+        "CASCADE",
+        "BETWEEN",
+        "RESTRICT",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q32",
+      "subject": "정보처리기능사",
+      "round": "2011-04-20 기출",
+      "question_text": "(     )은(는) 데이터베이스에서 하나의 논리적 기능을 수행하기 위한 작업의 단위로, 데이터베이스 관련 연산의 가장 기본적인 단위이다. (     )은(는) 데이터베이스 시스템에서 복구 및 병행 수행 시 처리되는 작업의 논리적 단위이다.",
+      "options": [
+        "정규화",
+        "조인",
+        "무결성",
+        "트랜잭션",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q33",
+      "subject": "정보처리기능사",
+      "round": "2011-04-20 기출",
+      "question_text": "(     )은(는) 데이터의 가장 작은 논리적 단위로서 파일 구조상의 데이터 항목 또는 데이터 필드에 해당한다. 어떤 데이터 개체의 구성 요소로서 그 개체의 성질이나 상태를 기술해 주는 역할을 하며, 그 자체로는 중요한 의미를 가지지 못한다. (     )은(는) 개체를 구성하는 항목이다.",
+      "options": [
+        "카디널리티",
+        "속성",
+        "레코드",
+        "튜플",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q34",
+      "subject": "정보처리기능사",
+      "round": "2011-04-20 기출",
+      "question_text": "(     )은(는) 데이터베이스에서 아직 알려지지 않거나 모르는 값으로서 ‘해당 없음’등의 이유로 정보 부재를 나타내기 위해 사용하는, 이론적으로 아무것도 없는 특수한 데이터를 말한다.",
+      "options": [
+        "NULL Value",
+        "스키마",
+        "아노말리현상",
+        "Having",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q35",
+      "subject": "정보처리기능사",
+      "round": "2011-04-20 기출",
+      "question_text": "(     )은(는) 시스템 그 자체에 관련이 있는 다양한 객체에 관한 정보를 포함하는 시스템 데이터베이스이다. (     )은(는) 데이터베이스에 포함되는 모든 데이터 객체에 대한 정의나 명세에 관한 정보를 유지 관리하는 시스템 테이블이다.",
+      "options": [
+        "시스템 카탈로그",
+        "뷰",
+        "튜플",
+        "정규화",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q36",
+      "subject": "정보처리기능사",
+      "round": "2011-04-20 기출",
+      "question_text": "(     )은(는) 웹사이트에서 주민등록번호 대신 이용할 수 있는 사이버 신원확인 번호로서 인터넷 상에서 주민등록번호가 유출되어 도용 되는 부작용을 막기 위해 만든 서비스이다. 이용 상의 불편과 연계 기능 보완을 위하여 (     )2.0에서는 (     ) 통합 ID 관리 시스템을 구축하여 이용 절차를 2단계로 줄였고, 발급 과정에서 불필요한 절차를 간소화 하였다.",
+      "options": [
+        "i-PIN",
+        "공인인증서",
+        "EDI",
+        "DSU",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q37",
+      "subject": "정보처리기능사",
+      "round": "2011-04-20 기출",
+      "question_text": "(     )은(는) 자신이 쓴 짧은 글을 누구에게나 웹/모바일을 이용하여 공개하는 알림장 서비스이다. 사용자는 단문 메세지 서비스, 즉 메센저, 이메일 등을 통하여 140자의 텍스트를 보낼수 있으며 글을 쉽게 올리고 전파 속도도 빠르다. 블로그처럼 사용자의 참여로 이루어 지며 한줄 블로그라고 부를 정도로 글자수에 제한이 있다.",
+      "options": [
+        "RSS",
+        "블로그",
+        "Twitter",
+        "SMS",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q38",
+      "subject": "정보처리기능사",
+      "round": "2011-04-20 기출",
+      "question_text": "(     )은(는) 생산 관리, 판매 관리, 인사 관리, 재무 관리 등 기업의 기본적인 업무를 컴퓨터 시스템을 사용하여 밀접하게 관련시켜 실행하는 것이다. 즉, 인력/생산재/물류/회계 등 기업의 모든 자원을 전체적으로 관리하여 최적화된 기업 활동을 가능하게 하는 전산 시스템을 말한다.",
+      "options": [
+        "EDI",
+        "CAD",
+        "RSS",
+        "ERP",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q39",
+      "subject": "정보처리기능사",
+      "round": "2011-04-20 기출",
+      "question_text": "(     ) 시스템은(는) 하드웨어나 소프트웨어가 다른 하드웨어나 소프트웨어의 일부로 내재되어 있는 것이다. 이 시스템은 메인 프레임, 워크스테이션, PC 등을 제외한 모든 컴퓨터가 내장된 제품을 의미하게 되어, 정보가전은 물론 일반적인 가전이나 프린터 등의 주변기기, 에어컨 엘리베이터, 은행의 ATM(Automatic Teller Machine), 산업용 로봇 등 다양한 영역을 포함하며, 내장형 리눅스는 리눅스 운영체제(OS)를 내장한 것을 의미한다.",
+      "options": [
+        "익스트라넷",
+        "유비쿼터스",
+        "임베디드",
+        "블루투스",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q40",
+      "subject": "정보처리기능사",
+      "round": "2011-04-20 기출",
+      "question_text": "(     )은(는) PC와 주변장치를 접속하는 버스 규격의 하나로, 기존의 직렬, 병렬, PS/2 포트를 통합한 직렬포트의 일종이다. 기존의 외부 확장 포트들의 느린 속도와 제한된 장치 연결에 따른 불편함을 해결하기 위해 탄생되었다. (     )은(는) 모두 다른 방식으로 연결 하던 키보드, 모니터, 마우스, 프린터, 모뎀 등 기본적인 주변기기들을 한 번에 최대 127개까지 연결할수 있으며 전원이 켜진 상태에서 주변기기의 설치/제거가 가능한 핫 플러그인 기능을 지원한다.",
+      "options": [
+        "VOD",
+        "IEEE-1394",
+        "USB",
+        "UMS",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q41",
+      "subject": "정보처리기능사",
+      "round": "2011-04-20 기출",
+      "question_text": "( ) is a simple program which is identical to the programs we normally use and it's program which interferes the regular operation of the computer or destroys various programs by duplicating itself on to the system or user's program by going into the operating system or programs. When a computer gets infected whit a ( ), it can spread to other computers or programs",
+      "options": [
+        "VIRUS",
+        "Throughput",
+        "DEADLOCK",
+        "Source Program",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q42",
+      "subject": "정보처리기능사",
+      "round": "2011-04-20 기출",
+      "question_text": "( ) is to find and remove errors from a software program bugs occur in programs when a line of code or an instruction conficts with other elements of the code",
+      "options": [
+        "DEADLOCK",
+        "ERP",
+        "DMB",
+        "Debugging",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q43",
+      "subject": "정보처리기능사",
+      "round": "2011-04-20 기출",
+      "question_text": "The translation program converts a series of instructions written in one program language into a resulting output in another computer language. The original program is called (     ) and the resulting program is called object program. The object program is expressed in machine language and it is written in a form that can be executed directly by the machine",
+      "options": [
+        "USB",
+        "Source Program",
+        "VIRUS",
+        "RAM",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q44",
+      "subject": "정보처리기능사",
+      "round": "2011-04-20 기출",
+      "question_text": "(     ) is quantity of work which a computer system can process within a given time",
+      "options": [
+        "CPU",
+        "Virus",
+        "Throughput",
+        "Debugging",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q45",
+      "subject": "정보처리기능사",
+      "round": "2011-04-20 기출",
+      "question_text": "is every process in the set is waiting for an event that can only be caused by another process in the set. and it is a situation wherein two or more competing actions are waiting for the other to finish, so neither ever does.",
+      "options": [
+        "DMA",
+        "DMB",
+        "DEADLOCK",
+        "Virus",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q46",
+      "subject": "정보처리기능사",
+      "round": "2010-11-15 기출",
+      "question_text": "ㆍ 특정 속성이 기본적으로 가지고 있는 값을 정의할 때 사용하는 옵션이다.ㆍ CREATE DOMAIN 명령을 사용하여 도메인을 정의할 때 기본 도메인 값을 정의할 수 있다.",
+      "options": [
+        "Log",
+        "카디널리티",
+        "DEFAULT",
+        "차수",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q47",
+      "subject": "정보처리기능사",
+      "round": "2010-11-15 기출",
+      "question_text": "ㆍ 후보키중에서 선택한 주키(Main Key)이다.ㆍ 한 릴레이션에서 특정 튜플을 유일하여 구별할 수 있는 속성이다.ㆍ Null 값을 가질 수 없다.ㆍ 동일한 값이 중복되어 저장될 수 없다.",
+      "options": [
+        "후보키",
+        "기본키",
+        "외래키",
+        "슈퍼키",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q48",
+      "subject": "정보처리기능사",
+      "round": "2010-11-15 기출",
+      "question_text": "ㆍ 트랜잭션 수행중 작성된 데이터베이스의 변경 내용에 대한 정보로서 Redo와 Undo를 수행할 때 이용된다.ㆍ 일반적으로 <트랜잭션ID, 데이터아이템, 이전값, 이후 값>형식을 갖고 있다.",
+      "options": [
+        "참조",
+        "relationship",
+        "무결성",
+        "LOG",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q49",
+      "subject": "정보처리기능사",
+      "round": "2010-11-15 기출",
+      "question_text": "ㆍ SQL 명령어로 수행된 결과를 실제 물리적 디스크로 저장하고, 데이터베이스 조작 작업이 정상적으로 완료되었음을 관리자에게 알려주는 명령어는?",
+      "options": [
+        "COMMIT",
+        "ROLLBACK",
+        "GRANT",
+        "REVOKE",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q50",
+      "subject": "정보처리기능사",
+      "round": "2010-11-15 기출",
+      "question_text": "ㆍ 개체들에 존재하는 데이터 속성의 중복을 최소화하여 일치성을 보장하며 데이터 모델을 단순하게 구성한다.ㆍ 개체에 존재하는 함수적 종속 관계를 이용하여 데이터베이스 구조를 안정화 시키는 작업이다.ㆍ 목적- 자료 저장공간의 최소화 및 데이터 구조의 안정성 최대화- 데이터베이스 내부 자료의 무결성 유지 극대화- 데이터베이스 사용자의 의도하지 않은 삽입, 삭제, 갱신이 발생하는 이상 현상 최소화",
+      "options": [
+        "데이터 사전",
+        "관계해석",
+        "무결성",
+        "정규화",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q51",
+      "subject": "정보처리기능사",
+      "round": "2010-11-15 기출",
+      "question_text": "ㆍ (        )은(는) 여러 사람들이 지역에 상관없이 서로의 생각을 공유하고 친구를 맺을 수 있는 웹사이트로, 페이스북과 함께 대표적인 소셜 네트워크 서비스로 자리잡고 있다. 휴대폰, 메신저, PC, 스마트폰 등을 이용하여 간편하게 글을 올리거나 받아볼 수 있지만 140자 이내의 글만 등록 가능한 단문서비스이다. 자신이 글을 작성하면 팔로워의 페이지에 자신의 글이 등록되고, 팔로윙이 글을 쓰면 자신의 페이지에서도 확인이 가능하다.",
+      "options": [
+        "키로거",
+        "Twitter",
+        "블루레이",
+        "ISDN",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q52",
+      "subject": "정보처리기능사",
+      "round": "2010-11-15 기출",
+      "question_text": "ㆍ (       )은(는) 1970년대 후반부터 미국 국방부에서 군사 목적으로 개발해 실용화했다. 이 시스템은 지구궤도 20,200km 상공에 올려진 총 24개의 인공위성을 이용해 지상의 어느 지점이든 최소 4개의 위성이 24시간 관측할 수 있도록 해준다. 간편한 장비로 정확한 위치 측정을 연속적으로 할수 있고, 컴퓨터와 연결해 다양한 서비스가 가능하기 때문에 최근 들어 민간차원에서 비행기, 선박, 자동차 등의 항법장치로 활용되고 있다.",
+      "options": [
+        "GPS",
+        "RFID",
+        "방화벽",
+        "디지털워터마크",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q53",
+      "subject": "정보처리기능사",
+      "round": "2010-11-15 기출",
+      "question_text": "ㆍ (       )은(는) 디지털 비디오 디스크(DVD)의 약 10배를 저장할수 있는 차세대 대용량 광디스크이다. 기존 DVD가 650nm 파장의 적색레이저를 사용하는 데 비해 (      )은(는) 좀 더 좁은 405nm파장의 청자색 레이저를 사용하여 한 면에 최대 50GB의 데이터를 기록한다.",
+      "options": [
+        "유비쿼터스",
+        "블루레이 DISC",
+        "Wi-Fi",
+        "블루투스",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q54",
+      "subject": "정보처리기능사",
+      "round": "2010-11-15 기출",
+      "question_text": "ㆍ (      )은(는) 근거리에서 데이터통신을 무선으로 가능하게 해 주는 표준 기술이다. 핸드폰, PDA, 노트북과 같은 휴대 가능한 장치들 간의 양방향 근거리 통신을 복잡한 전선없이도 저가격으로 구현할 수 있다.",
+      "options": [
+        "RFID",
+        "블루레이 DISC",
+        "블루투스",
+        "유비쿼터스",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q55",
+      "subject": "정보처리기능사",
+      "round": "2010-11-15 기출",
+      "question_text": "ㆍ (        )은(는) 인텔, 마이크로소프트, 컴팩, DEC, IBM, 캐나다 노텔, NEC 등 7개사가 공동으로 제안하고 있는 새로운 주변기기 접속 인터페이스 규격으로, 규격이 다른 키보드, 마우스, 프린터, 모뎀, 스피커 등을 비롯한 주변 기기 등을 개인용 컴퓨터(PC)에 접속하기 위한 인터페이스의 공동화를 목적으로 한다. PC 본체에 (      )접속기를 하나만 갖추고 있으면, 주변 기기 등을 성형 접속(Star Connection)또는 방사형 형태로 최고 127대까지 연결할 수 있다.",
+      "options": [
+        "FTP",
+        "IEEE-1394",
+        "USB",
+        "u-Health",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q56",
+      "subject": "정보처리기능사",
+      "round": "2010-11-15 기출",
+      "question_text": "(     ) is the permanent part of a computer's memory. The information stered there can be read but not changed. (     ) is abbreviation for 'read-only memory'.",
+      "options": [
+        "ERP",
+        "RAM",
+        "LBS",
+        "ROM",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q57",
+      "subject": "정보처리기능사",
+      "round": "2010-11-15 기출",
+      "question_text": "(     ) is a higl-level programming language develeped by Dennis Ritchie and Brian Kernighan at Bell Labs in the mid 1970s. Although originally designed as a systems programming language, (     ) has proved to be a powerful and flexible language that can be used for a variety of applications, from bussiness program to engineering",
+      "options": [
+        "DELPHI",
+        "COBOL",
+        "C",
+        "PASCAL",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q58",
+      "subject": "정보처리기능사",
+      "round": "2010-11-15 기출",
+      "question_text": "This is the initial of 'Structured Query Language', and is the standard language of relational database that constructing database of tables convniently",
+      "options": [
+        "SQL",
+        "DBA",
+        "DBMS",
+        "메타 데이터",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q59",
+      "subject": "정보처리기능사",
+      "round": "2010-11-15 기출",
+      "question_text": "(     ) is a simple program which is identical to the programs we normally use and it's program which interferes the regualr operation of the computer or destroys various programs by duplicating itself on to the system or user's program by going into the operating system or programs. When a computer gets infected whit a (     ), it can spread to other computers or programs",
+      "options": [
+        "Cache",
+        "ROM",
+        "VIRUS",
+        "USB",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infopro_craftsman_q60",
+      "subject": "정보처리기능사",
+      "round": "2010-11-15 기출",
+      "question_text": "(     ) is the short for Web log. A (     ) is a web page that serves as a publicly accessible personal journal for an individual. Typically updated daily, (     )s often reflect the personality of the author",
+      "options": [
+        "BLOG",
+        "USB",
+        "ROM",
+        "ISDN",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    }
+  ]
+}

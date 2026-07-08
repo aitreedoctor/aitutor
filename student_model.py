@@ -1,223 +1,220 @@
-import json
-import os
-import time
-from typing import List, Dict, Any, Tuple
-from data_pack import QuestionItem, DataPack
+from typing import Dict, Any, List, Optional
 
 class StudentModel:
     """
-    Tracks and analyzes the learner's historical data, computes subject-wise accuracies,
-    monitors warning levels, and triggers personalized remedial actions.
+    Manages the student profile state including identity title, persona type, worry/wish,
+    solving history, and reward coins for gamified learning.
     """
     def __init__(self, student_id: str, student_title: str = "대표님"):
         self.student_id = student_id
         self.student_title = student_title
-        # solving_history format: list of dicts with keys: 
-        # [subject, question_text, selected_answer, correct_answer, is_correct, timestamp, round]
+        self.persona_type = "약초꾼"
+        self.user_worry = "시험 합격 및 진로 고민"
         self.solving_history: List[Dict[str, Any]] = []
+        self.coins: int = 100  # Default initial coin supply
+        self.cbt_history: List[Dict[str, Any]] = []
 
     def record_answer(self, subject: str, question_text: str, selected_answer: str, 
-                      correct_answer: str, round_name: str = "N/A") -> Dict[str, Any]:
+                      correct_answer: str, round_name: str, is_cbt_mode: bool = True) -> Dict[str, Any]:
         """
-        Records a single problem-solving event, computes correctness, and returns the result.
+        Records a single question solving attempt. Deducts 1 coin per attempt and 
+        refunds 1 coin back if the answer is correct in CBT mode.
         """
-        sel = str(selected_answer).strip().lower()
-        corr = str(correct_answer).strip().lower()
+        is_correct = (selected_answer == correct_answer)
         
-        if "모두" in corr or corr == "모두정답" or corr == "모두 정답":
-            is_correct = True
-        elif "," in corr:
-            corr_list = [c.strip() for c in corr.split(",")]
-            is_correct = (sel in corr_list)
-        else:
-            is_correct = (sel == corr)
-        
-        entry = {
+        if is_cbt_mode:
+            # Deduct 1 coin for attempt
+            self.coins = max(0, self.coins - 1)
+            # Refund 1 coin if correct
+            if is_correct:
+                self.coins += 1
+                
+        attempt = {
             "subject": subject,
             "question_text": question_text,
             "selected_answer": selected_answer,
             "correct_answer": correct_answer,
+            "round_name": round_name,
             "is_correct": is_correct,
-            "timestamp": time.time(),
-            "round": round_name
+            "tutor_response": ""
         }
-        self.solving_history.append(entry)
-        return entry
+        self.solving_history.append(attempt)
+        
+        return {
+            "is_correct": is_correct,
+            "coins_balance": self.coins
+        }
+
+    def get_wrong_attempts(self) -> List[Dict[str, Any]]:
+        """Returns all attempts where the student answered incorrectly."""
+        return [entry for entry in self.solving_history if not entry["is_correct"]]
+
+    def add_coins(self, amount: int) -> int:
+        """Adds coins to the student's balance."""
+        self.coins += amount
+        return self.coins
+
+    def use_coins(self, amount: int) -> bool:
+        """Deducts coins from the student's balance if sufficient funds are available."""
+        if self.coins >= amount:
+            self.coins -= amount
+            return True
+        return False
 
     def get_subject_accuracies(self) -> Dict[str, Dict[str, Any]]:
         """
-        Calculates accuracy statistics grouped by subject.
-        Returns:
-            Dict where keys are subjects and values are Dict with 'correct', 'total', and 'accuracy' (0.0 to 1.0).
+        Calculates solving counts and accuracies grouped by subject.
         """
-        stats: Dict[str, Dict[str, Any]] = {}
+        standard_subjects = ["수목병리학", "수목해충학", "수목생리학", "산림토양학", "수목관리학"]
+        stats = {subj: {"correct": 0, "total": 0, "accuracy": 0.0} for subj in standard_subjects}
+        
         for entry in self.solving_history:
-            sub = entry["subject"]
-            if sub not in stats:
-                stats[sub] = {"correct": 0, "total": 0}
+            subj = entry["subject"]
+            if subj not in stats:
+                stats[subj] = {"correct": 0, "total": 0, "accuracy": 0.0}
             
-            stats[sub]["total"] += 1
+            stats[subj]["total"] += 1
             if entry["is_correct"]:
-                stats[sub]["correct"] += 1
-
-        # Calculate percentages
-        for sub in stats:
-            total = stats[sub]["total"]
-            correct = stats[sub]["correct"]
-            stats[sub]["accuracy"] = correct / total if total > 0 else 0.0
-
+                stats[subj]["correct"] += 1
+                
+        for subj in stats:
+            total = stats[subj]["total"]
+            if total > 0:
+                stats[subj]["accuracy"] = stats[subj]["correct"] / total
+            else:
+                stats[subj]["accuracy"] = 0.0
+                
         return stats
 
-    def evaluate_remedial_status(self, min_questions_threshold: int = 2) -> Dict[str, Any]:
+    def evaluate_remedial_status(self, min_questions_threshold: int = 3) -> Dict[str, Any]:
         """
-        Triggers REQ-302 Remedial Logic. If accuracy in any subject with 
-        sufficient attempts falls below 60%, is_remedial_required becomes True.
+        Checks if any subject has an accuracy below 60% after solving at least min_questions_threshold questions.
         """
         accuracies = self.get_subject_accuracies()
-        remedial_subjects = []
         is_remedial_required = False
+        weak_subjects = []
+        details = {}
         
-        for sub, stat in accuracies.items():
-            # Trigger warning only if the learner has attempted a minimum number of questions
-            if stat["total"] >= min_questions_threshold:
-                accuracy_pct = stat["accuracy"] * 100
-                if accuracy_pct < 60.0:
-                    is_remedial_required = True
-                    remedial_subjects.append(sub)
-                    
-        message = ""
+        for subj, stat in accuracies.items():
+            details[subj] = f"{stat['accuracy'] * 100:.1f}%"
+            if stat["total"] >= min_questions_threshold and stat["accuracy"] < 0.60:
+                is_remedial_required = True
+                weak_subjects.append(subj)
+                
         if is_remedial_required:
-            message = f"위기 감지: {self.student_title}, {', '.join(remedial_subjects)} 과목의 정답률이 60% 미만입니다. 과락 위험이 있습니다!"
+            message = f"경고: 특정 과목({', '.join(weak_subjects)})의 성취도가 60% 미만입니다. 과락 방지를 위해 특별 처방 문제를 해결하세요!"
         else:
-            message = f"상태 양호: {self.student_title}의 모든 과목 정답률이 60% 이상으로 유지되고 있습니다."
-
+            message = "모든 과목의 성취도가 양호합니다. 이 주파수를 유지하세요."
+            
         return {
             "is_remedial_required": is_remedial_required,
-            "remedial_subjects": remedial_subjects,
             "message": message,
-            "details": {sub: f"{stat['accuracy']*100:.1f}%" for sub, stat in accuracies.items()}
+            "details": details
+        }
+
+    def generate_remedial_package(self, pack: Any, max_questions: int = 4) -> Dict[str, Any]:
+        """
+        Filters weak subjects and selects unsolved (or random) questions from the pack.
+        """
+        accuracies = self.get_subject_accuracies()
+        weak_subjects = [subj for subj, stat in accuracies.items() if stat["accuracy"] < 0.60]
+        
+        if not weak_subjects:
+            return {
+                "triggered": False,
+                "message": "모든 과목의 성취도가 60% 이상이므로 보충 학습이 필요하지 않습니다.",
+                "remedial_questions": []
+            }
+            
+        # Collect questions from pack matching weak subjects
+        candidate_qs = []
+        solved_texts = {entry["question_text"] for entry in self.solving_history}
+        
+        # Sort questions to prefer unsolved ones first
+        for q in pack.questions:
+            if q.subject in weak_subjects:
+                candidate_qs.append(q)
+                
+        # Separate into unsolved and solved
+        unsolved_qs = [q for q in candidate_qs if q.question_text not in solved_texts]
+        solved_weak_qs = [q for q in candidate_qs if q.question_text in solved_texts]
+        
+        selected_qs = unsolved_qs[:max_questions]
+        if len(selected_qs) < max_questions:
+            # Pad with already solved weak questions if needed
+            needed = max_questions - len(selected_qs)
+            selected_qs.extend(solved_weak_qs[:needed])
+            
+        remedial_questions = []
+        for q in selected_qs:
+            remedial_questions.append({
+                "subject": q.subject,
+                "round": q.round,
+                "question_text": q.question_text,
+                "options": q.options,
+                "correct_answer": q.correct_answer,
+                "image_url": q.image_url
+            })
+            
+        return {
+            "triggered": True,
+            "message": f"성취도 60% 미만인 과목({', '.join(weak_subjects)})에 대한 특별 처방 문제 {len(remedial_questions)}문항이 생성되었습니다.",
+            "remedial_questions": remedial_questions
         }
 
     def get_dashboard_api_data(self) -> Dict[str, Any]:
         """
-        Formats performance history into standardized JSON for Radar Chart and Bar Chart APIs.
+        Formats performance profile data and Chart.js visualization configs.
         """
         accuracies = self.get_subject_accuracies()
+        subjects = sorted(list(accuracies.keys()))
         
-        if not accuracies:
-            # Baseline subjects for 0 solved questions
-            subjects = ["수목병리학", "수목해충학", "수목생리학", "산림토양학", "수목관리학"]
-            accuracy_scores = [0.0] * 5
-            total_attempts = [0] * 5
-            correct_counts = [0] * 5
-            incorrect_counts = [0] * 5
-        else:
-            subjects = list(accuracies.keys())
-            accuracy_scores = [round(accuracies[sub]["accuracy"] * 100, 1) for sub in subjects]
-            total_attempts = [accuracies[sub]["total"] for sub in subjects]
-            correct_counts = [accuracies[sub]["correct"] for sub in subjects]
-            incorrect_counts = [total_attempts[i] - correct_counts[i] for i in range(len(subjects))]
-            
-        remedial_info = self.evaluate_remedial_status()
-        
-        return {
-            "student_id": self.student_id,
-            "student_title": self.student_title,
-            "total_solved_overall": len(self.solving_history),
-            "remedial_status": {
-                "is_remedial_required": remedial_info["is_remedial_required"],
-                "remedial_subjects": remedial_info["remedial_subjects"],
-                "coaching_message": remedial_info["message"]
-            },
-            "visualization": {
-                "radar_chart_data": {
-                    "labels": subjects,
-                    "datasets": [
-                        {
-                            "label": "과목별 성취도 (%)",
-                            "data": accuracy_scores
-                        }
-                    ]
-                },
-                "bar_chart_data": {
-                    "labels": subjects,
-                    "attempts": total_attempts,
-                    "correct": correct_counts,
-                    "incorrect": incorrect_counts
+        # Format Radar & Bar chart datasets
+        radar_data = {
+            "labels": subjects,
+            "datasets": [
+                {
+                    "label": "학습 주파수 동조율 (%)",
+                    "data": [round(accuracies[s]["accuracy"] * 100, 1) for s in subjects]
                 }
-            }
+            ]
         }
-
-    def generate_remedial_package(self, datapack: DataPack, max_questions: int = 5) -> Dict[str, Any]:
-        """
-        Creates a 'Special Remedial Package' [REQ-302] by filtering questions of weak subjects 
-        from the active Data Pack, prioritizing questions the student got wrong or hasn't solved.
-        """
-        remedial_info = self.evaluate_remedial_status()
-        if not remedial_info["is_remedial_required"]:
-            return {
-                "triggered": False,
-                "remedial_questions": [],
-                "message": "보충 처방이 필요하지 않은 우수한 성적입니다."
-            }
-
-        weak_subjects = set(remedial_info["remedial_subjects"])
-        remedial_pool: List[QuestionItem] = []
         
-        # 1. Gather all questions belonging to weak subjects from the data pack
-        for q in datapack.questions:
-            if q.subject in weak_subjects:
-                remedial_pool.append(q)
-
-        # 2. Sort by student's performance: prioritize questions they previously failed
-        # Get set of wrong questions text
-        wrong_questions = {
-            entry["question_text"] for entry in self.solving_history 
-            if entry["subject"] in weak_subjects and not entry["is_correct"]
+        bar_data = {
+            "labels": subjects,
+            "datasets": [
+                {
+                    "label": "정답 문항",
+                    "data": [accuracies[s]["correct"] for s in subjects]
+                },
+                {
+                    "label": "오답 문항",
+                    "data": [accuracies[s]["total"] - accuracies[s]["correct"] for s in subjects]
+                }
+            ]
         }
-        solved_questions = {
-            entry["question_text"] for entry in self.solving_history
+        
+        total_attempts = len(self.solving_history)
+        total_correct = sum(1 for entry in self.solving_history if entry["is_correct"])
+        overall_accuracy = (total_correct / total_attempts) if total_attempts > 0 else 0.0
+        
+        visualization = {
+            "radar": radar_data,
+            "bar": bar_data,
+            "history_summary": {
+                "total_solved": total_attempts,
+                "total_correct": total_correct,
+                "overall_accuracy": round(overall_accuracy * 100, 1)
+            }
         }
-
-        # Priority: 1. Previously got wrong -> 2. Unsolved -> 3. Got right (for review)
-        def sort_priority(q_item: QuestionItem) -> int:
-            if q_item.question_text in wrong_questions:
-                return 0
-            elif q_item.question_text not in solved_questions:
-                return 1
-            return 2
-
-        sorted_remedial_pool = sorted(remedial_pool, key=sort_priority)
-        curated_questions = sorted_remedial_pool[:max_questions]
         
         return {
-            "triggered": True,
-            "remedial_subjects": list(weak_subjects),
-            "remedial_questions": [q.model_dump() for q in curated_questions],
-            "message": f"오답 노트를 기반으로 과락 방지 맞춤형 [스페셜 보충 처방 패키지] ({len(curated_questions)}문항)가 구성되었습니다."
-        }
-
-    def save_profile(self, directory: str = "./profiles") -> str:
-        """Saves student profile history to json file."""
-        os.makedirs(directory, exist_ok=True)
-        filepath = os.path.join(directory, f"{self.student_id}_profile.json")
-        data = {
             "student_id": self.student_id,
             "student_title": self.student_title,
-            "solving_history": self.solving_history
+            "persona_type": self.persona_type,
+            "user_worry": self.user_worry,
+            "coins": self.coins,
+            "remedial_status": self.evaluate_remedial_status(min_questions_threshold=3),
+            "visualization": visualization,
+            "cbt_history": getattr(self, "cbt_history", [])
         }
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=4)
-        return filepath
-
-    def load_profile(self, filepath: str):
-        """Loads student profile history from json file."""
-        if not os.path.exists(filepath):
-            raise FileNotFoundError(f"Profile file not found: {filepath}")
-            
-        with open(filepath, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            
-        self.student_id = data.get("student_id", self.student_id)
-        self.student_title = data.get("student_title", self.student_title)
-        self.solving_history = data.get("solving_history", [])

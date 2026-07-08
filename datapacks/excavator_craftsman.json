@@ -1,0 +1,3605 @@
+{
+  "pack_name": "굴착기운전기능사 기출 팩",
+  "questions": [
+    {
+      "id": "excavator_craftsman_q1",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "고속 디젤기관의 장점으로 틀린 것은?",
+      "options": [
+        "열효율이 가솔린 기관보다 높다.",
+        "인화점이 높은 경유를 사용하므로 취급이 용이하다.",
+        "가솔린 기관보다 최고 회전수가 빠르다.",
+        "연료 소비량이 가솔린 기관보다 적다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q2",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "실린더헤드 등 면적이 넓은 부분에서 볼트를 조이는 방법으로 가장 적합한 것은?",
+      "options": [
+        "규정 토크로 한 번에 조인다.",
+        "중심에서 외측을 향하여 대각선으로 조인다.",
+        "외측에서 중심을 향하여 대각선으로 조인다.",
+        "조이기 쉬운 곳부터 조인다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q3",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "건설기계기관에 설치되는 오일 냉각기의 주 기능으로 맞는 것은?",
+      "options": [
+        "오일 온도를 30℃ 이하로 유지하기 위한 기능을 한다.",
+        "오일 온도를 정상 온도로 일정하게 유지한다.",
+        "수분, 슬러지(sludge) 등을 제거한다.",
+        "오일의 암을 일정하게 유지한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q4",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "디젤엔진의 시동불량 원인과 관계가 없는 것은?",
+      "options": [
+        "흡ㆍ배기 밸브의 밀착이 좋지 못할 때",
+        "압축 압력이 저하되었을 때",
+        "밸브의 개폐시기가 부정확할 때",
+        "점화 플러그가 젖어 있을 때",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q5",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "엔진 과열의 원인이 아닌 것은?",
+      "options": [
+        "히터 스위치 고장",
+        "수온 조절기의 고장",
+        "헐거워진 냉각 팬 벨트",
+        "물 통로 내의 물 때(scale)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q6",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "건설기계기관에서 사용되는 여과 장치가 아닌 것은?",
+      "options": [
+        "공기청정기",
+        "오일 필터",
+        "오일 스트레이너",
+        "인젝션 타이머",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q7",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "라디에이터 캡의 스프링이 파손 되었을 때 가장 먼저 나타나는 현상은?",
+      "options": [
+        "냉각수 비등점이 낮아진다.",
+        "냉각수 순환이 불량해진다.",
+        "냉각수 순환이 빨라진다.",
+        "냉각수 비등점이 높아진다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q8",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "디젤 기관을 정지시키는 방법으로 가장 적합한 것은?",
+      "options": [
+        "연료공급을 차단한다.",
+        "초크밸브를 닫는다.",
+        "기어를 넣어 기관을 정지한다.",
+        "축전지를 분리시킨다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q9",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "실린더 벽이 마멸되었을 때 발생 되는 현상은?",
+      "options": [
+        "기관의 회전수가 증가한다.",
+        "오일 소모량이 증가한다.",
+        "열효율이 증가한다.",
+        "폭발압력이 증가한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q10",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "엔진오일 교환 후 압력이 높아졌다면 그 원인으로 가장 적절한 것은?",
+      "options": [
+        "엔진오일 교환 시 냉각수가 혼입되었다.",
+        "오일의 점도가 낮은 것으로 교환하였다.",
+        "오일 회로 내 누설이 발생하였다.",
+        "오일 점도가 높은 것으로 교환하였다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q11",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "분사 노즐 시험기로 점검 할 수 있는 것은?",
+      "options": [
+        "분사 개시 압력과 분사 속도를 점검 할 수 있다.",
+        "분포 상태와 플런저의 성능을 점검 할 수 있다.",
+        "분사 개시 압력과 후적을 점검 할 수 있다.",
+        "분포 상태와 분사량을 점검 할 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q12",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "동력을 전달하는 계통의 순서를 바르게 나타낸 것은?",
+      "options": [
+        "피스톤 → 커넥팅로드 → 클러치 → 크랭크축",
+        "피스톤 → 클러치 → 크랭츠축 → 커넥팅로드",
+        "피스톤 → 크랭크축 → 커넥팅로드 → 클러치",
+        "피스톤 → 커넥팅로드 → 크랭크축 → 클러치",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q13",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "건설기계장비의 충전장치는 어떤 발전기를 가장 많이 사용하고 있는가?",
+      "options": [
+        "직류발전기",
+        "단상 교류발전기",
+        "3상 교류발전기",
+        "와전류 발전기",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q14",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "예열 플로그의 사용시기로 가장 알맞은 것은?",
+      "options": [
+        "냉각수의 양이 많을 때",
+        "기온이 영하로 떨어졌을 때",
+        "축전지가 방전되었을 때",
+        "축전기가 과충전되었을 때",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q15",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "납산 축전지의 충ㆍ방전 상태를 나타낸 것이 아닌 것은?",
+      "options": [
+        "축전지가 방전되면 양극판은 과산화납이 황산납으로 된다.",
+        "축전지가 방전되면 전해액은 묽은 황산이 물로 변하여 비중이 낮아진다.",
+        "축전지가 충전되면 음극판은 황산납이 해면상납으로 된다.",
+        "축전지가 충전되면 양극판에서 수소를, 음극판에서 산소를 발생시킨다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q16",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "축전지의 양극과 음극 단자의 구별하는 방법으로 틀린 것은?",
+      "options": [
+        "양극은 적색, 음극은 흑색이다.",
+        "양극 단자에 +, 음극 단자에는 -의 기호가 있다.",
+        "양극 단자에 Positive, 음극 단자에는 Negative 라고 표기 되었다.",
+        "양극 단자의 직경이 음극 단자의 직경보다 작다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q17",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "전조등의 좌ㆍ우 램프 간 회로에 대한 설명으로 맞는 것은?",
+      "options": [
+        "직렬 또는 병렬로 되어 있다.",
+        "병렬과 직렬로 되어 있다.",
+        "병렬로 되어 있다.",
+        "직렬로 되어 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q18",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "기동 전동기의 전기자 축으로 부터 피니언 기어로는 동력이 전달되나 피니언 기어로부터 전기자 축으로는 동력이 전달되지 않도록 해주는 장치는?",
+      "options": [
+        "오버헤드 가드",
+        "솔레노이드 스위치",
+        "시프트 칼라",
+        "오버러닝 클러치",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q19",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "출발 시 클러치의 페달이 거의 끝부분에서 차량이 출발되는 원인으로 틀린 것은?",
+      "options": [
+        "클러치 디스크 과대 마모",
+        "클러치 자유간극 조정 불량",
+        "클러치 케이블 불량",
+        "클러치 오일의 부족",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q20",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "굴삭기의 붐 제어레버를 계속하여 상승위치로 당기고 있으면 다음 중 어느 곳에 가장 큰 손상이 발생하는가?",
+      "options": [
+        "엔진",
+        "유압펌프",
+        "릴리프 밸브 및 시트",
+        "유압모터",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q21",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "조향핸들의 조작이 무거운 원인으로 틀린 것은?",
+      "options": [
+        "유압유 부족 시",
+        "타이어 공기압 과다 주입 시",
+        "앞바퀴 휠 얼라이먼트 조절 불량 시",
+        "유압 계통 내의 공기 혼입 시",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q22",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "굴삭기에서 그리스를 주입하지 않아도 되는 곳은?",
+      "options": [
+        "버킷 핀",
+        "링키지",
+        "트랙 슈",
+        "선회 베어링",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q23",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "모터 그레이더의 완충 기능을 하는 것은?",
+      "options": [
+        "판 스프링",
+        "코일 스프링",
+        "공기 스프링",
+        "탠덤 드라이브",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q24",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "유니버설 조인트 중에서 흑형(십자형) 조인트가 가장 많이 사용되는 이유가 아닌 것은?",
+      "options": [
+        "구조가 간단하다.",
+        "급유가 불필요하다.",
+        "큰 동력의 전달이 가능하다.",
+        "작동이 확실하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q25",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "지게차로 가파른 경사지에서 적재물을 운반할 때에는 어떤 방법이 좋겠는가?",
+      "options": [
+        "적재물을 앞으로하여 천천히 내려온다.",
+        "기어의 변속을 중립에 놓고 내려온다.",
+        "기어의 변속을 저속상태로 놓고 후진으로 내려온다.",
+        "지그재그로 회전하여 내려온다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q26",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "기중기의 드래그 라인에서 드래그 로프를 드럼에 잘 감기도록 안내하는 것은?",
+      "options": [
+        "시브",
+        "새들 블럭",
+        "태크 라인 와인더",
+        "페어리드",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q27",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "검사연기신청을 하였으나 불허통지를 받은 자는 언제까지 검사를 신청하여야 하는가?",
+      "options": [
+        "불허통지를 받은 날부터 5일 이내",
+        "불허통지를 받은 날부터 10일 이내",
+        "검사신청기간 만료일부터 5일 이내",
+        "검사신청기간 만료일부터 10일 이내",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q28",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "건설기계조종사 면허증의 반납사유에 해당하지 않는 것은?",
+      "options": [
+        "면허가 취소된 때",
+        "면허의 효력이 정지된 때",
+        "건설기계조종을 하지 않을 때",
+        "면허증의 재교부를 받은 후 잃어버린 면허증을 발견한 때",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q29",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "다음 중 건설기계 대여업에 대한 설명이 틀린 것은?",
+      "options": [
+        "일반건설기계 대여업은 5대 이상의 건설기계로 운영하는 사업이다.(2이상의 개인 또는 법인이 공동운영하는 경우 포함)",
+        "개별건설기계 대여업은 1인의 개인 또는 법인이 4대 이하의 건설기계로 운영하는 사업이다.",
+        "건설기계대여업은 건설기계를 건설기계조종사와 함께 대여하는 경우도 가능하다.",
+        "건설기계대여업의 등록을 하려는 자는 국토교통부령이 정하는 서류를 구비하여 관할 시ㆍ도지사에게 제출한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q30",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "건설기계조종사면허가 취소된 상태로 건설기계를 계속하여 조종한 자에 대한 벌칙은?(2022년 2월 확인한 규정 적용)",
+      "options": [
+        "2년 이하의 징역 또는 1천 만원 이하의 벌금",
+        "1년 이하의 징역 또는 1천 만원 이하의 벌금",
+        "2백 만원 이하의 벌금",
+        "1백 만원 이하의 벌금",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q31",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "건설기계관리법령상 건설기계가 정기검사신청기간 내에 정기검사를 받은 경우, 다음 정기검사 유효기간의 산정방법으로 옳은 것은?",
+      "options": [
+        "정기검사를 받은 날부터 기산한다.",
+        "정기검사를 받은 날의 다음날부터 기산한다.",
+        "종전 검사유효기간 만료일부터 기산한다.",
+        "종전 검사유효기간 만료일의 다음날부터 기산한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q32",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "교차로에서 적색 등화시 진행할 수 있는 경우는?",
+      "options": [
+        "경찰공무원의 진행 신호에 따를 때",
+        "교통이 한산한 야간 운행시",
+        "보행자가 없을 때",
+        "앞차를 따라 진행할 때",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q33",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "건설기계관리법상 건설기계 소유자는 건설기계를 도난당한 날로부터 얼마 이내에 등록말소를 신청해야 하는가?",
+      "options": [
+        "30일 이내",
+        "2개월 이내",
+        "3개월 이내",
+        "6개월 이내",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q34",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "도로교통법에서 안전운행을 위한 차속을 제한하고 있는데, 악천후 시 최고 속도의 100분의 50으로 감속 운행하여야 할 경우가 아닌 것은?",
+      "options": [
+        "노면이 얼어붙은 때",
+        "폭우ㆍ폭설ㆍ안개 등으로 가시거리가 100m 이내인 때",
+        "비가 내려 노면이 젖어 있을 때",
+        "눈이 20mm 이상 쌓인 때",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q35",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "주차ㆍ정차가 금지되어 있지 않은 장소는?",
+      "options": [
+        "교차로",
+        "건널목",
+        "횡단보도",
+        "경사로의 정상부근",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q36",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "편도 4차로의 일반도로에서 굴삭기는 어느 차로로 통행해야 하는가?",
+      "options": [
+        "1차로",
+        "2차로",
+        "1차로 또는 2차로",
+        "4차로",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q37",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "유압장치의 기호 회로도에 사용되는 유압 기호의 표시방법으로 적합하지 않은 것은?",
+      "options": [
+        "기호에는 흐름의 방향을 표시한다.",
+        "각 기기의 기호는 정상상태 또는 중립상태를 표시한다.",
+        "기호는 어떠한 경우에도 회전하여서는 안된다.",
+        "기호에는 각 기기의 구조나 작용압력을 표시하지 않는다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q38",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "유압 에너지의 저장, 충격흡수 등에 이용되는 것은?",
+      "options": [
+        "축압기(accumulator)",
+        "스트레이너(strainer)",
+        "펌프(pump)",
+        "오일 탱크(oil tank)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q39",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "유압펌프에서 사용되는 GPM의 의미는?",
+      "options": [
+        "분당 토출하는 작동유의 양",
+        "복동 실린더의 치수",
+        "계통내에서 형성되는 압력의 크기",
+        "흐름에 대한 저항",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q40",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "유압계통의 오일장치 내에 슬러지 등이 생겼을 때 이것을 이용하여 장치 내를 깨끗이 하는 작업은?",
+      "options": [
+        "플러싱",
+        "트램핑",
+        "서징",
+        "코킹",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q41",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "릴리프 밸브 등에서 밸브 시트를 때려 비교적 높은 소리를 내는 진동현상을 무엇이라 하는가?",
+      "options": [
+        "채터링",
+        "캐비테이션",
+        "점핑",
+        "서지압",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q42",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "건설기계 작업 중 갑자기 유압회로 내의 유압이 상승되지 않아 점검하려고 한다. 내용으로 적합하지 않은 것은?",
+      "options": [
+        "펌프로부터 유압발생이 되는지 점검",
+        "오일탱크의 오일량 점검",
+        "오일이 누출되었는지 점검",
+        "작업장치의 자기탐상법에 의한 균열 점검",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q43",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "보기 항에서 유압계통에 사용되는 오일의 점도가 너무 낮을 경우 나타날 수 있는 현상으로 모두 맞는 것은?",
+      "options": [
+        "ㄱ, ㄴ, ㄷ",
+        "ㄱ, ㄴ, ㄹ",
+        "ㄴ, ㄷ, ㄹ",
+        "ㄱ, ㄷ, ㄹ",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/jh/jh20131012/jh20131012m43.gif"
+    },
+    {
+      "id": "excavator_craftsman_q44",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "유압장치 운전 중 갑작스럽게 유압배관에서 오일이 분출되기 시작하였을 때 가장 먼저 운전자가 취해야 할 조치는?",
+      "options": [
+        "작업장치를 지면에 내리고 시동을 정지한다.",
+        "작업을 멈추고 배터리 선을 분리한다.",
+        "오일이 분출되는 호스를 분리하고 플러그로 막는다.",
+        "유압회로 내의 잔압을 제거한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q45",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "유압회로 내에서 유압을 일정하게 조절하여 일의 크기를 결정하는 밸브가 아닌 것은?",
+      "options": [
+        "시퀀스 밸브",
+        "서버 밸브",
+        "언로드 밸브",
+        "카운터 밸런스 밸브",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q46",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "유체의 에너지를 이용하여 기계적인 일로 변환하는 기기는?",
+      "options": [
+        "유압모터",
+        "근접스위치",
+        "오일탱크",
+        "밸브",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q47",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "조정렌치 사용 및 관리요령으로 적합하지 않는 것은?",
+      "options": [
+        "볼트를 풀 때는 렌치에 연결대등을 이용한다.",
+        "적당한 힘을 가하여 볼트, 너트를 죄고 풀어야 한다.",
+        "잡아당길 때 힘을 가하면서 작업한다.",
+        "볼트, 너트를 풀거나 조일 때 볼트머리나 너트에 꼭 끼워져야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q48",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "해머 사용 중 사용법이 틀린 것은?",
+      "options": [
+        "타격 면이 마모되어 경사진 것은 사용하지 않는다.",
+        "담금질 한 것은 단단하므로 한 번에 정확하게 강타한다.",
+        "기름 묻는 손으로 자루를 잡지 않는다.",
+        "물건에 해머를 대고 몸의 위치를 정한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q49",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "다음 그림은 안전표지의 어떠한 내용을 나타내는가?",
+      "options": [
+        "지시표지",
+        "금지표지",
+        "경고표지",
+        "안내표지",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/jh/jh20131012/jh20131012m49.gif"
+    },
+    {
+      "id": "excavator_craftsman_q50",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "전등 스위치가 옥내에 있으면 안되는 경우는?",
+      "options": [
+        "건설기계장비 차고",
+        "절삭유 저장소",
+        "카바이드 저장소",
+        "기계류 저장소",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q51",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "작업현장에서 작업시 사고 예방을 위하여 알아 두어야 할 가장 중요한 사항은?",
+      "options": [
+        "장비의 최고 주행 속도",
+        "1인당 작업량",
+        "최신 기술 적용 정도",
+        "안전 수칙",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q52",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "보통화재 라고 하며 목재, 종이 등 일반 가연물의 화재로 분류되는 것은?",
+      "options": [
+        "A급화재",
+        "B급화재",
+        "C급화재",
+        "D급화재",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q53",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "감전되거나 전기화상을 입을 위험이 있는 작업에서 제일 먼저 작업자가 구비해야 할 것은?",
+      "options": [
+        "완강기",
+        "구급차",
+        "보호구",
+        "신호기",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q54",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "인양작업시 하물의 중심에 대하여 필요한 사항을 설명한 것으로 틀린 것은?",
+      "options": [
+        "하물의 중량 중심을 정확히 판단할 것",
+        "하물 중량 중심은 스윙을 고려하여 여유 옵센을 확보할 것",
+        "하물 중량 중심의 바로 위에 훅을 유도할 것",
+        "하물 중량 중심이 하물의 위에 있는 것과, 좌ㆍ우로 치우쳐 있는 것은 특히 경사지지 않도록 주의 할 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q55",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "일반적으로 장갑을 착용하고 작업을 하게 되는데, 안전을 위하여 오히려 장갑을 사용하지 않아야 하는 작업은?",
+      "options": [
+        "전기 용접 작업",
+        "해머 작업",
+        "타이어 교환 작업",
+        "건설기계 운전",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q56",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "벨트를 풀리에 걸 때는 어떤 상태에서 걸어야 하는가?",
+      "options": [
+        "회전을 중지시킨후 건다.",
+        "저속으로 회전시키면서 건다.",
+        "중속으로 회전시키면서 건다.",
+        "고속으로 회전시키면서 건다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q57",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "도시가스 배관 주위를 굴착 후 되메우기 시 지하에 매몰 하면 안되는 것은?",
+      "options": [
+        "전기방식 전위 테스트박스(T/B)",
+        "보호판",
+        "전기방식용 양극",
+        "보호포",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q58",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "도로에서 굴착작업 중 매설된 전기설비의 접지선이 노출 되어 일부가 손상되었을 때 조치방법으로 맞는 것은?",
+      "options": [
+        "손상된 접지선은 임의로 철거한다.",
+        "접지선 단선시에는 철선 등으로 연결 후 되메운다.",
+        "접지선 단선은 사고와 무관하므로 그대로 되메운다.",
+        "접지선 단선시에는 시설관리자에게 연락 후 지시를 따른다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q59",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "특고압 전선로 주변에서 건설기계에 의한 작업을 위해 전선을 지지하는 애자수를 확인한 결과 애자 수가 3개이었다. 예측 가능한 전압은 몇 V 인가?",
+      "options": [
+        "22,900 V",
+        "66,000 V",
+        "154,000 V",
+        "345,000 V",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q60",
+      "subject": "굴착기운전기능사",
+      "round": "2013-10-12 기출",
+      "question_text": "가스배관이 매설되어 있을 것으로 예상되는 지점으로부터 몇 m 이내에서 줄파기를 할 때는 안전관리전담자의 입회하에 시행하여야 하는가?",
+      "options": [
+        "1m",
+        "2m",
+        "3m",
+        "5m",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q61",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "냉각장치에서 냉각수의 비등점을 올리기 위한 것으로 맞는 것은?",
+      "options": [
+        "진공식 캡",
+        "압력식 캡",
+        "라디에이터",
+        "물재킷",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q62",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 기관에서 팬벨트 장력 점검 방법으로 맞는 것은?",
+      "options": [
+        "벨트길이 측정게이지로 측정 점검",
+        "정지된 상태에서 벨트의 중심을 엄지손가락으로 눌러서 점검",
+        "엔진을 가동한 후 텐셔너를 이용하여 점검",
+        "발전기의 고정 볼트를 느슨하게 하여 점검",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q63",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "기관에서 피스톤링의 작용으로 틀린 것은?",
+      "options": [
+        "기밀 작용",
+        "완전 연소 억제작용",
+        "오일제어 작용",
+        "열전도 작용",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q64",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "계기판을 통하여 엔진오일의 순환상태를 알 수 있는 것은?",
+      "options": [
+        "연료 잔량계",
+        "오일 압력계",
+        "전류계",
+        "진공계",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q65",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "디젤기관에서 시동을 돕기 위해 설치된 부품으로 맞는 것은?",
+      "options": [
+        "과급 장치",
+        "발전기",
+        "디퓨저",
+        "히트레인지",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q66",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "디젤기관에서 시동이 되지 않는 원인과 가장 거리가 먼 것은?",
+      "options": [
+        "연료가 부족하다.",
+        "기관의 압축압력이 높다.",
+        "연료 공급 펌프가 불량이다.",
+        "연료 계통에 공기가 혼입되어 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q67",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음은 터보식 과급기의 작동상태이다. 관계없는 것은?",
+      "options": [
+        "디퓨저에서는 공기의 압력 에너지가 속도 에너지로 바뀌게 된다.",
+        "배기가스가 임펠러를 회전시키면 공기가 흡입되어 디퓨저에 들어간다.",
+        "디퓨저에서는 공기의 속도 에너지가 압력 에너지로 바뀌게 된다.",
+        "압축공기가 각 실린더의 밸브가 열릴 때마다 들어가 충전 효율이 증대된다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q68",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "기관에 사용되는 윤활유 사용 방법으로 옳은 것은?",
+      "options": [
+        "계절과 윤활유 SAE 번호는 관계가 없다.",
+        "겨울은 여름보다 SAE 번호가 큰 윤활유를 사용한다.",
+        "SAE 번호는 일정하다.",
+        "여름용은 겨울용보다 SAE 번호가 크다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q69",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "디젤기관에 공급하는 연료의 압력을 높이는 것으로 조속기와 분사시기를 조절하는 장치가 설치되어 있는 것은?",
+      "options": [
+        "유압 펌프",
+        "프라이밍 펌프",
+        "연료 분사 펌프",
+        "플런저 펌프",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q70",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "유압식 밸브 리프터의 장점이 아닌 것은?",
+      "options": [
+        "밸브 간극은 자동으로 조절된다.",
+        "밸브 개폐시기가 정확하다.",
+        "밸브 구조가 간단하다.",
+        "밸브 기구의 내구성이 좋다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q71",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "디젤기관에서 노킹의 원인이 아닌 것은?",
+      "options": [
+        "연료의 세탄가가 높다.",
+        "연료의 분사압력이 낮다.",
+        "연소실의 온도가 낮다.",
+        "착화지연 시간이 길다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q72",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "디젤기관에서 시동이 걸리지 않는다. 점검해야 할 곳이 아닌 것은?",
+      "options": [
+        "기동 전동기가 이상이 없는지 점검해야 한다.",
+        "배터리의 충전상태를 점검해야 한다.",
+        "배터리 접지 케이블의 단자가 잘 조여져 있는지 점검해야 한다.",
+        "발전기가 이상이 없는지 점검해야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q73",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "에어컨 장치에서 환경보존을 위한 대체물질로 신 냉매가스에 해당 되는 것은?",
+      "options": [
+        "R-12",
+        "R-22",
+        "R-12a",
+        "R-134a",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q74",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "자동차 AC 발전기의 B 단자에서 발생되는 전기는?",
+      "options": [
+        "단상 전파 교류전압",
+        "단상 반파 직류전압",
+        "3상 전파 직류전압",
+        "3상 반파 교류전압",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q75",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "기관을 시동하기 위해 시동키를 작동했지만 기동 모터가 회전하지 않아 점검하려고 한다. 점검 내용으로 틀린 것은?",
+      "options": [
+        "배터리 방전상태 확인",
+        "인젝션 펌프 솔레노이드 점검",
+        "배터리 터미널 접촉 상태 확인",
+        "ST회로 연결 상태 확인",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q76",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "기관에서 예열 플러그의 사용 시기는?",
+      "options": [
+        "축전지가 방전 되었을 때",
+        "축전지가 과충전 되었을 때",
+        "기온이 낮을 때",
+        "냉각수의 양이 많을 때",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q77",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "축전지의 온도가 내려갈 때 발생 되는 현상이 아닌 것은?",
+      "options": [
+        "비중이 상승한다.",
+        "전류가 커진다.",
+        "용량이 저하한다.",
+        "전압이 저하된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q78",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "납산 배터리의 전해액을 측정하여 충전상태를 알 수 있는 게이지는?",
+      "options": [
+        "그로울러 테스터",
+        "압력계",
+        "비중계",
+        "스러스트 게이지",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q79",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "굴삭기에서 매 1000시간마다 점검, 정비해야 할 항목으로 맞지 않는 것은?",
+      "options": [
+        "작동유 배수 및 여과기교환",
+        "어큐뮬레이터 압력점검",
+        "주행감속기 기어의 오일교환",
+        "발전기, 기동전동기 점검",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q80",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "기계식 변속기의 클러치에서 릴리스 베어링과 릴리스 레버가 분리되어 있을 때로 맞는 것은?",
+      "options": [
+        "클러치가 연결되어 있을 때",
+        "접촉하면 안 되는 것으로 분리되어 있을 때",
+        "클러치가 분리되어 있을 때",
+        "클러치가 연결, 분리할 때",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q81",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "굴삭기에 아워미터(시간계)의 설치 목적이 아닌 것은?",
+      "options": [
+        "가동시간에 맞추어 예방정비를 한다.",
+        "가동시간에 맞추어 오일을 교환한다.",
+        "각 부위 주유를 정기적으로 하기 위해 설치되었다.",
+        "하차 만료 시간을 체크하기 위하여 설치되었다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q82",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "크레인 주행 중 유의사항으로 틀린 것은?",
+      "options": [
+        "크레인을 주행할 때는 반드시 선회 로크를 고정시킨다.",
+        "트럭 크레인, 휠 크레인 등을 주차할 경우 반드시 주차 브레이크를 걸어둔다.",
+        "언덕길을 오를 때는 붐을 가능한 세운다.",
+        "고압선 아래를 통과할 때는 충분한 간격을 두고 신호자의 지시에 따른다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q83",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "모터 그레이더에서 앞바퀴를 좌·우로 경사시킨 경우 바퀴의 중심선이 수평면과 이루는 각도는?",
+      "options": [
+        "탠덤 드라이브 각도",
+        "블레이드 추진 각도",
+        "블레이드 절삭 각도",
+        "리닝 각도",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q84",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "무한궤도식 건설기계에서 트랙의 구성품으로 맞는 것은?",
+      "options": [
+        "슈, 조인트, 스프로킷, 핀, 슈볼트",
+        "스프로킷, 트랙롤러, 상부롤러 아이롤러",
+        "슈, 스프로킷, 하부롤러, 상부롤러, 감속기",
+        "슈, 슈볼트, 링크, 부싱, 핀",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q85",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "타이어식 건설기계의 증감속 장치에서 열이 발생 하고 있을 때 원인으로 틀린 것은?",
+      "options": [
+        "윤활유의 부족",
+        "오일의 오염",
+        "증감속 기어의 접촉상태 불량",
+        "증감속기 하우징 볼트의 과도한 조임",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q86",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "지게차를 작업용도에 따라 분류할 때 원추형 화물을 조이거나 회전시켜 운반 또는 적재하는 데 적합한 것은?",
+      "options": [
+        "힌지드 버킷",
+        "힌지드 포크",
+        "로테이팅 클램프",
+        "로드 스태빌라이져",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q87",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "건설기계의 구조 변경 범위에 속하지 않는 것은?",
+      "options": [
+        "건설기계의 길이, 너비, 높이 변경",
+        "적재함의 용량 증가를 위한 변경",
+        "조종장치의 형식 변경",
+        "수상작업용 건설기계 선체의 형식변경",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q88",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "도로교통법상 안전표지의 종류가 아닌 것은?",
+      "options": [
+        "주의표지",
+        "규제표지",
+        "안심표지",
+        "보조표지",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q89",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "출발지 관할 경찰서장이 안전기준을 초과하여 운행할 수 있도록 허가하는 사항에 해당하지 않는 것은?",
+      "options": [
+        "적재중량",
+        "운행속도",
+        "승차인원",
+        "적재용량",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q90",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "주차 및 정차 금지 장소는 건널목의 가장자리로부터 몇 미터 이내인 곳인가?",
+      "options": [
+        "5m",
+        "10m",
+        "20m",
+        "30m",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q91",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "교통사고로 인하여 사람을 사상하거나 물건을 손괴하는 사고가 발생했을 때 우선 조치사항으로 가장 적합한 것은?",
+      "options": [
+        "사고 차를 견인 조치한 후 승무원을 구호하는 등 필요한 조치를 취해야 한다.",
+        "사고 차를 운전한 운전자는 물적 피해 정도를 파악하여 즉시 경찰서로 가서 사고 현황을 신고한다.",
+        "그 차의 운전자는 즉시 경찰서로 가서 사고와 관련된 현황을 신고 조치한다.",
+        "그 차의 운전자나 그 밖의 승무원은 즉시 정차하여 사상자를 구호하는 등 필요한 조치를 취해야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q92",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "5톤 미만의 불도저의 소형건설기계 조종실습 시간은?",
+      "options": [
+        "6시간",
+        "10시간",
+        "12시간",
+        "16시간",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q93",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "차마의 통행방법으로 도로의 중앙이나 좌측부분을 통행할 수 있는 경우로 가장 적합한 것은?",
+      "options": [
+        "교통 신호가 자주 바뀌어 통행에 불편을 느낄 때",
+        "과속 방지턱이 있어 통행에 불편할 때",
+        "차량의 혼잡으로 교통소통이 원할 하지 않을 때",
+        "도로의 파손, 도로공사 또는 우측 부분을 통행할 수 없을 때",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q94",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "타이어식 건설기계의 좌석 안전띠는 속도가 최소 몇 km/h 이상일 때 설치하여야 하는가?",
+      "options": [
+        "10km/h",
+        "30km/h",
+        "40km/h",
+        "50km/h",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q95",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "건설기계를 등록할 때 필요한 서류에 해당하지 않는 것은?",
+      "options": [
+        "건설기계제작증",
+        "수입연장",
+        "매수증서",
+        "건설기계검사증 등본원부",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q96",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "검사소에서 검사를 받아야 할 건설기계 중 최소기준으로 축 중이 몇 톤을 초과하면 출장검사를 받을 수 있는가?",
+      "options": [
+        "5t",
+        "10t",
+        "15t",
+        "20t",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q97",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "유압회로에서 역류를 방지하고 회로 내의 잔류압력을 유지하는 밸브는?",
+      "options": [
+        "체크 밸브",
+        "셔틀 밸브",
+        "매뉴얼 밸브",
+        "스로틀 밸브",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q98",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "자동 회로를 설치한 유압기기에서 속도가 나지 않는 다면, 그 이유로 가장 적합한 것은?",
+      "options": [
+        "회로 내에 감압밸브가 작동하지 않을 때",
+        "회로 내에 관로의 직경치가 있을 때",
+        "회로 내에 바이패스 통로가 있을 때",
+        "회로 내에 압력손실이 있을 때",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q99",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "유압실린더에서 실린더의 과도한 자연낙하현상이 발생하는 원인으로 가장 거리가 먼 것은?",
+      "options": [
+        "컨트롤밸브 스풀의 마모",
+        "릴리프 밸브의 조정 불량",
+        "작동압력이 높을 때",
+        "실린더 내의 피스톤 실(seal)의 마모",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q100",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "유압 작동부에서 오일이 새고 있을 때 가장 먼저 점검해야 하는 것은?",
+      "options": [
+        "밸브(valve)",
+        "기어(gear)",
+        "플런저(plunger)",
+        "실(seal)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q101",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "그림의 유압 기호는 무엇을 표시하는가?",
+      "options": [
+        "공기유압변환기",
+        "증압기",
+        "측매컨버터",
+        "어큐뮬레이터",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/jh/jh20111009/jh20111009m41.gif"
+    },
+    {
+      "id": "excavator_craftsman_q102",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "액추에이터를 순서에 맞추어 작동시키기 위하여 설치밸브는?",
+      "options": [
+        "메이크업 밸브(make up valve)",
+        "리듀싱 밸브(reducing valve)",
+        "시퀀스 밸브(sequence valve)",
+        "언로우드 밸브(unloading valve)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q103",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "밀폐된 용기 내의 액체 일부에 가해진 압력은 어떻게 전달되는가?",
+      "options": [
+        "유체 각 부분에 다르게 전달된다.",
+        "유체 각 부분에 동시에 같은 크기로 전달된다.",
+        "유체의 압력이 돌출 부분에서 더 세게 작용 된다.",
+        "유체의 압력이 홈 부분에서 더 세게 작용 된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q104",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "유압 모터의 장점이 될 수 없는 것은?",
+      "options": [
+        "소형 경량으로서 큰 출력을 낼 수 있다.",
+        "공기와 먼지 등이 침투하여도 성능에는 영향이 없다.",
+        "변속, 역전의 제어도 용이하다.",
+        "속도나 방향의 제어가 용이하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q105",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "유압 오일 내에 기포(거품)가 형성되는 이유로 가장 적합한 것은?",
+      "options": [
+        "오일 속의 이물질 혼입",
+        "오일의 열화",
+        "오일 속의 공기 혼입",
+        "오일의 누설",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q106",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "유압 펌프의 종류별 특징을 바르게 설명한 것은?",
+      "options": [
+        "나사 펌프 : 진동과 소음의 발생이 심하다.",
+        "피스톤 펌프 : 내부 누설이 많아 효율이 낮다.",
+        "기어 펌프 : 구조가 복잡하고 고압에 적당하다.",
+        "베인 펌프 : 토출 압력의 연동이 적고 수명이 길다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q107",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "산업안전보건상 근로자의 의무사항으로 틀린 것은?",
+      "options": [
+        "위험한 장소에는 출입금지",
+        "위험상황 발생시 작업 중지 및 대피",
+        "보호구 착용",
+        "사업장의 유해, 위험요인에 대한 실태 파악",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q108",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "안전작업 측면에서 장갑을 착용하고 해도 가장 무리 없는 작업은?",
+      "options": [
+        "드릴 작업을 할 때",
+        "건설현장에서 청소 작업을 할 때",
+        "해머 작업을 할 때",
+        "정밀기계 작업을 할 때",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q109",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "동력 전동장치에서 가장 재해가 많이 발생할 수 있는 것은?",
+      "options": [
+        "기어",
+        "커플링",
+        "벨트",
+        "차축",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q110",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "감전되거나 전기화상을 입을 위험이 있는 곳에서 작업시 작업자가 착용해야 할 것은?",
+      "options": [
+        "구명구",
+        "보호구",
+        "구명조끼",
+        "비상벨",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q111",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "벨트를 풀리에 걸 때 가장 올바른 방법은?",
+      "options": [
+        "회전을 정지시킨 후",
+        "저속으로 회전할 때",
+        "중속으로 회전할 때",
+        "고속으로 회전할 때",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q112",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "산업안전보건표지의 종류에서 지시표시에 해당하는 것은?",
+      "options": [
+        "차량통행금지",
+        "고온경고",
+        "안전모착용",
+        "출입금지",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q113",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "스패너를 사용할 때의 주의사항들이다. 안전에 어긋나는 점은?",
+      "options": [
+        "너트에 스패너를 깊이 물리고, 조금씩 앞으로 당기는 식으로 풀고 조인다.",
+        "해머 대용으로 사용한다.",
+        "스패너를 해머로 두드리지 않는다.",
+        "좁은 장소에서는 몸의 일부를 충분히 기대고 작업한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q114",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "작업장에서 일상적인 안전 점검의 가장 주된 목적은?",
+      "options": [
+        "시설 및 장비의 설계 상태를 점검한다.",
+        "안전작업 표준의 적합 여부를 점검한다.",
+        "위험을 사전에 발견하여 시정한다.",
+        "관련법에 적합 여부를 점검하는데 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q115",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "드릴머신으로 구멍을 뚫을 때 일감 자체가 가장 회전하기 쉬운 때는 어느 때 인가?",
+      "options": [
+        "구멍을 처음 뚫기 시작할 때",
+        "구멍을 중간 쯤 뚫었을 때",
+        "구멍을 처음 뚫기 시작할 때와 거의 뚫었을 때",
+        "구멍을 거의 뚫었을 때",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q116",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "소화 작업시 적합하지 않은 것은?",
+      "options": [
+        "화재가 일어나면 화재 경보를 한다.",
+        "배선의 부근에 물을 뿌릴 때에는 전기가 통하는지 여부를 확인 후에 한다.",
+        "가스 밸브를 잠그고 전기 스위치를 끈다.",
+        "카바이드 및 유류에는 물을 뿌린다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q117",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "관련법상 도로 굴착자가 가스배관 매설위치를 확인 시 인력굴착을 실시하여야 하는 범위로 맞는 것은?",
+      "options": [
+        "가스배관의 보호판이 육안으로 확인되었을 때",
+        "가스배관의 주위 0.5m 이내",
+        "가스배관의 주위 1m 이내",
+        "가스배관이 육안으로 확인될 때",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q118",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "도로 굴착자가 굴착 공사 전에 이행할 사항에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "도면에 표시된 가스배관과 기타 지장물 매설 유무를 조사하여야 한다.",
+        "조사된 자료로 시험굴착위치 및 굴착개소 등을 정하여 가스배관 매설위치를 확인하여야 한다.",
+        "위치 표시용 페인트와 표지판 및 황색 깃발 등을 준비하여야 한다.",
+        "굴착 용역회사의 안전관리자가 지정하는 일정에 시험 굴착을 수립하여야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q119",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "다음 중 감전재해의 요인이 아닌 것은?",
+      "options": [
+        "충전부에 직접 접촉하거나 안전거리 이내 접근 시",
+        "절연 열화·손상·파손 등에 의해 누전된 전기기기 등에 접촉 시",
+        "작업 시 절연장비 및 안전장구 착용",
+        "전기 기기 등의 외항과 대지 간의 정전용량에 의한 전압 발생부분 접촉 시",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q120",
+      "subject": "굴착기운전기능사",
+      "round": "2011-10-09 기출",
+      "question_text": "굴삭기, 지게차 및 불도저가 고압전선에 근접, 접촉으로 인한 사고 유형이 아닌 것은?",
+      "options": [
+        "화재",
+        "화상",
+        "휴전",
+        "감전",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q121",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "입력식 라디에이터 캡에 대한 설명으로 옳은 것은?",
+      "options": [
+        "냉각장치 내부압력이 규정보다 낮을 때 공기밸브는 열린다.",
+        "냉각장치 내부압력이 규정보다 높을 때 진공밸브는 열린다.",
+        "냉각장치 내부압력이 부압이 되면 진공밸브는 열린다.",
+        "냉각장치 내부압력이 부압이 되면 공기밸브는 열린다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q122",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "기관에서 피스톤의 행정이란?",
+      "options": [
+        "피스톤의 길이",
+        "실린더 벽의 상하 길이",
+        "상사점과 하사점과의 총 면적",
+        "상사점과 하사점과의 거리",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q123",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "건설기계운전 작업 후 탱크에 연료를 가득 채워주는 이유와 가장 관련이 적은 것은?",
+      "options": [
+        "다음의 작업을 준비하기 위해서",
+        "연료의 기포방지를 위해서",
+        "연료탱크에 수분이 생기는 것을 방지하기 위해서",
+        "연료의 압력을 높이기 위해서",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q124",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "기관 과열의 원인이 아닌 것은?",
+      "options": [
+        "라디에이터 막힘",
+        "냉각장치 내부에 물때가 끼었을 때",
+        "냉각수의 부족",
+        "오일의 압력 과다",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q125",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "기관에서 출력저하의 원인이 아닌 것은?",
+      "options": [
+        "분사시기 늦음",
+        "배기계통 막힘",
+        "흡기계통 막힘",
+        "압력계 작동 이상",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q126",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "엔진오일이 많이 소비되는 원인이 아닌 것은?",
+      "options": [
+        "피스톤링의 마모가 심할 때",
+        "실린더의 마모가 심할 때",
+        "기관의 압축 압력이 높을 때",
+        "밸브가이드의 마모가 심할 때",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q127",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "기관의 오일 압력이 낮은 경우와 관계없는 것은?",
+      "options": [
+        "아래 크랭크 케이스에 오일이 적다.",
+        "크랭크축 오일 틈새가 크다.",
+        "오일펌프가 불량하다.",
+        "오일 릴리프밸브가 막혔다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q128",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "디젤기관 연료장치의 분사펌프에서 프라이밍 펌프는 어느 때 사용하는가?",
+      "options": [
+        "출력을 증가시키고자 할 때",
+        "연료계통에 공기를 배출 할 때",
+        "연료의 양을 가감할 때",
+        "연료의 분사압력을 측정할 때",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q129",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "기관의 맥동적인 회전 관성력을 원활한 회전으로 바꾸어 주는 역할을 하는 것은",
+      "options": [
+        "크랭크축",
+        "피스톤",
+        "플라이휠",
+        "커넥팅로드",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q130",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "피스톤과 실린더 사이의 간극이 너무 클 때 일어나는 현상은?",
+      "options": [
+        "엔진의 출력 증대",
+        "압축압력 증가",
+        "실린더 소결",
+        "엔진 오일의 소비증가",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q131",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "건설기계 기관에서 사용되는 여과장치가 아닌 것은?",
+      "options": [
+        "공기청정기",
+        "오일필터",
+        "오일 스트레이너",
+        "인젝션 타이머",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q132",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "디젤엔진이 잘 시동 되지 않거나 시동이 되더라도 출력이 약한 원인으로 맞는 것은?",
+      "options": [
+        "연료탱크 상부에 공기가 들어 있을 때",
+        "플라이휠이 마모되었을 때",
+        "연료분사펌프의 기능이 불량할 때",
+        "냉각수 온도가 100℃ 정도 되었을 때",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q133",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "교류(AC)발전기에서 전류가 발생되는 곳은 어느 부분인가?",
+      "options": [
+        "정류자",
+        "로터",
+        "전기자",
+        "스테이터",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q134",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "실드빔식 전조등에 대한 설명으로 맞지 않는 것은?",
+      "options": [
+        "대기조건에 따라 반사경이 흐려지지 않는다.",
+        "내부에 불활성 가스가 들어있다.",
+        "사용에 따른 광도의 변화가 적다.",
+        "필라멘트를 갈아 끼울 수 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q135",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "퓨즈의 용량 표기가 맞는 것은?",
+      "options": [
+        "M",
+        "A",
+        "E",
+        "V",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q136",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "기동 전동기의 피니언이 링기어에 물리는 방식이 아닌 것은?",
+      "options": [
+        "스팔라인식",
+        "벤딕스식",
+        "전기자 섭동식",
+        "피니언 섭동식",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q137",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "축전지를 교환 및 장착할 때 연결 순서로 맞는 것은?",
+      "options": [
+        "(+)나 (-)선 중 편리한 것부터 연결하면 된다.",
+        "축전기의 (-)선을 먼저 부착하고, (+)선을 나중에 부착한다.",
+        "축전지의 (+), (-)선을 동시에 부착한다.",
+        "축전기의 (+)선을 먼저 부착하고, (-)선을 나중에 부착한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q138",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "납산용 일반축전지가 방전되었을 때 보충전시 주의하여야 할 사항으로 가장 거리가 먼 것은?",
+      "options": [
+        "충전시 전해액 온도를 45℃ 이하로 유지할 것",
+        "충전시 가스발생이 되므로 화기에 주의할 것",
+        "충전시 벤트플러그를 모두 열 것",
+        "충전시 배터리 용량보다 높은 전압으로 충전 할 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q139",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "로더의 작업 방법으로 맞는 것은?",
+      "options": [
+        "굴삭 작업시는 버킷을 올려 세우고 작업을 하며 적재시는 전경각 35도를 유지해야 한다.",
+        "굴삭 작업 시는 버킷을 수평 또는 약 5도정도 앞으로 기울이는 것이 좋다.",
+        "작업시는 변속기의 단수를 높이면 작업 효율이 좋아진다.",
+        "단단한 땅을 굴삭시에는 그라인더로 버킷을 날카롭게 만든 후 작업을 하며 굴삭시에는 후 경각 45도를 유지해야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q140",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "트랙장치에서 유동륜의 작용은?",
+      "options": [
+        "트랙의 회전을 원활히 한다.",
+        "동력을 트랙으로 전달한다.",
+        "트랙의 장력을 조정하면서 트랙의 진행방향을 유도한다.",
+        "차체의 파손을 방지하고 원활한 운전을 하게 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q141",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "지게차의 마스트를 기울일 때 갑자기 시동이 정지되면 무슨 밸브가작동하여 그 상태를 유지하는가?",
+      "options": [
+        "틸트록 밸브",
+        "스로틀 밸브",
+        "리프트 밸브",
+        "틸트 밸브",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q142",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "기중기 작업에서 안전사항으로 적합한 것은?",
+      "options": [
+        "측면으로 하며 비스듬히 끌어 올린다.",
+        "저속으로 천천히 감아올리고 와이어로프가 인장력을 받기 시작할 때는 빨리 당긴다.",
+        "지면과 약 30cm 떨어진 지점에서 정지한 후 안전을 확인하고 상승한다.",
+        "가벼운 화물을 들어 올릴 때는 붐 각을 안전각도 이하로 작업한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q143",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "브레이크 오일이 비등하여 송유 압력의 전달 작용이 불가능하게 되는 현상은?",
+      "options": [
+        "페이드 현상",
+        "베이퍼 록 현상",
+        "사이클링 현상",
+        "브레이크 록 현상",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q144",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "굴삭기를 트레일러에 상차하는 방법에 대한 것으로 가장 적합하지 않는 것은?",
+      "options": [
+        "가급적 경사대를 사용한다.",
+        "트레일러로 운반 시 작업 장치를 반드시 앞쪽으로 한다.",
+        "경사대는 10~15° 정도 경사시키는 것이 좋다.",
+        "붐을 이용하여 버킷으로 차체를 들어 올려 탑재하는 방법도 이용되지만 전복의 위험이 있어 특히 주의를 요하는 방법이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q145",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "종감속비에 대한 설명으로 맞지 않는 것은?",
+      "options": [
+        "종감속비는 링기어 잇수를 구동피니언 잇수로 나눈 값이다.",
+        "종감속비가 크면 가속 성능이 향상된다.",
+        "종감속비가 적으면 등판능력이 향상된다.",
+        "종감속비는 나누어서 떨어지지 않는 값으로 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q146",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "기계식 변속기가 장착된 건설기계장비에서 클러치 사용 방법으로 가장 올바른 것은?",
+      "options": [
+        "클러치 페달에 항상 발을 올려놓는다.",
+        "저속 운전시에만 발을 올려놓는다.",
+        "클러치 페달은 변속시에만 밟는다.",
+        "클러치 페달은 커브길에서만 밟는다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q147",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "교통안전시설이 표시하고 있는 신호와 경찰공무원의 수신호가 다른 경우 통행방법으로 옳은 것은?",
+      "options": [
+        "경찰공무원의 수신호에 따른다.",
+        "신호가 신호를 우선적으로 따른다.",
+        "자기가 판단하여 위험이 없다고 생각되면 아무 신호에 따라도 좋다.",
+        "수신호는 보조신호이므로 따르지 않아도 좋다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q148",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "검사연기신청을 하였으나 불허통지를 받은 자는 언제까지 검사를 신청하여야 하는가?",
+      "options": [
+        "불허통지를 받은 날부터 5일 이내",
+        "불허통지를 받은 날부터 10일 이내",
+        "검사신청기간 만료일부터 5일 이내",
+        "검사신청기간 만료일부터 10일 이내",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q149",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "교차로에서 직진하고자 신호대기 중에 있는 차가 진행신호를 받고 안전하게 통행하는 방법은?",
+      "options": [
+        "진행 권리가 부여되었으므로 좌우의 진행차량에는 구애 받지 않는다.",
+        "직진이 최우선이므로 진행 신호에 무조건 따른다.",
+        "신호와 동시에 출발하면 된다.",
+        "좌우를 살피며 계속 보행 중인 보행자와 진행하는 교통의 흐름에 유의하여 진행한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q150",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "등록번호표제작자는 등록번호표 제작 등의 신청을 받은 날로 부터 며칠 이내에 제작하여야 하는가?",
+      "options": [
+        "3일",
+        "5일",
+        "7일",
+        "10일",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q151",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "건설기계조종면허를 받지 아니하고 건설기계를 조종한 자에 대한 벌칙은?",
+      "options": [
+        "2년 이하의 징역 또는 3백만 원 이하의 벌금",
+        "1년 이하의 징역 또는 1천만 원 이하의 벌금",
+        "2백만 원 이하의 벌금",
+        "1백만 원 이하의 벌금",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q152",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "승차인원ㆍ적재중량에 관하여 안전기준을 넘어서 운행하고자 하는 경우 누구에게 허가를 받아야 하는가?",
+      "options": [
+        "출발지를 관할하는 경찰서장",
+        "시ㆍ도지사",
+        "절대 운행 불가",
+        "국토해양부장관",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q153",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "정차라 함은 주차 외의 정지 상태로서 몇 분을 초과하지 아니하고 차를 정지 시키는 것을 말하는가?",
+      "options": [
+        "3분",
+        "5분",
+        "7분",
+        "10분",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q154",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 건설기계 특별표지판을 부착하지 않아도 되는 건설기계는?",
+      "options": [
+        "길이가 17미터인 굴삭기",
+        "너비가 4미터인 기중기",
+        "총중량이 15톤인 지게차",
+        "최소 회전반경이 14미터인 모터그레이더",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q155",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 최고속도 15km/h 미만의 타이어식 건설기계가 필히 갖추어야 할 조명장치는?",
+      "options": [
+        "후미등",
+        "방향지시등",
+        "후부반사기",
+        "번호등",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q156",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "보도와 차도가 구분된 도로에서 중앙선이 설치되어 있는 경우 차마의 통행방법으로 옳은 것은?",
+      "options": [
+        "중앙선 좌측",
+        "중앙선 우측",
+        "좌?우측 모두",
+        "보도의 좌측",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q157",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "유압회로 내에서 서지압(surge pressure) 이란?",
+      "options": [
+        "과도하게 발생하는 이상 압력의 최대값",
+        "정상적으로 발생하는 압력의 최대값",
+        "정상적으로 발생하는 압력의 최소값",
+        "과도하게 발생하는 이상 압력의 최소값",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q158",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "필터의 여과 입도수(mesh)가 너무 높을 때 발생할 수 있는 현상으로 가장 적절한 것은?",
+      "options": [
+        "블로바이 현상",
+        "맥동 현상",
+        "베이퍼록 현상",
+        "캐비테이션 현상",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q159",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "유압유의 압력이 상승하지 않을 때의 원인을 점검하는 것으로 가장 거리가 먼 것은?",
+      "options": [
+        "펌프의 오일 토출 점검",
+        "유압회로를 점검",
+        "릴리프 밸브를 점검",
+        "펌프 설치 고정 볼트 강도 점검",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q160",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "유압장치에서 두 개의 펌프를 사용하는데 있어 펌프의 전체 송출량을 필요로 하지 않을 경우, 동력의 절감과 유온 상승을 방지하는 것은?",
+      "options": [
+        "압력 스위치(pressure switch)",
+        "카운트 밸런스 밸브(count balance valve)",
+        "감압 밸브(pressure reducing valve)",
+        "무부하 밸브(unloading valve)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q161",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "압력의 단위가 아닌 것은?",
+      "options": [
+        "Pa",
+        "bar",
+        "GPM",
+        "kgf/cm2",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q162",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "유압장치에서 방향제어밸브 설명으로 적합하지 않은 것은?",
+      "options": [
+        "유체의 흐름 방향을 변환한다.",
+        "유체의 흐름 방향을 한쪽으로만 허용한다.",
+        "액추에이터의 속도를 제어한다.",
+        "유압실린더나 유압모터의 작동 방향을 바꾸는데 사용된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q163",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "유압 실린더의 구성부품이 아닌 것은?",
+      "options": [
+        "피스톤로드",
+        "피스톤",
+        "실린더",
+        "커넥팅로드",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q164",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "건설기계에서 사용하는 작동유의 정상 작동 온도 범위로 가장 적합한 것은?",
+      "options": [
+        "10℃~30℃",
+        "40℃~60℃",
+        "90℃~110℃",
+        "120℃~150℃",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q165",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "유압장치에서 작동 유압 에너지에 의해 연속적으로 회전운동을 함으로서 기계적인 일을 하는 것은?",
+      "options": [
+        "유압모터",
+        "유압실린더",
+        "유압제어밸브",
+        "유압탱크",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q166",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "그림과 같은 실린더의 명칭은?",
+      "options": [
+        "단동 실린더",
+        "단동 다단 실린더",
+        "복동 실린더",
+        "복동 다단 실린더",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jh/jh20110731/jh20110731m46.gif"
+    },
+    {
+      "id": "excavator_craftsman_q167",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "자연적 재해가 아닌 것은?",
+      "options": [
+        "지진",
+        "태풍",
+        "홍수",
+        "방화",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q168",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "금속 표면에 거칠거나 각진 부분에 다칠 우려가 있어 매끄럽게 다듬질하고자 한다. 적합한 수공구는?",
+      "options": [
+        "끌",
+        "줄",
+        "대패",
+        "쇠톱",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q169",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "안전?보건표지의 종류별 용도?사용장소?형태 및 색채에서 바탕은 흰색, 기본모형은 빨간색, 관련부호 및 그림은 검정색으로 된 표지는?",
+      "options": [
+        "보조표지",
+        "지시표지",
+        "주의표지",
+        "금지표지",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q170",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음 중 물건을 여러 사람이 공동으로 운반할 때의 안전사항과 거리가 먼 것은?",
+      "options": [
+        "명령과 지시는 한사람이 한다.",
+        "최소한 한손으로는 물건을 받친다.",
+        "앞쪽에 있는 사람이 부하를 적게 담당한다.",
+        "긴 화물은 같은 쪽의 어깨에 올려서 운반한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q171",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "안전보호구 선택 시 유의사항으로 틀린 것은?",
+      "options": [
+        "보호구 검정에 합격하고 보호성능이 보장될 것",
+        "반드시 강철로 제작되어 안전 보장형일 것",
+        "작업 행동에 방해되지 않을 것",
+        "착용이 용이하고 크기 등 사용자에게 편리할 것",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q172",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "절연용 보호구의 종류가 아닌 것은?",
+      "options": [
+        "절연모",
+        "절연시트",
+        "절연화",
+        "절연장갑",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q173",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "다음은 화재 예방과 대책 중 국한 대책에 해당하지 않는 것은?",
+      "options": [
+        "가연물을 쌓아놓는다.",
+        "공한지의 확보",
+        "방화벽 등의 정비",
+        "건물설비에 불연성 소재를 쓴다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q174",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "산업재해의 분류에서 사람이 평면상으로 넘어졌을 때(미끄러짐 포함)를 말하는 것은?",
+      "options": [
+        "낙하",
+        "충돌",
+        "전도",
+        "추락",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q175",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "해머(hammer) 작업 시 주의사항으로 틀린 것은?",
+      "options": [
+        "해머 작업 시는 장갑을 사용해서는 안 된다.",
+        "난타하기 전에 주의를 확인한다.",
+        "해머의 정확성을 유지하기 위해 기름을 바른다.",
+        "1~2회 정도는 가볍게 치고 나서 본격적으로 작업한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q176",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "작업장에 대한 안전관리상 설명으로 틀린 것은?",
+      "options": [
+        "항상 청결하게 유지한다.",
+        "작업대 사이, 또는 기계 사이의 통로는 안전을 위한 일정한 너비가 필요하다.",
+        "공장바닥은 폐유를 뿌려, 먼지 등이 일어나지 않도록 한다.",
+        "전원 콘센트 및 스위치 등에 물을 뿌리지 않는다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q177",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "도시가스 배관의 안전초지 및 손상방지를 위해 다음과 같이 안전초지를 하여야하는데 굴착공사자는 굴착공사 예정지역의 위치에 어떤 조치를 하여야 하는가?",
+      "options": [
+        "황색 페인트로 표시",
+        "적색 페인트로 표시",
+        "흰색 페인트로 표시",
+        "청색 페인트로 표시",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/jh/jh20110731/jh20110731m57.gif"
+    },
+    {
+      "id": "excavator_craftsman_q178",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "도로에서 굴착작업 중 케이블 표지시트가 발견되었을 때 조치방법으로 가장 적합한 것은?",
+      "options": [
+        "해당설비 관리자에게 연락 후 그 지시를 따른다.",
+        "케이블 표지시트를 걷어내고 계속 작업한다.",
+        "시설관리자에게 연락하지 않고 조심해서 작업한다.",
+        "케이블 표지시트는 전력케이블과는 무관하다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q179",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "도로 굴착자는 되메움 공사 완료 후 도시가스 배관 손상방지를 위하여 최소한 몇 개월 이상 침하 유무를 확인하여야 하는가?",
+      "options": [
+        "1개월",
+        "2개월",
+        "3개월",
+        "4개월",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q180",
+      "subject": "굴착기운전기능사",
+      "round": "2011-07-31 기출",
+      "question_text": "그림과 같이 시가지에 있는 배전선로 A 에는 보통 몇 V의 전압이 인가되고 있는가?",
+      "options": [
+        "110V",
+        "220V",
+        "440V",
+        "22900V",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/jh/jh20110731/jh20110731m60.gif"
+    },
+    {
+      "id": "excavator_craftsman_q181",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "엔진의 냉각장치에서 수온조절기의 열림 온도가 낮을 때 발생 하는 현상은?",
+      "options": [
+        "방열기 내의 압력이 높아진다.",
+        "엔진이 과열되기 쉽다.",
+        "엔진의 워밍업 시간이 길어진다.",
+        "물 펌프에 과부하가 발생한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q182",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "냉각장치에 사용되는 전동 팬에 대한 설명으로 틀린 것은?",
+      "options": [
+        "냉각수 온도에 따라 작동한다.",
+        "정상온도 이하에는 작동하지 않고 과열일 때 작동한다.",
+        "엔진이 시동 되면 동시에 회전한다.",
+        "팬벨트는 필요 없다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q183",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "건설기계기관에 설치되는 오일 냉각기의 주 기능으로 맞는 것은?",
+      "options": [
+        "오일 온도를 30℃ 이하로 유지하기 위한 기능을 한다.",
+        "오일 온도를 정상 온도로 일정하게 유지한다.",
+        "수분, 슬러지(sludge) 등을 제거한다.",
+        "오일의 압을 일정하게 유지한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q184",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "4행정 디젤기관에서 동력행정을 뜻하는 것은?",
+      "options": [
+        "흡기행정",
+        "압축행정",
+        "폭발행정",
+        "배기행정",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q185",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "디젤기관의 엔진오일 압력이 규정 이상으로 높아질 수 있는 원인은?",
+      "options": [
+        "기관의 회전속도가 낮다.",
+        "엔진오일의 점도가 지나치게 낮다.",
+        "엔진오일의 점도가 지나치게 높다.",
+        "엔진오일이 희석되었다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q186",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "디젤 연료장치에서 공기를 뺄 수 있는 부분이 아닌 것은?",
+      "options": [
+        "노즐 상단의 피팅 부분",
+        "분사펌프의 에어브리드 스크루",
+        "연료 여과기의 벤트플러그",
+        "연료 탱크의 드레인 플러그",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q187",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "디젤기관을 정지시키는 방법으로 가장 적합한 것은?",
+      "options": [
+        "연료공급을 차단한다.",
+        "초크밸브를 닫는다.",
+        "기어를 넣어 기관을 정지한다.",
+        "축전지에 연결된 전선을 끊는다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q188",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "기관의 예방 정비시에 운전자가 해야 할 정비와 관계가 먼 것은?",
+      "options": [
+        "딜리버리 밸브 교환",
+        "냉각수 보충",
+        "연료 여과기의 엘리먼트 점검",
+        "연료 파이프의 풀림 상태 조임",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q189",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "디젤기관에서 실린더가 마모되었을 때 발생할 수 있는 현상이 아닌 것은?",
+      "options": [
+        "윤활유 소비량 증가",
+        "연료 소비량 증가",
+        "압축압력의 증가",
+        "블로바이(blow-by) 가스의 배출 증가",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q190",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "우수식 크랭크축이 설치된 4행정 6실린더 기관의 폭발 순서는?",
+      "options": [
+        "1-3-2-5-6-4",
+        "1-4-3-5-2-6",
+        "1-5-3-6-2-4",
+        "1-6-2-5-3-4",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q191",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "디젤엔진에서 연료를 고압으로 연소실에 분사하는 것은?",
+      "options": [
+        "프라이밍 펌프",
+        "인젝션 펌프",
+        "분사노즐(인젝터)",
+        "조속기",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q192",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "기관에서 터보차저에 대한 설명으로 틀린 것은?",
+      "options": [
+        "흡기관과 배기관 사이에 설치된다.",
+        "과급기라고도 한다.",
+        "배기가스 배출을 위한 일종의 블로워(blower)이다.",
+        "기관 출력을 증가시킨다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q193",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "건설기계장비에서 다음과 같은 상황의 경우 고장 원인으로 가장 적합한 것은?",
+      "options": [
+        "축전지 방전",
+        "솔레노이드스위치 고장",
+        "회로의 단선",
+        "시동모터 배선의 단선",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/jh/jh20110417/jh20110417m13.gif"
+    },
+    {
+      "id": "excavator_craftsman_q194",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "교류발전기의 특징이 아닌 것은?",
+      "options": [
+        "브러시의 수명이 길다.",
+        "전류 조정기만 있다.",
+        "저속 회전시 충전이 양호하다.",
+        "경량이고 출력이 크다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q195",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "직류직권 전동기에 대한 설명 중 틀린 것은?",
+      "options": [
+        "기동 회전력이 분권전동기에 비해 크다.",
+        "회전 속도의 변화가 크다.",
+        "부하가 걸렸을 때, 회전속도가 낮아진다.",
+        "회전속도가 거의 일정하다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q196",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "납산축전지의 전해액을 만들 때 올바른 방법은?",
+      "options": [
+        "황산에 물을 조금씩 부으면서 유리 막대로 젓는다.",
+        "황산과 물을 1:1의 비율로 동시에 붓고 잘 젓는다.",
+        "증류수에 황산을 조금씩 부으면서 잘 젓는다.",
+        "축전지에 필요한 양의 황산을 직접 붓는다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q197",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "방향지시등이나 제동등의 작동 확인은 언제 하는가?",
+      "options": [
+        "운행 전",
+        "운행 중",
+        "운행 후",
+        "일몰 직전",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q198",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "전류의 자기작용을 응용한 것은?",
+      "options": [
+        "전구",
+        "축전지",
+        "예열플러그",
+        "발전기",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q199",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "기중기의 사용 용도로 가장 거리가 먼 것은?",
+      "options": [
+        "철도, 교량의 설치작업",
+        "일반적인 기중작업",
+        "차량의 화물 적재 및 적하작업",
+        "제방 경사작업",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q200",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "로더의 작업 중 그레이딩 작업이란?",
+      "options": [
+        "굴착 작업",
+        "깎아내기 작업",
+        "지면 고르기 작업",
+        "적재 작업",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q201",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "수동변속기가 장착된 건설기계에서 기어의 이중 물림을 방지하는 장치는?",
+      "options": [
+        "인젝션 장치",
+        "인터쿨러 장치",
+        "인터록 장치",
+        "인터널 기어 장치",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q202",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "굴삭기의 한 쪽 주행레버만 조작하여 회전하는 것을 무슨 회전이라고 하는가?",
+      "options": [
+        "급회전",
+        "원웨이 회전",
+        "스핀 회전",
+        "피벗 회전",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q203",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "무한궤도식 건설기계에서 트랙장력을 조정하는 방법은?",
+      "options": [
+        "스프로킷의 조정볼트로 한다.",
+        "장력 조정 실린더로 한다.",
+        "상부 롤러의 베어링으로 한다.",
+        "하부 롤러의 시임을 조정한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q204",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "건설기계에 사용되는 저압 타이어의 호칭 치수 표시는?",
+      "options": [
+        "타이어의 외경 - 타이어의 폭 - 플라이수",
+        "타이어의 폭 - 타이어의 내경 - 플라이수",
+        "타이어의 폭 - 림의 지름",
+        "타이어의 내경 - 타이어의 폭 - 플라이수",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q205",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "지게차의 조향장치 원리는 무슨 형식인가?",
+      "options": [
+        "애커먼 장토식",
+        "포토래스 형",
+        "전부동식",
+        "빌드업형",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q206",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "토크 컨버터의 3대 구성요소가 아닌 것은?",
+      "options": [
+        "오버런닝 클러치",
+        "스테이터",
+        "펌프",
+        "터빈",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q207",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "도로교통법상 과태료를 부과할 수 있는 대상자는?",
+      "options": [
+        "운전자가 현장에 없는 주, 정차 위반차의 고용주 등",
+        "무면허 운전을 한 운전자와 그 차의 사용자",
+        "교통사고를 야기하고 손해배상을 하지 않는 운전자",
+        "술에 취한 운전자로 하여금 운전하게 한 버스회사 사장",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q208",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "트럭적재식 천공기를 조종할 수 있는 면허는?",
+      "options": [
+        "공기압축기 면허",
+        "기중기 면허",
+        "모터그레이더 면허",
+        "자동차 제1종 대형운전면허",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q209",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "건설기계를 운전하여 교차로 전방 20m 지점에 이르렀을 때 황색 등화로 바뀌었을 경우 운전자의 조치방법은?",
+      "options": [
+        "일시 정지하여 안전을 확인하고 진행한다.",
+        "정지할 조치를 취하여 정지선에 정지한다.",
+        "그대로 계속 진행한다.",
+        "주위의 교통에 주의하면서 진행한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q210",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "건설기계를 도난당한 때 등록말소사유 확인서류로 적당한 것은?",
+      "options": [
+        "수출신용장",
+        "경찰서장이 발행한 도난신고 접수 확인원",
+        "주민등록 등본",
+        "봉인 및 번호판",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q211",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "건설기계 관리법의 목적으로 가장 적합한 것은?",
+      "options": [
+        "건설기계의 동산 신용증진",
+        "건설기계 사업의 질서 확립",
+        "공로 운행상의 원활기여",
+        "건설기계의 효율적인 관리",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q212",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "도로교통법상 서행 또는 일시 정지할 장소로 지정된 곳은?",
+      "options": [
+        "안전지대 우측",
+        "가파른 비탈길의 내리막",
+        "좌우를 확인할 수 있는 교차로",
+        "교량 위를 통행할 때",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q213",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "건설기계정비업의 사업범위에서 유압장치를 정비할 수 없는 정비업은?",
+      "options": [
+        "종합 건설기계 정비업",
+        "부분 건설기계 정비업",
+        "원동기 정비업",
+        "유압 정비업",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q214",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "건설기계검사를 연장 받을 수 있는 기간을 잘못 설명한 것은?",
+      "options": [
+        "해외 임대를 위하여 일시 반출된 경우 : 반출기간 이내",
+        "압류된 건설기계의 경우 : 압류기간 이내",
+        "건설기계대여업을 휴지하는 경우 : 휴지기간 이내",
+        "장기간 수리가 필요한 경우 : 소유자가 원하는 기간",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q215",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "제1종 보통 면허로 운전할 수 없는 것은?",
+      "options": [
+        "승차정원 15인승의 승합자동차",
+        "적재중량 11톤급의 화물자동차",
+        "특수 자동차(트레일러 및 래커를 제외)",
+        "원동기 장치 자전거",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q216",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "도로교통 관련법상 차마의 통행을 구분하기 위한 중앙선에 대한 설명으로 옳은 것은?",
+      "options": [
+        "백색 및 회색의 실선 및 점선으로 되어있다.",
+        "백색의 실선 및 점선으로 되어있다.",
+        "황색의 실선 또는 황색 점선으로 되어있다.",
+        "황색 및 백색의 실선 및 점선으로 되어있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q217",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "유압장치에서 피스톤 펌프의 장점이 아닌 것은?",
+      "options": [
+        "효율이 가장 높다.",
+        "발생 압력이 고압이다.",
+        "토출량의 범위가 넓다.",
+        "구조가 간단하고 수리가 쉽다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q218",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "다음 보기에서 분기 회로에 사용되는 밸브만 골라 나열한 것은?",
+      "options": [
+        "ㄱ, ㄴ",
+        "ㄴ, ㄷ",
+        "ㄷ, ㄹ",
+        "ㄹ, ㅁ",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/jh/jh20110417/jh20110417m38.gif"
+    },
+    {
+      "id": "excavator_craftsman_q219",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "유압유 교환을 판단하는 조건이 아닌 것은?",
+      "options": [
+        "점도의 변화",
+        "색깔의 변화",
+        "수분의 함량",
+        "유량의 감소",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q220",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "유압장치의 주된 고장원인이 되는 것과 가장 거리가 먼 것은?",
+      "options": [
+        "과부하 및 과열로 인하여",
+        "공기, 물, 이물질의 혼입에 의하여",
+        "기기의 기계적 고장으로 인하여",
+        "덥거나 추운 날씨에 사용함으로 인하여",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q221",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "건설기계장비 유압계통에 사용되는 라인(line) 필터의 종류가 아닌 것은?",
+      "options": [
+        "복귀관 필터",
+        "누유관 필터",
+        "흡입관 필터",
+        "압력관 필터",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q222",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "2개 이상의 분기회로를 갖는 회로 내에서 작동순서를 회로의 압력 등에 의하여 제어하는 밸브는?",
+      "options": [
+        "첵밸브(check valve)",
+        "시퀸스밸브(sequence valve)",
+        "한계밸브(limit valve)",
+        "서보밸브(servo valve)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q223",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "작동유 온도가 과열 되었을 때 유압계통에 미치는 영향으로 틀린 것은?",
+      "options": [
+        "열화를 촉진한다.",
+        "점도의 저하에 의해 누유되기 쉽다.",
+        "유압펌프 등의 효율은 좋아진다.",
+        "온도변화에 의해 유압기기가 열변형 되기 쉽다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q224",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "크롤러 굴삭기가 경사면에서 주행 모터에 공급되는 유량과 관계없이 자중에 의해 빠르게 내려가는 것을 방지해 주는 밸브는?",
+      "options": [
+        "카운터 밸런스 밸브",
+        "포트 릴리프밸브",
+        "브레이크 밸브",
+        "피스톤 모터의 피스톤",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q225",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "유압 액추에이터의 기능에 대한 설명으로 맞는 것은?",
+      "options": [
+        "유압의 방향을 바꾸는 장치이다.",
+        "유압을 일로 바꾸는 장치이다.",
+        "유압의 빠르기를 조정하는 장치이다.",
+        "유압의 오염을 방지하는 장치이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q226",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "유압장치의 기호회로도에 사용되는 유압기호의 표시방법으로 적합하지 않은 것은?",
+      "options": [
+        "기호에는 흐름의 방향을 표시한다.",
+        "각 기기의 기호는 정상상태 또는 중립상태를 표시한다.",
+        "기호는 어떠한 경우에도 회전하여서는 안 된다.",
+        "기호에는 각 기기의 구조나 작용압력을 표시하지 않는다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q227",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "공구 사용시 주의해야 할 사항으로 틀린 것은?",
+      "options": [
+        "주위 환경에 주의해서 작업할 것",
+        "강한 충격을 가하지 않을 것",
+        "해머 작업 시 보호안경을 쓸 것",
+        "손이나 공구에 기름을 바른 다음에 작업할 것",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q228",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "소화 작업에 대한 설명으로 틀린 것은?",
+      "options": [
+        "산소의 공급을 차단한다.",
+        "유류화재 시 표면에 물을 붓는다.",
+        "가열물질의 공급을 차단시킨다.",
+        "점화원을 발화점 이하의 온도로 낮춘다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q229",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "보호구는 반드시 한국산업안전보건공단으로부터 보호구 검정을 받아야 한다. 검정을 받지 않아도 되는 것은?",
+      "options": [
+        "안전모",
+        "방한복",
+        "안전장갑",
+        "보안경",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q230",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "안전표지의 종류 중 안내표지에 속하지 않는 것은?",
+      "options": [
+        "녹십자 표지",
+        "응급구호표지",
+        "비상구",
+        "출입금지",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q231",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "스패너 사용에 관한 설명 중 가장 옳은 것은?",
+      "options": [
+        "스패너와 너트 사이에 쐐기를 넣어 사용한다.",
+        "스패너는 너트보다 큰 것을 사용한다.",
+        "스패너 작업시 몸의 균형을 잡는다.",
+        "스패너 자루에 파이프 등을 끼워서 사용한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q232",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "공장에서 엔진 등 중량물을 이동하려고 한다. 가장 좋은 방법은?",
+      "options": [
+        "여러 사람이 들고 조용히 움직인다.",
+        "체인 블록이나 호이스트를 사용한다.",
+        "로프로 묶어 인력으로 당긴다.",
+        "지렛대를 이용하여 움직인다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q233",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "재해의 원인 중 생리적인 원인에 해당 되는 것은?",
+      "options": [
+        "작업자의 피로",
+        "작업복의 부적당",
+        "안전장치의 불량",
+        "안전수칙의 미 준수",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q234",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "전기용접 작업 시 보안경을 사용하는 이유로 가장 적절한 것은?",
+      "options": [
+        "유해 광선으로부터 눈을 보호하기 위하여",
+        "유해 약물로부터 눈을 보호하기 위하여",
+        "중량물의 추락 시 머리를 보호하기 위하여",
+        "분진으로부터 눈을 보호하기 위하여",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q235",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "안전점검의 종류에 해당되지 않는 것은?",
+      "options": [
+        "수시점검",
+        "정기점검",
+        "특별점검",
+        "구조점검",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q236",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "가스가 새어 나오는 것을 검사할 때 가장 적합한 것은?",
+      "options": [
+        "비눗물을 발라 본다.",
+        "순수한 물을 발라 본다.",
+        "기름을 발라 본다.",
+        "촛불을 대어 본다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q237",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "가스공급 압력이 중압이상의 배관 상부에는 보호판을 사용하고 있다. 이 보호판에 대한 설명으로 틀린 것은?",
+      "options": [
+        "배관 직상부 30cm 상단에 매설되어 있다.",
+        "두께가 4mm이상의 철판으로 방식 코팅되어 있다.",
+        "보호판은 가스가 누출되지 않도록 하기 위한 것이다.",
+        "보호판은 철판으로 장비에 의한 배관 손상을 방지하기 위하여 설치한 것이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q238",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "고압선로 주변에서 크레인 작업 중 지지물 또는 고압선에 접촉이 우려되므로 안전에 가장 유의하여야 하는 부분은?",
+      "options": [
+        "조향 핸들",
+        "붐 또는 케이블",
+        "하부 회전체",
+        "타이어",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q239",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "전기설비에서 차단기의 종류 중 ELCB(Earth Leakage Circuit Breaker)은 어떤 차단기인가?",
+      "options": [
+        "유입 차단기",
+        "진공 차단기",
+        "누전 차단기",
+        "가스차단기",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "excavator_craftsman_q240",
+      "subject": "굴착기운전기능사",
+      "round": "2011-04-17 기출",
+      "question_text": "도시가스 배관이 매설된 도로에서 굴착작업을 할 때 준수사항으로 틀린 것은?",
+      "options": [
+        "가스배관이 매설된 지점에서 도시가스 회사의 입회하에 작업한다.",
+        "가스배관은 도로에 라인마크를 하기 때문에 라인마크가 없으면 직접 굴착해도 된다.",
+        "어떤 지점을 굴착 하고자 할 때는 라인 마크, 표지판, 밸브박스 등으로 가스배관의 유무를 확인하는 방법도 있다.",
+        "가스배관의 매설 유무는 반드시 도시가스 회사에 유무 조회를 하여야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    }
+  ]
+}

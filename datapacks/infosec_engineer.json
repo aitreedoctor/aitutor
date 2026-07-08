@@ -1,0 +1,6005 @@
+{
+  "pack_name": "정보보안기사 기출 팩",
+  "questions": [
+    {
+      "id": "infosec_engineer_q1",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "윈도우 시스템의 사용자 계정 및 패스워드를 암호화하여 보관하고 있는 SAM(Security Account Manager)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "HKEY_LOCAL_MACHINE\\SAM에 저장된 키는 일반계정도 확인할 수 있다.",
+        "크래킹을 통해 패스워드를 얻을 수 있다.",
+        "운영체제가 작동하는 한 접근할 수 없도록 잠겨져 있다.",
+        "레지스트리 HKEY_LOCAL_MACHINE\\SAM에 구체화된 자료들을 실제로 저장한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q2",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "디스크 스케줄링 알고리즘 중 엘리베이터 알고리즘이라고 불리는 기법은?",
+      "options": [
+        "SCAN",
+        "SSTF",
+        "C-SCAN",
+        "FCFS",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q3",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "윈도우에서 제공하는 BitLocker에 대한 설명으로 틀린 것은?",
+      "options": [
+        "윈도우 7에서도 가능하다.",
+        "exFAT 파일 시스템은 지원하지 않는다.",
+        "USB 저장매체도 지원 가능하다.",
+        "텍스트 파일 형태의 복구키를 제공한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q4",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "EDR(Endpoint Detection Response) 솔루션의 주요 기능으로 옳지 않은 것은?",
+      "options": [
+        "보안사고 탐지 영역",
+        "보안사고 통제 영역",
+        "보안사고 확산 영역",
+        "보안사고 치료 영역",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q5",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "Window 서버의 보안 옵션 설정 중 보안 강화를 위한 설정으로 옳지 않은 것은?",
+      "options": [
+        "“로그온 하지 않고 시스템 종료 허용”을 “사용 안함”으로 설정하였다.",
+        "원격 관리를 위해 “원격 시스템에서 강제로 종료” 정책의 “Administrators” 외 서버에 등록된 계정을 모두 등록하였다.",
+        "“이동식 미디어 포맷 및 꺼내기 허용” 정책이 “Administrators” 로 되어 있다.",
+        "“SAM 계정과 공유의 익명 열거 허용 안함” 정책을 설정하였다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q6",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "웹사이트의 쿠키(cookie)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "Set-Cookie 헤더를 통해 쿠키를 설정",
+        "여러개의 값을 추가시 “/” 특수문자를 사용",
+        "쿠키의 구조는 이름=값 형태로 구성",
+        "사용자 PC에 저장",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q7",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장에서 설명하는 공격으로 올바르게 짝지어진 것은?",
+      "options": [
+        "㉠ : Warwalking, ㉡ : Evil Twin",
+        "㉠ : 사전 공격, ㉡ : 무차별 공격",
+        "㉠ : 무차별 공격, ㉡ : 사전 공격",
+        "㉠ : Evil Twin, ㉡ : Wardriving",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m7.gif"
+    },
+    {
+      "id": "infosec_engineer_q8",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "내부 정보 유출 차단용 보안솔루션에 대한 설명으로 틀린 것은?",
+      "options": [
+        "문서암호화 솔루션 : PC에 저장되는 파일을 암호화하고 외부로 유출시 복호화 기능",
+        "내부정보 유출 방지 솔루션 : 메일, 메신저, 웹 등을 통해 발생할 수 있는 중요정보 유출을 탐지, 차단",
+        "문서중앙화 시스템 : 문서 작업의 결과가 원천적으로 PC에 남지 않으므로 파일 유출을 차단",
+        "네트워크 방화벽 : PC 메신저나 웹 메일 등 내부정보유출 수단으로 쓰이는 프로그램을 네트워크 방화벽에서 도메인 기준으로 차단",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q9",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "리눅스 환경에서 로그에 대한 설명으로 틀린 것은?",
+      "options": [
+        "secure 로그 : 사용자의 원격 로그인 정보를 저장",
+        "dmesg 로그 : 시스템 부팅 관련 시스템 메시지 저장",
+        "lastlog 로그 : 사용자가 로그인한 마지막 로그를 저장",
+        "wtmp 로그 : 사용자의 루트 접속 기록 저장",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q10",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "윈도우 시스템 암호화에 대한 설명으로 틀린 것은?",
+      "options": [
+        "BitLocker는 윈도우 운영체제에서 제공하는 볼륨 단위와 암호화 기능이다.",
+        "BitLocker는 컴퓨터를 시작하는데 필요한 시스템 파티션 부분도 암호화한다.",
+        "EFS(Encrypted File Service)는 사용자 단위 데이터 암호화 기능을 제공한다.",
+        "EFS(Encrypted File Service)는 컴퓨터 단일 또는 복수 사용자에게 대한 파일 및 폴더 단위 암호화를 지원한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q11",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "AI나 머신러닝의 이미지 인식에 있어서 이미지 속에 인간이 감지할 수 없는 노이즈나 작은 변화를 주어 AI 알고리즘의 특성을 악용하여 잘못된 판단을 유도하는 공격은?",
+      "options": [
+        "Membership inversion 공격",
+        "Adversarial 공격",
+        "Poisoning 공격",
+        "Model inversion 공격",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q12",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음은 포맷스트링의 종류를 설명하고 있다. 형식에 대한 매개변수는?",
+      "options": [
+        "㉠ : %s, ㉡ : %o, ㉢ : %lf",
+        "㉠ : %s, ㉡ : %x, ㉢ : %hn",
+        "㉠ : %c, ㉡ : %o, ㉢ : %lf",
+        "㉠ : %c, ㉡ : %x, ㉢ : %hn",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m12.gif"
+    },
+    {
+      "id": "infosec_engineer_q13",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "netstat 명령어를 통해 확인할 수 없는 정보는?",
+      "options": [
+        "소켓을 열고 있는 프로세스 ID, 프로세스 이름",
+        "라우팅 테이블 정보",
+        "열린 포트 정보",
+        "데이터 패킷",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q14",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "리눅스에서 제공하는 Cron 기능에 대한 설명으로 틀린 것은?",
+      "options": [
+        "crontab –r 명령어로 등록된 데이터를 삭제할 수 있다.",
+        "루트 권한으로 실행은 불가능하다.",
+        "특정 시간에 작업해야 하는 명령어 실행이 가능하다.",
+        "파이썬, 펄 등의 스크립트 언어도 실행이 가능하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q15",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "Visual Basic 스크립트를 이용한 악성코드에 대한 설명으로 옳은 것은?",
+      "options": [
+        "웹브라우저에서 실행될 경우 스크립트가 브라우저에 내장되므로 파일의 내용을 확인하기 어렵다.",
+        "독립형으로 개발할 경우 파일 생성에 제한을 받아 웜형 악성코드를 만들지 못한다.",
+        "확장자는 VBA 이다.",
+        "러브버그라고 불리는 이메일에 첨부되어 전파된 바이러스가 Visual Basic 스크립트로 개발되었다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q16",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음은 sudo 설정파일(/etc/sudoers)의 내용이다. sudo를 통한 명령 사용이 불가능한 사용자는?",
+      "options": [
+        "uid=(10)guest1, gid(10)guest1, groups=(10)guest1,3(admin)",
+        "uid=(11)guest2, gid(11)guest2, groups=(11)guest2,4(sudo)",
+        "uid=(12)guest3, gid(12)guest3, groups=(12)guest3,5(adm)",
+        "uid=(13)guest4, gid(13)guest4, groups=(13)guest4,5(adm)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m16.gif"
+    },
+    {
+      "id": "infosec_engineer_q17",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "랜섬웨어에 대한 설명으로 틀린 것은?",
+      "options": [
+        "단방향 암호화 방식을 주로 사용한다.",
+        "파일 확장자를 임의 변경한다.",
+        "안티바이러스 프로그램을 강제 종료한다.",
+        "윈도우 복원 시점을 제거한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q18",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "리버스엔지니어링 분석 방법 중 소스코드를 이해하고 분석하는 방법으로 소프트웨어의 프로그래밍 오류와 구현 오류를 찾을 때 유용한 분석 방법은?",
+      "options": [
+        "블랙박스 분석",
+        "화이트박스 분석",
+        "그레이박스 분석",
+        "그린박스 분석",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q19",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "침해 당한 리눅스 서버의 하드 디스크를 umount 명령을 통해 분리하는 과정에서 “Device is busy”라는 문구 때문에 분리하지 못하고 있는 상황이다. 디바이스를 사용 중인 프로세스를 찾기 위해 사용할 수 있는 명령어로 옳은 것은?",
+      "options": [
+        "mount",
+        "lsof",
+        "ps",
+        "netstat",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q20",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 파일 시스템의 무결성 보장을 위해 점검해야 할 사항으로 옳지 않은 것은?",
+      "options": [
+        "파일의 소유자, 소유그룹 등의 변경 여부 점검",
+        "파일의 크기 변경 점검",
+        "최근에 파일에 접근한 시간 점검",
+        "파일의 symbolic link의 수 점검",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q21",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장에서 설명하는 보안시스템은?",
+      "options": [
+        "NAC",
+        "DRM",
+        "SSO",
+        "IDS",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m21.gif"
+    },
+    {
+      "id": "infosec_engineer_q22",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "봇넷(Botnet) 또는 C&C(Command & Control)에 많이 사용되는 프로토콜로 IRC(Internet Relay Chat) 프로토콜이 있다. 다음 중 IRC의 기능이 아닌 것은?",
+      "options": [
+        "다수의 사용자들과 텍스트 메시지를 공유",
+        "사용자들 간의 파일 전송",
+        "한 클라이언트의 사용자가 다른 클라이언트 상에서 실행 가능한 메시지 전송",
+        "바이러스 프로그램의 제작",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q23",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "어느 회사의 메일 서버가 스팸 메일 발송 경유지로 악용하는 사례가 발생하였다. 이 때 보안관리자는 pcap 파일을 통해 패킷 분석을 진행하고자 보기와 같은 필터링을 실행하였다. 다음 필터링 결과에 대한 설명으로 옳은 것은?",
+      "options": [
+        "이메일 서비스 확장 지원 세션을 시작한 것을 필터링",
+        "SMTP 세션을 시작한 것을 필터링",
+        "서버에 인증을 시작한 것을 필터링",
+        "메일 데이터 전송을 한 것을 필터링",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m23.gif"
+    },
+    {
+      "id": "infosec_engineer_q24",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "리버싱을 하기 위해서는 여러 가지 도구가 필요하다. 제시된 도구들과 그 역할이 올바르게 짝지어진 것은?",
+      "options": [
+        "㉠-ⓐ, ㉡-ⓑ, ㉢-ⓒ",
+        "㉠-ⓐ, ㉡-ⓒ, ㉢-ⓑ",
+        "㉠-ⓒ, ㉡-ⓑ, ㉢-ⓐ",
+        "㉠-ⓒ, ㉡-ⓐ, ㉢-ⓑ",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m24.gif"
+    },
+    {
+      "id": "infosec_engineer_q25",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "스니핑(sniffing) 기법으로 틀린 것은?",
+      "options": [
+        "Switch Jamming",
+        "SYN Flooding",
+        "ARP Redirect",
+        "ICMP Redirect",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q26",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "2016년에 처음 발견되었으며, IP 카메라나 가정용 라우터와 같은 IoT 장치를 주요 공격 대상으로 삼는 DDoS 공격용 붓넷은?",
+      "options": [
+        "님다(Nimda)",
+        "미라이(Mirai)",
+        "스턱스넷(Stuxnet)",
+        "SQL슬래머(Slammer)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q27",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "ARP 스푸핑(Spoofing)은 LAN(Local Area Network) 상에서 MAC 주소를 조작하는 공격기법이다. 이에 대한 설명으로 옳은 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "시스템의 ARP 테이블을 동적(Dynamic)으로 관리한다.",
+        "ping [ip주소] 명령을 사용하여 시스템을 모니터링한다.",
+        "arp –s [ip주소] [mac 주소] 명령을 통해 ARP 테이블을 관리한다.",
+        "nslookup [mac 주소] 명령을 사용해 통신경로를 절대경로로 설정한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q28",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "Tcpdump 를 사용한 패킷 스니핑에 관한 설명이다. 괄호 안에 들어갈 적당한 말은?",
+      "options": [
+        "㉠ : 포트 스캐닝, ㉡ : 단일 모드",
+        "㉠ : 포트 미러링, ㉡ : 무차별 모드",
+        "㉠ : 포트 미러링, ㉡ : 단일 모드",
+        "㉠ : 포트 스캐닝, ㉡ : 무차별 모드",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m28.gif"
+    },
+    {
+      "id": "infosec_engineer_q29",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "네트워크 침입탐지와 방지를 위해 ModSecurity를 설치 운용하고자 한다. ModSecurity 정책 설정을 위해 SecAuditEngine에서 설정할 수 없는 것은?",
+      "options": [
+        "DetectionOnly",
+        "On",
+        "Off",
+        "RelevantOnly",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q30",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "정찰공격(reconnaissance attack)을 위해 사용되는 도구가 아닌 것은?",
+      "options": [
+        "핑 스윕(Ping sweep)",
+        "포트 스캔(Port scan)",
+        "패킷 스니퍼(Packet sniffer)",
+        "포트 리다이렉션(Port redirection)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q31",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 IPv4(IP version 4) 데이터그램에 대한 설명으로 옳은 것은?",
+      "options": [
+        "IPsec(IP Security) 터널모드(Tunnel)의 데이터그램이다.",
+        "IPsec(IP Security)의 AH(Authentication Header)가 적용되어 TCP헤더와 TCP데이터는 암호화되어 있다.",
+        "IPsec(IP Security)의 AH(Authentication Header)가 적용되어 SA(Security association)를 식별할 수 있다.",
+        "IPsec(IP Security)의 AH(Authentication Header)가 적용되어 IPv4 헤더에 무결성, 인증을 위한 데이터가 추가된 데이터그램이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m31.gif"
+    },
+    {
+      "id": "infosec_engineer_q32",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "네트워크 처리 능력을 개선하고자 VLAN을 구성할 때 VLAN 오/남용을 경감시키기 위한 방법으로 옳지 않은 것은? (단, 스위치에 연결된 호스트들을 그룹으로 나누어서 VLAN-1(native)과 VLAN-2로 그룹을 설정하였다고 가정한다.)",
+      "options": [
+        "관리상 VLAN 관리 정책 서버(VMPS)를 사용한다.",
+        "native VLAN 포트 (VLAN ID 1)에 대한 접근을 제한한다.",
+        "트렁크 포트들의 native VLAN에 신뢰할 수 없는 네트워크를 붙이지 않는다.",
+        "모든 포트에 동적 트렁킹 프로토콜(DTP)을 꺼 놓는다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q33",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장은 어떤 스푸핑(spoofing) 공격인가?",
+      "options": [
+        "e-mail 스푸핑",
+        "IP 스푸핑",
+        "DNS 스푸핑",
+        "ARP 스푸핑",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m33.gif"
+    },
+    {
+      "id": "infosec_engineer_q34",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "네트워크 공격 유형이 아닌 것은?",
+      "options": [
+        "패킷 스니핑 공격",
+        "포맷스트링 공격",
+        "서비스거부 공격",
+        "스푸핑 공격",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q35",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "IDS(Intrusion Detection System)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "감사와 로깅할 때 네트워크 자원이 손실되거나 데이터가 변조되지 않는다.",
+        "네트워크에서 백신과 유사한 역할을 하는 것으로 네트워크를 통한 공격을 탐지하기 위한 장비이다.",
+        "네트워크를 통한 공격을 탐지할뿐 아니라 차단을 수행한다.",
+        "설치 위치와 목적에 따라 HIDS와 NIDS로 나뉠 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q36",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "윈도우즈 시스템에서 포트번호와 서비스명 및 전송 프로토콜이 올바르게 연결된 것은?",
+      "options": [
+        "138-NetBIOS 데이터그램 서비스-UDP",
+        "139-NetBIOS 세션 서비스-UDP",
+        "110-POP3-UDP",
+        "143-IMAP-UDP",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q37",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장의 (가), (나)에 들어갈 말로 올바르게 연결된 것은?",
+      "options": [
+        "가 : Exploit, 나 : Trojan",
+        "가 : Imapd, 나 : Trojan",
+        "가 : Trojan, 나 : Exploit",
+        "가 : Exploit, 나 : Imapd",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m37.gif"
+    },
+    {
+      "id": "infosec_engineer_q38",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장에서 설명하는 VPN(Virtual Private Network)으로 옳은 것은?",
+      "options": [
+        "PPTP",
+        "L2TP",
+        "SSTP",
+        "SSH",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m38.gif"
+    },
+    {
+      "id": "infosec_engineer_q39",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음은 스노트(snort)룰 예시이다. 룰의 구성에 대한 설명으로 틀린 것은?",
+      "options": [
+        "alert를 발생하고 로그를 남긴다.",
+        "패턴 매칭시 대소문자를 구분한다.",
+        "content를 첫 번째 바이트로부터 13번째 바이트 범위안에서 검사한다.",
+        "출발지를 기준으로 매 1초동안 10번째 이벤트마다 action을 수행한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m39.gif"
+    },
+    {
+      "id": "infosec_engineer_q40",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "무선LAN 통신에서 패스프레이즈와 같은 인증없이 단말과 액세스 포인트간의 무선 통신을 암호화하는 것은?",
+      "options": [
+        "Enhanced Open",
+        "FIDO2",
+        "WebAuthn",
+        "WPA3",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q41",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장에서 설명하는 공격 위협은?",
+      "options": [
+        "정보 누출",
+        "악성 콘텐츠",
+        "크로스사이트 스크립팅",
+        "디렉터리 인덱싱",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m41.gif"
+    },
+    {
+      "id": "infosec_engineer_q42",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 무선 인터넷 보안 기술에 대한 설명이 맞게 짝지어진 것은?",
+      "options": [
+        "WAP(Wireless Application Protocol) - 무선 전송계층 보안을 위해 적용한다.",
+        "WTLS(Wireless Transport Layer Security) - 이동형 단말기에서 인터넷에 접속하기 위해 고안된 통신 규약이다.",
+        "WSP(Wireless Session Protocol) - 장시간 활용하는 세션을 정의하고 세션 관리를 위해 Suspend/Resume 기능과 프로토콜 기능에 대한 협상이 가능하다.",
+        "WTP(Wireless Transaction Protocol) - IEEE 802.11i 표준에 정의된 보안규격으로 RC4 알고리즘을 기반으로 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q43",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "PGP(Pretty Good Privacy)에서 사용하는 암호 알고리즘이 아닌 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "RSA",
+        "SHA",
+        "Diffie-Hellman",
+        "AES",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q44",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "익명 FTP 보안 대책 수립에서 익명 FTP에 불필요한 항목(계정 등)을 제거하기 위한 파일의 경로로 옳은 것은?",
+      "options": [
+        "/etc/pam.d/ftp",
+        "/etc/ftpusers",
+        "$root/etc/passwd",
+        "/bin/etc/pub",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q45",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "홀·가전 IOT 제품들의 주요 보안위협 원인으로 틀린 것은?",
+      "options": [
+        "인증메커니즘 부재",
+        "물리적 보안 취약점",
+        "강도가 약한 비밀번호",
+        "취약한 DBMS 버전",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q46",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 SQL Injection의 공격 유형이 아닌 것은?",
+      "options": [
+        "인증 우회",
+        "데이터 노출",
+        "원격 명령 실행",
+        "서비스 거부",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q47",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "버퍼오버플로우 공격을 막기 위해 사용을 권장하는 프로그램 함수는?",
+      "options": [
+        "strcat( )",
+        "strncat( )",
+        "gets( )",
+        "sscanf( )",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q48",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장에서 설명하는 것은?",
+      "options": [
+        "복합서명",
+        "복합암호화",
+        "이중서명",
+        "이중암호화",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m48.gif"
+    },
+    {
+      "id": "infosec_engineer_q49",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장에서 설명하는 공격 대응 방법은?",
+      "options": [
+        "DNS 라우팅",
+        "DNS 스푸핑",
+        "DNS 웜홀",
+        "DNS 싱크홀",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m49.gif"
+    },
+    {
+      "id": "infosec_engineer_q50",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "안드로이드 앱 구조 요소 중 앱 실행시 반드시 필요한 권한을 선언하며, 안드로이드 빌드 도구 및 안드로이드 운영체제에 관한 필수 정보를 설명하는 파일은?",
+      "options": [
+        "AndroidManifest.xml",
+        "MainActivity",
+        "activity_main.xml",
+        "build.gradle",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q51",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "이메일 클라이언트를 이용해 이메일을 발송하는 경우 SMTP가 사용된다. 인증절차 후 이메일을 발송하는 절차로 옳은 것은?(문제 오류로 가답안 발표시 2번으로 발표되었지만 확정답안 발표시 모두 정답처리 되었습니다. 여기서는 가답안인 2번을 누르면 정답 처리 됩니다.)",
+      "options": [
+        "EHLO＞MAIL＞RCPT＞DATA＞QUIT",
+        "EHLO＞AUTH＞RCPT＞MAIL＞DATA＞QUIT",
+        "AUTH＞EHLO＞RCTP＞DATA＞QUIT",
+        "AUTH＞EHLO＞RCTP＞MAIL＞DATA＞QUIT",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q52",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 안드로이드 시스템 권한에 대한 설명으로 틀린 것은?",
+      "options": [
+        "ACCESS_CHECKIN_PROPERTIES : 체크인 데이터베이스의 속성테이블 액세스 권한",
+        "LOADER_USAGE_STATS : 액세스 로그 읽기 권한",
+        "SET_PROCESS_LIMIT : 제한처리 지정 권한",
+        "CHANGE_COMPONENT_ENABLED_STATE : 환경 설정 변경 권한",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q53",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "XSS(Cross-Site Scripting)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "XSS 공격은 다른 사용자의 정보를 추출하기 위해 사용되는 공격 기법을 말한다.",
+        "사용자가 전달하는 입력값 부분에 스크립트 태그를 필터링 하지 못하였을 때 XSS 취약점이 발생한다.",
+        "Stored XSS는 게시판 또는 자료실과 같이 사용자가 글을 저장할 수 있는 부분에 정상적인 평문이 아닌 스크립트 코드를 입력하는 기법을 말한다.",
+        "Reflected XSS는 웹 애플리케이션상에 스크립트를 저장해 놓은 것이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q54",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "검색엔진에서 자동으로 사이트를 수집 및 등록하기 위해서는 사용하는 크롤러(Crawler)로부터 사이트를 제어하기 위해서 사용하는 파일은?",
+      "options": [
+        "crawler.txt",
+        "access.conf",
+        "httpd.conf",
+        "robots.txt",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q55",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "안드로이드(Android) 플랫폼을 기반으로 개발된 모바일 앱의 경우, 디컴파일 도구 이용시 실행파일(.apk)을 소스코드로 쉽게 변환시킬 수 있어 앱 구조 및 소스코드를 쉽게 분석할 수 있다. 이를 방지하기 위한 기술은?",
+      "options": [
+        "난독화",
+        "무결성 점검",
+        "안티 디버깅",
+        "루팅",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q56",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 DNS 증폭 공격(DNS Amplification DDoS Attack)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "DNS 질의는 DNS 질의량에 비하여 DNS 서버의 응답량이 훨씬 크다는 점을 이용한다.",
+        "DNS 프로토콜에는 인증 절차가 없다는 점을 이용한다.",
+        "Open DNS Resolver 서버에 DNS Query의 Type을 “Any”로 요청한다.",
+        "대응 방안으로 DNS 서버 설정을 통해 내부 사용자의 주소만 반복쿼리(Interactive Query)를 허용한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q57",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장에서 설명하는 데이터베이스의 보안 사항은?",
+      "options": [
+        "DDL(Data Definition Language)",
+        "뷰(View)",
+        "SQL(Structed Query Language)",
+        "DCL(Data Control Language)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m57.gif"
+    },
+    {
+      "id": "infosec_engineer_q58",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "어플리케이션의 공유 라이브러리에 대한 호출을 확인하기 위해 사용되는 리눅스의 디버깅 유틸리티는?",
+      "options": [
+        "windbg",
+        "jdbc",
+        "Itrace",
+        "tcpdump",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q59",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장에서 설명하는 것은?",
+      "options": [
+        "EDI(Electronic Data Interchange)",
+        "XML/EDI",
+        "XML(Extensible Markup Language)",
+        "ebXML(Electronic Business Extensible Markup Language)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m59.gif"
+    },
+    {
+      "id": "infosec_engineer_q60",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 설명과 같이 서버에서 활성화 여부를 점검해야하는 프로토콜은?",
+      "options": [
+        "tftp",
+        "vsftp",
+        "ftp",
+        "proftp",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m60.gif"
+    },
+    {
+      "id": "infosec_engineer_q61",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "CRL(Cetificate Revocation List)에 포함되는 정보는?",
+      "options": [
+        "만료된 디지털 인증서의 공개키",
+        "만료된 디지털 인증서 일련번호",
+        "만료일 내에 만료된 디지털 인증서의 공개키",
+        "만료일 내에 만료된 디지털 인증서 일련 번호",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q62",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장은 어떤 인증방식을 설명한 것인가?",
+      "options": [
+        "OTP",
+        "UTP",
+        "SEP",
+        "전자화폐",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m62.gif"
+    },
+    {
+      "id": "infosec_engineer_q63",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "SSL/TLS에 대한 설명으로 옳은 것은?",
+      "options": [
+        "SSL/TLS을 사용하고 있는 기업은 신뢰할 수 있기 때문에 신용카드 번호를 보내도 된다.",
+        "SSL/TLS에서는 공개키가 서버로부터 오기 때문에 클라이언트는 공개키를 가지고 있지 않아도 서버를 인증할 수 있다.",
+        "SSL/TLS 1.3을 사용하면 통신의 기밀성을 확보할 수 있다.",
+        "SSL/TLS에서는 통신 전의 데이터, 통신 중의 데이터, 통신 후의 데이터를 보호해준다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q64",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "해시값과 메시지 인증 코드(Message Authentication Code, MAC)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "해시값만을 통해 두사람이 문서를 주고 받았을 때 MITM(Man-In-The-Middle, 중간자 공격)공격을 받을 수 있다. 즉, 해시값을 보고 수신된 문서 위변조에 대한 상호신뢰를 확신할 수 없다.",
+        "해시값에 암호개념을 도입한 것이 HMAC(Hash Message Authentication Code)이며, 이때 메시지 송수신자는 비밀키(Encryption Key) 또는 세션키(session Code)를 사전에 안전한 채널을 통해 공유해야 한다.",
+        "메시지 인증을 위해서는 사용되는 Message Digest(해시값)는 메시지 저장소에 파일이 위변조되지 않았다는 것을 보장하기 위해서 사용하기도 한다.",
+        "메시지 크기와 상관없이 MAC 생성과정, 즉 해시값 생성, 암호화 등이 속도는 균일하여 다른 암호화 알고리즘에 비해 속도가 빠르다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q65",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "OTP(One Time Password)와 HSM(Hardware Security Module)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "OTP는 공개키를 사용한다.",
+        "OTP는 PKI를 개변 연동한다.",
+        "HSM의 안정성 인증 적용 표준은 FIPS 140-2 이다.",
+        "HSM은 공개키를 사용한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q66",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장에서 설명하는 원칙은?",
+      "options": [
+        "최소 권한",
+        "필요 권한",
+        "불필요 권한",
+        "등급 권한",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m66.gif"
+    },
+    {
+      "id": "infosec_engineer_q67",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 빅데이터 비식별화 처리기법 중 가명처리 방법에 해당하는 것은?(문제 오류로 가답안 발표시 3번으로 발표되었지만 확정답안 발표시 모두 정답처리 되었습니다. 여기서는 가답안인 3번을 누르면 정답 처리 됩니다.)",
+      "options": [
+        "총계처리",
+        "랜덤 라운딩",
+        "암호화",
+        "재배열",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q68",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 그림의 Needham-Schroeder 프로토콜에 대한 설명으로 틀린 것은?",
+      "options": [
+        "사용자 Alice는 사용자 Bob과 공유할 대칭키를 KDC에게 생성해주도록 요청한 후 사용자 Bob과 안전하게 공유하게 된다.",
+        "사용자 Alice와 KDC, 사용자 Bob과 KDC 간에 전달되는 메시지는 사전에 공유된 대칭키인 마스터키를 이용하여 암호화되어 전달되므로 안전하게 보호된다.",
+        "사용자 Alice와 Bob이 난수 N2와 N3를 암호화해서 교환하고 암호화된 N2-1과 N3-1을 받는 이유는 상호인증 기능을 수행하는데 목적이 있다.",
+        "이 방식은 공격자가 Ticketb와 Kab{N2}를 스니핑하여 복제한 후 복제된 메시지와 Alice로 위장한 자신의 신분정보를 보내는 재전송공격에 취약한 단점이 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m68.gif"
+    },
+    {
+      "id": "infosec_engineer_q69",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "보안 인증기법에 대한 설명으로 틀린 것은?",
+      "options": [
+        "OTP 인증기법은 지식기반 인증방식으로 고정된 시간 간격 주기로 난수값을 생성하고, 생성된 난수값과 개인 PIN 번호 입력을 통해 인증시스템의 정보와 비교하여 사용자 인증을 수행한다.",
+        "ID/PW 인증기법은 지식기반 인증방식으로 타 인증방식에 비해 구축비용이 적고 사용하기 편리하다는 장점이 있다.",
+        "공인인증서 인증기법은 소유기반 인증방식으로 별도 매체의 고유정보를 제시하도록 함으로써 사용자 인증을 수행한다.",
+        "I-PIN(Internet Personal Identification Number)는 지식기반 인증방식으로 'ID/PW'와 주민번호를 대체하기 위하여 만들어졌다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q70",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 OCSP(Online Certificate Status Protocol : 온라인 인증서 상태 프로토콜) 서버의 응답값 중 인증서 상태표시 메시지가 아닌 것은?",
+      "options": [
+        "good",
+        "revoked",
+        "unknown",
+        "bad",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q71",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장에서 설명하는 사전 키 분배 방식은?",
+      "options": [
+        "Blom 방식",
+        "커버로스 방식",
+        "공개키분배 방식",
+        "키 로밍 방식",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m71.gif"
+    },
+    {
+      "id": "infosec_engineer_q72",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음은 Diffie-Hellman 알고리즘에 대한 내용을 설명한 것이다. 괄호 안에 들어가야 할 내용은?",
+      "options": [
+        "㉠ : 공개키, ㉡ : 개인키",
+        "㉠ : 마스터키, ㉡ : 공개키",
+        "㉠ : 임시키, ㉡ : 고정키",
+        "㉠ : 개인키, ㉡ : 공개키",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m72.gif"
+    },
+    {
+      "id": "infosec_engineer_q73",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장에서 설명하는 접근통제 구성요소는?",
+      "options": [
+        "정책",
+        "매커니즘",
+        "보안모델",
+        "OSI 보안구조",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m73.gif"
+    },
+    {
+      "id": "infosec_engineer_q74",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "온라인 인증서 상태 프로토콜(OCSP : Online Centificate Status Protocol)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "OCSP는 X.509를 이용한 전자 서명 인증서의 폐지 상태를 파악하는데 사용되는 인터넷 프로토콜이다.",
+        "RFC 6960으로 묘사되며, 인터넷 표준의 경로가 된다.",
+        "온라인 인증서 상태 프로토콜을 통해 전달받는 메시지들을 AES로 암호화되며, 보통 HTTP로 전달받는다.",
+        "이 프로토콜의 도입 이유 중 하나는 고가의 증권 정보나 고액의 현금 거래 등 데이터 트랜잭션의 중요성이 매우 높은 경우 실시간으로 인증서 유효성 검증이 필요하기 때문이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q75",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 신규 OTP 기술에 대한 설명으로 틀린 것은?",
+      "options": [
+        "거래연동 OTP란 수신자계좌번호, 송금액 등의 전자금융거래 정보와 연동되어 OTP를 발생시키는 OTP로 정의된다.",
+        "USIM OTP는 사용자의 휴대폰의 USIM내에 OTP모듈 및 주요정보를 저장하여 OTP를 안전하게 생성하고 인증을 수행하는 OTP이다.",
+        "스마트 OTP란 IC칩 기반의 스마트카드와 NFC 기능을 지원하는 스마트폰에 OTP를 발생시키는 것이다.",
+        "MicroSD OTP란 사용자 휴대폰의 MicroSD내에 OTP모듈 및 주요정보를 저장하여 복제가 되지 않는 안전한 IC칩 기반의 OTP이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q76",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "메시지 인증 코드(MAC)의 재전송 공격을 예방하기 위한 방법으로 옳지 않은 것은?",
+      "options": [
+        "순서 번호",
+        "타임스탬프",
+        "비표",
+        "부인방지",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q77",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "암호화 장치에서 암호화 처리시에 소비 전력을 측정하는 등 해당 장치 내부의 비밀 정보를 추정하는 공격은?",
+      "options": [
+        "키로거",
+        "사이드채널 공격",
+        "스미싱",
+        "중간자 공격",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q78",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "RSA 암호시스템에서 다음의 값을 이용한 암호문 C값은?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m78.gif"
+    },
+    {
+      "id": "infosec_engineer_q79",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 스마트카드에 대한 설명으로 틀린 것은?",
+      "options": [
+        "접촉식 스마트카드는 리더기와 스마트카드의 접촉부(CHIP) 사이의 물리적 접촉에 의해 작동하는 스마트카드이다.",
+        "SIM카드는 가입자 식별 모듈(Subscriber Identification Module)을 구현한 IC 카드이다.",
+        "인증 데이터 저장을 위해 서명된 정적 응용 프로그램 데이터와 인증기관(CA)의 개인키로 발행자의 공개키를 암호화된 데이터를 스마트카드에 저장한다.",
+        "인증기관(CA)의 개인키를 스마트카드 단말에 배포한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q80",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 접근통제 정책이 아닌 것은?",
+      "options": [
+        "MAC",
+        "DAC",
+        "RBAC",
+        "ACL",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q81",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "보통의 일반적인 데이터로부터 비밀정보를 획득할 수 있는 가능성을 의미하며, 사용자가 통계적인 데이터 값으로부터 개별적인 데이터 항목에 대한 정보를 추적하지 못하도록 하는 것은?(문제 오류로 가답안 발표시 2번으로 발표되었지만 확정답안 발표시 2, 4번이 정답처리 되었습니다. 여기서는 가답안인 2번을 누르시면 정답 처리 됩니다.)",
+      "options": [
+        "집합(aggregation)",
+        "추론(inference)",
+        "분할(partition)",
+        "셀 은폐(cell suppression)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q82",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "이 표준은 조직이나 기업이 정보보안 경영시스템을 수립하여 이행하고 감시 및 검토, 유지, 개선하기 위해 필요한 요구사항을 명시하며, 국제표준화기구 및 국제전기기술위원회에서 제정한 정보보호 관리체계에 대한 국제표준이다. Plan-Do-Check-Action(PDCA, 구축-실행-유지-개선) 모델을 채택하여 정보자신의 기밀성, 무결성, 가용성을 실현하기 위하여 관련 프로세스를 체계적으로 수립, 문서화하고 이를 지속적으로 운영, 관리하는 표준은?",
+      "options": [
+        "ISMS-P",
+        "ISO27001",
+        "ISMS",
+        "ISO27701",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q83",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "A 쇼핑몰에서 물품 배송를 위해 B 배송업체와 개인정보처리 업무 위탁 계약을 맺었고 이름, 주소, 핸드폰번호를 전달하였다. A 쇼핑몰이 B 배송업체를 대상으로 관리 감독할 수 없는 것은?",
+      "options": [
+        "B 배송업체의 직원을 대상으로 개인정보보호 교육을 한다.",
+        "B 배송업체에서 개인정보취급자를 채용할 것을 요청해야 한다.",
+        "B 배송업체가 개인정보를 안전하게 처리하고 있는지 점검해야 한다.",
+        "B 배송업체가 재위탁을 하지 못하도록 제재한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q84",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "영상정보처리기기를 설치·운영할 수 있는 경우가 아닌 것은?",
+      "options": [
+        "범죄의 예방 및 수사를 위하여 필요한 경우",
+        "시설안전 및 화재 예방을 위하여 필요한 경우",
+        "쇼핑몰 고객의 이동경로 수집·분석 및 제공을 위하여 필요한 경우",
+        "교통단속을 위하여 필요한 경우",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q85",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장에서 설명하는 위험분석을 방법론은?",
+      "options": [
+        "과거자료 분석법",
+        "확률 분포법",
+        "델파이법",
+        "시나리오법",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m85.gif"
+    },
+    {
+      "id": "infosec_engineer_q86",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장에서 설명하는 포렌식 수행 절차 단계는?",
+      "options": [
+        "수사 준비",
+        "증거물 획득",
+        "분석 및 조사",
+        "보고서 작성",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m86.gif"
+    },
+    {
+      "id": "infosec_engineer_q87",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "재택·원격근무시 지켜야 할 정보보호 실천 수칙 중 보안관리자가 해야할 일이 아닌 것은?",
+      "options": [
+        "원격 접속 모니터링 강화",
+        "일정시간 부재시 네트워크 차단",
+        "재택근무자 대상 보안지침 마련 및 보안인식 제고",
+        "원격에서 사내 시스템 접근시 VPN을 사용하지 않고 VNC 등 원격 연결 프로그램 사용",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q88",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 문장에서 설명하고 있는 포렌식으로 획득한 증거의 법적인 효력 보장을 위한 5대 원칙은?",
+      "options": [
+        "정당성의 원칙",
+        "재현의 원칙",
+        "신속성의 원칙",
+        "연계 보관성의 원칙",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m88.gif"
+    },
+    {
+      "id": "infosec_engineer_q89",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률(클라우드컴퓨팅법)에 따른 클라우드컴퓨팅 기술연구, 도입 및 이용 활성화, 전문인력 양성 등을 전담하는 전담기관에 해당하지 않는 것은?",
+      "options": [
+        "한국지능정보사회진흥원",
+        "한국지역정보개발원",
+        "한국인터넷진흥원",
+        "한국전자통신연구원",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q90",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "과학기술정보통신부장관이 정보통신망의 안정성·신뢰성 확보를 위하여 관리적·기술적·물리적 보호조치를 포함한 종합적 관리체계를 수립·운영하고 있는 자에 대하여 법에 정한 기준에 적합한지에 관하여 인증을 할 수 있도록 하는 정보보호 관리체계 인증(ISMS)을 명시한 법률은?",
+      "options": [
+        "정보통신망 이용촉진 및 정보보호 등에 관한 법률",
+        "전자서명법",
+        "개인정보보호법",
+        "정보통신기반 보호법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q91",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 정보자산 중요도 평가에 관한 설명으로 틀린 것은?",
+      "options": [
+        "기밀성, 무결성, 가용성에 기반하여 자산 중요도를 평가",
+        "인터넷을 통해 서비스를 제공하는 웹서버는 가용성을 가장 높게 평가",
+        "백업데이터는 내화금고에 보관하고 있으므로 무결성을 가장 낮게 평가",
+        "고객 개인정보, 임직원 개인정보를 기밀성을 가장 높게 평가",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q92",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음은 CERT가 정의하는 보안사고를 서술한 것이다. 일반 보안사고가 아닌 중대 보안사고에 해당하는 것을 모두 고른 것은?",
+      "options": [
+        "㉠, ㉢",
+        "㉠, ㉣",
+        "㉡, ㉢",
+        "㉢, ㉣",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20230311/ccw20230311m92.gif"
+    },
+    {
+      "id": "infosec_engineer_q93",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 금융회사 또는 전자금융업자가 설치·운영하는 정보보호위원회의 심의·의결 사항으로 틀린 것은?",
+      "options": [
+        "정보기술부문 계획서에 관한 사항",
+        "취약점 분석·평가 결과 및 보완조치의 이행계획에 관한 사항",
+        "전산보안사고 및 전산보안관련 규정 위반자의 처리에 관한 사항",
+        "기타 정보보호관리자가 정보보안업무 수행에필요하다고 정한 사항",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q94",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 정보보호관리체계 인증 범위 내 필수적으로 포함해야 할 자산이 아닌 것은?",
+      "options": [
+        "DMZ 구간 내 정보시스템",
+        "개발서버, 테스트서버",
+        "ERP, DW, GroupWare",
+        "관리자 PC, 개발자 PC",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q95",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "정보주체의 동의없이 가명정보를 처리할 수 없는 경우는?",
+      "options": [
+        "상업적 1:1 마케팅",
+        "통계작성",
+        "과학적 연구",
+        "공익적 기록보존",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q96",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 사이버 윤리의 개념과 내용으로 옳지 않은 것은?",
+      "options": [
+        "사이버 공간에서 인간의 도덕적 관계에 관심을 갖는다.",
+        "사이버 세계 속에 거주하는 모든 인간의 책임과 의무를 규정해 주는 것을 의미한다.",
+        "사이버윤리는 기존의 컴퓨터 윤리의 개념을 포함하지는 않는다.",
+        "사이버 상의 일탈상황에 따른 구체적인 행동 요령을 알아보는 실증적인 내용으로 연구되고 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q97",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 「클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률」제 25조(침해사고 등의 통지 등)에 따라 지체없이 이용자에게 알려야 할 상황이 아닌 것은?",
+      "options": [
+        "해킹, 컴퓨터바이러스 논리폭탄, 메일폭탄, 서비스 거부 또는 고출력 전자기파 등의 방법으로 정보통신망 또는 이와 관련된 정보시스템을 공격하는 행위를 하며 발생한 사태가 발생한 때",
+        "이용자 정보가 유출된 때",
+        "사전예고 없이 서비스의 중단 기간이 연속해서 10분 이상인 경우이거나 중단 사고가 발생한 때부터 24기간 이내에 서비스가 2회 이상 중단된 경우로서 그 중단된 기간을 합하여 15분 이상 서비스 중단이 발생한 때",
+        "민·관 합동조사단이 발생한 침해사고의 원인 분석이 끝났을 때",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q98",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "로그관리와 관련되는 정보보안 속성은?",
+      "options": [
+        "기밀성",
+        "무결성",
+        "가용성",
+        "책임추적성",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q99",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 정량적 위험분석 방법은?",
+      "options": [
+        "델파이법",
+        "과거 자료 분석법",
+        "순위 결정법",
+        "시나리오법",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q100",
+      "subject": "정보보안기사",
+      "round": "2023-03-11 기출",
+      "question_text": "다음 중 공공기관이 개인정보 파일을 운용하거나 변경하는 경우 개인정보보호위원회에 등록하여 관리가 필요한 사항이 아닌 것은?",
+      "options": [
+        "개인정보파일의 명칭",
+        "개인정보파일의 운영 근거 및 목적",
+        "개인정보파일의 작성 일시",
+        "개인정보파일에 기록되는 개인정보의 항목",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q101",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "서버 시스템의 접근통제 관리에 대한 설명으로 틀린 것은?",
+      "options": [
+        "윈도우 시스템 이벤트에는 시스템, 어플리케이션, 보안 이벤트가 있으며 감사로그는 제어판-관리도구-로컬보안설정-감사정책에서 각각 설정할 수 있다.",
+        "윈도우 시스템은 도메인 환경에서 사용자 인증을 위하여 레지스트리가 익명의 사용자에 의해 접근할 수 있도록 설정하여야 한다.",
+        "iptables, tcp wrapper 도구를 사용하면 서버 시스템의 네트워크 접근통제 기능을 설정할 수 있다.",
+        "Unix 서버 시스템에서 불필요한 파일에 설정된 SUID와 SGID 비트를 제거하여 실행 권한이 없는 프로그램의 비인가된 실행을 차단하여야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q102",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음은 passwd 파일 구조를 나타내는 그림이다. “G”가 의미하는 것은?",
+      "options": [
+        "홈디렉터리 위치",
+        "지정된 셸(Shell)",
+        "패스워드",
+        "설명",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m2.gif"
+    },
+    {
+      "id": "infosec_engineer_q103",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "안드로이드 adb를 통해 접속 후 쓰기 가능한 디렉터리는?",
+      "options": [
+        "/system/",
+        "/data/app",
+        "/data/local/tmp/",
+        "/bin/",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q104",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장에서 설명하는 공격 위협은?",
+      "options": [
+        "XPath 인젝션",
+        "디렉터리 인덱싱",
+        "운영체제 명령 실행",
+        "정보 누출",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m4.gif"
+    },
+    {
+      "id": "infosec_engineer_q105",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "인증 장치에 대한 설명으로 옳은 것은?",
+      "options": [
+        "USB 메모리에 디지털 증명서를 넣어 인증 디바이스로 하는 경우 그 USB 메모리를 접속하는 PC의 MAC 어드레스가 필요하다.",
+        "성인의 홍채는 변화가 없고 홍채 인증에서는 인증 장치에서의 패턴 갱신이 불필요하다.",
+        "정전용량 방식의 지문인증 디바이스 LED 조명을 설치한 실내에서는 정상적으로 인증할 수 없게 될 가능성이 높다.",
+        "인증에 이용되는 접촉형 IC 카드는 카드 내의 코일의 유도 기전력을 이용하고 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q106",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "컴퓨터 시스템에 대한 하드닝(Hardening) 활동으로 틀린 것은?",
+      "options": [
+        "사용하지 않는 PDF 소프트웨어를 제거하였다.",
+        "시스템 침해에 대비하여 전체 시스템에 대한 백업을 받아두었다.",
+        "운영체제의 감사 기능과 로깅 기능을 활성화하였다.",
+        "운영체제 보안 업데이트를 수행하였다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q107",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장에서 설명하는 기억 장치의 메모리 반입 정책은?",
+      "options": [
+        "최초 적합(First fit)",
+        "최상 적합(Best fit)",
+        "최악 적합(Worst fit)",
+        "다음 적합(Next fit)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m7.gif"
+    },
+    {
+      "id": "infosec_engineer_q108",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "악성프로그램에 대한 설명으로 틀린 것은?",
+      "options": [
+        "바이러스 : 한 시스템에서 다른 시스템으로 전파하기 위해서 사람이나 도구의 도움이 필요한 악성프로그램이다.",
+        "웜 : 한 시스템에서 다른 시스템으로 전파하는데 있어서 외부의 도움이 필요하지 않은 악성프로그램이다.",
+        "백도어 : 사용자의 동의없이 설치되어 컴퓨터 정보 및 사용자 개인정보를 수집하고 전송하는 악성프로그램이다.",
+        "논리 폭탄 : 합법적 프로그램 안에 내장된 코드로서 특정한 조건이 만족되었을 때 작동하는 악성 코드이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q109",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음은 SUID 프로그램이 일반 권한에서 관리자 권한으로 상승하여 처리하는 정상적인 과정을 나타내고 있다. 심볼릭 링크를 이용한 레이스 컨디션 공격이 실행되는 단계는?",
+      "options": [
+        "1단계",
+        "2단계",
+        "3단계",
+        "4단계",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m9.gif"
+    },
+    {
+      "id": "infosec_engineer_q110",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음은 IDS Snort Rule이다. Rule이 10~11번째 2바이트의 값이 0xFFFF인지를 검사하는 Rule이라 할 때 ㉠~㉢의 올바른 키워드는 무엇인가?",
+      "options": [
+        "㉠ : value, ㉡ : offset, ㉢ : content",
+        "㉠ : value, ㉡ : content, ㉢ : offset",
+        "㉠ : content, ㉡ : depth, ㉢ : offset",
+        "㉠ : content, ㉡ : offset, ㉢ : depth",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m10.gif"
+    },
+    {
+      "id": "infosec_engineer_q111",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "매크로 바이러스에 대한 설명으로 틀린 것은?",
+      "options": [
+        "플랫폼과 무관하에 실행된다.",
+        "주로 이메일을 통해 감염된다.",
+        "문서 파일의 기능을 악용한다.",
+        "EXE 형태의 자동화된 기능을 포함한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q112",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "Window에서 파일이 삭제된 직후 일정 시간(기본 15초)안에 동일한 이름의 파일이 생성되는 경우 방금 삭제된 파일의 테이블 레코드를 재사용하는 경우가 있다. 이러한 특징을 갖는 기능은?",
+      "options": [
+        "파일시스템 터널링(File system tunneling)",
+        "Shellbags",
+        "윈도우 파일 프로텍션",
+        "타임스톰핑",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q113",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "리눅스 Capabilities에서 실행 바이너리에 커널 모듈을 올리거나 내릴 수 있는 권한을 할당할 수 있는 Capability는 무엇인가?",
+      "options": [
+        "CAP_CHOWN",
+        "CAP_AUDIT_CONTROL",
+        "CAP_SYS_MODULE",
+        "CAP_MAC_ADMIN",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q114",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 중 로그의 성격이 다른 것은?",
+      "options": [
+        "데이터베이스 로그",
+        "웹서버 로그",
+        "메일서버 로그",
+        "유닉스 계열의 syslog",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q115",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "윈도우 운영체제의 레지스트리에 대한 설명으로 틀린 것은?(문제 오류로 확정답안 발표시 3, 4번이 정답처리 되었습니다. 여기서는 3을 누르시면 정답 처리 됩니다.)",
+      "options": [
+        "시스템 구성정보를 저장하는 데이터베이스로 SYSTEM.DAT, USER.DAT 파일을 말한다.",
+        "레지스트리는 regedit.exe 전용 편집기에 의해서만 편집이 가능하다.",
+        "윈도우 레지스트리 키는 HKEY_CLASS_ROOT, HKEY_CURRENT_USER, HKEY_LOCAL_MACHINE, HKEY_USERS, HKEY_CURRENT_CONFIG 등이 있다.",
+        "레지스트리 백업 및 복구는 shell.exe를 구동하여 행한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q116",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "대부분의 응용 프로그램에서 생성된 파일은 그 응용 프로그램이 생성한 파일임을 인식할 수 있도록 항상 동일한 몇 바이트를 파일 내부의 특정 위치에 가지고 있다. 특정위치의 고정값이 의미하는 것은?",
+      "options": [
+        "시그니처(Signature)",
+        "확장자(Extensions)",
+        "메타데이터(Metadata)",
+        "레코드(Record)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q117",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 그림은 a.a.a.a 시스템에서 UDP 패킷을 TTL=1부터 하나씩 늘려가면서 b.b.b.b로 전송하고, TTL=4일 때 b.b.b.b 시스템에 UDP 패킷이 도달하고 ICMP Port Unreachable(Type 3) 패킷이 a.a.a.a 시스템으로 돌아왓다. 무엇을 하기 위한 과정인가?",
+      "options": [
+        "ICMP scan",
+        "traceroute",
+        "ping",
+        "UDP scan",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m17.gif"
+    },
+    {
+      "id": "infosec_engineer_q118",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장에서 설명하는 Window 시스템의 인증 구성 요소는?",
+      "options": [
+        "LSA(Local Security Authority)",
+        "LAM(Local Authentication Manager)",
+        "SAM(Security Account Manager)",
+        "SRM(Security Reference Monitor)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m18.gif"
+    },
+    {
+      "id": "infosec_engineer_q119",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "BIOS에 대한 설명으로 틀린 것은?",
+      "options": [
+        "하드디스키의 구성, 종류, 용량을 확인할 수 있다.",
+        "전원이 공급되지 않으면 정보가 유지되지 않는다.",
+        "운영체제와 하드웨어 사이의 입출력을 담당하는 펌웨어이다.",
+        "BIOS에 저장된 시스템 시간은 포렌식 관점에서 중요하다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q120",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 중 인증의 방법이 아닌 것은?",
+      "options": [
+        "당신이 알고 있는 것(Something You Know)",
+        "당신이 위치를 알고 있는 곳(Somewhere You Know)",
+        "당신이 가지고 있는 것(Something You Have)",
+        "당신 모습 자체(Something You Are)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q121",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "패킷 필터링을 위한 규칙에 대한 설명으로 틀린 것은? (단, 서비스에 사용되는 포트는 기본값이며, Internal은 내부, External은 외부 네트워크를 의미한다.)",
+      "options": [
+        "내부에서 외부로 나가는 웹 서비스에 대해서 허용한다.",
+        "서버(169.168.2.25)로 FTP 서비스 연결은 어디에서나 가능하나 데이터 전송은 원활하게 이루어지지 않을 수 있다.",
+        "필터링 규칙에 명시하지 않은 모든 프로토콜에 대해서는 거부한다.",
+        "서버(169.168.10.10)로 DNS 서비스는 내부에서 이용이 가능하나 Message 정보가 512 바이트보다 클 경우에는 허용하지 않는다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m21.gif"
+    },
+    {
+      "id": "infosec_engineer_q122",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "UDP Flooding의 대응 방안으로 틀린 것은?",
+      "options": [
+        "미사용 프로토콜 필터링",
+        "도착지 IP별 임계치 기반 차단",
+        "패킷 크기 기반 차단",
+        "Anycast를 이용한 대응",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q123",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "클라우드 시스템 및 서비스와 관련한 보안 측면의 설명으로 틀린 것은?",
+      "options": [
+        "클라우드 서비스를 구동하기 위해 필수적인 가상화 시스템 내 하이퍼바이저가 취약할 경우 이를 활용하는 여러개의 가상머신(VM)이 동시에 피해를 입을 가능성을 고려해야 한다.",
+        "기존 네트워크 보안기술(방화벽, IPS/IDS)로는 가상화 내부 영역에 대한 침입탐지가 어렵다.",
+        "사용자의 가상머신들의 상호 연결되어 내부의 가상머신에서 다른 가상 머신으로서 패킷스니핑, 해킹, DDoS 공격, 악성코드전파 등의 공격 경로가 존재한다.",
+        "가상화 기술 중 스토리지 가상화와 네트워크 가상화에 보안 위협이 존재하나 메모리 가상화에는 보안 위협이 존재하지 않는다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q124",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 중 원격지 서버의 스니핑 모니터링 프로그램인 sentinal을 이용하여 스니퍼를 탐지하는 예시와 그에 대한 의미로 틀린 것은?",
+      "options": [
+        "./sentinel –a –t 211.47.65.4 : ARP 테스트",
+        "./sentinel –d –f 1.1.1.1 –t 211.47.65.4 : DNS 테스트",
+        "./sentinel–e –t 211.47.65.4 : Etherping 테스트",
+        "./sentinel–t 211.47.65.4 –f 1.1.1.1 –d –a - : 3개의 테스트 중 하나만 테스트",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q125",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장의 괄호 안에 들어갈 명령어를 순서대로 나열한 것은?",
+      "options": [
+        "㉠ : show process, ㉡ : show controllers, ㉢ : show flash",
+        "㉠ : show process, ㉡ : show controllers, ㉢ : show memory",
+        "㉠ : show process, ㉡ : show interface, ㉢ : show flash",
+        "㉠ : show process, ㉡ : show interface, ㉢ : show memory",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m25.gif"
+    },
+    {
+      "id": "infosec_engineer_q126",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장에서 설명하는 해커의 분류는?",
+      "options": [
+        "Elite",
+        "Script Kiddie",
+        "Developed Kiddie",
+        "Lamer",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m26.gif"
+    },
+    {
+      "id": "infosec_engineer_q127",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "SNMP 커뮤니티 스트링에 대한 설명으로 틀린 것은?",
+      "options": [
+        "기본적으로 Public, Private으로 설정된 경우가 많다.",
+        "모든 서버 및 클라이언트에서 동일한 커뮤니티 스트링을 사용해야만 한다.",
+        "MIB 정보를 주고 받기 위하여 커뮤니티 스트링을 사용한다.",
+        "유닉스 환경에서 커뮤니티 스트링 변경은 일반 권한으로 설정한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q128",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "TCP 세션 하이재킹의 공격 순서로 옳은 것은?",
+      "options": [
+        "㉠→㉡→㉢→㉣→㉤",
+        "㉠→㉣→㉢→㉡→㉤",
+        "㉠→㉡→㉣→㉢→㉤",
+        "㉠→㉢→㉣→㉡→㉤",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m28.gif"
+    },
+    {
+      "id": "infosec_engineer_q129",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "침입탐지 시스템(Intrusion Detection System)의 이상 탐지(anomaly detection) 방법 중 다음 문장에서 설명하는 방법은 무엇인가?",
+      "options": [
+        "예측 가능한 패턴 생성(Predictive Pattern Generation)",
+        "통계적 접근법(Statictical Approaches)",
+        "비정상적인 행위 측정 방법들의 결합(anomaly measures)의 결합",
+        "특징 추출(Feature Selection)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m29.gif"
+    },
+    {
+      "id": "infosec_engineer_q130",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 중 일반적으로 사용되는 서비스와 해당 서비스의 기본 설정 포트연결이 틀린 것은?",
+      "options": [
+        "SSH(Secure Shell) - 22",
+        "SMTP(Simple Mail Transfer Protocol) - 25",
+        "FTP(File Transfer Protocol) - 28",
+        "HTTPS(Hyper-Text Transfer Protocol over Secure layer) - 443",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q131",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "네트워크 도청을 예방하기 위한 대책으로 틀린 것은?",
+      "options": [
+        "업무용 무선 AP와 방문자용 AP를 같이 사용한다.",
+        "무선 AP의 비밀번호는 쉽게 예측하지 못하는 안전한 비밀번호로 설정한다.",
+        "업무용 단말기는 방문자용 AP에 접속하지 않도록 조치한다.",
+        "중요 정보는 암호화 통신을 이용하여 전송한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q132",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다익스트라(Dijkstra) 알고리즘을 사용하는 라우팅 프로토콜에 대한 설명으로 틀린 것은?",
+      "options": [
+        "대규모 망에 적합한 알고리즘이다.",
+        "거리벡터 알고리즘이다.",
+        "OSPF에서 사용된다.",
+        "링크상태 알고리즘이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q133",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "IPSec을 구축하기 위해 SA를 사용한다. SA 매개변수에 포함되는 내용으로 틀린 것은?",
+      "options": [
+        "AH Information",
+        "Routing Protocol",
+        "IPSec Protocol Mode",
+        "Sequence Number Counter",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q134",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "최근 장시간 악성코드를 잠복시킨 후 일정 시간이 되면 공격을 시도하여 정보 유출 및 내부망 마비 등 피해를 유발시키는 APT 공격이 잦아지고 있다. APT는 무엇의 약자인가?",
+      "options": [
+        "Advanced Pain Threat",
+        "Advanced Post Threat",
+        "Advanced Persistent Target",
+        "Advanced Persistent Threat",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q135",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "BYOD(Bring Your Own Device)의 보안 기술 중 다음 문장에서 설명하는 모바일 기기 보안 기술은?",
+      "options": [
+        "클라우드 DaaS(Desktop As A Service)",
+        "모바일 가상화(Hypervisors)",
+        "컨테이너화(Containerization)",
+        "가상데스크톱 인프라(Virtual Desktop Infrastructure)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m35.gif"
+    },
+    {
+      "id": "infosec_engineer_q136",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장의 괄호 안에 들어갈 말은?",
+      "options": [
+        "Duplex Mode",
+        "MAC",
+        "Promiscuouse Mode",
+        "ARP",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m36.gif"
+    },
+    {
+      "id": "infosec_engineer_q137",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 공개 해킹도구 중 사용용도가 다른 도구(소프트웨어)는?",
+      "options": [
+        "넷버스(Netbus)",
+        "스쿨버스(Schoolbus)",
+        "백오리피스(Back Orifice)",
+        "키로그23(Keylog23)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q138",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "RFID 보안 기술에서 암호 기술을 사용하는 보호대책은?",
+      "options": [
+        "Kill 명령어 기법",
+        "블로커 태그 기법",
+        "XOR(Exclusive OR) 기반 원타임 패드 기법",
+        "Sleep 명령과 Wake 명령어 기법",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q139",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "포트 스캐너로 유명한 Nmap에서 대상 시스템의 운영체제를 판단할 때 이용하는 기법을 가장 잘 표현하고 있는 것은?",
+      "options": [
+        "Telnet 접속시 운영체제가 표시하는 고유한 문자열을 분석하는 배너 그래빙(banner grabbing)",
+        "운영체제별로 지원하는 서비스 및 열려 있는 포트의 차이",
+        "운영체제별로 고유한 식별자 탐지",
+        "TCP/IP 프로토콜 표준이 명시하지 않은 패킷 처리 기능의 운영체제별 구현",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q140",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "리눅스 환경에서 트래픽을 분석하기 위해 MRTG(Multi Router Traffic Grapher)를 사용한다. 다음 중 MRTG를 설치 및 수행하는데 필요없는 프로그램은?",
+      "options": [
+        "C Compiler",
+        "Perl",
+        "Gd Library",
+        "Libpcap",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q141",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "PGP 서비스와 관련하여 디지털 서명 기능을 위해 사용되는 알고리즘은?(문제 오류로 확정답안 발표시 2, 3번이 정답처리 되었습니다. 여기서는 2번을 누르시면 정답 처리 됩니다.)",
+      "options": [
+        "3DES",
+        "DSS/SHA",
+        "RSA",
+        "Radix-64",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q142",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "OTP에 대한 설명으로 틀린 것은?",
+      "options": [
+        "의미있는 숫자로 구성된다.",
+        "비밀번호 재사용이 불가능하다.",
+        "비밀번호 유추가 불가능하다.",
+        "사전 공격(Dictionary Attack)에 안전하다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q143",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "웹 어플리케이션 취약성 조치방안에 대한 설명으로 틀린 것은?",
+      "options": [
+        "server side session 방식은 침해 가능성도 있고, 구조상 다양한 취약점에 노출될 수 있으므로 가볍고 안전한 client side의 cookie를 사용한다.",
+        "모든 인자에 대해 사용 전에 입력값 검증을 수행하도록 구성한다.",
+        "파일 다운로드시 위치는 지정된 데이터 저장소를 지정하여 사용하고 데이터 저장소 상위로 이동되지 않도록 구성한다.",
+        "SSL/TLS와 같은 기술을 이용하여 로그인 트랙잭션 전체를 암호화한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q144",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장에서 설명하는 FTP 공격은?",
+      "options": [
+        "FTP Bounce Attack",
+        "Anonymous FTP Attack",
+        "TFTP Attack",
+        "FTP Anyconnect Attack",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m44.gif"
+    },
+    {
+      "id": "infosec_engineer_q145",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "웹 어플리케이션의 취약성을 악용하는 공격 방법 중 웹 페이지에 입력한 문자열이 perl의 system 함수나 PHP의 exec 함수 등에 건네지는 것을 이용해 부정하게 쉘 스크립트를 실행시키는 것은?",
+      "options": [
+        "HTTP header injection",
+        "OS command injection",
+        "CSRF(cross-site request forgery)",
+        "Session hijacking",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q146",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다크웹(Dark Web)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "공공인터넷을 사용하는 오버레이 네트워크(Overlay Network)이다.",
+        "딥웹(Deep web)은 다크웹의 일부분이다.",
+        "토르(TOR)같은 특수한 웹브라우저를 사용해야만 접근할 수 있다.",
+        "다크넷에 존해하는 웹사이트를 의미한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q147",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장에서 설명하는 것은?",
+      "options": [
+        "SSL(Secure Socket Layer)",
+        "SET(Secure Electronic Transaction)",
+        "SOC(Security Operation Center)",
+        "Lattice Security Model",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m47.gif"
+    },
+    {
+      "id": "infosec_engineer_q148",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "DNS 캐시 포이즈닝으로 분류되는 공격은?",
+      "options": [
+        "DNS 서버의 소프트웨어 버전 정보를 얻어 DNS 서버의 보안 취약점을 판단한다.",
+        "PC가 참조하는 DNS 서버에 잘못된 도메인 관리 정보를 주입하여 위장된 웹서버로 PC 사용자를 유도한다.",
+        "공격 대상의 서비스를 방해하기 위해 공격자가 DNS 서버를 이용하여 재귀적인 쿼리를 대량으로 발생시킨다.",
+        "내부 정보를 얻기 위해 DNS 서버에 저장된 영역 정보를 함께 전송한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q149",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "DDos 공격 형태 중 자원 소진 공격이 아닌 것은?",
+      "options": [
+        "ICMP Flooding",
+        "SYN Flooding",
+        "ACK Flooding",
+        "DNS Query Flooding",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q150",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 표의 소극적·적극적 암호공격 방식의 구분이 옳은 것은?",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m50.gif"
+    },
+    {
+      "id": "infosec_engineer_q151",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장의 괄호 안에 알맞은 용어는?",
+      "options": [
+        "워터링 홀",
+        "스팸",
+        "스피어피싱",
+        "랜섬웨어",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m51.gif"
+    },
+    {
+      "id": "infosec_engineer_q152",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "MS SQL 서버의 인증 모드에 대한 설명 중 성격이 다른 하나는?",
+      "options": [
+        "SQL Server 기본 인증 모드이다.",
+        "데이터베이스 관리자가 사용자에게 접근 권한 부여가 가능하다.",
+        "윈도우즈 인증 로그온 추적시 SID 값을 사용한다.",
+        "트러스트되지 않은 연결(SQL 연결)을 사용한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q153",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장에서 설명하는 보안솔루션은?",
+      "options": [
+        "DRM",
+        "SSO",
+        "OTP",
+        "APT",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m53.gif"
+    },
+    {
+      "id": "infosec_engineer_q154",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "데이터베이스 보안 방법으로 틀린 것은?",
+      "options": [
+        "데이터베이스 서버를 백업하며 관리한다.",
+        "Guest 계정을 사용하여 관리한다.",
+        "데이터베이스 쿼리만 웹 서버와 데이터베이스 서버 사이에 통과할 수 있도록 방화벽을 설치한다.",
+        "데이터베이스 관리자만 로그인 권한을 부여한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q155",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장에서 설명하는 웹 공격의 명칭은?",
+      "options": [
+        "XSS(Cross Site Scripting)",
+        "SQL(Structured Query Language) Ingection",
+        "CSRF(Cross-site request forgery)",
+        "쿠키(Cookie) 획득",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m55.gif"
+    },
+    {
+      "id": "infosec_engineer_q156",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "버퍼오버플로우에 대한 보안 대책이 아닌 것은?",
+      "options": [
+        "운영체제 커널 패치",
+        "경계 검사를 하는 컴파일러 및 링크 사용",
+        "스택내의 코드 실행 금지",
+        "포맷 스트링 검사",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q157",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "SSO(Single Sign On)와 관련이 없는 것은?",
+      "options": [
+        "Delegation 검사",
+        "Propagation 방식",
+        "웹 기반 쿠키 도메인 SSO",
+        "보안토큰",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q158",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "S/MIME의 주요 기능이 아닌 것은?",
+      "options": [
+        "봉인된 데이터(Enveloped data)",
+        "서명 데이터(Signed data)",
+        "순수한 데이터(Clear-signed data)",
+        "비순수 서명과 봉인된 데이터(Unclear Signed and Enveloped data)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q159",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "DNS(Domain Name System)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "DNS 서비스는 클라이언트에 해당하는 리졸버(resolver)와 서버에 해당하는 네임서버(name server)로 구성되며, DNS 서비스에 해당되는 포트 번호는 53번이다.",
+        "주(primary) 네임서버와 보조(secondary) 네임서버는 DNS 서비스 제공에 필요한 정보가 포함된 존(zone) 파일을 기초로 리졸버로부터의 요청을 처리한다.",
+        "ISP 등이 운영하는 캐시 네임서버가 관리하는 DNS 캐시에 IP 주소, UDP 포트번호, DNS 메시지 ID값이 조작된 정보를 추가함으로써 DNS 캐시 포이즈닝(poisoning) 공격이 가능하다.",
+        "DNSSEC 보안 프로토콜은 초기 DNS 서비스가 보안 기능이 포함되지 않았던 문제점을 해결하기 위해 개발되었으며, DNS 데이터의 비밀성, 무결성, 출처 인증 등의 기능을 제공한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q160",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장에서 설명하는 전자서명 기법은?",
+      "options": [
+        "다중서명",
+        "그룹서명",
+        "은닉서명",
+        "검증자 지정서명",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m60.gif"
+    },
+    {
+      "id": "infosec_engineer_q161",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음은 특정 블록 암호 운영 모드의 암호화 과정이다. 해당하는 모드는?",
+      "options": [
+        "ECB 모드(Electronic Code Book Mode)",
+        "CBC 모드(Cipher Block Chaining Mode)",
+        "CFB 모드(Cipher Feedback Mode)",
+        "OFB 모드(Output Feedback Mode)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m61.gif"
+    },
+    {
+      "id": "infosec_engineer_q162",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "접근통제 모델에 대한 각각의 설명 중 옳은 것은?",
+      "options": [
+        "비바(Biba) 모델 : 임의적 접근통제(DAC: Doscretionary Access Control)를 기반으로 하는 상태 머신 모델이다.",
+        "벨-라파듈라(Bell-Lapadula) 모델 : 객체애 대한 무결성 또는 가용성을 유지하는데 중점을 두고 있으며, 기밀성의 측면에는 대처하지 않는다.",
+        "비바(Biba) 모델 : 비밀 채널을 방지하며, 내부 및 외부 객체 일관성을 보호한다.",
+        "클락-윌슨(Clark-Wilson) 모델 : 허가 받은 사용자가 허가 받지 않고 데이터를 수정하는 것을 방지한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q163",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "해시함수의 분류 중 MDC(Modification Detection Cryptography)에 포함되지 않는 알고리즘은?",
+      "options": [
+        "MD(Message Digest)",
+        "SHA(Secure Hash Algorithm)",
+        "LSH(Lightweight Secure Hash)",
+        "H-MAC(Hash-MAC)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q164",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "실시간으로 인증서 유효성을 검증하는 OCSP(Online Certificate Status Protocol)의 서비스가 아닌 것은?",
+      "options": [
+        "ORS : 온라인 취소상태 확인서비스",
+        "DPD : 대리인증 경로 발전 서비스",
+        "CRL : 인증서 폐지 목록 확인서비스",
+        "DPV : 대리인증 경로 검증 서비스",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q165",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "접근통제정책 구성요소에 대한 설명으로 틀린 것은?",
+      "options": [
+        "사용자 : 시스템을 사용하는 주체이다.",
+        "자원 : 사용자가 사용하는 객체이다.",
+        "행위 : 객체가 행하는 논리적 접근통제이다.",
+        "관계 : 사용자에게 승인된 허가(읽기, 쓰기, 실행)이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q166",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 중 전자서명인증업무지침에 따라 공인인증기관이 지켜야 할 구체적인 사항이 아닌 것은?",
+      "options": [
+        "공인인증서의 관리에 관한 사항",
+        "전자서명생성정보의 관리에 관한 사항",
+        "공인인증기관 시설의 보호에 관한 사항",
+        "공인인증기관 지정 절차에 관한 사항",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q167",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "IAM(Identity Access Management)에 대한 설명으로 틀린 것은?",
+      "options": [
+        "전사적 계정관리, 권한관리의 구현에 필요한 모든 요소들을 일반적으로 IAM이라고 부른다.",
+        "IAM은 계정관리를 담당하는 IM분야와 권한통제를 담당하는 AM으로 나눠진다.",
+        "사용자가 시스템을 사용하기 위해 로그인 ID를 발급하는 과정을 프로비저닝이라고 한다.",
+        "사용자가 시스템에 로그인할 때 본인임을 증빙하는 과정을 인가(Authorization)라고 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q168",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "전자서명을 적용한 예에 해당되지 않는 것은?",
+      "options": [
+        "Code Signing",
+        "X.509 Certificate",
+        "SSL/TLS Protocol",
+        "Kerberos Protocol",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q169",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장과 같이 처리되는 프로토콜은?",
+      "options": [
+        "Diffie-Hellman",
+        "Needhan-Schroeder",
+        "Otway-Rees",
+        "Kerberos",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m69.gif"
+    },
+    {
+      "id": "infosec_engineer_q170",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "송신자 A와 수신자 B가 RSA를 이용하여 키를 공유하는 방법에 대한 설명으로 틀린 것은?",
+      "options": [
+        "미국 MIT의 Rivest, Shamir, Adelman이 발표한 공개키 암호화 방식으로 이해와 구현이 쉽고, 검증이 오랫동안 되어서 가장 널리 쓰이고 있다.",
+        "A가 암호화 되지 않은 평문으로 A의 공개키를 B에게 전송한다.",
+        "B는 공유 비밀키를 생성, A에게서 받은 A의 공개키로 암호화 전송한다.",
+        "A는 자신의 공개키로 공유 비밀키를 추출하고 데이터를 암호화 전송한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q171",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "암호문에 대응하는 일부 평문이 가용한 상황에서의 암호 공격 방법은?",
+      "options": [
+        "암호문 단독 공격",
+        "알려진 평문 공격",
+        "선택 평문 공격",
+        "선택 암호문 공격",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q172",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "합성수 n을 사용하는 RSA 전자서명 환경에서 메시지 M에 대해 난수 r에 공개 검증키 e를 가지고 reM mod n값을 서명자에게 전송하는 전자서명 기법은 무엇인가?",
+      "options": [
+        "은닉서명",
+        "위임서명",
+        "부인방지 서명",
+        "이중서명",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q173",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장에서 설명하는 위험분석 방법론을 옳게 연결한 것은?",
+      "options": [
+        "㉠ : 확률 분포법, ㉡ : 순위결정법",
+        "㉠ : 시나리오법, ㉡ : 델파이법",
+        "㉠ : 델파이법, ㉡ : 확률 분포법",
+        "㉠ : 시나리오법, ㉡ : 순위결정법",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m73.gif"
+    },
+    {
+      "id": "infosec_engineer_q174",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 중 공개키 암호의 필요성으로 틀린 것은?",
+      "options": [
+        "무결성",
+        "키 관리 문제",
+        "인증",
+        "부인방지",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q175",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 중 커버로스(Kerberos)의 구성요소가 아닌 것은?",
+      "options": [
+        "KDC(Key Distribution Center)",
+        "TGS(Ticket Granting Service)",
+        "AS(Authetication Service)",
+        "TS(Token Service)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q176",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "공개키 암호 알고리즘이 아닌 것은?",
+      "options": [
+        "RSA(Rivest, Shamir, Adelman)",
+        "ECC(Elliptic, Curvem Cryptosystems)",
+        "ElGamal",
+        "Rijndeal",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q177",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "키를 분배하는 방법이 아닌 것은?",
+      "options": [
+        "KDC(Key Distribution Center)",
+        "공개키 암호시스템",
+        "Diffie-Hellman 키 분배 알고리즘",
+        "Kerberos",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q178",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "해시함수 h와 주어진 입력값 x에 대해 h(x)=h(x′)을 만족하는 x′(≠x)를 찾는 것이 계산적으로 불가능한 것을 의미하는 것은?",
+      "options": [
+        "압축성",
+        "일방향성",
+        "두 번째 역상저항성",
+        "충돌 저항성",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q179",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장에서 설명하는 것은?",
+      "options": [
+        "타원 곡선 암호 시스템",
+        "하이브리드 암호 시스템",
+        "세션 키(의사난수 생성기)",
+        "이중 암호 시스템",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m79.gif"
+    },
+    {
+      "id": "infosec_engineer_q180",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "메시지 출처 인증(Message Origin Authentication)에 활용되는 암호 기술 중 대칭키 방식에 해당하는 것은?",
+      "options": [
+        "전자서명",
+        "해시함수",
+        "이중서명",
+        "메시지 인증 코드",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q181",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "주요 직무자 지정 및 관리시 고려해야 할 사항으로 틀린 것은?",
+      "options": [
+        "개인정보 및 중요정보의 취급, 주요 시스템 접근 등 주요 직무의 기준을 명확히 정의하여야 한다.",
+        "주요 직무를 수행하는 임직원 및 외부자를 주요 직무자로 지정하고 그 목록을 최신으로 관리하여야 한다.",
+        "업무 필요성에 따라 주요 직무자 및 개인정보취집자 지정을 최소화하는 등 관리방안을 수립·이행하여야 한다.",
+        "파견근로자, 시간제근로자 등을 제외한 임직원 중 업무상 개인정보를 취급하는 자를 개인정보취급자로 지정하고 목록을 관리하여야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q182",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "정보통신기반보호법에서 정하는 주요 정보통신기반시설 보호계획의 수립 등에 포함되지 않는 사항은?",
+      "options": [
+        "주요정보통신기반시설의 취약점 분석·평가에 관한 사항",
+        "정보보호 책임자 지정에 관한 사항",
+        "주요정보통신기반시설 및 관리 정보의 침해사고에 대한 예방, 백업, 복구대책에 관한 사항",
+        "주요정보통신기반시설의 보호에 관하여 필요한 사항",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q183",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 내용에 따른 국내대리인의 필수 공개 정보로 잘못된 것은?",
+      "options": [
+        "법인명, 대표명",
+        "주소",
+        "고객센터 연락처",
+        "이메일",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m83.gif"
+    },
+    {
+      "id": "infosec_engineer_q184",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "정보통신기반 보호법에 의거하여 주요정보통신기반시설을 지정할 때 주요 고려사항으로 틀린 것은?",
+      "options": [
+        "다른 정보통신기반시설과의 상호연계성",
+        "업무의 정보통신기반시설에 대한 의존도",
+        "업무의 개인정보 보유 건수",
+        "정보통신기반시설을 관리하는 기관이 수행하는 업무의 국가사회적 중요성",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q185",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "정보통신망 이용 촉진 및 정보 보호 등에 관한 법률에서 정의하는 용어에 대한 설명으로 틀린 것은?",
+      "options": [
+        "㉠, ㉡",
+        "㉡, ㉢",
+        "㉢, ㉣",
+        "㉡, ㉣",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m85.gif"
+    },
+    {
+      "id": "infosec_engineer_q186",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "조직의 정보보호 교육 대상자에 해당되지 않는 사람은?",
+      "options": [
+        "조직의 중요한 고객",
+        "최고 경영자",
+        "조직의 신입직원",
+        "조직이 제공하는 정보를 이용하는 일부 외부 이용자 그룹",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q187",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장은 위험분석에 관한 설명이다. 괄호 안에 들어갈 내용은?",
+      "options": [
+        "㉠ : 위협, ㉡ : 위험, ㉢ : 발생가능성, ㉣ : 취약성",
+        "㉠ : 취약성, ㉡ : 위험, ㉢ : 발생가능성, ㉣ : 위협",
+        "㉠ : 위험, ㉡ : 취약성, ㉢ : 위협, ㉣ : 발생가능성",
+        "㉠ : 발생가능성, ㉡ : 위협, ㉢ : 취약성, ㉣ : 위험",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m87.gif"
+    },
+    {
+      "id": "infosec_engineer_q188",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장에서 설명하는 위험평가 방법은?",
+      "options": [
+        "기준선 접근법",
+        "비정형 접근법",
+        "상세 위험분석",
+        "복합 접근방법",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m88.gif"
+    },
+    {
+      "id": "infosec_engineer_q189",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "정보보호관리체계 구축시 발생 가능한 문제점과 해결방안에 대한 설명으로 틀린 것은?",
+      "options": [
+        "관련 부서와의 조정이 곤란하다.",
+        "직원들이 일상 업무에 바빠 관리체계 구축사업에 시간을 내기 어렵다.",
+        "직원들은 자신의 책임을 피하기 위해 문제점이 발생하면 즉시 상사에게 보고하는 경향을 보인다.",
+        "관리체계 구축에는 경영자의 리더십이 필수적으로 요구된다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q190",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장에서 설명하는 시스템 보안평가 기준은?",
+      "options": [
+        "TCSEC",
+        "ITSEC",
+        "CTCPEC",
+        "CC",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m90.gif"
+    },
+    {
+      "id": "infosec_engineer_q191",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "100만명 미만의 정보주체에 관한 개인정보를 보유한 중소기업의 내부관리계획의 내용에 포함되지 않아도 될 사항은?",
+      "options": [
+        "개인정보 보호책임자의 지정에 관한 사항",
+        "개인정보 유출사고 대응 계획 수립·시행에 관한 사항",
+        "개인정보의 암호화 조치에 관한 사항",
+        "개인정보 처리업무를 위탁하는 경우 수탁자에게 대한 관리 및 감독에 관한 사항",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q192",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "비즈니스 연속성에서 고장과 관계된 수용될 수 없는 결과를 피하기 위해 재해 후에 비즈니스가 복귀되어야 하는 최단 시간 및 서비스 수준을 의미하는 것은?",
+      "options": [
+        "RTO",
+        "WRT",
+        "RP",
+        "MTD",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q193",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "정보의 수집·가공·저장·검색·송신·수신 중에 정보의 훼손·변조·유출 등을 방지하기 위한 관리적·기술적 수단인 정보보호의 목적으로 틀린 것은?",
+      "options": [
+        "기밀성 서비스 제공",
+        "무결성 서비스 제공",
+        "가용성 서비스 제공",
+        "추적성 서비스 제공",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q194",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "위험분석의 구성요소가 아닌 것은?",
+      "options": [
+        "비용",
+        "취약점",
+        "위협",
+        "자산",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q195",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "정보보호의 예방대책을 관리적 예방대책과 기술적 예방대책으로 나누어 볼 때 관리적 예방대책에 속하는 것은?",
+      "options": [
+        "안전한 패스워드를 강제로 사용",
+        "침입차단 시스템을 이용하여 접속을 통제",
+        "가상 사설망을 이용하여 안전한 통신 환경 구현",
+        "문서처리 순서의 표준화",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q196",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "건물 관리 및 화재 등 사고관리를 위해 건물입구를 비추도록 설치된 영상정보처리기기에서 사용할 수 있는 기능으로 옳은 것은?",
+      "options": [
+        "사고를 확인하기 위한 카메라 줌인, 줌아웃",
+        "범인을 추적하기 위한 카메라 이동",
+        "사고 내용을 확인하기 위한 음성 녹음",
+        "사고 내용을 전달하기 위한 영상 전송",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q197",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "다음 문장의 정보보호대책 선정시 영향을 주는 제약사항으로 옳은 것은?",
+      "options": [
+        "환경적 제약",
+        "법적 제약",
+        "시간적 제약",
+        "사회적 제약",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220625/ccw20220625m97.gif"
+    },
+    {
+      "id": "infosec_engineer_q198",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "개인정보보호 법령에 따른 영상정보처리기기의 설치·운영과 관련하여 정보주체가 쉽게 인식할 수 있도록 설치하는 안내판의 기재 항목이 아닌 것은?",
+      "options": [
+        "설치 목적",
+        "영상정보 보관기관",
+        "설치 장소",
+        "촬영 범위",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q199",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "개인정보보호법상 개인정보 유출사고의 통지, 신고 의무에 대한 설명으로 틀린 것은?",
+      "options": [
+        "정보통신서비스 제공자등은 개인정보의 유출등의 사실을 안 때에는 지체 없이 유출 등의 내역을 해당 이용자에게 알려야 한다.",
+        "정보통신서비스 제공자등은 1천명 이상의 정보주체에 관한 개인정보의 유출등의 사실을 안 때에는 지체 없이 유출 등의 내역을 방송통신위원회 또는 한국인터넷진흥원에 신고하여야 한다.",
+        "정보통신서비스 제공자등은 정당한 사유 없이 유출 등의 사실을 안 때에는 24시간을 경과하여 통지·신고해서는 아니 된다.",
+        "정보통신서비스 제공자 등은 이용자의 연락처를 알 수 없는 등 정당한 사유가 있는 경우에는 유출 등의 내역을 자신의 인터넷 홈페이지에 30일 이상 게시하여야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q200",
+      "subject": "정보보안기사",
+      "round": "2022-06-25 기출",
+      "question_text": "정보보호 거버넌스 국제 표준으로 옳은 것은?",
+      "options": [
+        "ISO27001",
+        "BS10012",
+        "ISO27014",
+        "ISO27018",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q201",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 취약점 점검 도구에 대한 설명으로 틀린 것은?(문제 오류로 확정답안 발표시 1, 3번이 정답처리 되었습니다. 여기서는 1번을 누르시면 정답 처리 됩니다.)",
+      "options": [
+        "COPS/COPE : 네트워크 기반의 취약점 분석도구로 컴퓨터, 서버, N/W IDS의 보안 취약점을 분석한다.",
+        "Nessus : 네트워크 취약점 점검도구로써 클라이언트-서버 구조로 클라이언트의 취약점을 점검하는 기능이 있다.",
+        "nmap : 시스템 내부에 존재하는 취약성을 점검하는 도구로써 취약한 패스워드 점검 기능 등이 있다.",
+        "SAINT : 네트워크 취약점 분석도구로써 HTML 형식의 보고서 기능이 있으며 원격으로 취약점을 점검하는 기능을 가지고 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q202",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음은 passwd 파일 구조를 나타내는 그림이다. “A”는 무엇인가?",
+      "options": [
+        "패스워드",
+        "UID 값",
+        "계정명",
+        "설명",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m2.gif"
+    },
+    {
+      "id": "infosec_engineer_q203",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "버퍼오버플로우 공격을 완화할 수 있는 방법으로 스택과 힙 영역에 쉘코드 등을 실행하지 못하도록 하는 메모리 보호기법에 해당하는 것은?",
+      "options": [
+        "ASLR",
+        "DEP/NX bit",
+        "Format String",
+        "Stack Canary",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q204",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "도구의 기능과 도구명이 짝지어진 것 중 틀린 것은?",
+      "options": [
+        "운영체제별 로그 변조 탐지도구 - Chklastlog",
+        "운영체제별 감사로그 관리도구 - Natas",
+        "취약점 진단도구 - SATAN",
+        "접근통제관련 로깅 도구 – Syslogd",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q205",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 윈도우(Windows)의 Administrators 그룹에 대한 설명으로 틀린 것은?",
+      "options": [
+        "대표적인 관리자 그룹으로 윈도우 시스템의 모든 권한을 가지고 있다.",
+        "사용자 계정을 만들거나 없앨 수 있다.",
+        "윈도우가 사용 가능한 모든 자원에 대한 권한을 설정할 수 있다.",
+        "해당 컴퓨터 밖의 네트워크에서도 일반 사용자보다 특별한 권한을 행사할 수 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q206",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "사용자 PC가 언제 부팅되었는지를 확인하기 위해 입력해야 하는 명령어는?",
+      "options": [
+        "net statistics workstation",
+        "net computer boot time",
+        "net reboot time",
+        "net time boot",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q207",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "리눅스 proc 파일 시스템에서 ASLR(Address Space Layout Randomization) 설정값을 확인할 수 있는 파일은 무엇인가?",
+      "options": [
+        "/proc/sys/kernel/randomize_va_space",
+        "/proc/sys/kernel/watchdog",
+        "/proc/sys/kernel/panic",
+        "/proc/sys/kernel/random",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q208",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 무결성(Integrity) 검사를 위한 도구가 아닌 것은?",
+      "options": [
+        "tripwire",
+        "Fcheck",
+        "Samhain",
+        "prstat",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q209",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장에서 설명하고 있는 내용의 괄호 안에 들어갈 올바른 항목은?",
+      "options": [
+        "MBR",
+        "BIOS",
+        "FAT",
+        "NTFS",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m9.gif"
+    },
+    {
+      "id": "infosec_engineer_q210",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 프로세스 스케줄링과 관계가 가장 먼 것은?",
+      "options": [
+        "페이징(Paging)",
+        "스와핑(Swapping)",
+        "레이스컨디션(Race condition)",
+        "환형대기(Circular wait)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q211",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장이 설명한 공격 위협은 무엇인가?",
+      "options": [
+        "운영체제 명령 실행",
+        "XPath 인젝션",
+        "디렉터리 인덱싱",
+        "정보 누출",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m11.gif"
+    },
+    {
+      "id": "infosec_engineer_q212",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "웹 쿠키(Cookies)에 대한 설명 중 올바른 것은?",
+      "options": [
+        "쿠키는 서버가 아닌 클라이언트에 저장된다.",
+        "쿠키는 웹 서버에 저장되므로 클라이언트에서 제어할 수 없다.",
+        "쿠키는 실행가능한 파일로 바이러스로 동작할 수 있다.",
+        "쿠키는 강력한 인증 기능을 제공한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q213",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "Syslog와 같은 시스템 로그를 주기적으로 스캔하여 어떠한 행위가 발생했는지를 분석하는 시스템 로깅 도구는?",
+      "options": [
+        "Nikto",
+        "X-scan",
+        "N-stealth",
+        "Swatch(Simple WATCHer)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q214",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장에서 설명한 공격 위협은 무엇인가?",
+      "options": [
+        "SSI 인젝션",
+        "XPath 인젝션",
+        "크로스사이트 스크립팅",
+        "악성 콘텐츠",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m14.gif"
+    },
+    {
+      "id": "infosec_engineer_q215",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 트로이목마 프로그램인 루트킷에 대한 설명으로 가장 부적절한 것은?",
+      "options": [
+        "루트킷의 목적은 자신과 다른 소프트웨어를 보이지 않게 숨기고 사용자가 공격자의 소프트웨어를 인지하고 제거할 가능성을 피한다.",
+        "윈도우용 루트킷에는 FU-Rootkit, Hxdef100, NTRRootkit 등이 있다.",
+        "리눅스용 루트킷에는 Suckit, lrk4, lrk5, adore 등이 있다.",
+        "자기 복제를 하여 다른 컴퓨터에 루트킷을 설치함으로써 그 피해가 커질 수 있다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q216",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "관리자 A는 개별그룹으로 신규 사용자 등록(kim, jang) 작업을 어느날 수행한 후 1주일 후에 아래와 같은 시스템 내용을 보고 판단하였다. 올바른 판단은?",
+      "options": [
+        "패스워드 파일(/etc/passwd)은 누구든지 직접 수정 가능하다.",
+        "사용자 jang은 /etc/passwd 파일의 권한을 설정할 수 있다.",
+        "사용자 kim은 사용자 계정에 jang 디렉토리에 들어가서 읽을 수도 없고 실행을 못 시킬 것이다.",
+        "jang은 kim의 패스워드를 바꿀 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m16.gif"
+    },
+    {
+      "id": "infosec_engineer_q217",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "소유권 없는 파일을 찾는 명령어 및 옵션이 아닌 것은?",
+      "options": [
+        "find / -ls 2 > /dev/null",
+        "find / \\( -nouser –o –nogroup \\) -xdev –exec ls –al{}\\; 2> /dev/null",
+        "find / -nouser -print",
+        "find / -nogroup –print",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q218",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장의 괄호 안에 해당하는 것은 무엇인가?",
+      "options": [
+        "버퍼오버플로우",
+        "루팅",
+        "인젝션",
+        "접근 제어",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m18.gif"
+    },
+    {
+      "id": "infosec_engineer_q219",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 은폐형 바이러스에 대한 설명으로 가장 적합한 것은?",
+      "options": [
+        "파일이 감염될 경우 그 파일의 내용을 확인할 수 없다.",
+        "감염된 파일의 길이가 증가하지 않은 것처럼 보이게 하고, 감염전의 내용을 보여주어 바이러스가 없는 것처럼 백신과 사용자를 속인다.",
+        "바이러스 분석가에게 분석을 어렵게 하고 백신 개발을 지연시키도록 여러 단계의 기법을 사용한다.",
+        "백신으로 진단이 어렵도록 바이러스 프로그램의 일부 또는 전체를 암호화한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q220",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장에서 리눅스 시스템에 침해 흔적을 조사하기 위해 루트 권한을 가진 setuid를 찾는 명령어로 괄호안에 들어갈 적합한 것은?",
+      "options": [
+        "-perm –06000 \\",
+        "-perm –00100 \\",
+        "-perm –00400 \\",
+        "-perm –00200 \\",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m20.gif"
+    },
+    {
+      "id": "infosec_engineer_q221",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 VPN에 대한 설명으로 가장 옳지 않은 것은?",
+      "options": [
+        "SSL VPN은 웹브라우저만 있으면 언제 어디서나 사용이 가능하다.",
+        "IPsec VPN은 네트워크 계층에서 안전하게 정보를 전송하는 방법이다.",
+        "IPsec VPN은 운영방식에 따라 트랜스포트 모드만 지원하고 암호화 여부에 따라 ESP, AH 프로토콜을 사용한다.",
+        "기본적으로 SSL VPN과 IPsec VPN은 데이터의 기밀성과 무결성은 동일하며, 단지 데이터의 암호화 구현 방식에 차이가 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q222",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 스크린드 서브넷 구조에 대한 설명으로 가장 옳지 않은 것은?",
+      "options": [
+        "외부 인터넷 환경에서 접속이 되어야 한다.",
+        "스크리닝 라우터 사이에 듀얼 홈드 게이트웨이가 위치하는 구조이다.",
+        "다른 방화벽에 비해 설치 및 관리가 쉽다.",
+        "서비스 속도가 낮다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q223",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 Window 계열의 시스템에 대한 포트 스캐닝을 할 수 없는 것은?",
+      "options": [
+        "TCP SYN Scan",
+        "TCP FIN Scan",
+        "TCP Connect Scan",
+        "UDP Scan",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q224",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "바이러스 및 공격으로부터 IoT(Internet of Thing) 기기를 보호할 수 있는 접근제어, 기기 인증, 통신 암호화, 가용성 등과 같은 보안 요구 사항을 알기 쉽게 나타내도록 IoT용 SoA(Service oriented Architecture)는 4계층으로 구성된다. 다음 중 IoT용 SoA 4 계층에 포함되지 않는 것은 어떤 계층인가?",
+      "options": [
+        "센싱 계층",
+        "네트워크 계층",
+        "트랜스포트 계층",
+        "서비스 계층",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q225",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장의 괄호 안에 들어갈 알맞은 용어는?",
+      "options": [
+        "PLC",
+        "SCADA",
+        "Stuxnet",
+        "Modbus",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m25.gif"
+    },
+    {
+      "id": "infosec_engineer_q226",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "네트워크에서 큰 크기의 파일을 전송할 때, 정상적인 경우에 전송가능한 최대 사이즈로 조각화 되어 전송되며, 이때 Fragment Number를 붙여 수신측에서 재조합을 하게 된다. Fragmentation Offset을 위조하여 중복하게 하거나 공간을 두어 재조합을 방해하는 공격은 OSI 7계층 중 어느 계층에서 발생하는 것인가?",
+      "options": [
+        "OSI 2 계층",
+        "OSI 3 계층",
+        "OSI 4 계층",
+        "OSI 5 계층",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q227",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장은 모바일 악성코드에 관한 설명이다. 어떤 악성코드에 관한 설명인가?",
+      "options": [
+        "Card trap. A",
+        "CommWarrior",
+        "Hobbles. A",
+        "Brader",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m27.gif"
+    },
+    {
+      "id": "infosec_engineer_q228",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "사용자마다 계정 및 패스워드를 설정하고 원격에서 텔넷으로 라우터에 접속할 때, 계정 및 패스워드를 이용하여 로그인할 수 있도록 설정한 것은 무엇인가?",
+      "options": [
+        "Router(config)#username XXXX password XXXXRouter(config)#line vty 0 4Router(config-line)#login local",
+        "Router#username XXXX password XXXXRouter(config)#line vty 0 4Router(config-line)#login local",
+        "Router(config)#line vty 0Router(config-if)#username XXXX password XXXXRouter(config-line)#login local",
+        "Router#username XXXXRouter(config)#password XXXXRouter(config)#line vty 0 4Router(config-line)#login local",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q229",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 화면은 DoS 공격을 실시한 TCP Dump이다. 네트워크 패킷들의 특징으로 보았을 때 무슨 공격을 한 것으로 보이는가?",
+      "options": [
+        "UDP 플러딩(flooding)",
+        "SYN 플러딩(flooding)",
+        "Bonk 공격",
+        "Land 공격",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m29.gif"
+    },
+    {
+      "id": "infosec_engineer_q230",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 OSI 7 계층의 데이터 링크 계층과 관련성이 가장 적은 것은?",
+      "options": [
+        "통신 경로상의 지점간(Link-to-Link)의 오류 없는 데이터 전송",
+        "멀티포인트 회선제어 기능",
+        "데이터 압축 및 암호화",
+        "정지-대기 흐름제어 기법",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q231",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "Snort에서 Rule에 대한 정보제공을 위해 사용되며, 탐지에 영향이 없는 옵션의 명령어 형식은?",
+      "options": [
+        "msg",
+        "rawbytes",
+        "drop",
+        "reject",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q232",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장은 무선랜 환경에서 어떠한 AP(Access Point)를 설명하고 있는가?",
+      "options": [
+        "Normal AP",
+        "Rogue AP",
+        "Honeypot AP",
+        "Ad-hoc AP",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m32.gif"
+    },
+    {
+      "id": "infosec_engineer_q233",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "자신의 컴퓨터가 인터넷을 통해 목적지를 찾아가면서 구간의 게이트웨이 정보나 걸리는 시간 등을 표시해 줌으로써 인터넷 경로상의 네트워크 경로를 파악할 수 있게 하는 명령어는?",
+      "options": [
+        "Tcpdump",
+        "Ping",
+        "Traceroute(Tracert)",
+        "Netstat",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q234",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "N-IDS가 수집하여 처리하는 패킷들에서 다음과 같은 형태의 패킷들의 발견되었다. 이에 대한 설명으로 가장 옳은 것은?",
+      "options": [
+        "S1 시스템이 D1 시스템에 대해 SYN flooding 공격을 시도하였다.",
+        "S1 시스템이 D1 시스템에 대해 TCP SYN 스캔을 시도하였다.",
+        "S1 시스템이 D1 시스템에 대해 TCP CONNECT 스캔을 시도하였다.",
+        "S1 시스템이 D1 시스템에 대해 Stealth 스캔을 시도하였다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m34.gif"
+    },
+    {
+      "id": "infosec_engineer_q235",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 세션 하이재킹(Session Hijacking)에 대한 설명으로 가장 옳지 않은 것은?",
+      "options": [
+        "클라이언트와 서버 간의 통신을 관찰할 수 있을 뿐만 아니라 신뢰(trust)를 이용한 세션은 물론 Telent, FTP 등 TCP를 이용한 거의 모든 세션의 탈취가 가능하다.",
+        "인증에 대한 문제점을 해결하기 위해 도입된 일회용 패스워드(OTP), Token Based authentication, Kerberos(토큰 기반 인증)을 이용한 세션의 탈취도 가능하다.",
+        "서버와 클라이언트가 TCP를 이용해서 통신을 하고 있을 때 RST 패킷을 보내 일시적으로 TCP 세션을 끊고, 시퀀스 넘버를 새로 생성하여 세션을 빼앗고 인증을 회피한다.",
+        "실제 DNS 서버보다도 빨리 공격 대상에게 DNS 응답(response) 패킷을 보내 공격 대상이 잘못된 IP 주소로 이름 해석을 하도록 하여 잘못된 웹 접속을 유도하는 공격이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q236",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장에서 설명하고 있는 것은 무엇인가?",
+      "options": [
+        "Intrusion Prevention System",
+        "Screened Subnet",
+        "Knowledge-Base IDS",
+        "Singature-Base IDS",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m36.gif"
+    },
+    {
+      "id": "infosec_engineer_q237",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "무선랜 보안에 대한 설명으로 가장 옳지 않은 것은?",
+      "options": [
+        "Open System 인증방식은 어떤 무선 단말이라도 AP를 경유하여 인터넷에 접속하도록 허용하는 방식을 의미하여, 실질적인 인증을 하지 않고 무선 단말과 AP간 전달되는 데이터가 평문 형태로 전달된다.",
+        "Shared Key(SK) 인증방식은 무선 단말 사용자가 AP에 설정된 키와 동일한 키를 입력하는 경우 AP를 경유하여 인터넷에 접속을 허용한다.",
+        "무선 단말과 AP간 전달되는 데이터를 암호화하는 경우 WEP 암호 방식이 이용될 수 있으며, 이 방식은 AES 대칭키 암호 알고리즘을 이용하여 매우 높은 강도의 비밀성을 제공한다.",
+        "RSN(Robust Security Network)에서는 WPA-Personal과 WPA-Enterprise 모드가 있는데, WPA-Personal 모드에서는 미리 설정된 비밀키를 이용하는 반면 WPA-Enterprise 모드에서는 RADIUS 서버를 이용한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q238",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "클라우드 컴퓨팅 보안에 대한 설명으로 가장 옳지 않은 것은?",
+      "options": [
+        "가상화 시스템의 취약점을 상속한다.",
+        "정보 위탁에 따른 정보 유출의 가능성이 있다.",
+        "집중화로 보안 적용이 용이하다.",
+        "자원 공유 및 집중화에 따른 서비스 장애가 발생할 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q239",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 장비 중 네트워크 계층 장비를 바르게 설명한 것은?",
+      "options": [
+        "리피터 : 불분명해진 네트워크 신호세기를 다시 증가시키기 위한 장비이다.",
+        "더미 허브 : 데이터를 보낼 때 모든 곳에 데이터를 똑같이 복사해서 보낸다.",
+        "브리지 : 랜과 랜을 연결하는 네트워크 장치이다.",
+        "라우터 : 서로 다른 프로토콜을 사용하는 네트워크를 연결해주는 장비이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q240",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "RIP(Routing Information Protocol)는 Distance Vector 라우팅 알고리즘을 사용하고 매 30초마다 모든 전체 라우팅 테이블을 Active Interface로 전송한다. 원격 네트워크에서 RIP에 의해 사용되는 최적의 경로 결정 방법은 무엇인가?",
+      "options": [
+        "HoP count",
+        "Routed information",
+        "TTL(Time To Live)",
+        "Link length",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q241",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "클라이언트(웹 브라우저)와 서버(웹 서버)간에 개인정보, 금융정보, 패스워드 등의 중요정보를 안전하게 전송하기 위해 사용되는 암호 채널은?",
+      "options": [
+        "S/MIME",
+        "PGP",
+        "SSH",
+        "SSL",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q242",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "ebXML의 구성요소가 아닌 것은?",
+      "options": [
+        "비즈니스 프로세스",
+        "EDI 문서",
+        "핵심컴포넌트",
+        "전송, 교환 및 패키징",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q243",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 리버스도메인에 대한 설명이 잘못된 것은?",
+      "options": [
+        "도메인이름을 IP주소로 변환하기 위해 네임서버에 설정하는 특수 도메인이다.",
+        "IP주소를 도메인 이름으로 변환하기 위해 네임서버에 설정하는 특수 도메인이다.",
+        "“역질의”라고도 한다.",
+        "IP주소에 해당하는 숫자와 특수 문자열 in-addr.arpa로 구성되어 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q244",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 SSL(Secure Socket Layter) 프로토콜에 대한 설명으로 잘못된 것은?",
+      "options": [
+        "웹 서버와 브라우저간의 안전한 통신을 위해 넷스케이프사에 의해 개발되었다.",
+        "세션계층에서 적용되며, 응용계층의 FTP, TELNET, HTTP 등의 프로토콜의 안전성 보장을 위해 사용된다.",
+        "SSL 프로토콜은 TCP/IP상의 444/tcp 포트만을 사용하여야 한다.",
+        "SSL을 사용하기 위해서는 우리가 흔히 사용하는 URL 표기 방식인 “http://*” 대신에 “https://*”을 사용해야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q245",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음은 보안 기술에 대해 설명한 것이다. 괄호 안에 들어갈 가장 올바른 것은?",
+      "options": [
+        "DRM(Digital Rights Management)",
+        "스테가노그래피(Steganography)",
+        "디지털 워터마크(Digital Watermark)",
+        "보안토큰(Security Token)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m45.gif"
+    },
+    {
+      "id": "infosec_engineer_q246",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "Spam Assassin은 들어오는 메일을 미리 설정해 둔 패턴에 따라서 스팸으로 의심되면 삭제를 하거나 분리시키는 기능을 하는 스팸필터링 도구이다. 이러한 도구에서 스팸 필터링 분류기준이 아닌 것은?",
+      "options": [
+        "헤더검사",
+        "본문내용",
+        "IP 필터링",
+        "첨부파일만 필터링 가능",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q247",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "디지털 증거의 특성을 설명한 것으로 가장 적절하지 않은 것은?",
+      "options": [
+        "내용 자체가 변하지 않는 한 어느 매체에 저장되어도 동일하다.",
+        "간단한 조작만으로 정보를 변경하거나 삭제할 수 있다.",
+        "컴퓨터 디스크에 항상 안전하게 보관할 수 있다.",
+        "대량의 정보가 저장 매체에 저장되고 대량으로 유통될 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q248",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 암호화 구현에 대한 설명으로 잘못된 것은?",
+      "options": [
+        "대칭키 알고리즘 이용시에는 키 길이를 128비트 이상으로 사용하는 것이 안전하다.",
+        "비대칭키 알고리즘 이용시에는 키 길이를 2,048비트 이상으로 사용하는 것이 안전하다.",
+        "입력된 메시지는 취약한 AES(Advanced Encryption Standard) 대신 안전한 DES(Data Encryption Standard) 알고리즘으로 암호화한다.",
+        "해쉬함수 사용시 Salt 값을 사용한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q249",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 웹 서비스 공격 유형으로 적절한 것은?",
+      "options": [
+        "XSS",
+        "SSRF",
+        "HTTP Smuggling",
+        "CSRF",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m49.gif"
+    },
+    {
+      "id": "infosec_engineer_q250",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장에서 설명하는 데이터베이스 보안 솔루션 종류는?",
+      "options": [
+        "데이터베이스 백업 솔루션",
+        "데이터베이스 감사 솔루션",
+        "데이터베이스 암호화 솔루션",
+        "데이터베이스 접근 제어 솔루션",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m50.gif"
+    },
+    {
+      "id": "infosec_engineer_q251",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 익명 FTP에 대한 보안 대책으로 틀린 것은?",
+      "options": [
+        "익명의 사용자에게 쓰기권한을 부여하여 자유롭게 파일업로드 및 다운로드 하여 사용할 수 있게 한다.",
+        "반드시 사용하지 않을 경우 서비스를 제거한다.",
+        "핵심 디렉토리의 권한을 설정하여 접근하지 못하도록 설정한다.",
+        "익명의 사용자가 접근하여 파일을 다운로드 할 수 있으므로 개인정보나 중요정보는 보이자 않도록 마스킹 처리한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q252",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "SQL 인젝션(injection) 공격에 대한 설명으로 가장 적절하지 않은 것은?",
+      "options": [
+        "클라이언트의 입력 값을 조작하여 사용자 인증 절차를 우회하는 등의 SQL 문을 생성하여 서버의 DB를 공격하는 기법이다.",
+        "준비된 명령문(prepared statement) 등을 이용하는 안전한 코딩 기법을 활용하여 SQL 인젝션 공격을 감소시킬 수 있다.",
+        "SQL 인젝션 공격에 대응하는 방법으로는 클라이언트부터 전달된 입력값을 점검없이 SQL문으로 변환하지 않고 DBMS에서 처리될 수 있는 특수문자가 포함되어 있는지 검사하는 방법이 있다.",
+        "SQL 인젝션 공격에 대응하는 방법으로 허용되지 않는 입력값에 대한 블랙리스트 방식으로 차단하는 방법을 사용하는 것이 화이트리스트 방식보다 높은 보안성을 제공한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q253",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 관리자 페이지 노출 취약점을 제거하기 위한 점검방법으로 가장 적절하지 않은 것은?",
+      "options": [
+        "추측하기 쉬운 관리자 페이지 경로(/admin, /manager, /system 등) 접근을 시도하여 관리자 페이지가 노출되는지 확인한다.",
+        "추측하기 쉬운 포트(7001, 8080, 8443, 8888 등) 접속을 시도하여 관리자 페이지가 노출되는지 확인한다.",
+        "관리자 페이지 로그인 후 식별된 하위 페이지(/admin/main.asp, /admin/menu.html 등) URL을 새 세션에서 직접 입력하여 인증과정 없이 접근 가능한지 확인한다.",
+        "관리자 페이지 로그인 후 세션이 발행된 페이지의 리퀘스트를 취득하여 일정 시간이 지난 후에 재전송 시 정상 처리가 되는지 확인한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q254",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "전자 입찰 시 필요한 보안 요구사항과 거리가 먼 것은?",
+      "options": [
+        "비밀성",
+        "공평성",
+        "무결성",
+        "동시성",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q255",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장에서 설명하는 것은?",
+      "options": [
+        "이상행위 탐지시스템(FDS)",
+        "침입탐지시스템(IDS)",
+        "블록체인(Blockchain)",
+        "SET(Secure Electronic Transaction)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m55.gif"
+    },
+    {
+      "id": "infosec_engineer_q256",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 FTP 서버의 Bounce Attack에 대해 바르게 설명한 것은?",
+      "options": [
+        "분산 반사 서비스 거부 공격(DRDoS)으로 악용할 수 있다.",
+        "접근이 FTP의 PORT command를 악용하여 외부에서 직접 접근 불가능한 내부망 컴퓨터상의 포트에 FTP 서버를 통해 접근할 수 있다.",
+        "login id를 입력 후 다음 응답 코드를 줄 때까지의 반응 속도 차이를 이용하여 실제 계정이 존재하는지 여부를 추측할 수 있다.",
+        "active, passive 모드를 임의로 변경할 수 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q257",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장이 설명하는 스팸메일 대응 방안으로 가장 옳은 것은?",
+      "options": [
+        "procmail",
+        "Sender Policy Framework",
+        "Sanitizer",
+        "Spam Assassin",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m57.gif"
+    },
+    {
+      "id": "infosec_engineer_q258",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "DNS 서버가 알고 있는 모든 유형의 레코드를 리턴하고 DNS 관련 DoS(서비스 거부) 공격에 많이 이용되는 질의 유형은?",
+      "options": [
+        "NS",
+        "ANY",
+        "A",
+        "TXT",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q259",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 랜섬웨어(Rnasomware)에 대한 설명과 거리가 먼 것은?",
+      "options": [
+        "컴퓨터나 스마트폰에 저장된 파일을 암호화한 뒤 복호화 키를 주는 대가로 돈을 요구하는 악성 프로그램이다.",
+        "Browlock인 경우 수사 기관을 사칭한 뒤 허가받지 않은 사이트를 방문한 대가로 벌금을 지불하도록 유도하는 등의 피해가 발생한다.",
+        "암호 시스템인 RSA 서명을 위조해 암호화한 통신을 가로채는 악성 프로그램이다.",
+        "Cryptolocker인 경우 사용자의 파일에 강력한 암호화 알고리즘을 적용하여, 복호화 키에 대한 비용을 지불하지 않고는 파일 복구가 불가능하게 만드는 등의 피해가 발생한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q260",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "취약점 제거를 위해 보안사항을 고려하여 안전한 코드를 작성하였다. 다음 코드를 통해 차단할 수 있는 보안취약점은 무엇인가?",
+      "options": [
+        "SQL Injection 취약점",
+        "XSS(Cross Site Scripting)",
+        "부적절한 에러처리를 통해 정보 노출",
+        "경로 조작(Path Traversal) 취약점",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m60.gif"
+    },
+    {
+      "id": "infosec_engineer_q261",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 메시지 인증방식의 해시(HASH) 함수 사용 기법이 아닌 것은?",
+      "options": [
+        "키 공유 해시함수 사용",
+        "암호화된 해시함수 사용",
+        "공개키 암호체계에서 송신자 개인키 해시함수 사용",
+        "공개키 암호화된 해시함수 사용",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q262",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장에서 설명하고 있는 공개키 기반구조의 구성요소는?",
+      "options": [
+        "정책승인기관(Policy Approving Authority)",
+        "정책인증기관(Policy Certification Authority)",
+        "인증기관(Certification Authority)",
+        "등록기관(Registration Authority)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m62.gif"
+    },
+    {
+      "id": "infosec_engineer_q263",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "KDC를 이용한 키 분배 방식에 대한 설명 중 옳지 않은 것은?",
+      "options": [
+        "사용자들은 사전에 KDC와 마스터 키를 공유해야 한다.",
+        "사용자의 요청이 있는 경우, KDC는 일회용 세션키를 생성한다.",
+        "사용자들 간에는 사전에 공유한 비밀정보가 필요하지 않다.",
+        "KDC는 일회용 세션키를 사용자의 공개키로 암호화하여 전송한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q264",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 해시함수의 조건이 아닌 것은?",
+      "options": [
+        "압축",
+        "일방향",
+        "생일공격",
+        "충돌회피",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q265",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 전자상거래에서 이중서명에 대한 설명으로 잘못된 것은?",
+      "options": [
+        "카드결제에서 계좌정보나 구매물품 목록의 노출을 방지하는 효과가 있다.",
+        "이중서명의 검증은 위변조 여부 확인일 뿐 사용자 인증은 포함되지 않는다.",
+        "판매자가 결제정보를 위변조하는 것을 방지한다.",
+        "이중서명에 대한 검증은 판매자가 수행한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q266",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "Rabin 암호시스템에서 암호문의 제곱근을 구하여 복호화하면 평문 후보가 몇 개 나오는가?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q267",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음은 접근 통제 모델에 대한 설명이다. ㉠~㉢에 들어갈 말을 옳게 나열한 것은?",
+      "options": [
+        "㉠ RBAC, ㉡ MAC, ㉢ DAC",
+        "㉠ RBAC, ㉡ DAC, ㉢ MAC",
+        "㉠ DAC, ㉡ MAC, ㉢ RBAC",
+        "㉠ MAC, ㉡ DAC, ㉢ RBAC",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m67.gif"
+    },
+    {
+      "id": "infosec_engineer_q268",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 ACL(Acces Control List)에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "어떤 사용자들이 ACL 타켓에서 어떤 행위를 할 수 있는지 나타낸다.",
+        "ACL은 관련된 객체에 대하여 접근 행렬에서 열의 내용을 반영한다.",
+        "접근 권한의 취소가 쉽다.",
+        "개시자 또는 개시자의 그룹이 다수일 때 편리하다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q269",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 전자서명의 특징으로 볼 수 없는 것은?",
+      "options": [
+        "위조불가",
+        "부인불가",
+        "데이터 불법유출 불가",
+        "변경불가",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q270",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "8차 기약 다항식으로 만든 LFSR(Linear Feedback Shift Register)의 출력이 가질 수 있는 주기는 어느 것인가?",
+      "options": [
+        "8",
+        "16",
+        "17",
+        "127",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q271",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 '커버로스(Kerberos)'의 세 가지 요소에 속하지 않는 것은?(오류 신고가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
+      "options": [
+        "사용자",
+        "클라이언트",
+        "SSO(Single Sign On)서버",
+        "서버",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q272",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "해시(HASH)된 패스워드를 알아내기 위한 레인보우 테이블 공격을 방어하기 위해 암호에 추가된 임의의 값은 무엇인가?",
+      "options": [
+        "Hash",
+        "Salt",
+        "Extender",
+        "Rebar",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q273",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 AES-CCM 운영모드의 특징이 아닌 것은?",
+      "options": [
+        "암호화 블록의 크기가 128bit 이다.",
+        "메시지 인증은 GHASH를 사용한다.",
+        "패딩(Padding)이 불필요하다.",
+        "인증 암호화 운영모드에 해당된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q274",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 키 분배(Key Distriution) 프로토콜과 관련 없는 것은?",
+      "options": [
+        "키 분배 센터(KDC, Key Distriution Center)는 비밀키를 만들어서 대칭키 암호화 통신을 원하는 사람들에게 키를 나누어 주는 역할을 한다.",
+        "키를 분배 받는 모든 사람은 키 분배 센터(KDC, Key Distriution Center)를 신뢰해야 한다.",
+        "같은 키를 소유하는 관련된 사용자들은 관리기관(TA, Trusted Authority)을 제외하고는 정보가 누설되지 않도록 하여 비밀정보를 보호해야 한다.",
+        "키 관리기관은 사내 사용자가 담당하는 역할에 근거하여 자원에 대한 접근을 관리한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q275",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 접근통제의 원칙에 대한 설명으로 올바르지 않은 것은?(문제 오류로 확정답안 발표시 모두 정답처리 되었습니다. 여기서는 1번을 누르면 정답 처리 됩니다.)",
+      "options": [
+        "시스템 주체에게 권한을 부여할 때에는 조직의 업무효율을 떨어뜨리지 않게 주체의 업무에 필요로 하는 만큼 충분한 권한이 부여되어야 한다.",
+        "경영자나 관리자 한 사람이 업무의 발생, 승인, 변경, 확인, 배포 등을 처음부터 끝까지 처리할 수 없도록 해야 한다.",
+        "보안정책에 따른 접근 허용된 주체와 주체의 접근 가능한 접근통제 규칙을 설정하고, 접근규칙에 해당하지 않는 모든 접근에 대해서는 위반으로 간주한다.",
+        "금지된 주체와 객체의 리스트들에 대해서 미리 접근통제 규칙을 설정하고, 접근 통제 규칙에 설정되지 않은 모든 접근에 대해서는 허용한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q276",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장은 송신자 “A”가 수신자 “B”에게 메시지를 보낼 때, 발생할 수 있는 보안 위협에 대응하는 보안기술을 설명한 것이다. 각각의 보안서비스로 알맞게 나타낸 것은?",
+      "options": [
+        "ㄱ. 기밀성, ㄴ. 인증, ㄷ. 무결성",
+        "ㄱ. 가용성, ㄴ. 무결성, ㄷ. 기밀성",
+        "ㄱ. 부인봉쇄, ㄴ. 가용성, ㄷ. 무결성",
+        "ㄱ. 무결성, ㄴ. 인증, ㄷ. 기밀성",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m76.gif"
+    },
+    {
+      "id": "infosec_engineer_q277",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장은 어떤 인증기법을 설명하고 있는가?",
+      "options": [
+        "IEEE 802.1x",
+        "IEEE 802.11i",
+        "Wifi Protected Acces",
+        "Extensible Authentication Protocol",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m77.gif"
+    },
+    {
+      "id": "infosec_engineer_q278",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 Kerberos V4의 단점을 개선한 Kerberos V5의 장점으로 옳지 않은 것은 무엇인가?",
+      "options": [
+        "Kerberos V4는 암호화 시스템으로 DES 만을 사용하였지만, Kerberos V5는 모든 종류의 암호화 시스템을 사용할 수 있다.",
+        "Kerberos V4는 인터넷 프로토콜(IP) 주소 외에 다른 특정 네트워크 주소를 사용하지 못하였지만, Kerberos V5는 어떤 유형의 네트워크 주소로 사용될 수 있다.",
+        "Kerberos V4는 인증서버로부터 클라이언트로 가는 메시지에 패스워드에 기초한 키로 암호화된 내용물을 포함하고 있어 패스워드 공격(Password attacks)에 취약하였으나, Kerberos V5는 메시지에 암호화된 내용을 포함하지 않아 패스워드 공격에 취약하지 않다.",
+        "Kerberos V4의 티켓 유효기간(Ticket lifetime)의 값은 최대 시간이 제한되어 있었으나, Kerberos V5는 유효기간이 따로 없다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q279",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음은 무엇에 대한 설명인가?",
+      "options": [
+        "타원 곡선 전자 서명",
+        "DSS",
+        "RSA",
+        "KCDSA",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m79.gif"
+    },
+    {
+      "id": "infosec_engineer_q280",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음에서 설명하는 블랙암호 알고리즘은 무엇인가?",
+      "options": [
+        "SEED",
+        "HIGHT",
+        "ARIA",
+        "TDEA",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m80.gif"
+    },
+    {
+      "id": "infosec_engineer_q281",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "개인정보의 가명·익명처리 시 개인정보 일부 또는 전부를 대체하는 일반화 방법으로 다음 설명에 해당되는 기술은?",
+      "options": [
+        "상하단코딩(Top and bottom coding)",
+        "제어 라운딩(Controlled rounding)",
+        "랜덤 라운딩(Random rounding)",
+        "일반 라운딩(Rounding)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q282",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 전기통신사업자와 전기통신사업자의 전기통신역무를 이용하여 정보를 제공하거나 정보의 제공을 매개하는 자로서, 정보보호 관리체계 인증을 의무적으로 받아야 할 대상이 아닌 것은?",
+      "options": [
+        "집적정보통신시설 사업자",
+        "정보통신서비스 부문 3개월간 일일평균 이용자수 100만명 이상인 사업자",
+        "정보통신서비스 부문 100억원 이상인 사업자",
+        "연간 매출액 또는 세입 등이 1,000억원 이상인 사업자",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q283",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 정보보호 교육과 관련한 설명으로 잘못된 것은?",
+      "options": [
+        "교육의 시기, 기간, 대상, 내용, 방법 등의 내용이 포함된 연간 정보보호 교육 계획을 술비하면서, 대상에는 정보보호 관리체계 범위 내 임직원을 포함시켜야 하고, 외부용역 인력은 제외해도 무방하다.",
+        "교육에는 정보보호 및 정보보호 관리 체계 개요, 보안사고 사례, 내부 규정 및 절차, 법적 책임 등의 내용을 포함하고 일반 임직원, 책임자, IT 및 정보보호 담당자 등 각 직무별 전문성 제고에 적합한 교육내용 및 방법을 정하여야 한다.",
+        "연 1회 이상 교육을 시행하고 정보보호 정책 및 절차의 중대한 변경, 조직 내외부 보안사고 발생, 관련 법규 변경 등의 사유가 발생할 경우 추가 교육을 수행해야 한다.",
+        "교육 내용에는 구성원들이 무엇을 해야 하며, 어떻게 할 수 있는지에 대한 것을 포함해야 하며, 가장 기본적인 보안 단계의 실행에서부터 좀 더 고급의 전문화된 기술에 이르기까지 다양한 단계로 나누어 구성할 수 있다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q284",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 클라우드 SaaS 서비스 중 반드시 클라우드 보안인증 표준등급으로 인증 받아야되는 서비스가 아닌 것은?",
+      "options": [
+        "전자결재 서비스",
+        "개인정보 유통 보안 서비스",
+        "소프트웨어 개발환경(개발, 배포, 운영, 관리 등)",
+        "이메일/메신저 서비스",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q285",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 정보보호 대책 구현에 관한 설명으로 올바르지 않은 것은?",
+      "options": [
+        "효율적인 대책선정을 위해서는 위험분석 결과를 고려하여야 한다.",
+        "대책 선정에 있어 고려해야 할 중요한 요소 중 하나는 비용이다.",
+        "대부분의 대책들이 복합적인 기능 즉 감지, 억제, 방어, 제한, 교정 등을 수행할 수 있기 때문에 복수의 기능을 만족시키는 대책을 선택하는 것이 비용측면에서 효율적이다.",
+        "대책이 사용될 수 있는 영역은 물리적, 기술적 환경에 한정하여야 하며, 관리적 분야 즉 인적, 행정 분야 등에는 적용하지 않는다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q286",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "정보통신 서비스 제공자가 이용자의 컴퓨터나 모바일 등에 영리목적의 광고성 프로그램 등을 설치할 경우 준수해야 하는 사항으로 옳지 않은 것은?",
+      "options": [
+        "정보통신서비스 제공자는 영리목적의 광고성 정보가 보이는 프로그램을 이용자의 컴퓨터나 모바일에 설치하려면 이용자의 동의를 받아야 한다.",
+        "정보통신서비스 제공자는 영리목적의 개인정보를 수집하는 프로그램을 이용자의 컴퓨터나 모바일에 설치하려면 이용자의 동의를 받아야 한다.",
+        "정보통신서비스 제공자는 영리목적의 광고성 정보가 보이는 프로그램의 용도와 삭제 방법을 고지하여야 한다.",
+        "정보통신서비스 제공자는 영리목적의 광고성 정보를 편리하게 차단하거나 신고할 수 있는 소프트웨어나 컴퓨터프로그램을 개발하여 보급하여야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q287",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "정보보호 조직 구성원의 역할과 책임에 대한 설명으로 틀린 것은?",
+      "options": [
+        "최고 경영자 : 정보보호를 위한 총괄책임이 있다.",
+        "데이터 관리자 : 정보자산에 대한 책임을 보유한 현업 관리자이다.",
+        "프로세스 관리자 : 해당 정보 시스템에 대한 조직의 정보보호 정책에 따라 적절한 보안을 보증할 책임이 있다.",
+        "사용자 : 조직의 정보보호 정책에 따라 수립된 절차를 준수할 책임이 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q288",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 개인정보처리자가 내부관리계획을 수립·시행할 때 반드시 포함되어야 하는 사항이 아닌 것은?",
+      "options": [
+        "개인정보보호책임자 지정에 관한 사항",
+        "개인정보취급자 상/벌에 관한 사항",
+        "개인정보 암호화 조치에 관한 사항",
+        "개인정보처리시스템 접근통제에 관한 사항",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q289",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 정보통신기반보호위원회에 대한 설명으로 틀린 것은?",
+      "options": [
+        "주요정보통신기반시설의 보호에 관한 사항을 심의하기 위하여 국무총리 소속하에 정보통신기반보호위원회를 구성한다.",
+        "정보통신기반보호위원회 위원장은 국무총리가 되고, 위원회의 위원은 대통령령으로 정하는 중앙행정기관의 차관급 공무원과 위원장이 위촉하는 사람으로 한다.",
+        "정보통신기반보호위원회의 효율적인 운영을 위하여 위원회에 공공분야와 민간분야를 각각 담당하는 실무위원회를 둔다.",
+        "정보통신기반보호위원회의 위원은 위원장 1인을 포함한 25인 이내의 위원으로 구성한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q290",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 무장의 내용을 포함하는 지침으로 가장 적합한 것은?",
+      "options": [
+        "문서관리 지침",
+        "위험평가관리 지침",
+        "침해사고대응 지침",
+        "업무연속성관리 지침",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m90.gif"
+    },
+    {
+      "id": "infosec_engineer_q291",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 개인정보 처리자가 정보주체에게 사유를 알리고 열람을 제한허가나 거절할 수 있는 경우로 옳지 않은 것은?",
+      "options": [
+        "법률에 따라 열람이 금지되거나 제한되는 경우",
+        "다른 사람의 생명, 신체를 해할 우려가 있거나 다른 사람의 재산과 그 밖의 이익을 부당하게 침해할 우려가 있는 경우",
+        "공공기관의 개인정보를 처리하지 아니하면 다른 법률에서 정하는 소관 업무를 수행할 수 없는 경우",
+        "공공기관의 학력 및 채용에 관한 시험, 자격 심사에 관한 업무를 수행할 때 중대한 지장을 초래하는 경우",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q292",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 정량적 분석의 장점이 아닌 것은?",
+      "options": [
+        "위험평가 결과가 금전적 가치, 백분율, 확률 등으로 표현되어 이해가 쉽다.",
+        "위험관리 성능평가가 용이하다.",
+        "정보자산의 가치가 논리적으로 평가되고 화폐로 표현되어 이해가 쉽다.",
+        "비용대비 이익을 평가할 필요가 없다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q293",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "재해복구 시스템의 유형과 복구목표 시간(RTO, Recovery Time Objective)의 설명이 틀린 것은?",
+      "options": [
+        "미러 사이트 : 즉시",
+        "핫 사이트 : 수시간 이내",
+        "웜 사이트 : 수일 ~ 수주",
+        "콜드 사이트 : 수일 ~ 수주",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q294",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 개인정보보호 관련 법률과 그 소관 부처가 올바르게 짝지어진 것은?",
+      "options": [
+        "개인정보 보호법 - 법무부",
+        "위치정보의 보호 및 이용 등에 관한 법률 - 국방부",
+        "지방공기업법 - 국토교통부",
+        "전자서명법 – 과학기술정보통신부",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q295",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음의 업무를 모두 수행하는 기관은?",
+      "options": [
+        "정보공유·분석센터",
+        "한국인터넷진흥원",
+        "관리기관",
+        "지식정보보안 컨설팅업체",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m95.gif"
+    },
+    {
+      "id": "infosec_engineer_q296",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "정량적 위험분석의 방법론 중 다음 문장에서 설명한 방법으로 알맞은 것은?",
+      "options": [
+        "연간예상손실법",
+        "과거자료 분석법",
+        "수학공식 접근법",
+        "확률 분포법",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m96.gif"
+    },
+    {
+      "id": "infosec_engineer_q297",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "정보보호 관리체계는 정보보호를 스스로, 체계적으로, 지속적으로 하기 위해 3가지 요소가 필요하다. 관련이 적은 것은?",
+      "options": [
+        "정보보호 조직과 인력",
+        "정보보호 사업의 추진과 예산 배정",
+        "정보보호 규정에 기반한 전사적인 정보보호 활동",
+        "정보보호 운영에 필요한 보안 솔루션",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q298",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 중 100만명 미만의 정보주체에 관한 개인정보를 보유한 중소기업의 내부관리계획의 내용에 포함하지 않아도 될 내용은 무엇인가?",
+      "options": [
+        "개인정보 보호책임자의 지정에 관한 사항",
+        "개인정보 유출사고 대응 계획 수립·시행에 관한 사항",
+        "개인정보의 암호화 조치에 관한 사항",
+        "개인정보 처리업무를 위탁하는 경우 수탁자에 대한 관리 및 감독에 관한 사항",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q299",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "인터넷에 공개된 서버를 운영하는 경우 적절하지 못한 보안 방법은?",
+      "options": [
+        "공개서버를 운영하는 경우 이에 대한 보호대책을 수립·이행한다.",
+        "공개서버는 내부 네트워크의 서버팜 영역에 설치하고 침입차단 시스템 등 보안시스템을 통해 보호한다.",
+        "공개서버에 개인정보 및 중요정보를 게시하거나 저장하여야 할 경우 책임자 승인 등 허가 및 게시절차를 수립·이행한다.",
+        "조직의 중요정보가 웹사이트 및 웹서버를 통해 노출되고 있는지 여부를 주기적으로 확인하여 중요정보 노출을 인지한 경우 이를 즉시 차단하는 등의 적절한 조치를 취한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q300",
+      "subject": "정보보안기사",
+      "round": "2022-03-13 기출",
+      "question_text": "다음 문장은 위험관리를 위한 위험 처리 방안 중 어떤 방안을 설명한 것인가?",
+      "options": [
+        "위험 수용",
+        "위험 제거",
+        "위험 전이",
+        "위험 회피",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20220313/ccw20220313m100.gif"
+    },
+    {
+      "id": "infosec_engineer_q301",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "NTFS 파일 시스템의 메타 데이터 해당하지 않는 것은?",
+      "options": [
+        "$MFT",
+        "$Logfile",
+        "$Volume",
+        "$Bios",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q302",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문에서 설명하는 공격은 무엇인가?",
+      "options": [
+        "힙 오버플로우 공격",
+        "레이스 컨디션 공격",
+        "스택 오버플로우 공격",
+        "코드 기반 공격",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m2.gif"
+    },
+    {
+      "id": "infosec_engineer_q303",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "리눅스에서 새로 생성되는 사용자 계정의 홈 디렉터리는 .bashrc 등과 같이 모든 사용자가 필요로 하는 파일들을 만들어줄 필요가 있다. 이러한 공통 파일들을 미리 만들어 특정 디렉터리에 넣어두면 사용자 계정 생성 시 자동복사 되도록 설정할 수 있는데, 이러한 용도의 디렉터리는 무엇인가?",
+      "options": [
+        "/etc/init",
+        "/etc/services",
+        "/etc/login.defs",
+        "/etc/skel",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q304",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "2016년에 처음 발견되었으며 IP 카메라나 가정용 라우터와 같은 IoT 장치를 주요 공격 대상으로 삼는 DDoS 공격용 봇넷 악성코드는 무엇인가?",
+      "options": [
+        "님다",
+        "미라이",
+        "스턱스넷",
+        "SQL 슬래머",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q305",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문에서 설명하는 내용은 스푸핑 공격 중 어떤 공격에 해당하는가?",
+      "options": [
+        "DHCP 스푸핑",
+        "IP 스푸핑",
+        "DNS 스푸핑",
+        "ARP 스푸핑",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m5.gif"
+    },
+    {
+      "id": "infosec_engineer_q306",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "디지털저장매체 중 하드디스크 구조에서 물리적으로는 할당된 공간이지만 논리적으로는 사용할 수 없는 공간을 무엇이라고 하는가?",
+      "options": [
+        "슬랙",
+        "CHS",
+        "클러스터",
+        "확장 공간",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q307",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "윈도우 레지스트리 키 중에서 파일의 각 확장자에 대한 정보와 프로그램의 맵핑 정보가 저장된 키로 옳은 것은?",
+      "options": [
+        "HKEY_CLASSES_ROOT",
+        "HKEY_CURRENT_USER",
+        "HKEY_FILE_EXT",
+        "HKEY_LOCAL_MACHINE",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q308",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문에서 설명하고 있는 시스템 보안은?",
+      "options": [
+        "TPM",
+        "SRM",
+        "SAM",
+        "SID",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m8.gif"
+    },
+    {
+      "id": "infosec_engineer_q309",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "아래 지문의 척도들과 가장 관련성이 높은 보안 서비스는?",
+      "options": [
+        "기밀성",
+        "무결성",
+        "가용성",
+        "유지보수성",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m9.gif"
+    },
+    {
+      "id": "infosec_engineer_q310",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "IoT 위협 및 보안에 대한 설명으로 올바르지 않은 것은?",
+      "options": [
+        "홈가전 IoT 제품의 보안 요구사항에는 시큐어 코딩, 알려진 보안약점 및 취약점 제거, 최신 제3자(3rd party) 소프트웨어 사용 등이 있다.",
+        "홈캠, 네트워크 카메라 등의 네트워크 제품에 대한 주요 보안 위협에는 사진 및 동영상을 공격자의 서버 및 이메일로 전송하는 것이 있다. 이에 대한 원인으로는 접근통제 및 전송 데이터 보호의 부재가 있다.",
+        "시큐어 코딩이 적용되지 않은 스마트 홈가전 제품의 경우 입력 데이터 검증 및 표현, 보안 기능, 시간 및 상태, 에러처리 등에서 보안 취약점이 발생할 수 있다.",
+        "스마트 홈가전 제품의 데이터 기밀성 및 무결성을 위해 안전한 암호인 MD5, SHA-1 등의 사용이 권장된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q311",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "기존 파일 시스템에 새로운 파일 시스템을 하위 디렉터리로 연결하기 위해 사용하는 명령어는 무엇인가?",
+      "options": [
+        "mkfs",
+        "mount",
+        "fsck",
+        "mknod",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q312",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "㉠에 들어갈 내용으로 적절한 것은?",
+      "options": [
+        "해시 암호화 패스워드 파일",
+        "섀도(Shadow) 패스워드 파일",
+        "익명(Anonymity) 패스워드 파일",
+        "PAM(Pluggable Authentication Module) 패스워드 파일",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m12.gif"
+    },
+    {
+      "id": "infosec_engineer_q313",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "[그림1]은 어떤 리눅스 시스템에 존재하는 특정 /home 디렉터리와 그 아래에 존재하는 디렉터리 및 파일들의 속성 중 name, permission, user, group 등에 대한 정보만 요약한 것이며, [그림2]는 이 시스템에 존재하는 /etc/group 파일의 일부분이다. 이를 통하여 확인할 수 있는 파일 및 디렉터리의 permission에 관한 설명 중 올바르지 않은 것은?",
+      "options": [
+        "user1이란 사용자는 /home/user1 디렉터리로 이동할 수 있다",
+        "user2란 사용자는 exam.txt란 파일의 내용을 읽을 수 있다.",
+        "user3란 사용자는 exam.txt란 파일을 삭제할 수 있다.",
+        "시스템 내에 존재하는 user4란 사용자는 /home/user1 디렉터리로 이동할 수 없다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m13.gif"
+    },
+    {
+      "id": "infosec_engineer_q314",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "로그파일은?",
+      "options": [
+        "btmp",
+        "wtmp",
+        "syslog",
+        "messages",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m14.gif"
+    },
+    {
+      "id": "infosec_engineer_q315",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "랜섬웨어에 해당하지 않는 것은?",
+      "options": [
+        "페트야(Petya)",
+        "크립토월(CryptoWall)",
+        "워너크라이(WannaCry)",
+        "크립토재커(CryptoJacker)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q316",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "서버의 파일 시스템에 대한 시간 속성이 잘못 기술된 것은?",
+      "options": [
+        "mtime: 파일을 생성하거나 내용을 수정한 시간",
+        "atime: 최근 파일을 읽거나 실행시킨 시간",
+        "ctime: 파일 속성이 변경된 시간",
+        "rtime: 파일을 실시간 실행시킨 시간",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q317",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음에서 설명하고 있는 것은 무엇인가?",
+      "options": [
+        "sudo",
+        "PAM",
+        "Batch file",
+        "Shell script",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m17.gif"
+    },
+    {
+      "id": "infosec_engineer_q318",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "윈도우 NTFS 파일 시스템의 특징으로 옳지 않은 것은?",
+      "options": [
+        "파일과 폴더에 개별 권한을 설정할 수 있어 강력한 보안정책 설정이 가능하다.",
+        "이벤트 뷰어를 사용하여 MFT(Master File Table)의 내용을 확인할 수 있다.",
+        "FAT 파일 시스템에 없는 보안 속성(사용자 접근제어) 정보를 내장하고 있다.",
+        "파일 압축 및 암호화를 위한 구조를 갖는다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q319",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "rlogin 접속을 허용하는 설정 파일들로 올바르게 짝지어진 것은?",
+      "options": [
+        "/etc/hosts.allow, /etc/exports",
+        "/etc/hosts.allow, /.rhosts",
+        "/etc/hosts.equiv, /etc/exports",
+        "/etc/hosts.equiv, /.rhosts",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q320",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문에서 설명하고 있는 안전한 보안 인증 방식은?",
+      "options": [
+        "SSH(Secure Shell)",
+        "SAM(Secure Access Module)",
+        "SSO(Single Sign On)",
+        "PAM(Pluggable Authentication Module)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m20.gif"
+    },
+    {
+      "id": "infosec_engineer_q321",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "㉠에 들어갈 용어로 적절한 것은?",
+      "options": [
+        "Duplex Mode",
+        "MAC 변조",
+        "Promiscuous Mode",
+        "ARP",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m21.gif"
+    },
+    {
+      "id": "infosec_engineer_q322",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문에서 설명하는 공격 대응 방법은 무엇인가?",
+      "options": [
+        "DNS 라우팅",
+        "DNS 스푸핑",
+        "DNS 웜홀",
+        "DNS 싱크홀",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m22.gif"
+    },
+    {
+      "id": "infosec_engineer_q323",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "Firewall, IDS, IPS의 비교 중 올바른 것으로 짝지어진 것은?",
+      "options": [
+        "㉠, ㉢",
+        "㉡, ㉢",
+        "㉠, ㉣, ㉤",
+        "㉠, ㉢, ㉣",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m23.gif"
+    },
+    {
+      "id": "infosec_engineer_q324",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문에서 설명하는 용어는 무엇인가?",
+      "options": [
+        "HSM",
+        "비트라커",
+        "OTP",
+        "TCB",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m24.gif"
+    },
+    {
+      "id": "infosec_engineer_q325",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "침입차단시스템에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "패킷 필터링 방화벽은 패킷의 통과여부를 결정하기 위해 프로토콜 종류, 출발지 또는 목적지 IP 주소, TCP/UDP 포트 번호 등을 이용한다.",
+        "응용 게이트웨이 방식 방화벽은 내부망으로 패킷이 전송되는 것을 방지할 수 있으며 사용자 인증 기능도 제공할 수 있다.",
+        "상태 기반 패킷 검사(SPI) 방식 방화벽은 프로토콜 종류, 출발지 또는 목적지 IP 주소, TCP/UDP 포트 번호 외에 패킷의 데이터 부분에 대한 점검도 수행하지만, nmap 도구에 의해 ACK 스캔을 차단하지 못하는 단점이 있다.",
+        "심층 패킷 분석(DPI) 방식 방화벽은 패킷의 데이터 부분에 포함된 바이러스 등 악성코드를 검사할 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q326",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "서비스의 가용성과 성능뿐만 아니라 DDoS 공격 대응에도 효과적이서 최근 Anycast DNS가 많이 도입되어 있다. 다음 중 이 기술에 대해 잘못 설명한 것은?",
+      "options": [
+        "사용자가 접속에 사용하는 IP 주소의 패킷은 해당 주소를 갖는 가장 가까운 호스트로 라우팅된다.",
+        "주요 라우팅 프로토콜로 OSPF가 사용된다.",
+        "IPv4/IPv6 anycast 모두 적용 가능하다.",
+        "1.1.1.1이나 8.8.8.8 등의 Public DNS뿐만 아니라 kr root DNS 등이 대표적인 예이다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q327",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문에서 설명하는 시스템으로 옳은 것은?",
+      "options": [
+        "SIEM",
+        "UTM",
+        "EMS",
+        "ESM",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m27.gif"
+    },
+    {
+      "id": "infosec_engineer_q328",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "㉠, ㉡, ㉢, ㉣에 들어갈 내용으로 적절한 것은?",
+      "options": [
+        "㉠ LAND ㉡ SYN Flooding ㉢ Smurf ㉣ DoS",
+        "㉠ SYN Flooding ㉡ Smurf ㉢ LAND ㉣ Sniffing",
+        "㉠ SYN Flooding ㉡ LAND ㉢ Smurf ㉣ DoS",
+        "㉠ LAND ㉡ Smurf ㉢ SYN Flooding ㉣ Sniffing",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m28.gif"
+    },
+    {
+      "id": "infosec_engineer_q329",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "애플리케이션 계층 취약점을 이용하는 공격유형과 거리가 먼 것은?",
+      "options": [
+        "Heartbleed",
+        "Memcached DDoS",
+        "Meltdown, Spectre",
+        "Shell Shock",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q330",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "스푸핑 공격에 따른 침해사고 발생 시 네트워크 기반 증거의 출처 장비 중 물리적인 포트와 MAC 주소 간의 매핑을 저장하는 CAM 테이블을 포함하고 있으며, 조사관이 트래픽을 캡처하거나 저장할 수 있는 플랫폼을 갖는 장비는 무엇인가?",
+      "options": [
+        "방화벽",
+        "스위치",
+        "IDS",
+        "IPS",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q331",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문에서 설명하는 ICMP 메시지 타입은?",
+      "options": [
+        "Source Quench",
+        "Destination Unreachable",
+        "Time Exceeded",
+        "Parameter Problem",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m31.gif"
+    },
+    {
+      "id": "infosec_engineer_q332",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 중 파일을 안전하게 전송하기 위하여 SSH(Secure Shell)를 사용하는 프로토콜은?",
+      "options": [
+        "SFTP(Secure FTP)",
+        "TFTP(Trivial FTP)",
+        "FTPS(FTP-SSL)",
+        "HTTPS(HTTP-Secure)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q333",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "무선 네트워크 보안 프로토콜에 관한 다음 설명 중 틀린 것은?",
+      "options": [
+        "WEP, WPA, WPA2 모두 통신 기기들에 대한 인증과 메시지 암호화 기능을 제공한다.",
+        "WEP에서는 암호 강도가 높지 않은 RC4를 암호화 알고리즘으로 사용하였으며, AES 기반의 강력한 암호화 방식을 의무화한 것은 WPA에서부터이다.",
+        "WEP에서는 인증이나 암호화에 사전 공유키를 사용할 수 있지만, WPA나 WPA2에서처럼 동적으로 암호키를 변경하는 기능을 제공하지는 않는다.",
+        "WPA, WPA2 등에서는 WEP에는 없는 엔터프라이즈 모드를 제공하며, 엔터프라이즈 모드에서는 인증 및 키 관리 기능을 수행하는 중앙 서버를 이용할 수 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q334",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "네트워크 방화벽(Firewall)의 주요 기능과 거리가 먼 것은?",
+      "options": [
+        "접근 제어",
+        "로깅과 감사 추적",
+        "인증",
+        "개인정보 마스킹",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q335",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "Smurf 공격은 보통 라우터가 패킷을 받아서 다른 포트로 forwarding할 때 목적지 IP 주소의 네트워크 부분만 참조하고 라우팅 테이블을 검색하여 패킷을 전달하는 점을 이용한 공격 방법이다. Source IP 주소를 자신의 IP 주소가 아닌 공격대상 시스템의 IP 주소로 변조한 후 subnet의 broadcast 주소로 ICMP Echo Request를 보내면 이 패킷은 라우터를 거쳐서 특정 네트워크에 도착하여 모든 시스템이 받게 된다. 그러면 네트워크의 모든 시스템은 위조된 IP 주소로 ICMP Echo Reply 패킷을 전송하게 된다. 결과적으로 시스템은 Congestion 상태에 빠지게 되어 심각한 서비스 장애를 일으킨다. 이러한 공격 방법을 방지하기 위한 설명 중 내용이 적절하지 못한 것은?",
+      "options": [
+        "라우터에서 Direct Broadcast를 Disable시킨다.",
+        "IP Broadcast 주소로 도착한 ICMP 패킷에 대한 Reply를 금지시킨다.",
+        "라우터의 Ingress Filtering을 이용하여 Spoof된 패킷을 막는다.",
+        "65,535byte보다 큰 ICMP Echo 패킷을 IP Fragmentation을 이용하여 전송한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q336",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "VPN을 구현하는 프로토콜과 해당 프로토콜이 속하는 계층이 바르게 연결된 것은?",
+      "options": [
+        "L2TP – Data Link Layer",
+        "SSH – Session Layer",
+        "IPSec – Transport Layer",
+        "SSL – Network Layer",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q337",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "파일에 숨겨진 악성코드만 골라 막는 콘텐츠 보안 솔루션으로 파일을 분해해 악성파일 혹은 불필요한 파일을 제거하고 콘텐츠는 원본과 동일하게 새로운 파일을 만드는 솔루션은?",
+      "options": [
+        "CDR(Content Disarm & Reconstruction)",
+        "WAF(Web Application Firewall)",
+        "DLP(Data Loss Prevention)",
+        "스팸 필터 솔루션",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q338",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "침입 탐지에 대한 설명 중 옳은 것은?",
+      "options": [
+        "침입을 하는 전문적인 집단으로 CERT가 있다.",
+        "Honey pot을 이용하면 공격자의 행동 정보를 수집할 수 있다.",
+        "침입을 탐지 못하고, 통과시키는 것을 False Positive라고 한다.",
+        "내부 공격자의 위협을 줄이기 위해서는 보안 설정을 Blacklist 방식으로 해야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q339",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "올바르지 않은 것은?",
+      "options": [
+        "TCP SYN 플러딩 공격은 서버의 시스템 자원에 대한 공격이며, 일반 사용자들이 서버로 접속을 못하도록 하는 공격으로 서버 측의 대기 큐의 크기를 늘리는 방법이 대응 방안이 될 수 있다.",
+        "스머프 공격은 UDP 플러딩 공격으로 IP 주소의 브로드캐스트 주소대역을 이용한다.",
+        "Teardrop 공격은 IP 단편들이 서로 중첩되도록 IP 패킷 헤더를 조작해서 수신 측의 IP 패킷의 재조합 과정에서 오류를 발생시키도록 하는 공격이나, 최신 운영체제로의 업데이트로 문제를 해결할 수 있다.",
+        "HTTP GET 플러딩 공격은 공격자가 에이전트 다수에게 원격에서 명령을 보내어 동시에 특정 웹 페이지를 요청하는 형태로 공격이 이루어질 수 있으며, DDoS 공격 대응 장비에서 임계치 기반 방어 기법을 사용하면 해결에 도움이 된다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q340",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "아래의 결과를 보았을 때 이 네트워크는 어떠한 공격에 취약하다고 추측할 수 있는가?",
+      "options": [
+        "Land Attack",
+        "Smurf Attack",
+        "Syn Flooding Attack",
+        "Ping of Death Attack",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m40.gif"
+    },
+    {
+      "id": "infosec_engineer_q341",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문에서 설명하고 있는 API는?",
+      "options": [
+        "WebCrypto API",
+        "REST API",
+        "SOAP API",
+        "Indexing API",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m41.gif"
+    },
+    {
+      "id": "infosec_engineer_q342",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 중 DB 암호화 유형 중 애플리케이션의 수정 없이 사용될 수 있는 유형으로 올바르게 짝지어진 것은?",
+      "options": [
+        "Plug-In 유형 – API 유형",
+        "TDE 방식 – 파일 암호화",
+        "API 유형 – TDE 방식",
+        "Plug-In 유형 – 파일 암호화",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q343",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "CAPTCHA에 대한 설명으로 잘못된 것은?",
+      "options": [
+        "HIP(Human Interaction Proof) 기술의 일종이다.",
+        "웹사이트 회원가입 시 자동가입방지 등을 위해 사용된다.",
+        "튜링 테스트(Turing Test)라고도 부른다.",
+        "인공지능의 한계를 이용한 인증 기법이다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q344",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "XML 기반의 보안기술에 대한 설명 중 옳지 않은 것은?",
+      "options": [
+        "XML Signature – 무결성 및 부인방지 기능",
+        "XKMS – PKI 서비스 기능",
+        "SAML – 가용성 보장 기능",
+        "XACML – 접근제어 기능",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q345",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "WPKI에 대한 설명으로 적절하지 않은 것은?",
+      "options": [
+        "무선 인터넷 상에서의 인터넷 뱅킹, 사이버 주식 거래 시 외부 침입이나 정보 누출로부터 보호받을 수 있도록 하는 무선 인터넷 공개키 기반 구조이다.",
+        "PKI 기술의 핵심인 비밀성, 무결성 및 신원 확인과 부인방지 같은 서비스를 무선 환경에서 구현함으로써 무선 보안을 가능하게 한다.",
+        "모바일의 특성을 고려하지 않은 솔루션으로 무선 인터넷기기와 주고받는 데이터나 애플리케이션에 보안을 지원한다.",
+        "규격 내용은 전자서명, WTLS(Wireless Transport Layer Security) 인증서 프로파일, 인증서 DN(Distinguished Name), 인증서 및 알고리즘 관련 OID(Object Identifier) 등으로 구성되어 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q346",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "모바일 앱(App) 보안에 관한 내용으로 틀린 것은?",
+      "options": [
+        "서비스 지속성을 위해 루팅이나 탈옥된 단말에서도 서비스가 정상적으로 동작되어야 한다.",
+        "정상 기능 오동작이나 취약점을 통해 배터리 고갈, 과도한 트래픽 유발, 허가되지 않은 주소로 정보 전송 등이 되어서는 안 된다.",
+        "디컴파일 도구를 이용 시 실행파일을 소스코드로 쉽게 변환시킬 수 있으며, 이를 이용하여 앱 위변조 발생이 가능하다. 이를 예방하기 위해 난독화 도구를 사용하여 패키징한 후 배포해야 한다.",
+        "앱 설치 시 비정상적인 파일/디렉터리가 생성되지 않아야 하며, 실행 시에는 불필요한 접근 권한이 존재해서는 안된다. 또한 앱 삭제 시에는 관련된 파일이 완전히 삭제되어야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q347",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 중 메일 서버의 구성요소로만 이루어진 것은?",
+      "options": [
+        "MUA, MTA, SPF",
+        "MUA, URLBL, PGP",
+        "IMAP, MDA, POP3",
+        "SMTP, SPF, MTA",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q348",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음은 HTTP 프로토콜 중 Header 옵션에 대한 설명이다. 가장 알맞은 것은?",
+      "options": [
+        "Cookie",
+        "User-Agent",
+        "Cache-Control",
+        "Content-Length",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m48.gif"
+    },
+    {
+      "id": "infosec_engineer_q349",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "FTP Passive 모드에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "데이터 전송을 위해 1024번 이전 포트를 사용한다.",
+        "서버에서 클라이언트를 접속해야 하는 모순을 해결하기 위해 고안된 방식이다.",
+        "보안을 위해서는 서버에서 Passive 모드로 사용할 포트를 제한한다.",
+        "제어 전송을 위해 서버에서는 21번 포트를 사용한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q350",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "DNSSEC의 전자서명과 서명검증 절차를 지원하기 위하여 추가한 신규 리소스 레코드와 관련이 없는 것은?",
+      "options": [
+        "DNSCA",
+        "DNSKEY",
+        "RRSIG",
+        "NSEC/NSEC3",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q351",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "개발된 소스 코드를 살펴봄으로써 코드 상의 취약점을 찾는 방식은?",
+      "options": [
+        "Black Box Testing",
+        "White Box Testing",
+        "Green Box Testing",
+        "Brown Box Testing",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q352",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "메일 수신 서버 또는 웹 메일 서버로부터 전자우편 메시지를 자신의 컴퓨터 단말 장치로 전송받는 데 사용되는 프로토콜이 아닌 것은?",
+      "options": [
+        "IMAP(Internet Mail Access Protocol)",
+        "RTP(Realtime Transport Protocol)",
+        "POP(Post Office Protocol)",
+        "HTTP(HyperText Transfer Protocol)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q353",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "㉠, ㉡에 들어갈 용어로 올바르게 짝지어진 것은?",
+      "options": [
+        "㉠ 작업증명 ㉡ 채굴",
+        "㉠ 작업증명 ㉡ 송금",
+        "㉠ 지분증명 ㉡ 채굴",
+        "㉠ 지분증명 ㉡ 송금",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m53.gif"
+    },
+    {
+      "id": "infosec_engineer_q354",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "HWP, TXT, PDF, 도면 등 업무에 사용하는 파일을 암호화하여, 외부자는 물론 허가된 내부자에 의한 주요 정보유출을 원천 차단함으로써 기업 정보 유출을 막는 솔루션은?",
+      "options": [
+        "IPS(Intrusion Prevention System)",
+        "DRM(Digital Rights Management)",
+        "ESM(Enterprise Security Management)",
+        "VPN(Virtual Private Network)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q355",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 중 SSO에 대한 설명으로 적절하지 못한 것은?",
+      "options": [
+        "하나의 아이디로 여러 사이트를 이용할 수 있는 시스템이다.",
+        "싱글사인온(SSO)을 사용하면 응용서비스 로그인 시간을 줄여준다.",
+        "SSO를 이용하면 개별 애플리케이션 단위로 동일한 암호를 설정하게 되므로 편리하기는 하지만 보안의 입장에서는 권장하지 않는다.",
+        "SSO 솔루션을 통해 직원이 어디서 어떤 응용서비스에 접속하여 무엇을 하는지에 대한 로그정보 저장이 가능하다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q356",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "디지털 포렌식의 원칙 중 어느 원칙에 대한 설명인가?",
+      "options": [
+        "연계보관성의 원칙",
+        "정당성의 원칙",
+        "무결성의 원칙",
+        "재현의 원칙",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m56.gif"
+    },
+    {
+      "id": "infosec_engineer_q357",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문이 설명하는 소프트웨어 보안 약점을 고르면?",
+      "options": [
+        "크로스사이트 요청 위조 공격(CSRF)",
+        "크로스 사이트 스크립트(XSS)",
+        "경로 조작 및 자원 삽입",
+        "SQL 삽입",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m57.gif"
+    },
+    {
+      "id": "infosec_engineer_q358",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문에서 설명하는 것은?",
+      "options": [
+        "이상행위 탐지시스템(FDS)",
+        "침입탐지시스템(IDS)",
+        "블록체인(Blockchain)",
+        "SET(Secure Electronic Transaction)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m58.gif"
+    },
+    {
+      "id": "infosec_engineer_q359",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문의 빈칸 ㉠, ㉡에 들어갈 내용이 올바르게 짝지어진 것은?",
+      "options": [
+        "A의 공개키, B의 개인키",
+        "비밀키, A의 개인키",
+        "비밀키, B의 공개키",
+        "A의 개인키, B의 공개키",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m59.gif"
+    },
+    {
+      "id": "infosec_engineer_q360",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문에서 설명하는 보안 기술은 무엇인가?",
+      "options": [
+        "SOAP(Security Orchestration Automation Platform)",
+        "SOAR(Security Orchestration Automation and Response)",
+        "SIEM(Security Information and Events Management)",
+        "UEBA(User and Entity Behavior Analytics)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m60.gif"
+    },
+    {
+      "id": "infosec_engineer_q361",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문이 설명하고 있는 암호 공격방식은?",
+      "options": [
+        "암호문 단독 공격",
+        "기지 평문 공격",
+        "선택 평문 공격",
+        "선택 암호문 공격",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m61.gif"
+    },
+    {
+      "id": "infosec_engineer_q362",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "수동적, 능동적 공격 방식의 예가 올바르게 짝지어진 것은?",
+      "options": [
+        "①",
+        "②",
+        "③",
+        "④",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m62.gif"
+    },
+    {
+      "id": "infosec_engineer_q363",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "블록 암호 알고리즘을 사용하여 메시지 인증 코드(MAC)를 생성할 때 가장 적합한 블록 암호 모드는 무엇인가?",
+      "options": [
+        "CBC 모드",
+        "ECB 모드",
+        "OFB 모드",
+        "CTR 모드",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q364",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "인증 수단으로는 일반적으로 알고 있는 것, 자신의 모습, 가지고 있는 것, 위치하는 곳 등의 방식을 사용한다. 다음 인증 방식의 예로 옳지 않은 것은?",
+      "options": [
+        "알고 있는 것(something you know) - 사용자 아이디, 아이디에 해당하는 패스워드, OTP(One Time Password) 생성기",
+        "자신의 모습(something you are) - 지문, 망막, 홍채",
+        "가지고 있는 것(something you have) - 스마트 카드, 신분증",
+        "위치하는 곳(somewhere you are) - 사용자 IP 주소, 콜백(call back)",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q365",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 중 사용자 인증 및 개인 식별에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "사용자 인증 기술은 A가 B에게 자신이 A임을 확인시켜 줄 수 있는 기술이다.",
+        "개인 식별 기술은 B가 C에게 자신이 B가 아니라고 확인시켜 줄 수 있는 기술이다.",
+        "개인을 식별하는 방법으로 지문(생체정보), 보안 토큰(사용자 소유), 비밀번호(사용자 지식) 등이 사용될 수 있다.",
+        "사용자 인증서 보안 요구사항으로는 식별과 인증, 인가 및 책임추적성 등을 들 수 있다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q366",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 중 인증서 폐지 목록의 기본 영역에 포함되지 않는 것은?",
+      "options": [
+        "서명 알고리즘",
+        "발급자",
+        "버전",
+        "유효 기간",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q367",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음은 접근통제가 이루어지는 과정을 설명한 것이다. 빈칸 ㉠에 공통적으로 들어갈 용어는?",
+      "options": [
+        "상주엔진",
+        "접근통제 API",
+        "시스템호출",
+        "보안커널",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m67.gif"
+    },
+    {
+      "id": "infosec_engineer_q368",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "생체인식 기술이 가져야 할 보안 요구조건과 거리가 먼 것은?",
+      "options": [
+        "보편성(Universality)",
+        "구별성(Uniqueness)",
+        "일시성(Temporality)",
+        "획득성(Collectability)",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q369",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 중 전자서명의 요구사항으로 가장 적절하지 않은 것은?",
+      "options": [
+        "전자서명 생성이 비교적 용이해야 한다.",
+        "전자서명을 위조하는 것이 계산적으로 실행 불가능해야 한다.",
+        "기억장소에 전자서명의 복사본을 유지하는 것이 실용적이어야 한다.",
+        "위조와 부인을 방지하기 위하여 수신자에 대한 정보를 사용해야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q370",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 중 해시함수가 적용되는 분야를 모두 고른 것은?",
+      "options": [
+        "가, 나",
+        "가, 나, 라",
+        "가, 나, 다, 라",
+        "나, 라",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m70.gif"
+    },
+    {
+      "id": "infosec_engineer_q371",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음은 메시지 인증 절차를 설명한 것이다. 괄호 안에 들어 갈 단어가 순서대로 나열된 것은?",
+      "options": [
+        "a 송신자 - b 개인키 - c 송신자 - d 공개키",
+        "a 송신자 - b 개인키 - c 송신자 - d 개인키",
+        "a 수신자 - b 개인키 - c 수신자 - d 공개키",
+        "a 송신자 - b 공개키 - c 수신자 - d 개인키",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m71.gif"
+    },
+    {
+      "id": "infosec_engineer_q372",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "공개키 암호방식에 이용되는 이론적으로 풀기 어려운 수학 문제들은 대부분 소인수 분해 문제, 이산대수 문제, NP-complete 문제 등으로 분류할 수 있다. 다음 중 이산대수 문제에 기반한 공개키 알고리즘과 가장 거리가 먼 것은?",
+      "options": [
+        "ECC",
+        "Knapsack",
+        "DSA",
+        "ElGamal",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q373",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "패스워드는 사용자 인증에 흔히 사용되는 기법이지만 보안에 매우 취약한 문제가 있다. 다음 지문의 빈칸 ㉠에 들어갈 용어로 적절한 것은?",
+      "options": [
+        "핀(PIN)",
+        "패스프레이즈(Passphrase)",
+        "풀(Pool)",
+        "사전(Dictionary)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m73.gif"
+    },
+    {
+      "id": "infosec_engineer_q374",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "자신의 비밀을 노출하지 않으면서 자신이 비밀을 알고 있다는 것을 증명하는 인증 방법은?",
+      "options": [
+        "패스워드",
+        "영지식 인증",
+        "바이오매트릭스",
+        "시도-응답 인증",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q375",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문에서 설명하는 암호방식은?",
+      "options": [
+        "동형(Homomorphic) 암호화",
+        "형태보존(Format Preserving) 암호화",
+        "순서보존(Order Preserving) 암호화",
+        "블록체인(Block Chain) 암호화",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m75.gif"
+    },
+    {
+      "id": "infosec_engineer_q376",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "MAC에 대한 설명 중 잘못된 것은?",
+      "options": [
+        "메시지 인증은 메시지 송수신자 사이에 문서의 위⋅변조공격에 대한 대응 방안으로 활용한다.",
+        "MAC 생성에 키를 사용하는 해시함수가 널리 사용된다.",
+        "MAC 자체만으로는 재전송 공격에 취약하다.",
+        "메시지 인증은 송신자와 수신자의 안전하고 훼손되지 않는 Key 관리가 목표이다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q377",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 중 정보자원에 접근하기 위한 3단계 절차에 해당하지 않는 보안 요구사항은 무엇인가?",
+      "options": [
+        "식별(Identification)",
+        "인증(Authentication)",
+        "인가(Authorization)",
+        "책임추적성(Accountability)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q378",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "메시지 인증 코드의 구조적 제약사항에 따른 재전송 공격을 막는 방법과 거리가 먼 것은?",
+      "options": [
+        "Sequence Number",
+        "Hash",
+        "Nonce",
+        "Timestamp",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q379",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문에서 설명하는 것은?",
+      "options": [
+        "SSO(Single Sign On)",
+        "OAuth",
+        "OpenID",
+        "OIDC(OpenID Connect)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m79.gif"
+    },
+    {
+      "id": "infosec_engineer_q380",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 지문에서 설명하는 용어는 무엇인가?",
+      "options": [
+        "혼돈",
+        "확산",
+        "차분(Differential)",
+        "선형(Linear)",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m80.gif"
+    },
+    {
+      "id": "infosec_engineer_q381",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "정보를 전송하는 과정에서 송신자와 수신자가 해당 자원에 대한 사용이 정당한지를 확인하기 위한 절차를 무엇이라고 하는가?",
+      "options": [
+        "인증",
+        "인가(Authorization)",
+        "감사(Auditing)",
+        "관리",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q382",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 중 주요정보통신기반시설 관리기관이 취약점 분석⋅평가를 의뢰할 수 없는 기관은?",
+      "options": [
+        "「국가정보화기본법」 에 의한 한국정보화진흥원",
+        "「정보통신기반보호법」 에 의한 정보공유⋅분석센터",
+        "「정보보호산업의 진흥에 관한 법률」 에 따라 지정된 정보보호 전문서비스 기업",
+        "「정부출연연구기관 등의 설립⋅운영 및 육성에 관한 법률」 에 의한 한국전자통신연구원",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q383",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "이것은 영국표준협회(BSI)에서 만든 정보보호관리체계에 대한 표준으로, 최상의 정보보호관리를 위한 포괄적인 일련의 관리 방법에 대하여 요건 별로 해석해 놓은 규격으로, 기업이 고객 정보의 기밀성, 무결성, 가용성을 보장한다는 것을 공개적으로 확인하는 것이 목적이다. 이것은 현재 국제표준기구인 ISO에 의해 ISO 27000 시리즈로 발전하였다. 이것은 무엇인가?",
+      "options": [
+        "ITSEC(Information Technology Security Evaluation Criteria)",
+        "TCSEC(Trusted Computer System Evaluation Criteria)",
+        "CC(Common Criteria)",
+        "BS7799(British Standard 7799)",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q384",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "사이버 폭력의 특징이 아닌 것은?",
+      "options": [
+        "사이버 폭력 행위는 빠르게 확산된다.",
+        "익명성으로 인해 사이버 폭력 행위를 쉽게 하게 된다.",
+        "가해자를 찾아내기 쉽다.",
+        "자신도 모르는 사이에 사이버 폭력 행위를 할 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q385",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "개인정보보호법에서 정한 '민감정보'에 해당하지 않는 것은?",
+      "options": [
+        "장애 등급",
+        "지문 인증 방식에 사용되는 지문 정보",
+        "인종에 관한 정보",
+        "혈액형",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q386",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "위험분석 방법론으로 적절히 짝지은 것은?",
+      "options": [
+        "㉠ 확률분포법 ㉡ 순위결정법",
+        "㉠ 시나리오법 ㉡ 델파이법",
+        "㉠ 델파이법 ㉡ 확률분포법",
+        "㉠ 순위결정법 ㉡ 시나리오법",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m86.gif"
+    },
+    {
+      "id": "infosec_engineer_q387",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "개인정보의 가명정보 처리에 대한 설명으로 틀린 것은?",
+      "options": [
+        "개인정보처리자는 통계작성, 과학적 연구, 공익적 기록보존 등을 위하여 정보주체의 동의 없이 가명정보를 처리할 수 있다.",
+        "누구든지 특정 개인을 알아보기 위한 목적으로 가명정보를 처리해서는 아니 된다.",
+        "가명정보 및 가명정보를 원래의 상태로 복원하기 위한 추가 정보에 대하여 안전성 확보 조치는 개인정보처리자가 임의로 처리하여야 한다.",
+        "개인정보처리자는 가명정보를 처리하는 과정에서 특정 개인을 알아볼 수 있는 정보가 생성된 경우에는 즉시 해당 정보의 처리를 중지하고 지체 없이 회수⋅파기하여야 한다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q388",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "'위치정보'란 이동성 있는 물건 또는 개인이 특정한 시간에 존재하거나 존재하였던 장소에 관한 정보를 말한다. 다음 중 「위치정보보호를 위한 관리적⋅기술적 보호조치 권고」와 관련한 설명으로 적절하지 않은 것은?",
+      "options": [
+        "관리적⋅기술적 보호조치에 의해 보호되어야 하는 위치정보의 범위는 개인위치정보뿐 아니라 이동성 있는 물건의 위치정보를 포함한다.",
+        "위치 좌표값이 그 자체만으로는 특정인의 위치를 나타내지 못하나 통신단말기 번호 또는 단말기 소지자의 이름 등과 결합하여 특정인의 위치를 알 수 있을 때에는 개인위치정보로 볼 수 있다.",
+        "결합 가능한 정보들이 여러 DB로 분산되어 있거나 제휴회사 등이 별도로 보유하고 있더라도 서비스 제공을 위해 상호 결합될 가능성이 많다면 개인위치정보에 해당될 수 있다.",
+        "법인이나 단체 등의 위치정보도 개인위치정보 보호대상에 포함된다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q389",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "개인정보의 안전성 확보조치 기준에서 사용되는 용어 정의이다. 올바르지 않은 것은?",
+      "options": [
+        "'개인정보파일'이란 개인정보를 쉽게 검색할 수 있도록 일정한 규칙에 따라 체계적으로 배열하거나 구성한 개인정보의 집합물을 말한다.",
+        "'개인정보처리시스템'이란 개인정보를 처리할 수 있도록 데이터베이스시스템에 직접 접속하는 단말기를 말한다.",
+        "'바이오정보'란 지문, 얼굴, 홍채, 정맥, 음성, 필적 등 개인을 식별할 수 있는 신체적 또는 행동적 특징에 관한 정보로서 그로부터 가공되거나 생성된 정보를 포함한다.",
+        "'내부망'이란 물리적 망분리, 접근통제시스템 등에 의해 인터넷 구간에서의 접근이 통제 또는 차단되는 구간을 말한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q390",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음은 개인정보보호법상 개인정보의 처리기준 및 정보주체의 권리에 관한 설명이다. 설명이 가장 올바른 것은?",
+      "options": [
+        "주소불명 등으로 정보주체의 사전 동의를 받을 수 없는 경우로서 명백히 정보주체 또는 제3자의 급박한 생명, 신체, 재산의 이익을 위하여 필요하다고 인정되는 경우에 동의 없이 개인정보를 수집⋅이용할 수 있다.",
+        "개인정보처리자의 정당한 이익을 달성하기 위하여 필요한 경우로서 명백하게 정보주체의 권리보다 우선하는 경우에는 정보주체의 동의 없이 개인정보를 제3자에게 제공할 수 있다.",
+        "정보주체에게 재화나 서비스를 홍보하거나 판매를 권유하기 위하여 개인정보처리위탁에 대한 동의를 받으려는 때에는 정보주체가 이를 명확하게 인지할 수 있도록 알리고 동의를 받아야 한다.",
+        "개인정보보호법상 바이오정보(생체정보)는 민감정보에 해당하므로 건강정보와 마찬가지로 별도의 동의를 받아야 한다.",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q391",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "개인정보취급자 등의 금지행위에 관한 설명이다. 가장 부적절한 것은?",
+      "options": [
+        "정보보호 관리체계 인증 업무에 종사했던 자가 그 직무상 알게 된 비밀을 학생들에게 인증 업무 사례로 소개한 경우 형사처벌을 받을 수 있다.",
+        "보험회사의 직원이 친구의 부탁을 받고 친구에게 돈을 빌려간 채무자의 주소, 전화번호 등 연락처를 알려준 경우 형사처벌을 받을 수 있다.",
+        "회사의 개발업무에 종사하고 있는 직원이 학위논문 연구를 위해 고객의 개인정보의 일부를 노트북에 내려받아 실험한 것은 유출로 간주되지 않는다.",
+        "개인정보를 처리하던 자가 위계의 방법으로 개인정보처리에 관한 동의를 받는 경우 형사처벌을 받을 수 있다.",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q392",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "위험 처리 방안 중 보안 솔루션을 도입하여 보안 통제를 수립하는 방안에 해당하는 것은?",
+      "options": [
+        "위험 감소",
+        "위험 수용",
+        "위험 회피",
+        "위험 전가",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q393",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음 중 조직의 정보보호 조직체계와 역할 및 책임에 대한 사항으로 가장 부적절한 것은?",
+      "options": [
+        "정보보호 최고책임자 및 개인정보 보호책임자는 예산, 인력 등 자원을 할당할 수 있는 임원급으로 지정하고 관련 법령에 따른 자격요건을 충족하여야 한다.",
+        "모든 정보통신서비스제공자는 정보보호 최고책임자를 지정 및 신고하여야 한다.",
+        "조직 전반에 걸쳐 중요한 정보보호 및 개인정보 보호 관련사항에 대한 검토, 승인 및 의사결정(위험평가 결과, 내부감사 결과 등)을 할 수 있는 위원회를 구성하여 운영하여야 한다.",
+        "주요 직무를 수행하는 임직원 및 외부자를 주요 직무자로 지정하고, 주요 직무자를 최소한으로 지정하여 그 목록을 최신으로 관리하여야 한다.",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q394",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "위험관리 절차를 순서대로 배열한 것을 고르면?",
+      "options": [
+        "㉠ - ㉡ - ㉢ - ㉣ - ㉤",
+        "㉠ - ㉣ - ㉢ - ㉡ - ㉤",
+        "㉠ - ㉡ - ㉣ - ㉢ - ㉤",
+        "㉠ - ㉣ - ㉡ - ㉢ - ㉤",
+        ""
+      ],
+      "correct_answer": "2",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m94.gif"
+    },
+    {
+      "id": "infosec_engineer_q395",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "다음은 업무연속성 5단계 방법론 중 특정 단계를 설명한 것이다. 어떤 단계를 설명한 것인가?",
+      "options": [
+        "사업영향평가",
+        "위험분석",
+        "복구계획 수립",
+        "정보보호 대책 구현",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m95.gif"
+    },
+    {
+      "id": "infosec_engineer_q396",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "조직이 수행하는 모든 정보보호 활동의 근거가 되는 최상위 수준의 정보보호 정책 수립 시, 포함하여야 할 사항과 가장 거리가 먼 것은?",
+      "options": [
+        "조직의 정보보호 활동을 실행하기 위한 절차, 주기, 수행주체 등에 관한 사항",
+        "조직의 정보보호에 대한 최고경영자 등 경영진의 의지 및 방향",
+        "조직의 정보보호를 위한 역할과 책임, 대상과 범위에 관한 사항",
+        "조직이 수행하는 관리적, 기술적, 물리적 정보보호 활동의 근거",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q397",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "용어에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "'침해사고'란 정보통신망 또는 이와 관련된 정보 시스템을 공격하는 행위로 인하여 발생한 사태를 말한다.",
+        "'정보통신기반시설'이라 함은 국가안전보장⋅행정⋅국방⋅치안⋅금융⋅통신⋅운송⋅에너지 등의 업무와 관련된 전자적 제어⋅관리시스템 및 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」에 따른 정보통신망을 말한다.",
+        "'개인위치정보'라 함은 특정 개인의 위치정보(위치정보만으로는 특정 개인의 위치를 알 수 없는 경우에도 다른 정보와 용이하게 결합하여 특정 개인의 위치를 알 수 있는 것을 포함한다)를 말한다.",
+        "'개인신용정보'란 기업 및 법인에 관한 정보를 제외한 생존 여부와 상관없는 개인에 관한 신용정보로서 해당 정보의 성명, 주민등록번호 및 영상 등을 통하여 특정 개인을 알아볼 수 있는 정보만 말한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    },
+    {
+      "id": "infosec_engineer_q398",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "인증제도는?",
+      "options": [
+        "ISO 27001",
+        "ITSEC",
+        "CC",
+        "TCSEC",
+        ""
+      ],
+      "correct_answer": "3",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m98.gif"
+    },
+    {
+      "id": "infosec_engineer_q399",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "업무연속성 5단계 방법론 중 특정 단계를 설명한 것이다. 어떤 단계를 설명한 것인가?(문제 복원 오류로 95번 문제와 동일합니다. 정확한 문제 내용을 아시는분 께서는 오류신고를 통하여 내용 작성 부탁 드립니다.)",
+      "options": [
+        "사업영향평가",
+        "위험분석",
+        "정보보호 대책 구현",
+        "복구계획 수립",
+        ""
+      ],
+      "correct_answer": "1",
+      "image_url": "https://cbtbank.kr/images/ccw/ccw20210904/ccw20210904m99.gif"
+    },
+    {
+      "id": "infosec_engineer_q400",
+      "subject": "정보보안기사",
+      "round": "2021-09-04 기출",
+      "question_text": "“개인정보보호법”상의 “개인정보처리자의 개인정보 보호 원칙”에 관한 설명 중 가장 부적절할 것은?",
+      "options": [
+        "목적에 필요한 범위에서 최소한의 개인정보만을 적법하고 정당하게 수집한다.",
+        "정보주체의 사생활 침해를 최소화하는 방법으로 개인정보를 처리하여야 한다.",
+        "개인정보의 정확성, 완전성 및 최신성이 보장되도록 하여야 한다.",
+        "개인정보는 반드시 실명으로 처리되어야 한다.",
+        ""
+      ],
+      "correct_answer": "4",
+      "image_url": ""
+    }
+  ]
+}

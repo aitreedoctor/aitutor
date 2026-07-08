@@ -47,7 +47,10 @@ def classify_subject_via_ai(filename, first_page_text, api_key):
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
-            "temperature": 0.1
+            "temperature": 0.1,
+            "thinkingConfig": {
+                "thinkingBudget": 0
+            }
         }
     }
     
@@ -115,7 +118,10 @@ def generate_questions_from_text(text_chunk, subject, round_name, api_key):
         "contents": [{"parts": [{"text": prompt + "\n\n[교재 본문 텍스트]:\n" + text_chunk}]}],
         "generationConfig": {
             "temperature": 0.3,
-            "responseMimeType": "application/json"
+            "responseMimeType": "application/json",
+            "thinkingConfig": {
+                "thinkingBudget": 0
+            }
         }
     }
     
