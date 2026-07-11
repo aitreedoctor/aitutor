@@ -229,12 +229,28 @@ function handleDropdownAction(action, event) {
 
 async function resetStudentData() {
     try {
-        const studentId = state.studentProfile ? state.studentProfile.student_id : "student_4";
-        const res = await fetch(`/api/student/reset?student_id=${studentId}`, {
-            method: 'POST'
+        const studentId = state.studentProfile ? state.studentProfile.student_id : "web_student_user";
+        const res = await fetch('/api/student/reset', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({
+                student_id: studentId,
+                student_title: '대표님',
+                persona_type: '약초꾼',
+                user_worry: '시험 합격 및 진로 고민',
+                active_study_pack: 'tree_doctor_past'
+            })
         });
         if (res.ok) {
-            alert("학습 데이터가 초기화되었습니다.");
+            localStorage.removeItem('zeni_awakened');
+            localStorage.removeItem('zeni_user_photo');
+            localStorage.removeItem('zeni_chat_count');
+            localStorage.removeItem('zeni_past_story');
+            localStorage.removeItem('zeni_student_title');
+            localStorage.removeItem('zeni_persona_type');
+            localStorage.removeItem('zeni_user_worry');
+            
+            alert("학습 데이터와 세션이 성공적으로 초기화되었습니다.");
             location.reload();
         } else {
             alert("초기화 실패했습니다.");
