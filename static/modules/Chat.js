@@ -14,6 +14,8 @@ let audioCtx = null;
 let bgmOsc1 = null;
 let bgmOsc2 = null;
 let bgmGain = null;
+let noiseSource = null;
+let noiseGain = null;
 
 let masterGain = null;
 let audioDestination = null;
@@ -106,9 +108,6 @@ function connectToDestination(node) {
 }
 
 export function startBgm() {
-    const bgmChecked = document.getElementById('check-meditation-bgm')?.checked;
-    if (!bgmChecked) return;
-    
     try {
         if (!audioCtx) {
             audioCtx = new (window.AudioContext || window.webkitAudioContext)();
@@ -116,50 +115,50 @@ export function startBgm() {
         if (audioCtx.state === 'suspended') {
             audioCtx.resume();
         }
+
+        // Create White Noise Buffer for Real Tape Hiss (ASMR) - Pure Hiss, No Humming
+        const bufferSize = audioCtx.sampleRate * 2;
+        const noiseBuffer = audioCtx.createBuffer(1, bufferSize, audioCtx.sampleRate);
+        const output = noiseBuffer.getChannelData(0);
+        for (let i = 0; i < bufferSize; i++) {
+            output[i] = Math.random() * 2 - 1;
+        }
         
-        bgmOsc1 = audioCtx.createOscillator();
-        bgmOsc2 = audioCtx.createOscillator();
-        bgmGain = audioCtx.createGain();
+        noiseSource = audioCtx.createBufferSource();
+        noiseSource.buffer = noiseBuffer;
+        noiseSource.loop = true;
         
-        bgmOsc1.type = 'sine';
-        bgmOsc1.frequency.setValueAtTime(432, audioCtx.currentTime); // Healing Solfeggio frequency
+        const noiseFilter = audioCtx.createBiquadFilter();
+        noiseFilter.type = 'bandpass';
+        noiseFilter.frequency.setValueAtTime(1500, audioCtx.currentTime);
+        noiseFilter.Q.setValueAtTime(0.5, audioCtx.currentTime);
         
-        bgmOsc2.type = 'sine';
-        bgmOsc2.frequency.setValueAtTime(435, audioCtx.currentTime); // 3Hz difference for alpha/theta brainwave beat
+        noiseGain = audioCtx.createGain();
+        noiseGain.gain.setValueAtTime(0.0, audioCtx.currentTime);
+        noiseGain.gain.linearRampToValueAtTime(0.015, audioCtx.currentTime + 3.0);
         
-        const lowpass = audioCtx.createBiquadFilter();
-        lowpass.type = 'lowpass';
-        lowpass.frequency.setValueAtTime(200, audioCtx.currentTime); // Filter high buzzes
+        noiseSource.connect(noiseFilter);
+        noiseFilter.connect(noiseGain);
+        connectToDestination(noiseGain);
         
-        bgmGain.gain.setValueAtTime(0.0, audioCtx.currentTime);
-        bgmGain.gain.linearRampToValueAtTime(0.08, audioCtx.currentTime + 3.0); // Smooth fade-in
-        
-        bgmOsc1.connect(lowpass);
-        bgmOsc2.connect(lowpass);
-        lowpass.connect(bgmGain);
-        connectToDestination(bgmGain);
-        
-        bgmOsc1.start();
-        bgmOsc2.start();
+        noiseSource.start();
     } catch (e) {
         console.error("Failed to start synth BGM:", e);
     }
 }
 
 export function stopBgm() {
-    if (bgmGain && audioCtx) {
+    if (noiseGain && noiseSource && audioCtx) {
         try {
-            const currentGain = bgmGain.gain.value;
-            bgmGain.gain.cancelScheduledValues(audioCtx.currentTime);
-            bgmGain.gain.setValueAtTime(currentGain, audioCtx.currentTime);
-            bgmGain.gain.linearRampToValueAtTime(0.0, audioCtx.currentTime + 1.2);
+            const currentNoiseGain = noiseGain.gain.value;
+            noiseGain.gain.cancelScheduledValues(audioCtx.currentTime);
+            noiseGain.gain.setValueAtTime(currentNoiseGain, audioCtx.currentTime);
+            noiseGain.gain.linearRampToValueAtTime(0.0, audioCtx.currentTime + 1.2);
             
-            const osc1 = bgmOsc1;
-            const osc2 = bgmOsc2;
+            const nSource = noiseSource;
             setTimeout(() => {
                 try {
-                    osc1.stop();
-                    osc2.stop();
+                    nSource.stop();
                 } catch(err){}
             }, 1300);
         } catch(err){}
@@ -167,6 +166,8 @@ export function stopBgm() {
     bgmOsc1 = null;
     bgmOsc2 = null;
     bgmGain = null;
+    noiseSource = null;
+    noiseGain = null;
 }
 
 export async function speakGuidance(phrase) {
@@ -279,6 +280,7 @@ export function toggleIncense() {
     
     if (!isPlaying) {
         // Start playing tape
+        startBgm();
         reelLeft.classList.add('playing');
         reelRight.classList.add('playing');
         status.innerText = "재생 중 (3분)";
@@ -344,6 +346,8 @@ export function extinguishIncense(isCompleted = false) {
         incenseTimeout = null;
     }
     
+    stopBgm();
+    
     if (reelLeft) reelLeft.classList.remove('playing');
     if (reelRight) reelRight.classList.remove('playing');
     if (chatMsgs) chatMsgs.classList.remove('incense-active-glow');
@@ -359,7 +363,7 @@ export function extinguishIncense(isCompleted = false) {
     }
     
     if (btn) {
-        btn.innerHTML = "<i class='xi-lighting'></i> 향초 피우기";
+        btn.innerHTML = "<i class='xi-play'></i> 테이프 재생";
         btn.classList.replace('btn-secondary', 'btn-primary');
     }
     
@@ -367,262 +371,21 @@ export function extinguishIncense(isCompleted = false) {
 }
 
 export function checkChatAvailability() {
-    const queryCount = parseInt(localStorage.getItem('zeni_chat_count') || '0');
-    const chatInput = document.getElementById('chat-input');
-    const btnSendChat = document.getElementById('btn-send-chat');
-    const paywall = document.getElementById('chat-lantern-paywall');
-    
-    const isIncenseBurning = (incenseTimeout !== null);
-    
-    if (!isIncenseBurning) {
-        if (chatInput) {
-            chatInput.disabled = true;
-            chatInput.placeholder = "우측 '집중력 향상 카세트'를 재생하여 선배와 주파수를 먼저 연결해 주십시오...";
-        }
-        if (btnSendChat) btnSendChat.disabled = true;
-        if (paywall) paywall.style.display = 'none';
-    } else if (queryCount >= 5) {
-        if (chatInput) {
-            chatInput.disabled = true;
-            chatInput.placeholder = "공부 기류가 쇠하여 등불을 켜야 대화가 가능합니다...";
-        }
-        if (btnSendChat) btnSendChat.disabled = true;
-        if (paywall) paywall.style.display = 'block';
-    } else {
-        if (chatInput) {
-            chatInput.disabled = false;
-            chatInput.placeholder = "합격 선배와 1:1 상담을 시작하세요...";
-        }
-        if (btnSendChat) btnSendChat.disabled = false;
-        if (paywall) paywall.style.display = 'none';
-    }
+    // Stubbed - chat feature removed
 }
 
 export async function handleChatSubmit() {
-    const chatInput = document.getElementById('chat-input');
-    const msgText = chatInput.value.trim();
-    if (!msgText) return;
-    
-    chatInput.value = '';
-    
-    let queryCount = parseInt(localStorage.getItem('zeni_chat_count') || '0');
-    queryCount++;
-    localStorage.setItem('zeni_chat_count', queryCount.toString());
-    
-    const messagesDiv = document.getElementById('chat-messages');
-    
-    const systemMsg = messagesDiv.querySelector('.system-msg');
-    if (systemMsg) {
-        systemMsg.remove();
-    }
-    
-    const userMsg = document.createElement('div');
-    userMsg.className = 'msg-bubble student-msg';
-    userMsg.innerText = msgText;
-    messagesDiv.appendChild(userMsg);
-    messagesDiv.scrollTop = messagesDiv.scrollHeight;
-    
-    if (queryCount > 5) {
-        checkChatAvailability();
-        return;
-    }
-    
-    const loadingMsg = document.createElement('div');
-    loadingMsg.className = 'msg-bubble tutor-msg';
-    loadingMsg.id = 'chat-loading-bubble';
-    loadingMsg.innerHTML = `<i class="xi-spinner-5 xi-spin"></i> 수호신 AI Tutor가 영혼의 기류를 정돈하고 있습니다...`;
-    messagesDiv.appendChild(loadingMsg);
-    messagesDiv.scrollTop = messagesDiv.scrollHeight;
-    
-    try {
-        const response = await fetch('/api/tutor/chat', {
-            method: 'POST',
-            headers: {'Content-Type': 'application/json'},
-            body: JSON.stringify({ message: msgText })
-        });
-        const data = await response.json();
-        
-        const loader = document.getElementById('chat-loading-bubble');
-        if (loader) loader.remove();
-        
-        const tutorMsg = document.createElement('div');
-        tutorMsg.className = 'msg-bubble tutor-msg';
-        tutorMsg.innerHTML = safeMarkedParse(data.tutor_response);
-        messagesDiv.appendChild(tutorMsg);
-        
-        messagesDiv.scrollTop = messagesDiv.scrollHeight;
-        
-        checkChatAvailability();
-        
-    } catch (e) {
-        const loader = document.getElementById('chat-loading-bubble');
-        if (loader) loader.remove();
-        
-        const errMsg = document.createElement('div');
-        errMsg.className = 'msg-bubble tutor-msg';
-        errMsg.innerHTML = `⚠️ 영혼의 연결 통로가 희미해졌습니다. (${e.message})`;
-        messagesDiv.appendChild(errMsg);
-        messagesDiv.scrollTop = messagesDiv.scrollHeight;
-    }
+    // Stubbed - chat feature removed
 }
 
 export function triggerLanternPayment() {
-    const btn = document.querySelector('.voluntary-lantern-btn');
-    if (!btn) return;
-    btn.disabled = true;
-    btn.innerText = "등불 공명 중...";
-    
-    setTimeout(() => {
-        localStorage.setItem('zeni_chat_count', '0');
-        checkChatAvailability();
-        
-        const glow = document.getElementById('payment-glow-effect');
-        if (glow) {
-            glow.style.opacity = '1';
-            setTimeout(() => {
-                glow.style.opacity = '0';
-            }, 1500);
-        }
-        
-        const messagesDiv = document.getElementById('chat-messages');
-        const thankYouMsg = document.createElement('div');
-        thankYouMsg.className = 'msg-bubble tutor-msg';
-        thankYouMsg.innerHTML = safeMarkedParse(`### ⚡ 등불의 공명 (Lantern Awakening)
-네가 밝혀준 등불의 온기가 공부 책상 위로 따뜻하게 스며드는구나. 
-이 에너지를 느끼며 밤새 네 뒤를 지키마. 
-이제 다시 학습 기세를 다듬고 앞으로 나아가자. 어떤 개념이 헷갈리는지 선배에게 말해보거라.`);
-        if (messagesDiv) {
-            messagesDiv.appendChild(thankYouMsg);
-            messagesDiv.scrollTop = messagesDiv.scrollHeight;
-        }
-        
-        alert("등불 활성화 완료: 선배의 책상에 등불을 켰습니다. 5회의 추가 질문 기류가 충전되었습니다.");
-        if (btn) {
-            btn.disabled = false;
-            btn.innerText = "선배의 책상에 등불 켜기 (무료 충전)";
-        }
-    }, 1500);
+    // Stubbed - chat feature removed
 }
 
 export function toggleMiniMeditation() {
-    const circle = document.getElementById('mini-meditation-circle');
-    const text = document.getElementById('mini-meditation-text');
-    const instruction = document.getElementById('mini-meditation-instruction');
-    const btn = document.getElementById('btn-mini-meditation-toggle');
-    
-    if (!circle || !text || !instruction || !btn) return;
-    
-    const isRunning = miniMeditationInterval !== null;
-    
-    if (!isRunning) {
-        miniMeditationState = 0;
-        btn.innerHTML = "<i class='xi-pause'></i> 호흡 중단";
-        btn.classList.replace('btn-secondary', 'btn-danger');
-        
-        function runCycle() {
-            circle.classList.remove('inhale', 'hold', 'exhale');
-            
-            if (miniMeditationState === 0) {
-                circle.classList.add('inhale');
-                text.innerText = "들숨";
-                instruction.innerText = "숨을 천천히 들이쉬며 맑은 기운을 채우십시오. (4초)";
-                miniMeditationState = 1;
-            } else if (miniMeditationState === 1) {
-                circle.classList.add('hold');
-                text.innerText = "멈춤";
-                instruction.innerText = "숨을 멈추고 영혼의 흔적에 집중하십시오. (4초)";
-                miniMeditationState = 2;
-            } else {
-                circle.classList.add('exhale');
-                text.innerText = "날숨";
-                instruction.innerText = "가만히 숨을 내쉬며 어지러운 잡념을 비워내십시오. (4초)";
-                miniMeditationState = 0;
-            }
-        }
-        
-        runCycle();
-        miniMeditationInterval = setInterval(runCycle, 4000);
-    } else {
-        clearInterval(miniMeditationInterval);
-        miniMeditationInterval = null;
-        
-        circle.classList.remove('inhale', 'hold', 'exhale');
-        text.innerText = "준비";
-        instruction.innerText = "주파수 조율을 위한 4초 호흡 주기 훈련을 수행합니다.";
-        btn.innerHTML = "<i class='xi-play'></i> 호흡 시작";
-        btn.classList.replace('btn-danger', 'btn-secondary');
-    }
+    // Stubbed - meditation feature removed
 }
 
 export function toggleMainMeditation() {
-    const circle = document.getElementById('main-meditation-circle');
-    const text = document.getElementById('main-meditation-text');
-    const instruction = document.getElementById('main-meditation-instruction');
-    const btn = document.getElementById('btn-main-meditation-toggle');
-    
-    if (!circle || !text || !instruction || !btn) return;
-    
-    const isRunning = mainMeditationInterval !== null;
-    
-    if (!isRunning) {
-        mainMeditationState = 0;
-        isMeditationSessionActive = true;
-        btn.innerHTML = "<i class='xi-pause'></i> 호흡 중단";
-        btn.className = "btn btn-danger";
-        
-        startBgm();
-        
-        function runCycle() {
-            circle.style.transform = '';
-            circle.style.borderColor = 'rgba(6, 182, 212, 0.85)';
-            circle.style.background = 'radial-gradient(circle, rgba(6, 182, 212, 0.4) 0%, rgba(6, 182, 212, 0.05) 70%)';
-            circle.style.color = '#06b6d4';
-            
-            if (mainMeditationState === 0) {
-                circle.style.transform = 'scale(1.58)';
-                text.innerText = "숨 들이쉬기";
-                instruction.innerText = "아날로그 숲의 맑은 산소를 가슴속 깊이 채워 넣습니다.";
-                speakGuidance("숨을 천천히 들이마십니다.");
-                mainMeditationState = 1;
-            } else if (mainMeditationState === 1) {
-                circle.style.borderColor = 'rgba(212, 175, 55, 0.85)';
-                circle.style.background = 'radial-gradient(circle, rgba(212, 175, 55, 0.3) 0%, rgba(212, 175, 55, 0.05) 70%)';
-                circle.style.color = '#d4af37';
-                text.innerText = "숨 멈추기";
-                instruction.innerText = "단전 아래 모인 의식의 덩어리를 고요히 응시합니다.";
-                speakGuidance("가만히 숨을 멈춥니다.");
-                mainMeditationState = 2;
-            } else {
-                circle.style.transform = 'scale(0.85)';
-                circle.style.borderColor = 'rgba(239, 68, 68, 0.85)';
-                circle.style.background = 'radial-gradient(circle, rgba(239, 68, 68, 0.3) 0%, rgba(239, 68, 68, 0.05) 70%)';
-                circle.style.color = '#ef4444';
-                text.innerText = "숨 내쉬기";
-                instruction.innerText = "오개념과 성적에 대한 집착을 숲의 기류로 흘려보냅니다.";
-                speakGuidance("입으로 잡념을 길게 내뿜습니다.");
-                mainMeditationState = 0;
-            }
-        }
-        
-        runCycle();
-        mainMeditationInterval = setInterval(runCycle, 6000);
-    } else {
-        clearInterval(mainMeditationInterval);
-        mainMeditationInterval = null;
-        isMeditationSessionActive = false;
-        
-        stopBgm();
-        if (window.speechSynthesis) {
-            window.speechSynthesis.cancel();
-        }
-        
-        circle.style.transform = '';
-        circle.style.borderColor = '';
-        circle.style.background = '';
-        circle.style.color = '';
-        text.innerText = "준비";
-        instruction.innerText = "수험 잡념 정화를 위해 선배의 음성 안내와 함께 6초 정식 단전호흡을 시작합니다.";
-        btn.innerHTML = "<i class='xi-play'></i> 호흡 시작";
-        btn.className = "btn btn-primary";
-    }
+    // Stubbed - meditation feature removed
 }

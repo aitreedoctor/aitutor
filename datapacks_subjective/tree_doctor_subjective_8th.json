@@ -1,0 +1,227 @@
+{
+    "pack_name": "나무의사_실기_필답형_8회_기출_복원",
+    "questions": [
+        {
+            "id": "tree_8_1",
+            "subject": "수목병리학",
+            "question_text": "소나무 혹병(Pine gall rust)의 병원균과 녹병 포자 순환 상에서 겨울포자를 형성하는 대표적인 중간기주(참나무류) 수종 1가지를 적으시오.",
+            "points": 10,
+            "model_answer": "소나무 혹병의 중간기주는 졸참나무, 신갈나무 등 참나무과(Quercus) 식물입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "졸참나무",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "신갈나무",
+                        "참나무",
+                        "졸참",
+                        "신갈"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_8_2",
+            "subject": "수목병리학",
+            "question_text": "버즘나무 흰가루병과 오동나무 탄저병 등 식물 병원균 중에서 내구체인 균핵(Sclerotium)을 형성하여 토양이나 유기물에서 월동하는 대표적인 병해 종류 1가지를 적으시오.",
+            "points": 10,
+            "model_answer": "모잘록병(입고병) 또는 탄저병 등이 균핵 혹은 내구체를 형성합니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "모잘록병",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "입고병",
+                        "탄저병",
+                        "모잘록"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_8_3",
+            "subject": "수목관리학",
+            "question_text": "참나무시들음병(Oak wilt) 예방을 위해 매개충인 광릉긴나무조각의 탈출 및 우화 시기에 맞추어 수간 하부에 감아 매개충을 포획하는 물리적 방제 도구의 명칭을 쓰시오.",
+            "points": 10,
+            "model_answer": "끈끈이 롤트랩(끈끈이 트랩)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "끈끈이",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "롤트랩",
+                        "끈끈이 롤트랩",
+                        "끈끈이롤트랩",
+                        "방제 트랩"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_8_4",
+            "subject": "수목생리학",
+            "question_text": "토양 속의 물이 수목 뿌리에서 흡수되어 높은 침엽수 끝까지 상승할 수 있는 주된 구동력 3가지는 증산작용, 근압, 그리고 물 분자의 응집력입니다. 이때 물관 벽과 물 분자 사이에 작용하는 끌어당기는 힘의 명칭을 쓰시오.",
+            "points": 10,
+            "model_answer": "부착력(Adhesion)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "부착력",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "부착",
+                        "Adhesion",
+                        "adhesion"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_8_5",
+            "subject": "수목해충학",
+            "question_text": "소나무 가해 해충인 솔나방(Dendrolimus spectabilis)의 주요 월동 형태를 적으시오.",
+            "points": 10,
+            "model_answer": "유충(송충이) 형태로 나무껍질 틈이나 지표면 낙엽 밑에서 월동합니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "유충",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "송충이",
+                        "애벌레",
+                        "유충 형태"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_8_6",
+            "subject": "토양학",
+            "question_text": "토양 입자(점토, 유기물) 표면에 정전기적 힘으로 흡착된 칼슘, 마그네슘, 칼륨 등의 양이온이 식물 뿌리가 방출한 수소 이온 등과 교환될 수 있는 총 능력을 나타내는 약어를 쓰시오.",
+            "points": 10,
+            "model_answer": "CEC(양이온 교환 용량)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "CEC",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "cec",
+                        "양이온교환용량",
+                        "양이온 교환 용량",
+                        "양이온 교환용량"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_8_7",
+            "subject": "농약학",
+            "question_text": "농약용 살균제 중 병원균 균사의 세포막 구성 성분인 에르고스테롤(Ergosterol)의 생합성 경로에서 C14 탈메틸화를 저해하여 약효를 내는 대표적인 침투이행성 살균제 계열명을 적으시오.",
+            "points": 10,
+            "model_answer": "트리아졸계(Triazole, DMI 계열) 살균제입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "트리아졸",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "트리아졸계",
+                        "Triazole",
+                        "triazole",
+                        "DMI",
+                        "dmi"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_8_8",
+            "subject": "수목생리학",
+            "question_text": "수목의 사부(체관)를 통한 광합성 산물(유기양분)의 장거리 수송 메커니즘을 설명하는 대표적인 학설과, 이때 사부 내부를 통해 이동하는 주된 당(Sugar)의 수송 형태를 쓰시오.",
+            "points": 10,
+            "model_answer": "압류설(Pressure-flow hypothesis)과 비환원당인 설탕(자당, Sucrose) 형태로 수송됩니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "압류설",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "압류",
+                        "압류설(뮌히)",
+                        "뮌히의 압류설"
+                    ]
+                },
+                {
+                    "keyword": "설탕",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "자당",
+                        "Sucrose",
+                        "sucrose"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_8_9",
+            "subject": "수목관리학",
+            "question_text": "이식 수목의 활착률을 높이고 생리적 장해를 방지하기 위해 굵은 줄기 주위에 새끼줄이나 녹화마대를 감아주는 조치(수간보호)의 주요 예방 목적 2가지를 적으시오.",
+            "points": 10,
+            "model_answer": "줄기로부터의 수분 증발 억제 및 여름철 강한 직사광선에 의한 피소(Sunscald) 현상 예방입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "수분",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "건조 방지",
+                        "수분 증발",
+                        "탈수 방지",
+                        "건조 예방"
+                    ]
+                },
+                {
+                    "keyword": "피소",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "선스캘드",
+                        "Sunscald",
+                        "태양열 피해",
+                        "줄기 타는 현상",
+                        "피소 현상"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_8_10",
+            "subject": "수목병리학",
+            "question_text": "참나무류(신갈나무, 졸참나무 등)에 발생하여 급격한 시듦과 고사를 일으키는 참나무시들음병(Oak wilt)의 병원균 속명과 이 병원균을 매개하여 전파하는 매개충의 정확한 국명을 적으시오.",
+            "points": 10,
+            "model_answer": "라파엘라속(Raffaelea) 병원균과 매개충인 광릉긴나무조각입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "라파엘라",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "Raffaelea",
+                        "raffaelea",
+                        "라파엘라속"
+                    ]
+                },
+                {
+                    "keyword": "광릉긴나무조각",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "광릉긴나무조각하늘소",
+                        "광릉긴나무",
+                        "광릉긴나무좀"
+                    ]
+                }
+            ],
+            "is_ai": true
+        }
+    ]
+}

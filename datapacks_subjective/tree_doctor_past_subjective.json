@@ -1,0 +1,738 @@
+{
+    "pack_name": "나무의사_실기_필답형",
+    "questions": [
+        {
+            "id": "tree_sub_1",
+            "subject": "수목생리학",
+            "question_text": "엽록소(Chlorophyll) 합성 과정에서 필수적인 미량 원소 2가지를 적고, 마그네슘이 결핍되었을 때 발생하는 대표적인 잎의 황화 현상 위치(성숙엽 vs 황화엽/신엽)를 적으시오.",
+            "points": 10,
+            "model_answer": "필수 미량 원소는 마그네슘(Mg)과 철(Fe)이며, 결핍 시 황화 현상은 오래된 잎(성숙엽, 노엽)에서 먼저 발생합니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "마그네슘",
+                    "weight": 3.0,
+                    "synonyms": [
+                        "Mg",
+                        "mg",
+                        "Magnesium"
+                    ]
+                },
+                {
+                    "keyword": "철",
+                    "weight": 3.0,
+                    "synonyms": [
+                        "Fe",
+                        "fe",
+                        "Iron"
+                    ]
+                },
+                {
+                    "keyword": "성숙엽",
+                    "weight": 4.0,
+                    "synonyms": [
+                        "오래된 잎",
+                        "노엽",
+                        "하엽",
+                        "성숙한 잎"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_sub_2",
+            "subject": "수목병리학",
+            "question_text": "파이토플라스마(Phytoplasma)에 의해 발생하는 국내 대표적인 수목 빗자루병(Witches' broom) 종류 3가지를 기술하시오.",
+            "points": 10,
+            "model_answer": "대추나무 빗자루병, 뽕나무 빗자루병, 오동나무 빗자루병",
+            "grading_keywords": [
+                {
+                    "keyword": "대추나무 빗자루병",
+                    "weight": 3.3,
+                    "synonyms": [
+                        "대추나무빗자루병",
+                        "대추나무"
+                    ]
+                },
+                {
+                    "keyword": "뽕나무 빗자루병",
+                    "weight": 3.3,
+                    "synonyms": [
+                        "뽕나무빗자루병",
+                        "뽕나무"
+                    ]
+                },
+                {
+                    "keyword": "오동나무 빗자루병",
+                    "weight": 3.4,
+                    "synonyms": [
+                        "오동나무빗자루병",
+                        "오동나무"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_sub_3",
+            "subject": "수목생리학",
+            "question_text": "수목의 형성층 생장과 세포분열에서 직경(부피) 생장에 직접 기여하는 분열 방식의 명칭을 적으시오.",
+            "points": 10,
+            "model_answer": "접선분열(병렬분열)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "접선분열",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "접선 분열",
+                        "tangential division"
+                    ]
+                },
+                {
+                    "keyword": "병렬분열",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "병렬 분열",
+                        "periclinal division"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_sub_4",
+            "subject": "수목생리학",
+            "question_text": "수목의 수간주사(Trunk injection) 시 약제 흡수를 극대화하기 위해 구멍을 뚫어야 하는 수간의 최적 생리적 조직 부위(변재 vs 심재)를 쓰고, 그 생리학적 이유를 서술하시오.",
+            "points": 10,
+            "model_answer": "조직 부위는 변재(sapwood)입니다. 생리적 이유는 심재는 통도 기능이 상실된 죽은 조직인 반면, 변재는 물관(도관)이 발달해 있어 증산작용에 의한 수분 이동과 함께 약제가 수간 상부로 원활하게 상승하기 때문입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "변재",
+                    "weight": 4.0,
+                    "synonyms": [
+                        "변재부",
+                        "sapwood"
+                    ]
+                },
+                {
+                    "keyword": "물관",
+                    "weight": 3.0,
+                    "synonyms": [
+                        "도관",
+                        "물관부",
+                        "도관부"
+                    ]
+                },
+                {
+                    "keyword": "수분 이동",
+                    "weight": 3.0,
+                    "synonyms": [
+                        "통도",
+                        "상승",
+                        "수액 이동",
+                        "증산작용"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_sub_5",
+            "subject": "수목병리학",
+            "question_text": "수목에 발생하는 그을음병(Sooty mold)의 주된 간접 발생 원인이 되는 해충군 2가지를 적고, 이에 대한 근본적인 생물학적/화학적 방제 대책을 설명하시오.",
+            "points": 10,
+            "model_answer": "그을음병은 진딧물, 깍지벌레 등 흡즙성 해충이 배설하는 감로(honey dew)에 그을음병균이 번식하여 발생합니다. 따라서 방제 대책으로는 진딧물과 깍지벌레를 방제하기 위한 전용 살충제를 살포하는 것이 근본적인 대책입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "진딧물",
+                    "weight": 3.0,
+                    "synonyms": [
+                        "진디"
+                    ]
+                },
+                {
+                    "keyword": "깍지벌레",
+                    "weight": 3.0,
+                    "synonyms": [
+                        "개각충",
+                        "깍지"
+                    ]
+                },
+                {
+                    "keyword": "감로",
+                    "weight": 2.0,
+                    "synonyms": [
+                        "배설물",
+                        "진액",
+                        "흡즙"
+                    ]
+                },
+                {
+                    "keyword": "살충제",
+                    "weight": 2.0,
+                    "synonyms": [
+                        "해충 방제",
+                        "충해 방제"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_sub_6",
+            "subject": "수목병리학",
+            "question_text": "참나무시들음병(Oak wilt)을 매개하는 곤충(매개충)의 국명과, 본 병을 일으키는 병원균의 학명 또는 병원균 국명을 적으시오.",
+            "points": 10,
+            "model_answer": "매개충은 광릉긴나무조각이며, 병원균은 라파엘라(Raffaelea quercus-mongolicae) 균입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "광릉긴나무조각",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "광릉긴나무 조각",
+                        "광릉 긴나무 조각"
+                    ]
+                },
+                {
+                    "keyword": "라파엘라",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "Raffaelea",
+                        "raffaelea",
+                        "참나무시들음병균"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_sub_7",
+            "subject": "수목병리학",
+            "question_text": "소나무재선충병(Pine wilt disease)을 매개하는 대표적인 하늘소류 매개충 2가지를 적으시오.",
+            "points": 10,
+            "model_answer": "솔수염하늘소와 북방수염하늘소입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "솔수염하늘소",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "솔수염"
+                    ]
+                },
+                {
+                    "keyword": "북방수염하늘소",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "북방수염"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_sub_8",
+            "subject": "수목생리학",
+            "question_text": "겨울철이나 이른 봄 수간의 남서쪽 수피가 태양열에 의해 온도가 올라갔다가 급격히 떨어지면서 수피가 갈라지는 생리적 피해의 명칭(피소/상주)을 쓰고, 방제 대책 1가지를 적으시오.",
+            "points": 10,
+            "model_answer": "피해 명칭은 피소(Sunscald, 볕데기) 현상입니다. 예방 대책으로는 백색 수성페인트를 도포하거나 수간을 새끼나 짚, 마포 등으로 감싸주는 방법이 있습니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "피소",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "볕데기",
+                        "Sunscald",
+                        "sunscald"
+                    ]
+                },
+                {
+                    "keyword": "백색 수성페인트",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "짚으로",
+                        "짚",
+                        "수성 페인트",
+                        "수간 피복",
+                        "마포"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_sub_9",
+            "subject": "수목생리학",
+            "question_text": "수목의 환상박피(Girdling) 시 수목이 고사하는 생리적 이유를 탄수화물 이동과 통도 조직의 관점에서 설명하시오.",
+            "points": 10,
+            "model_answer": "환상박피를 하면 체관부(Phloem)가 제거되어 잎에서 합성된 광합성 산물(탄수화물)이 뿌리로 이동하지 못하게 되며, 이로 인해 뿌리가 굶어 죽어 수분 흡수 기능을 상실하면서 결국 전체 수목이 고사하게 됩니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "체관부",
+                    "weight": 4.0,
+                    "synonyms": [
+                        "사부",
+                        "체관",
+                        "수피"
+                    ]
+                },
+                {
+                    "keyword": "광합성 산물",
+                    "weight": 3.0,
+                    "synonyms": [
+                        "탄수화물",
+                        "유기 양분",
+                        "양분",
+                        "에너지원"
+                    ]
+                },
+                {
+                    "keyword": "뿌리",
+                    "weight": 3.0,
+                    "synonyms": [
+                        "근계",
+                        "뿌리 고사",
+                        "뿌리로 이동"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_sub_10",
+            "subject": "수목병리학",
+            "question_text": "밤나무 잉크병(Chestnut ink disease)을 일으키는 병원균의 속명(Genus)과 대표적인 지상부 피해 증상 1가지를 적으시오.",
+            "points": 10,
+            "model_answer": "병원균 속명은 Phytophthora(피토프토라)속이며, 피해 증상으로는 줄기 밑부분이나 뿌리에서 검은색 삼출액(잉크 같은 액체)이 흘러나오거나 잎이 황화되고 낙엽 지는 증상이 있습니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "Phytophthora",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "피토프토라",
+                        "phytophthora"
+                    ]
+                },
+                {
+                    "keyword": "검은색 삼출액",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "잉크 같은",
+                        "잉크 액체",
+                        "삼출액",
+                        "수액 유출",
+                        "검은 액체"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_sub_11",
+            "subject": "토양학",
+            "question_text": "토양의 양이온 교환 용량(CEC, Cation Exchange Capacity)에 대해 설명하고, 대표적인 2차 점토광물인 카올리나이트(Kaolinite)와 스멕타이트(Smectite) 중 CEC 값이 상대적으로 훨씬 높은 광물의 명칭을 쓰시오.",
+            "points": 10,
+            "model_answer": "CEC는 토양이 양이온을 흡착 및 보유할 수 있는 총용량을 뜻하며, 카올리나이트보다 스멕타이트(Smectite)가 팽창형 격자 구조와 동형치환에 의해 훨씬 높은 CEC 값을 가집니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "스멕타이트",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "몬모릴로나이트",
+                        "smectite",
+                        "Smectite",
+                        "montmorillonite"
+                    ]
+                },
+                {
+                    "keyword": "양이온 흡착",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "보유",
+                        "총용량",
+                        "보존",
+                        "흡착"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_sub_12",
+            "subject": "토양학",
+            "question_text": "토양 pH가 극단적인 산성(pH 4.5 이하)으로 낮아질 때, 식물 독성을 유발하며 다른 필수 영양소(인산 등)의 유효도를 급격히 떨어뜨리는 대표적인 금속 원소 2가지를 쓰시오.",
+            "points": 10,
+            "model_answer": "알루미늄(Al)과 망간(Mn)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "알루미늄",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "Al",
+                        "al",
+                        "aluminum",
+                        "Aluminum"
+                    ]
+                },
+                {
+                    "keyword": "망간",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "Mn",
+                        "mn",
+                        "manganese",
+                        "Manganese"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_sub_13",
+            "subject": "토양학",
+            "question_text": "토양 삼상(Soil three phases)의 구성 요소 3가지를 적고, 수목 생장에 가장 적합한 일반적인 토양 삼상의 유기적 용적 비율(고상:액상:기상)을 쓰시오.",
+            "points": 10,
+            "model_answer": "구성 요소는 고상, 액상, 기상이며, 가장 이상적인 용적 비율은 고상 50%, 액상 25%, 기상 25%입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "고상 액상 기상",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "고상",
+                        "액상",
+                        "기상"
+                    ]
+                },
+                {
+                    "keyword": "50 25 25",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "50%",
+                        "25%",
+                        "25%"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_sub_14",
+            "subject": "토양학",
+            "question_text": "산성 토양을 개량하기 위해 일반적으로 시용하는 칼슘 함유 개량제 2가지를 적으시오.",
+            "points": 10,
+            "model_answer": "석회석(탄산칼슘, CaCO3)과 소석회(수산화칼슘, Ca(OH)2)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "탄산칼슘",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "석회",
+                        "석회석",
+                        "CaCO3",
+                        "caco3"
+                    ]
+                },
+                {
+                    "keyword": "수산화칼슘",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "소석회",
+                        "Ca(OH)2",
+                        "ca(oh)2"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_sub_15",
+            "subject": "수목생리학",
+            "question_text": "수목의 수분 이동 메커니즘을 설명하는 응집력-장력설(Cohesion-Tension theory)의 핵심 추진력이 되는 3가지 요소를 쓰시오.",
+            "points": 10,
+            "model_answer": "증산작용(Transpiration), 물 분자 간의 응집력(Cohesion), 물 분자와 물관 벽 사이의 부착력(Adhesion)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "증산작용",
+                    "weight": 3.3,
+                    "synonyms": [
+                        "증산",
+                        "transpiration",
+                        "Transpiration"
+                    ]
+                },
+                {
+                    "keyword": "응집력",
+                    "weight": 3.3,
+                    "synonyms": [
+                        "물분자 응집력",
+                        "cohesion",
+                        "Cohesion"
+                    ]
+                },
+                {
+                    "keyword": "부착력",
+                    "weight": 3.4,
+                    "synonyms": [
+                        "물관벽 부착력",
+                        "adhesion",
+                        "Adhesion"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_sub_16",
+            "subject": "수목생리학",
+            "question_text": "수목의 잎에 기공(Stomata)이 개폐되는 메커니즘에서 기공을 열리게 유도하는 가장 대표적인 무기 양이온(Cation)의 명칭과, 기공을 닫히게 만드는 스트레스 호르몬의 명칭을 쓰시오.",
+            "points": 10,
+            "model_answer": "무기 양이온은 칼륨 이온(K+)이며, 기공을 닫는 호르몬은 아브시스산(ABA)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "칼륨",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "K",
+                        "k",
+                        "포타슘",
+                        "potassium",
+                        "Potassium"
+                    ]
+                },
+                {
+                    "keyword": "아브시스산",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "ABA",
+                        "aba",
+                        "앱시스산",
+                        "abscisic acid"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_sub_17",
+            "subject": "수목생리학",
+            "question_text": "침엽수와 활엽수의 수분 통도 조직의 구조적 차이점을 설명하고, 각각 물을 수송하는 주된 통도 세포의 명칭을 쓰시오.",
+            "points": 10,
+            "model_answer": "침엽수는 가도관(Tracheid)을 통해 물을 수송하며, 활엽수는 물관(Vessel element)을 통해 물을 수송합니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "가도관",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "tracheid",
+                        "Tracheid",
+                        "仮도관"
+                    ]
+                },
+                {
+                    "keyword": "물관",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "도관",
+                        "vessel",
+                        "Vessel"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_sub_18",
+            "subject": "수목생리학",
+            "question_text": "광합성 속도가 호흡 속도와 같아져 외관상 이산화탄소의 흡수량과 방출량이 0이 되는 지점을 뜻하는 용어와, 광합성 속도가 최대에 도달하여 더 이상 광도가 증가해도 광합성 속도가 증가하지 않는 광도를 뜻하는 용어를 각각 쓰시오.",
+            "points": 10,
+            "model_answer": "전자는 광보상점(Light compensation point)이고, 후자는 광포화점(Light saturation point)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "광보상점",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "보상점",
+                        "compensation point"
+                    ]
+                },
+                {
+                    "keyword": "광포화점",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "포화점",
+                        "saturation point"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_sub_19",
+            "subject": "수목해충학",
+            "question_text": "소나무재선충을 몸속에 지니고 다니다가 소나무로 이동시켜 감염을 매개하는 솔수염하늘소가 소나무로 이주하여 재선충을 침입시키는 주된 가해 행동(후식 vs 산란)의 명칭을 적으시오.",
+            "points": 10,
+            "model_answer": "후식(feeding) 행동입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "후식",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "후식 행동",
+                        "가지 후식",
+                        "수피 후식",
+                        "feeding"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_sub_20",
+            "subject": "수목해충학",
+            "question_text": "충란 또는 애벌레 시기에 다른 곤충의 몸에 기생하여 결국 그 생명체를 죽게 만드는 생물적 방제 요소를 뜻하는 용어(기생성 천적)와, 대표적인 곤충 기생성 선충이나 천적 곤충 1가지를 적으시오.",
+            "points": 10,
+            "model_answer": "기생성 천적(Parasitoid)이며, 대표적으로 기생벌(또는 곤충병원성선충)이 있습니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "기생성 천적",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "기생성천적",
+                        "천적",
+                        "parasitoid",
+                        "Parasitoid"
+                    ]
+                },
+                {
+                    "keyword": "기생벌",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "맵시벌",
+                        "좀벌",
+                        "곤충병원성선충",
+                        "선충"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_sub_21",
+            "subject": "수목해충학",
+            "question_text": "수목 해충 중 포플러 잎이나 소나무 잎을 갉아먹어 엽면적을 감소시키는 해충군(식엽성 해충)과, 도관이나 유조직의 즙액을 빨아먹는 해충군(흡즙성 해충)의 대표적 해충 1가지씩을 쓰시오.",
+            "points": 10,
+            "model_answer": "식엽성 해충에는 미국흰불나방(또는 솔나방)이 있으며, 흡즙성 해충에는 진딧물(또는 깍지벌레)이 있습니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "미국흰불나방",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "솔나방",
+                        "송충이",
+                        "짚시나방",
+                        "식엽성"
+                    ]
+                },
+                {
+                    "keyword": "진딧물",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "깍지벌레",
+                        "응애",
+                        "방패벌레",
+                        "흡즙성"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_sub_22",
+            "subject": "수목해충학",
+            "question_text": "해충의 종합적 관리(IPM) 개념에서, 화학적 방제를 실시하기 전 경제적 피해를 예방하기 위해 방제 결정을 내리는 기준이 되는 해충 밀도 수준을 뜻하는 용어를 적으시오.",
+            "points": 10,
+            "model_answer": "경제적 피해수준(EIL) 또는 경제적 방제수준(ET)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "경제적 방제수준",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "경제적 피해수준",
+                        "방제수준",
+                        "피해수준",
+                        "EIL",
+                        "ET"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_sub_23",
+            "subject": "수목병리학",
+            "question_text": "수목의 녹병(Rust)이 발생할 때 이종기생(Heteroecism)에 의해 기주를 번갈아 이동하게 되는데, 소나무류 잎떨림병이나 잣나무 털녹병의 중간기주가 되는 대표적인 수목 식물의 명칭을 쓰시오.",
+            "points": 10,
+            "model_answer": "송이풀 또는 까치밥나무입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "송이풀",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "까치밥나무",
+                        "정향나무",
+                        "ribes",
+                        "Ribes"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_sub_24",
+            "subject": "수목병리학",
+            "question_text": "수목 뿌리에 발생하는 대표적인 전염성 병해인 흰날개무늬병(White root rot)과 자주날개무늬병(Violet root rot)의 병원균 속명 또는 특징적 균사 조직의 색상을 각각 쓰시오.",
+            "points": 10,
+            "model_answer": "흰날개무늬병은 백색 균사막을 형성하며 자주날개무늬병은 자주색 균사 조직을 형성합니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "흰색",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "백색",
+                        "Rosellinia",
+                        "rosellinia",
+                        "흰색 균사"
+                    ]
+                },
+                {
+                    "keyword": "자주색",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "보라색",
+                        "Helicobasidium",
+                        "helicobasidium",
+                        "자주색 균사"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_sub_25",
+            "subject": "수목병리학",
+            "question_text": "대기오염 물질 중 수목에 급성 피해를 주며 잎 맥 사이에 회백색 반점을 유반하는 대표적인 가스 성분과, 산성비의 주원인이 되는 대기오염 성분의 화학 기호나 명칭을 쓰시오.",
+            "points": 10,
+            "model_answer": "이산화황(SO2)과 질소산화물(NOx)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "이산화황",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "아황산가스",
+                        "SO2",
+                        "so2"
+                    ]
+                },
+                {
+                    "keyword": "질소산화물",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "NOx",
+                        "nox",
+                        "일산화질소"
+                    ]
+                }
+            ],
+            "is_ai": true
+        }
+    ]
+}

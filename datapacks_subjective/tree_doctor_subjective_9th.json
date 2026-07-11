@@ -1,0 +1,222 @@
+{
+    "pack_name": "나무의사_실기_필답형_9회_기출_복원",
+    "questions": [
+        {
+            "id": "tree_9_1",
+            "subject": "수목병리학",
+            "question_text": "수목 잎 뒷면 등에 흰색의 가루(자낭구)를 형성하며 자낭구 내에 자낭포자가 발달하고, 버즘나무 등 상록/낙엽 활엽수 전반에 다량 발생하는 병해의 국명을 적으시오.",
+            "points": 10,
+            "model_answer": "흰가루병(Powdery mildew)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "흰가루병",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "흰가루",
+                        "Powdery mildew",
+                        "powdery mildew"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_9_2",
+            "subject": "수목관리학",
+            "question_text": "수목의 주간(줄기)이 두 갈래로 갈라져 찢어질 위험이 있거나 이미 갈라진 상태에서, 수간 상부에 구멍을 뚫고 쇠막대와 볼트로 기계적으로 고정하여 수형을 지탱하는 지지 기법의 명칭을 쓰시오.",
+            "points": 10,
+            "model_answer": "쇠조임(Cabling/Bracing, 볼트 조임) 공법입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "쇠조임",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "볼트 조임",
+                        "볼트조임",
+                        "브레이싱",
+                        "케이블링",
+                        "Bracing",
+                        "Cabling"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_9_3",
+            "subject": "수목생리학",
+            "question_text": "가뭄이나 과도한 증산작용으로 인해 물관(도관) 내 물기둥이 끊어지며 공기 방울이 차올라 수분 수송이 중단되는 생리적 기능 장애 현상의 학술 명칭을 쓰시오.",
+            "points": 10,
+            "model_answer": "공동화(엠볼리즘, Embolism, 공동 현상) 또는 캐비테이션(Cavitation)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "공동화",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "엠볼리즘",
+                        "Embolism",
+                        "embolism",
+                        "공동 현상",
+                        "공동현상"
+                    ]
+                },
+                {
+                    "keyword": "캐비테이션",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "Cavitation",
+                        "cavitation",
+                        "동동 현상"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_9_4",
+            "subject": "수목생리학",
+            "question_text": "식물의 기공 개폐 조절 관여 및 건조 스트레스(수분 부족) 발생 시 기공을 즉각 폐쇄하여 증산을 억제하는 스트레스 호르몬의 명칭(국명 또는 약어)을 쓰시오.",
+            "points": 10,
+            "model_answer": "앱시스산(Abscisic acid, ABA)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "앱시스산",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "ABA",
+                        "aba",
+                        "Abscisic acid",
+                        "아브시스산",
+                        "아브시스산(ABA)"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_9_5",
+            "subject": "수목해충학",
+            "question_text": "벚나무, 살구나무, 느티나무 등의 주간부 목질부 내에 갱도를 뚫어 가해하여 나무를 고사시키며, 침입 구멍 부근에 다량의 톱밥과 똥(목분)을 배출하는 유충 형태를 지닌 하늘소과 대표 해충의 명칭을 쓰시오.",
+            "points": 10,
+            "model_answer": "벚나무사종하늘소 또는 알락하늘소, 뽕나무하늘소입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "하늘소",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "벚나무사종하늘소",
+                        "알락하늘소",
+                        "뽕나무하늘소",
+                        "국화하늘소"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_9_6",
+            "subject": "토양학",
+            "question_text": "토양 내 암모늄태 질소(NH4+)가 미생물 작용에 의해 아질산태 질소(NO2-)를 거쳐 질산태 질소(NO3-)로 전환되는 질산화 작용(Nitrification) 중, 암모늄을 아질산으로 산화시키는 대표적인 세균 속명을 쓰시오.",
+            "points": 10,
+            "model_answer": "나이트로소모나스(Nitrosomonas)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "나이트로소모나스",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "Nitrosomonas",
+                        "nitrosomonas",
+                        "니트로소모나스"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_9_7",
+            "subject": "농약학",
+            "question_text": "해충의 아세틸콜린 수용체(nAChR)에 직접 작용하여 신경 전달을 지속적으로 교란/흥분시켜 마비를 일으키는 대표적인 네오니코티노이드(Neonicotinoid)계 살충제의 한국농약과학회 작용기작 분류 기호를 쓰시오.",
+            "points": 10,
+            "model_answer": "4a 입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "4a",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "4A",
+                        "4-a",
+                        "작용기작 4a"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_9_8",
+            "subject": "수목병리학",
+            "question_text": "소나무, 잣나무 등 침엽수 묘목의 파종상에서 싹이 트기 전이나 직후에 잘 발생하며 균사의 직접 침입을 통해 뿌리를 썩게 만드는 유성포자(난포자)를 갖는 대표적인 난균류 병원균의 속명을 쓰시오.",
+            "points": 10,
+            "model_answer": "피시움속(Pythium) 또는 파이토프토라속(Phytophthora)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "피시움",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "Pythium",
+                        "pythium",
+                        "피시움속",
+                        "파이토프토라",
+                        "Phytophthora"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_9_9",
+            "subject": "수목관리학",
+            "question_text": "수목의 상처 치료나 외과수술 과정에서 상처 표면의 노출된 목질부를 보호하고 차단하기 위해 형성층 주변에서 왕성하게 분열하여 상처를 감싸 들어가는 미분화 세포 집단(유상조직)의 명칭을 쓰시오.",
+            "points": 10,
+            "model_answer": "캘러스(Callus, 유상조직)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "캘러스",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "Callus",
+                        "callus",
+                        "유상조직",
+                        "유상 조직",
+                        "카루스"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_9_10",
+            "subject": "수목생리학",
+            "question_text": "질소, 인, 칼륨 등 수목의 필수 원소 중 체내 이동성(Mobility)이 낮아 결핍 증상이 성숙엽이 아닌 신엽(어린 잎)에서 먼저 국한되어 발생하는 대표적인 무기 원소 2가지를 쓰시오.",
+            "points": 10,
+            "model_answer": "칼슘(Ca)과 철(Fe)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "칼슘",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "Ca",
+                        "ca",
+                        "Calcium"
+                    ]
+                },
+                {
+                    "keyword": "철",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "Fe",
+                        "fe",
+                        "Iron"
+                    ]
+                }
+            ],
+            "is_ai": true
+        }
+    ]
+}

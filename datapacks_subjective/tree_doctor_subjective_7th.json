@@ -1,0 +1,235 @@
+{
+    "pack_name": "나무의사_실기_필답형_7회_기출_복원",
+    "questions": [
+        {
+            "id": "tree_7_1",
+            "subject": "수목해충학",
+            "question_text": "외래 돌발 해충으로 수목에 하얀 왁스 물질과 감로를 분비하며, 노린재목 선녀벌레과에 속하는 해충(미국선녀벌레)의 대표적인 화학적 방제 시 사용 가능한 약제 성분명 또는 기작 1가지를 적으시오.",
+            "points": 10,
+            "model_answer": "미국선녀벌레 방제 약제로는 디노테퓨란, 아세타미프리드 등 네오니코티노이드(Neonicotinoid) 계열 살충제가 대표적입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "디노테퓨란",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "아세타미프리드",
+                        "네오니코티노이드",
+                        "클로티아니딘",
+                        "이미다클로프리드"
+                    ]
+                },
+                {
+                    "keyword": "살충제",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "화학적 방제",
+                        "약제 살포",
+                        "해충 약제"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_7_2",
+            "subject": "수목병리학",
+            "question_text": "오동나무와 대추나무 등에 치명적이며, 매개충에 의해 전염되는 파이토플라스마(Phytoplasma) 병해에 대해 화학적 방제(수간주사)를 위해 사용하는 테트라사이클린계 대표적인 항생제 성분명을 쓰시오.",
+            "points": 10,
+            "model_answer": "옥시테트라사이클린(Oxytetracycline)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "옥시테트라사이클린",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "Oxytetracycline",
+                        "oxytetracycline",
+                        "테트라사이클린"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_7_3",
+            "subject": "수목관리학",
+            "question_text": "수목 공동(Cavity) 내 부후 부위를 물리적으로 제거하는 수목 상처 치료 시, 형성층과 목질부 경계 부위의 살아있는 조직 보호를 위해 상처 주변에 바르는 인공 수지(외과수술용 상처 보호제)의 대표적인 성분명 또는 상용 약제명을 쓰시오.",
+            "points": 10,
+            "model_answer": "티오파네이트메틸 페이스트(톱신페스트, 톱신) 또는 테부코나졸 도포제입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "톱신페스트",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "톱신 페스트",
+                        "티오파네이트메틸",
+                        "티오파네이트 메틸",
+                        "톱신",
+                        "도포제"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "tree_7_4",
+            "subject": "수목생리학",
+            "question_text": "수목의 광합성 과정에서 명반응(Light reaction) 결과 생성되며 암반응(Calvin cycle)의 이산화탄소 고정에 사용되는 두 가지 고에너지 화합물의 명칭(약어)을 적으시오.",
+            "points": 10,
+            "model_answer": "ATP와 NADPH입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "ATP",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "atp",
+                        "에이티피"
+                    ]
+                },
+                {
+                    "keyword": "NADPH",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "nadph",
+                        "엔에이디피에이치"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_7_5",
+            "subject": "수목해충학",
+            "question_text": "우리나라 주요 산림 해충인 솔잎혹파리(Thecodiplosis japonensis)의 월동 형태와 주요 월동 장소를 적으시오.",
+            "points": 10,
+            "model_answer": "유충 형태로 낙엽 밑 토양(땅속)에서 월동합니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "유충",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "애벌레",
+                        "유충 형태"
+                    ]
+                },
+                {
+                    "keyword": "땅속",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "토양 속",
+                        "흙 속",
+                        "낙엽 밑",
+                        "지표면"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_7_6",
+            "subject": "토양학",
+            "question_text": "강산성 토양(pH 4.5 이하)에서 용출이 크게 증가하여 수목의 뿌리 생장을 억제하고 양분 흡수를 방해하여 강한 독성을 나타내는 대표적인 금속 원소의 명칭을 쓰시오.",
+            "points": 10,
+            "model_answer": "알루미늄(Al)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "알루미늄",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "Al",
+                        "al",
+                        "알루미늄 이온"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_7_7",
+            "subject": "농약학",
+            "question_text": "살충제 농약 중 유기인계 및 카바메이트계 살충제의 공통적인 작용기작으로, 신경계의 시냅스 간극에서 아세틸콜린(Acetylcholine)을 분해하여 흥분을 가라앉히는 효소의 활성을 억제하는 효소의 명칭을 쓰시오.",
+            "points": 10,
+            "model_answer": "아세틸콜린에스테라아제(Acetylcholinesterase)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "아세틸콜린에스테라아제",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "아세틸콜린 에스테라아제",
+                        "Acetylcholinesterase",
+                        "AChE",
+                        "ache"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_7_8",
+            "subject": "수목병리학",
+            "question_text": "잣나무 털녹병(White pine blister rust)의 병원균 월동 및 포자 비산 주기 상에서, 겨울포자퇴와 담자포자를 형성하며 병을 전파하는 주요 중간기주 식물(속명 또는 국명) 1가지를 쓰시오.",
+            "points": 10,
+            "model_answer": "송이풀(Pedicularis) 또는 까치밥나무속(Ribes)입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "송이풀",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "송이풀속",
+                        "까치밥나무",
+                        "까치밥나무속",
+                        "정선송이풀"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_7_9",
+            "subject": "수목관리학",
+            "question_text": "수목의 가지치기(Pruning) 시 지융부(Branch collar)와 지적부(Branch bark ridge)를 훼손하지 않기 위해 굵은 가지를 안전하게 자를 때 실시하는 3단계 자르기법(Three-cut method) 중 첫 번째 톱질의 위치와 그 주요 목적을 적으시오.",
+            "points": 10,
+            "model_answer": "첫 번째 톱질은 가지 아래쪽(하부)에 실시하며, 가지의 하중으로 인해 나무껍질(수피)이 찢어지는 것을 방지하는 목적입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "아래",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "하부",
+                        "아래쪽",
+                        "밑부분"
+                    ]
+                },
+                {
+                    "keyword": "찢어",
+                    "weight": 5.0,
+                    "synonyms": [
+                        "찢어지는",
+                        "박리",
+                        "수피 훼손",
+                        "수피 손상"
+                    ]
+                }
+            ],
+            "is_ai": true
+        },
+        {
+            "id": "tree_7_10",
+            "subject": "수목생리학",
+            "question_text": "상록침엽수 및 낙엽활엽수가 가을철 기온 저하와 광주기 변화에 반응하여 겨울철 동해를 극복하기 위해 세포 내에 축적하여 삼투 농도를 높이고 빙점을 낮추는 대표적인 유기 화합물의 명칭을 쓰시오.",
+            "points": 10,
+            "model_answer": "수용성 당(당류, 자당, 포도당) 또는 가용성 탄수화물입니다.",
+            "grading_keywords": [
+                {
+                    "keyword": "당",
+                    "weight": 10.0,
+                    "synonyms": [
+                        "수용성 당",
+                        "설탕",
+                        "자당",
+                        "포도당",
+                        "탄수화물",
+                        "당류"
+                    ]
+                }
+            ],
+            "is_ai": true
+        }
+    ]
+}
