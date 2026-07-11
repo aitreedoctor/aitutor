@@ -235,6 +235,32 @@ export async function submitTwinChoice(selectedVal) {
     } catch(err) {
         console.error("Failed to submit twin choice:", err);
     }
+    
+    if (isCorrect) {
+        const qText = document.getElementById('twin-question-text').innerText;
+        const choices = [];
+        choicesContainer.querySelectorAll('button').forEach((b) => {
+            choices.push(b.innerText.replace(/^\d+\)\s*/, ''));
+        });
+        
+        triggerFeynmanKeywordQuestion(choicesContainer, qText, activeTwinAnswer, choices, (feynmanBox) => {
+            const closeBtn = document.createElement('button');
+            closeBtn.className = "btn btn-secondary";
+            closeBtn.innerText = "닫기";
+            closeBtn.style.marginTop = "20px";
+            closeBtn.style.width = "100%";
+            closeBtn.onclick = closeTwinQuestionModal;
+            feynmanBox.appendChild(closeBtn);
+        });
+    } else {
+        const closeBtn = document.createElement('button');
+        closeBtn.className = "btn btn-secondary";
+        closeBtn.innerText = "닫기";
+        closeBtn.style.marginTop = "20px";
+        closeBtn.style.width = "100%";
+        closeBtn.onclick = closeTwinQuestionModal;
+        choicesContainer.appendChild(closeBtn);
+    }
 }
 
 // Remedial Adaptive view handlers
@@ -514,6 +540,121 @@ export async function launchTwinSessionFromStudyRoom() {
     }
 }
 
+async function triggerFeynmanKeywordQuestion(container, questionText, correctChoice, options, onComplete) {
+    const feynmanDiv = document.createElement('div');
+    feynmanDiv.className = "feynman-viva-container";
+    feynmanDiv.style.marginTop = "20px";
+    feynmanDiv.style.padding = "18px";
+    feynmanDiv.style.border = "1.5px solid var(--primary)";
+    feynmanDiv.style.background = "rgba(212,175,55,0.08)";
+    feynmanDiv.style.borderRadius = "10px";
+    feynmanDiv.style.textAlign = "left";
+    feynmanDiv.innerHTML = `
+        <h4 style="color: var(--primary); font-size: 13px; font-weight: bold; margin: 0 0 8px; display: flex; align-items: center; gap: 4px;">
+            <i class="xi-brightness"></i> 🧠 2차 관문: 파인만 키워드 구두 면접
+        </h4>
+        <div id="feynman-viva-loading" style="color: var(--text-secondary); font-size: 12.5px; display: flex; align-items: center; gap: 6px;">
+            <i class="xi-spinner-3 xi-spin"></i> AI 선배가 개념 검증 질문을 준비 중입니다...
+        </div>
+        <div id="feynman-viva-content" style="display: none;">
+            <p style="font-size: 13px; color: #fff; line-height: 1.6; margin: 0 0 12px;" id="feynman-viva-question"></p>
+            <div style="display: flex; gap: 8px;">
+                <input type="text" id="feynman-viva-input" placeholder="답안 키워드를 직접 입력하세요..." style="flex: 1; padding: 10px 14px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.15); background: #000; color: #fff; font-size: 13px; outline: none;" />
+                <button class="btn btn-warning" id="btn-feynman-viva-submit" style="padding: 10px 16px; font-size: 13px; font-weight: bold; border-radius: 6px;">답안 제출</button>
+            </div>
+            <div id="feynman-viva-feedback" style="display: none; margin-top: 12px; font-size: 13px; line-height: 1.6; font-weight: 500;"></div>
+        </div>
+    `;
+    container.appendChild(feynmanDiv);
+    
+    try {
+        const res = await fetch('/api/tutor/feynman-keyword', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({
+                question_text: questionText,
+                correct_answer: correctChoice,
+                options: options || [],
+                student_id: state.activeStudentId || "student_1"
+            })
+        });
+        
+        if (!res.ok) throw new Error("Feynman generation failed");
+        const data = await res.json();
+        
+        document.getElementById('feynman-viva-loading').style.display = 'none';
+        document.getElementById('feynman-viva-content').style.display = 'block';
+        document.getElementById('feynman-viva-question').innerText = data.feynman_question;
+        
+        const submitBtn = document.getElementById('btn-feynman-viva-submit');
+        const inputEl = document.getElementById('feynman-viva-input');
+        
+        inputEl.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') submitBtn.click();
+        });
+        
+        submitBtn.onclick = async () => {
+            const val = inputEl.value.trim().toLowerCase();
+            if (!val) {
+                alert("답안을 입력해 주세요.");
+                return;
+            }
+            
+            submitBtn.disabled = true;
+            inputEl.disabled = true;
+            
+            const expected = data.expected_keywords || [];
+            const matched = expected.some(kw => val.includes(kw.trim().toLowerCase()));
+            
+            const feedbackEl = document.getElementById('feynman-viva-feedback');
+            feedbackEl.style.display = 'block';
+            
+            if (matched) {
+                feedbackEl.style.color = '#10b981';
+                feedbackEl.innerHTML = `🎉 정답이오! 개념의 본질을 완벽히 꿰뚫고 있군. <br>🪙 파인만 보충 보상 +5냥을 주겠소.`;
+                showFloatingCoinToast("🪙 파인만 보너스 +5냥!", true);
+            } else {
+                feedbackEl.style.color = '#ef4444';
+                feedbackEl.innerHTML = `❌ 아쉽지만 오답이오. 선배가 기대한 핵심 키워드는 [${expected.join(', ')}] 라네. <br>오답노트의 해설을 보며 개념을 굳건히 하시오.`;
+                showFloatingCoinToast("키워드 누락 오답", false);
+            }
+            
+            try {
+                const solveRes = await fetch('/api/tutor/solve-feynman', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({
+                        student_id: state.activeStudentId || "student_1",
+                        is_correct: matched
+                    })
+                });
+                const solveData = await solveRes.json();
+                const coinsEl = document.getElementById('user-coins');
+                if (coinsEl) coinsEl.innerText = solveData.coins;
+                await window.fetchStudentProfile();
+            } catch(err) {
+                console.error("Failed to solve feynman:", err);
+            }
+            
+            if (onComplete) {
+                onComplete(feynmanDiv);
+            }
+        };
+        
+    } catch(err) {
+        console.error("Feynman Viva error:", err);
+        const loadingDiv = document.getElementById('feynman-viva-loading');
+        if (loadingDiv) {
+            loadingDiv.innerHTML = `
+                <span style="color: #ff5252;"><i class="xi-warning"></i> 파인만 검증 시스템 통신 장애. 다음 기회에 진행합니다.</span>
+            `;
+        }
+        if (onComplete) {
+            onComplete(feynmanDiv);
+        }
+    }
+}
+
 export async function submitStudyroomTwinChoice(selectedVal) {
     const choicesContainer = document.getElementById('studyroom-twin-choices-container');
     choicesContainer.querySelectorAll('button').forEach(b => {
@@ -546,14 +687,6 @@ export async function submitStudyroomTwinChoice(selectedVal) {
         showFloatingCoinToast("오답입니다. 기본 개념을 다시 학습하세요.", false);
     }
     
-    const backBtn = document.createElement('button');
-    backBtn.className = "btn btn-secondary";
-    backBtn.innerText = "단원 목록으로 돌아가기";
-    backBtn.style.marginTop = "20px";
-    backBtn.style.width = "100%";
-    backBtn.onclick = initTwinSessionWorkspace;
-    choicesContainer.appendChild(backBtn);
-    
     try {
         const response = await fetch('/api/tutor/solve-twin', {
             method: 'POST',
@@ -569,6 +702,32 @@ export async function submitStudyroomTwinChoice(selectedVal) {
         await window.fetchStudentProfile();
     } catch(err) {
         console.error("Failed to submit twin choice:", err);
+    }
+    
+    if (isCorrect) {
+        const qText = document.getElementById('studyroom-twin-question-text').innerText;
+        const choices = [];
+        choicesContainer.querySelectorAll('button').forEach((b) => {
+            choices.push(b.innerText.replace(/^\d+\)\s*/, ''));
+        });
+        
+        triggerFeynmanKeywordQuestion(choicesContainer, qText, activeStudyroomTwinAnswer, choices, (feynmanBox) => {
+            const backBtn = document.createElement('button');
+            backBtn.className = "btn btn-secondary";
+            backBtn.innerText = "단원 목록으로 돌아가기";
+            backBtn.style.marginTop = "20px";
+            backBtn.style.width = "100%";
+            backBtn.onclick = initTwinSessionWorkspace;
+            feynmanBox.appendChild(backBtn);
+        });
+    } else {
+        const backBtn = document.createElement('button');
+        backBtn.className = "btn btn-secondary";
+        backBtn.innerText = "단원 목록으로 돌아가기";
+        backBtn.style.marginTop = "20px";
+        backBtn.style.width = "100%";
+        backBtn.onclick = initTwinSessionWorkspace;
+        choicesContainer.appendChild(backBtn);
     }
 }
 

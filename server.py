@@ -327,6 +327,16 @@ class SolveTwinRequest(BaseModel):
     student_id: str
     is_correct: bool
 
+class FeynmanKeywordRequest(BaseModel):
+    question_text: str
+    correct_answer: str
+    options: List[str]
+    student_id: str
+
+class SolveFeynmanRequest(BaseModel):
+    student_id: str
+    is_correct: bool
+
 class RegisterRequest(BaseModel):
     student_title: str
     persona_type: str
@@ -1277,6 +1287,101 @@ async def solve_twin_question(req: SolveTwinRequest):
     student = get_student(req.student_id)
     if req.is_correct:
         student.add_coins(10)
+    return {"status": "success", "coins": student.coins}
+
+@app.post("/api/tutor/feynman-keyword")
+async def generate_feynman_keyword_question(req: FeynmanKeywordRequest):
+    free_key1 = os.environ.get("GEMINI_API_KEY_FREE1")
+    free_key2 = os.environ.get("GEMINI_API_KEY_FREE2")
+    paid_key = os.environ.get("GEMINI_API_KEY_PAID")
+    
+    keys_to_try = []
+    if free_key1:
+        keys_to_try.append(("무료 키 1", free_key1))
+    if free_key2:
+        keys_to_try.append(("무료 키 2", free_key2))
+    if paid_key:
+        keys_to_try.append(("유료 키", paid_key))
+        
+    system_instruction = "너는 90년대 자격증 합격 선배(파인만 교육법 전공)로서 후배의 2차 메타인지 주관식 키워드 점검을 수행하는 튜터다."
+    
+    user_prompt = f"""
+    원래 문제:
+    질문: {req.question_text}
+    보기: {", ".join(f"{i+1}) {opt}" for i, opt in enumerate(req.options)) if req.options else ""}
+    정답: {req.correct_answer}
+    
+    학습자가 이 문제의 1차 정답을 맞췄다! 
+    하지만 찍어서 맞췄을 가능성을 배제하고, 핵심 개념을 제대로 아는지 2차 파인만 주관식 질문을 던져 점검하려 한다.
+    이 원래 문제의 핵심 개념어(예: 병원체명, 매개곤충명, 약제명, 병명 등 핵심 키워드)와 연관된 주관식 follow-up 질문 1개를 생성하고, 채점 기준이 될 핵심 단어(expected_keywords) 리스트를 제공해라.
+    
+    [조건]
+    1. 질문은 친근한 90년대 선배 톤("했는가?", "무엇이오?")으로 생성하라.
+    2. 채점에 쓰일 expected_keywords는 한글 단어 위주로 1~3개로 지정하고, 영문이나 띄어쓰기가 있는 경우도 대응할 수 있도록 해라.
+    3. 반드시 아래의 순수 JSON 형식으로만 응답해라:
+    {{
+        "feynman_question": "2차 주관식 키워드 질문 내용",
+        "expected_keywords": ["키워드1", "키워드2"]
+    }}
+    """
+    
+    payload = {
+        "contents": [{"parts": [{"text": user_prompt}]}],
+        "systemInstruction": {"parts": [{"text": system_instruction}]},
+        "generationConfig": {
+            "temperature": 0.2,
+            "maxOutputTokens": 600,
+            "thinkingConfig": {"thinkingBudget": 0}
+        },
+        "safetySettings": [
+            {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"}
+        ]
+    }
+    
+    feynman_data = None
+    for key_name, api_key in keys_to_try:
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
+        try:
+            req_data = json.dumps(payload).encode('utf-8')
+            http_req = urllib.request.Request(
+                url,
+                data=req_data,
+                headers={'Content-Type': 'application/json'}
+            )
+            with urllib.request.urlopen(http_req, timeout=30) as response:
+                res_data = response.read().decode('utf-8')
+                res_json = json.loads(res_data)
+                candidates = res_json.get("candidates", [])
+                if candidates:
+                    parts = candidates[0].get("content", {}).get("parts", [])
+                    if parts:
+                        raw_text = parts[0].get("text", "").strip()
+                        if raw_text.startswith("```json"):
+                            raw_text = raw_text.split("```json")[1].split("```")[0].strip()
+                        elif raw_text.startswith("```"):
+                            raw_text = raw_text.split("```")[1].split("```")[0].strip()
+                        feynman_data = json.loads(raw_text)
+                        logger.info(f"Successfully generated Feynman keyword question using {key_name}.")
+                        break
+        except Exception as e:
+            logger.warning(f"Failed to generate Feynman keyword question with {key_name}: {e}")
+            
+    if not feynman_data:
+        feynman_data = {
+            "feynman_question": "[2차 파인만 점검] 방금 풀이한 문제의 핵심 개념 키워드는 무엇이오?",
+            "expected_keywords": ["키워드"]
+        }
+        
+    return feynman_data
+
+@app.post("/api/tutor/solve-feynman")
+async def solve_feynman_keyword_question(req: SolveFeynmanRequest):
+    student = get_student(req.student_id)
+    if req.is_correct:
+        student.add_coins(5)
     return {"status": "success", "coins": student.coins}
 
 @app.post("/api/student/register")
