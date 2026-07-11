@@ -264,7 +264,34 @@ async function resetStudentData() {
 window.toggleProfileDropdown = toggleProfileDropdown;
 window.handleDropdownAction = handleDropdownAction;
 
+function triggerAdminMode() {
+    const password = prompt("관리자 인증 비밀번호를 입력하십시오:");
+    if (password === "zeni9393") {
+        alert("관리자 권한이 인증되었습니다.");
+        switchTab('admin');
+    } else if (password !== null) {
+        alert("비밀번호가 올바르지 않습니다.");
+        if (window.location.hash === '#admin') {
+            window.location.hash = '';
+        }
+    }
+}
+
+function checkHashRoute() {
+    if (window.location.hash === '#admin') {
+        window.location.hash = '';
+        triggerAdminMode();
+    }
+}
+
+window.triggerAdminMode = triggerAdminMode;
+window.checkHashRoute = checkHashRoute;
+
 function setupEventListeners() {
+    // Listen for hash change and page load to detect secret admin route
+    window.addEventListener('hashchange', checkHashRoute);
+    checkHashRoute();
+
     // Tab switching
     document.querySelectorAll('.nav-item').forEach(item => {
         if (item.dataset.tabListenerAttached) return;

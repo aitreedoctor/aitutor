@@ -50,7 +50,7 @@
     <link rel="apple-touch-icon" href="ai_tutor_logo.png">
     
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="index.css?v=1.5.3">
+    <link rel="stylesheet" href="index.css?v=1.5.4">
     <style>
         .modal-overlay {
             background: rgba(15, 23, 42, 0.45) !important;
@@ -256,10 +256,6 @@
                     <span>수제 요약 암기장</span>
                 </a>
                 <!-- Chat Nav Removed -->
-                <a href="#" class="nav-item" data-tab="admin">
-                    <i class="xi-shield-o"></i>
-                    <span>운영 관리 (Admin)</span>
-                </a>
                 
                 <a href="#" class="nav-item feedback-btn-nav" onclick="openFeedbackModal()" style="margin-top: 16px; background: rgba(212, 175, 55, 0.08); border: 1px solid rgba(212,175,55,0.25); border-radius: 8px; color: var(--primary); font-weight: bold; transition: all 0.2s;">
                     <i class="xi-comment" style="color: var(--primary);"></i>
@@ -268,7 +264,7 @@
             </nav>
             
             <div class="sidebar-footer">
-                <p>Ver 2.0.0 (AI Tutor V2)</p>
+                <p onclick="triggerAdminMode()" style="cursor: pointer;" title="관리자 모드">Ver 2.0.0 (AI Tutor V2)</p>
             </div>
         </aside>
         
@@ -1157,10 +1153,6 @@
             <span>오답노트</span>
         </a>
         <!-- Chat Nav Removed -->
-        <a href="#" class="nav-item" data-tab="admin">
-            <i class="xi-shield-o"></i>
-            <span>운영</span>
-        </a>
     </nav>
     
     <!-- 인연의 끈 연결 연출 오버레이 -->
@@ -1573,10 +1565,10 @@
     <!-- Custom JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-    <script type="module" src="index.js?v=3.5.0"></script>
+    <script type="module" src="index.js?v=3.5.1"></script>
     
     <script>
-        const CURRENT_VERSION = '3.5.0';
+        const CURRENT_VERSION = '3.5.1';
         const storedVersion = window.localStorage.getItem('app_version');
         
         if (storedVersion !== CURRENT_VERSION) {
