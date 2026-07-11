@@ -62,7 +62,7 @@ import {
     startBgm,
     stopBgm,
     speakGuidance
-} from './modules/Chat.js?v=3.5.0';
+} from './modules/Chat.js?v=3.5.5';
 import { 
     loadAdminDashboard, 
     executeAdminAction, 

@@ -253,9 +253,13 @@
                 
                 <a href="#" class="nav-item" data-tab="flashcards">
                     <i class="xi-book"></i>
-                    <span>수제 요약 암기장</span>
+                    <span>암기력 학습실</span>
                 </a>
-                <!-- Chat Nav Removed -->
+                
+                <a href="#" class="nav-item" data-tab="chat">
+                    <i class="xi-comment"></i>
+                    <span>AI 멘토 채팅</span>
+                </a>
                 
                 <a href="#" class="nav-item feedback-btn-nav" onclick="openFeedbackModal()" style="margin-top: 16px; background: rgba(212, 175, 55, 0.08); border: 1px solid rgba(212,175,55,0.25); border-radius: 8px; color: var(--primary); font-weight: bold; transition: all 0.2s;">
                     <i class="xi-comment" style="color: var(--primary);"></i>
@@ -871,6 +875,176 @@
                 </div>
             </section>
 
+            <!-- Tab: Chat -->
+            <section class="tab-pane" id="chat-tab">
+                <div class="chat-room-layout glass-card">
+                    
+                    <!-- Chat main conversation box -->
+                    <div class="chat-main-area">
+                        <div class="chat-header">
+                            <div class="tutor-avatar" style="overflow: hidden; background: transparent;">
+                                <img id="chat-tutor-avatar" src="tutor_cert.png" style="width: 100%; height: 100%; object-fit: cover; filter: sepia(0.2);" alt="AI Tutor" />
+                            </div>
+                            <div class="tutor-info">
+                                <h3>AI Tutor 1:1 대화 (Feynman Mode)</h3>
+                                <span>AI Tutor와 실시간 개념 질의응답 및 설명식 학습을 진행합니다.</span>
+                            </div>
+                        </div>
+                        
+                        <div class="chat-messages" id="chat-messages">
+                            <!-- Messages -->
+                            <div class="msg-bubble system-msg" style="text-align: center; color: #a1a5b0; font-family: 'Nanum Myeongjo', serif; font-style: normal; background: rgba(255, 255, 255, 0.015); border: 1px dashed rgba(212, 175, 55, 0.2); border-radius: 16px; margin: 40px auto; max-width: 85%; padding: 28px 24px; box-shadow: 0 8px 24px rgba(0,0,0,0.4); line-height: 1.8; word-break: keep-all;">
+                                <div class="red-thread-animation-container" style="position: relative; width: 100%; height: 50px; margin-bottom: 12px; display: flex; justify-content: center; align-items: center;">
+                                    <svg class="red-thread-svg" viewBox="0 0 200 40" style="width: 160px; height: 40px; overflow: visible;">
+                                        <defs>
+                                            <filter id="thread-glow" x="-20%" y="-20%" width="140%" height="140%">
+                                                <feGaussianBlur stdDeviation="3" result="blur" />
+                                                <feMerge>
+                                                    <feMergeNode in="blur" />
+                                                    <feMergeNode in="SourceGraphic" />
+                                                </feMerge>
+                                            </filter>
+                                        </defs>
+                                        <path class="thread-line-bg" d="M 15 20 Q 60 5, 100 20 T 185 20" fill="none" stroke="rgba(255, 56, 96, 0.15)" stroke-width="1.5" />
+                                        <path class="thread-line" d="M 15 20 Q 60 5, 100 20 T 185 20" fill="none" stroke="#ff3860" stroke-width="2.5" stroke-linecap="round" filter="url(#thread-glow)" />
+                                        <path class="thread-line-core" d="M 15 20 Q 60 5, 100 20 T 185 20" fill="none" stroke="#ffb3c1" stroke-width="1" stroke-linecap="round" />
+                                        <circle class="thread-node node-left" cx="15" cy="20" r="4" fill="#ff3860" filter="url(#thread-glow)" />
+                                        <circle class="thread-node node-right" cx="185" cy="20" r="4" fill="#ff3860" filter="url(#thread-glow)" />
+                                    </svg>
+                                </div>
+                                <div style="font-size: 13.5px; color: #cbd5e1; font-weight: normal; margin-top: 10px;">
+                                    "아날로그 다이어리에 이름이 기록되었습니다.<br>나의 현재 학습 고민을 털어놓아 선배와의 학습 지도를 시작하십시오."
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Voluntary Lantern paywall inside Chat tab -->
+                        <div class="voluntary-lantern-box" id="chat-lantern-paywall" style="display: none;">
+                            <div class="candle-container">
+                                <div class="candle-flame"></div>
+                            </div>
+                            <h4 style="color: var(--primary); font-size: 14px; margin-bottom: 8px;">새벽 내내 밝힐 등불 헌등 (Voluntary Lantern)</h4>
+                            <p style="font-size: 12px; color: #b9bec6; line-height: 1.5; margin-bottom: 12px; font-family: 'Nanum Myeongjo', serif; font-style: italic;">
+                                "오늘 네 소망을 이루기 위해 서책과 기억을 다 뒤졌더니 기운이 좀 붙이는구먼.<br>
+                                혹 네 마음이 허락한다면, 내가 새벽 내내 지치지 않고 네 길을 환히 밝힐 수 있도록<br>
+                                <strong>'작은 등불 하나(1,200원)'</strong>만 내 공간에 켜두어 주겠냐? 네 뒤를 지키마."
+                            </p>
+                            <button class="btn btn-warning btn-sm" onclick="triggerLanternPayment()" style="font-weight: bold; width: 100%; padding: 10px 0;">
+                                <i class="xi-lighting"></i> 등불 켜기 (1,200원)
+                            </button>
+                        </div>
+                        
+                        <div class="chat-input-area">
+                            <input type="text" id="chat-input" placeholder="합격 선배와 상담을 시작하세요..." disabled>
+                            <button class="btn-send" id="btn-send-chat" disabled><i class="xi-send"></i></button>
+                        </div>
+                    </div>
+                    <!-- Right Study Support Panel -->
+                    <div class="chat-spiritual-panel">
+                        <div class="spiritual-panel-header">
+                            <h3><i class="xi-brightness"></i> 집중력 향상 & 응원 센터</h3>
+                            <span>선배와 주파수를 연결해 주세요</span>
+                        </div>
+                        
+                        <div class="spiritual-panel-content scroll-styled">
+                            <!-- 1. Cassette Player Card -->
+                            <div class="spiritual-card incense-card">
+                                <div class="spiritual-card-title">
+                                    <span>📻 집중력 향상 카세트</span>
+                                    <span class="incense-status" id="incense-status-text">정지됨</span>
+                                </div>
+                                
+                                <div class="cassette-player-wrapper" style="position: relative; width: 100%; height: 135px; background: #0f172a; border: 2px solid var(--primary); border-radius: 12px; display: flex; flex-direction: column; justify-content: space-between; padding: 10px 12px; box-sizing: border-box; overflow: hidden; box-shadow: inset 0 0 20px rgba(0,0,0,0.8), 0 0 15px rgba(212,175,55,0.15); margin-bottom: 12px;">
+                                    <!-- Tape Label -->
+                                    <div style="background: var(--primary); color: #000; font-size: 10px; font-weight: bold; padding: 4px 8px; text-align: center; border-radius: 4px; font-family: 'Noto Sans KR', sans-serif; letter-spacing: 1px;">
+                                        📟 선배의 93년도 집중 백색소음 (ASMR)
+                                    </div>
+                                    <!-- Reels Container -->
+                                    <div style="display: flex; justify-content: center; gap: 40px; align-items: center; margin: 4px 0;">
+                                        <!-- Left Reel -->
+                                        <div class="cassette-reel" id="cassette-reel-left" style="width: 26px; height: 26px; border: 3px dashed var(--primary); border-radius: 50%; display: flex; align-items: center; justify-content: center; transition: transform 0.1s linear;">
+                                            <div style="width: 8px; height: 8px; background: var(--primary); border-radius: 50%;"></div>
+                                        </div>
+                                        <!-- Right Reel -->
+                                        <div class="cassette-reel" id="cassette-reel-right" style="width: 26px; height: 26px; border: 3px dashed var(--primary); border-radius: 50%; display: flex; align-items: center; justify-content: center; transition: transform 0.1s linear;">
+                                            <div style="width: 8px; height: 8px; background: var(--primary); border-radius: 50%;"></div>
+                                        </div>
+                                    </div>
+                                    
+                                    <!-- VU Meter Panel -->
+                                    <div style="display: flex; justify-content: space-around; align-items: center; background: #000; border: 1px solid rgba(255,255,255,0.1); padding: 4px; border-radius: 6px; margin: 4px 0; height: 28px; box-sizing: border-box; position: relative;">
+                                        <!-- Left Channel VU -->
+                                        <div style="position: relative; width: 46%; height: 20px; background: #1e293b; overflow: hidden; border-radius: 3px; border: 1px solid rgba(255,255,255,0.05);">
+                                            <div style="font-size: 7px; color: #64748b; position: absolute; top: 1px; left: 3px; font-family: monospace;">L</div>
+                                            <!-- Curved scale simulation -->
+                                            <div style="position: absolute; width: 100%; height: 100%; border-top: 1px dotted rgba(212,175,55,0.25); border-radius: 50% 50% 0 0; top: 10px; left: 0;"></div>
+                                            <!-- Needle -->
+                                            <div id="vu-left-needle" style="position: absolute; bottom: 0; left: 50%; width: 1.5px; height: 14px; background: #ef4444; transform-origin: bottom center; transform: rotate(-40deg); transition: transform 0.05s ease-out;"></div>
+                                        </div>
+                                        <!-- Right Channel VU -->
+                                        <div style="position: relative; width: 46%; height: 20px; background: #1e293b; overflow: hidden; border-radius: 3px; border: 1px solid rgba(255,255,255,0.05);">
+                                            <div style="font-size: 7px; color: #64748b; position: absolute; top: 1px; left: 3px; font-family: monospace;">R</div>
+                                            <!-- Curved scale simulation -->
+                                            <div style="position: absolute; width: 100%; height: 100%; border-top: 1px dotted rgba(212,175,55,0.25); border-radius: 50% 50% 0 0; top: 10px; left: 0;"></div>
+                                            <!-- Needle -->
+                                            <div id="vu-right-needle" style="position: absolute; bottom: 0; left: 50%; width: 1.5px; height: 14px; background: #ef4444; transform-origin: bottom center; transform: rotate(-40deg); transition: transform 0.05s ease-out;"></div>
+                                        </div>
+                                    </div>
+                                    <!-- Tape Info/Window -->
+                                    <div style="display: flex; justify-content: space-between; font-size: 9px; color: var(--text-secondary); font-family: monospace;">
+                                        <span>TAPE-A</span>
+                                        <span>NORMAL POSITION (TYPE I)</span>
+                                    </div>
+                                </div>
+
+                                <div class="incense-desc">
+                                    90년대 독서실 감성의 테이프를 재생하여 집중 백색소음(ASMR)으로 잡념을 소거합니다. (3분 가동)
+                                </div>
+                                <button class="btn btn-primary btn-sm btn-full" id="btn-incense-toggle" onclick="toggleIncense()">
+                                    <i class="xi-play"></i> 테이프 재생
+                                </button>
+                            </div>
+                            
+                            <!-- 2. Mini Postcard Card -->
+                            <div class="spiritual-card amulet-card">
+                                <div class="spiritual-card-title">
+                                    <span>📬 선배의 격려 엽서 (Postcard)</span>
+                                    <span class="amulet-mini-timer" id="mini-amulet-timer">00:00:00</span>
+                                </div>
+                                
+                                <!-- TALISMAN FIELD SELECTOR -->
+                                <div class="talisman-selector" style="display: flex; gap: 4px; margin-bottom: 12px; background: rgba(0,0,0,0.3); padding: 3px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.04); box-sizing: border-box;">
+                                    <button class="talisman-select-btn active" onclick="selectTalisman('hoboo')" style="flex: 1; padding: 6px 0; font-size: 11px; font-weight: 700; background: transparent; border: none; border-radius: 6px; cursor: pointer; transition: all 0.2s ease;">응원</button>
+                                    <button class="talisman-select-btn" onclick="selectTalisman('yeongboo')" style="flex: 1; padding: 6px 0; font-size: 11px; font-weight: 700; background: transparent; border: none; border-radius: 6px; cursor: pointer; transition: all 0.2s ease;">자극</button>
+                                    <button class="talisman-select-btn" onclick="selectTalisman('shinboo')" style="flex: 1; padding: 6px 0; font-size: 11px; font-weight: 700; background: transparent; border: none; border-radius: 6px; cursor: pointer; transition: all 0.2s ease;">조언</button>
+                                    <button class="talisman-select-btn" onclick="selectTalisman('jooboo')" style="flex: 1; padding: 6px 0; font-size: 11px; font-weight: 700; background: transparent; border: none; border-radius: 6px; cursor: pointer; transition: all 0.2s ease;">합격</button>
+                                </div>
+ 
+                                <div style="display: flex; gap: 12px; align-items: center; margin-top: 10px;">
+                                    <div class="mini-amulet-img-box" style="padding: 0; cursor: pointer; position: relative;" onclick="openAmuletZoomModal()" title="엽서 크게 보기">
+                                        <img id="mini-amulet-img" src="amulet_sample.png" alt="엽서 인장" style="width: 100% !important; height: 100% !important; object-fit: cover; filter: none !important;" />
+                                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); opacity: 0; display: flex; align-items: center; justify-content: center; transition: opacity 0.2s ease; border-radius: 8px;" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0">
+                                            <i class="xi-search" style="color: #fff; font-size: 16px;"></i>
+                                        </div>
+                                    </div>
+                                    <div style="flex-grow:1;">
+                                        <div style="font-size: 13.5px; font-weight:700; color:var(--primary); font-family: 'Noto Sans KR', sans-serif; margin-bottom: 4px;" id="mini-amulet-title">응원 엽서 (Cheering)</div>
+                                        <div style="font-size: 13px; color:#e2e8f0; line-height: 1.5; font-family: 'Noto Sans KR', sans-serif;" id="mini-amulet-desc">지치고 불안한 마음에 따뜻한 격려와 용기를 불어넣습니다.</div>
+                                    </div>
+                                </div>
+                                <div style="display: flex; gap: 8px; margin-top: 12px;">
+                                    <button class="btn btn-secondary btn-sm" style="flex: 1; font-size: 12px; font-weight: 700; padding: 10px 0;" onclick="openAmuletMeaningModal()">
+                                        <i class="xi-mail"></i> 편지 읽기
+                                    </button>
+                                    <button class="btn btn-warning btn-sm" style="flex: 1.5; font-size: 12px; font-weight: 700; padding: 10px 0;" onclick="triggerAmuletPayment()">
+                                        <i class="xi-ticket"></i> 엽서 소장 (4,900원)
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
             <!-- Tab: Pedigree (선배의 비급 족보 집중 학습 코스) -->
             <section class="tab-pane" id="pedigree-tab">
@@ -1239,7 +1413,10 @@
             <i class="xi-file-remove"></i>
             <span>오답노트</span>
         </a>
-        <!-- Chat Nav Removed -->
+        <a href="#" class="nav-item" data-tab="chat">
+            <i class="xi-comment"></i>
+            <span>멘토채팅</span>
+        </a>
     </nav>
     
     <!-- 인연의 끈 연결 연출 오버레이 -->
@@ -1652,10 +1829,10 @@
     <!-- Custom JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-    <script type="module" src="index.js?v=3.5.4"></script>
+    <script type="module" src="index.js?v=3.5.5"></script>
     
     <script>
-        const CURRENT_VERSION = '3.5.4';
+        const CURRENT_VERSION = '3.5.5';
         const storedVersion = window.localStorage.getItem('app_version');
         
         if (storedVersion !== CURRENT_VERSION) {
