@@ -937,6 +937,34 @@
                     </table>
                 </div>
 
+                <!-- Tester Feedback Board -->
+                <div class="glass-card" style="padding: 24px; overflow-x: auto; margin-bottom: 24px;">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+                        <h3 style="color: var(--primary); font-size: 15px; font-weight: bold; margin: 0; display: flex; align-items: center; gap: 6px;">
+                            <i class="xi-comment"></i> 💬 테스터 의견 및 버그 제보 접수 대장
+                        </h3>
+                        <button class="btn btn-secondary btn-sm" onclick="loadAdminFeedbacks()" style="padding: 4px 12px; font-size: 12px;"><i class="xi-refresh"></i> 제보 갱신</button>
+                    </div>
+                    <p style="font-size: 12px; color: var(--text-secondary); margin-bottom: 16px; margin-top: 0;">
+                        수험생들이 접수한 의견 및 버그 제보 목록입니다. 조치 상태를 업데이트하거나 불필요한 제보를 목록에서 제외할 수 있습니다.
+                    </p>
+                    <table style="width: 100%; border-collapse: collapse; font-size: 12.5px; text-align: left; color: #cbd5e1;">
+                        <thead>
+                            <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); color: var(--text-secondary);">
+                                <th style="padding: 10px 8px; width: 140px;">제보 일시</th>
+                                <th style="padding: 10px 8px; width: 90px;">테스터명</th>
+                                <th style="padding: 10px 8px; width: 80px;">분류</th>
+                                <th style="padding: 10px 8px;">제보 내용</th>
+                                <th style="padding: 10px 8px; width: 100px;">처리 상태</th>
+                                <th style="padding: 10px 8px; width: 150px; text-align: center;">관리 액션</th>
+                            </tr>
+                        </thead>
+                        <tbody id="admin-feedbacks-tbody">
+                            <!-- Dynamically loaded rows -->
+                        </tbody>
+                    </table>
+                </div>
+
                 <!-- Maintenance actions -->
                 <div class="glass-card" style="padding: 24px;">
                     <h3 style="color: #fff; font-size: 14.5px; font-weight: 600; margin-bottom: 16px;"><i class="xi-wrench"></i> 자동 플랫폼 유지보수 액션 센터</h3>
@@ -1565,10 +1593,10 @@
     <!-- Custom JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-    <script type="module" src="index.js?v=3.5.2"></script>
+    <script type="module" src="index.js?v=3.5.3"></script>
     
     <script>
-        const CURRENT_VERSION = '3.5.2';
+        const CURRENT_VERSION = '3.5.3';
         const storedVersion = window.localStorage.getItem('app_version');
         
         if (storedVersion !== CURRENT_VERSION) {

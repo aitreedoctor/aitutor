@@ -76,7 +76,7 @@ import {
     switchImporterTab,
     handleImportFileSelect,
     submitImportOrScrape
-} from './modules/Admin.js?v=3.5.0';
+} from './modules/Admin.js?v=3.5.2';
 import { 
     initWrongNotesView, 
     renderWrongNotes, 

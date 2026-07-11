@@ -344,6 +344,13 @@ class FeedbackRequest(BaseModel):
     category: str
     content: str
 
+class FeedbackUpdateRequest(BaseModel):
+    id: str
+    status: str
+
+class FeedbackDeleteRequest(BaseModel):
+    id: str
+
 # Serve Frontend Index
 @app.get("/", response_class=HTMLResponse)
 async def serve_index():
@@ -1309,10 +1316,13 @@ async def save_student_feedback(req: FeedbackRequest, request: Request):
         import datetime
         timestamp = datetime.datetime.now().isoformat()
         
+        import uuid
         new_feedback = {
+            "id": str(uuid.uuid4())[:8],
             "name": req.name,
             "category": req.category,
             "content": req.content,
+            "status": "접수완료",
             "timestamp": timestamp,
             "user_agent": user_agent,
             "client_ip": client_ip
@@ -1331,6 +1341,69 @@ async def save_student_feedback(req: FeedbackRequest, request: Request):
     except Exception as e:
         logger.error(f"Failed to save student feedback: {e}")
         raise HTTPException(status_code=500, detail=f"Internal Server Error: {str(e)}")
+
+# API: Get all feedbacks (Admin)
+@app.get("/api/admin/feedbacks")
+async def get_admin_feedbacks():
+    try:
+        feedback_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "feedbacks.json")
+        feedbacks = []
+        if os.path.exists(feedback_file):
+            with open(feedback_file, "r", encoding="utf-8") as f:
+                feedbacks = json.load(f)
+        return feedbacks
+    except Exception as e:
+        logger.error(f"Failed to load feedbacks: {e}")
+        return []
+
+# API: Update feedback status (Admin)
+@app.post("/api/admin/feedback/update")
+async def update_admin_feedback(req: FeedbackUpdateRequest):
+    try:
+        feedback_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "feedbacks.json")
+        feedbacks = []
+        if os.path.exists(feedback_file):
+            with open(feedback_file, "r", encoding="utf-8") as f:
+                feedbacks = json.load(f)
+                
+        updated = False
+        for item in feedbacks:
+            if item.get("id") == req.id:
+                item["status"] = req.status
+                updated = True
+                break
+                
+        if updated:
+            with open(feedback_file, "w", encoding="utf-8") as f:
+                json.dump(feedbacks, f, indent=4, ensure_ascii=False)
+            return {"status": "success", "message": "Feedback status updated."}
+        else:
+            raise HTTPException(status_code=404, detail="Feedback not found.")
+    except Exception as e:
+        logger.error(f"Failed to update feedback status: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+# API: Delete feedback (Admin)
+@app.post("/api/admin/feedback/delete")
+async def delete_admin_feedback(req: FeedbackDeleteRequest):
+    try:
+        feedback_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "feedbacks.json")
+        feedbacks = []
+        if os.path.exists(feedback_file):
+            with open(feedback_file, "r", encoding="utf-8") as f:
+                feedbacks = json.load(f)
+                
+        filtered_feedbacks = [item for item in feedbacks if item.get("id") != req.id]
+        
+        if len(filtered_feedbacks) < len(feedbacks):
+            with open(feedback_file, "w", encoding="utf-8") as f:
+                json.dump(filtered_feedbacks, f, indent=4, ensure_ascii=False)
+            return {"status": "success", "message": "Feedback deleted."}
+        else:
+            raise HTTPException(status_code=404, detail="Feedback not found.")
+    except Exception as e:
+        logger.error(f"Failed to delete feedback: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
 
 @app.get("/api/student/list")
 async def get_student_list():

@@ -6,6 +6,44 @@ import { safeMarkedParse, showFloatingCoinToast } from './Utils.js';
 export async function loadAdminDashboard() {
     await fetchAdminBriefing();
     await loadAdminMembersTable();
+    updateImportPackageDropdown();
+    await loadAdminSourcePhotosGallery();
+    await loadAdminFeedbacks();
+}
+
+async function loadAdminSourcePhotosGallery() {
+    const gridEl = document.getElementById('admin-source-photos-grid');
+    if (!gridEl) return;
+    
+    gridEl.innerHTML = `<div style="padding: 10px; color: var(--text-secondary);"><i class="xi-spinner-3 xi-spin"></i> 원본 시험지 로드 중...</div>`;
+    
+    try {
+        const res = await fetch('/api/tutor/subjective/questions?pack_name=' + encodeURIComponent('나무의사_실기_필답형_사진복원_기출_팩') + '&t=' + Date.now());
+        const data = await res.json();
+        if (data.processed_images && data.processed_images.length > 0) {
+            gridEl.innerHTML = "";
+            data.processed_images.forEach(imgName => {
+                const imgPath = `/past_photos/${imgName}`;
+                const img = document.createElement('img');
+                img.src = imgPath;
+                img.alt = imgName;
+                img.style.height = "90px";
+                img.style.borderRadius = "4px";
+                img.style.cursor = "zoom-in";
+                img.style.border = "1.5px solid rgba(255,255,255,0.15)";
+                img.style.transition = "transform 0.15s ease";
+                img.onmouseover = () => { img.style.transform = "scale(1.05)"; img.style.borderColor = "var(--primary)"; };
+                img.onmouseout = () => { img.style.transform = "scale(1)"; img.style.borderColor = "rgba(255,255,255,0.15)"; };
+                img.onclick = () => window.openPhotoLightbox(imgPath);
+                gridEl.appendChild(img);
+            });
+        } else {
+            gridEl.innerHTML = `<div style="padding: 10px; color: var(--text-secondary);">원본 시험지가 없습니다.</div>`;
+        }
+    } catch(err) {
+        console.error("Failed to load admin source photos:", err);
+        gridEl.innerHTML = `<div style="padding: 10px; color: var(--text-secondary);">로드 실패</div>`;
+    }
 }
 
 async function fetchAdminBriefing() {
@@ -272,13 +310,15 @@ export function switchImporterTab(mode) {
     const btnManual = document.getElementById('tab-btn-manual');
     const btnAuto = document.getElementById('tab-btn-auto');
     const btnAi = document.getElementById('tab-btn-ai');
+    const btnHarvest = document.getElementById('tab-btn-harvest');
     
     const paneManual = document.getElementById('importer-pane-manual');
     const paneAuto = document.getElementById('importer-pane-auto');
     const paneAi = document.getElementById('importer-pane-ai');
+    const paneHarvest = document.getElementById('importer-pane-harvest');
     
     // Reset all buttons
-    [btnManual, btnAuto, btnAi].forEach(btn => {
+    [btnManual, btnAuto, btnAi, btnHarvest].forEach(btn => {
         if (btn) {
             btn.className = "btn btn-sm";
             btn.style.background = "rgba(255,255,255,0.03)";
@@ -288,7 +328,7 @@ export function switchImporterTab(mode) {
     });
     
     // Hide all panes
-    [paneManual, paneAuto, paneAi].forEach(pane => {
+    [paneManual, paneAuto, paneAi, paneHarvest].forEach(pane => {
         if (pane) pane.style.display = 'none';
     });
     
@@ -316,7 +356,16 @@ export function switchImporterTab(mode) {
             btnAi.style.borderColor = "";
         }
         if (paneAi) paneAi.style.display = 'block';
+    } else if (mode === 'harvest') {
+        if (btnHarvest) {
+            btnHarvest.className = "btn btn-sm active";
+            btnHarvest.style.background = "";
+            btnHarvest.style.color = "";
+            btnHarvest.style.borderColor = "";
+        }
+        if (paneHarvest) paneHarvest.style.display = 'block';
     }
+    updateImportPackageDropdown();
 }
 
 export function handleImportFileSelect(input) {
@@ -454,15 +503,13 @@ export async function submitImportOrScrape() {
     } else if (currentImporterMode === 'ai') {
         const scopeInput = document.getElementById('import-ai-scope');
         const countSelect = document.getElementById('import-ai-count');
-        const scope = scopeInput ? scopeInput.value.trim() : "";
+        const aiTypeInput = document.querySelector('input[name="import-ai-type"]:checked');
+        const isSubjective = aiTypeInput ? (aiTypeInput.value === 'subjective') : false;
+        
+        const scope = (scopeInput && scopeInput.value.trim()) ? scopeInput.value.trim() : "해당 과목의 전체 국가 표준 출제 기준 및 핵심 기출 연계 범위 전반";
         const count = countSelect ? parseInt(countSelect.value) : 25;
         
-        if (!scope) {
-            alert("AI 기출 변형 문제의 출제 범위를 기입해 주십시오.");
-            return;
-        }
-        
-        appendLog(`[AI 출제 위원 가동] 과목: ${subject} | 회차: ${round}`);
+        appendLog(`[AI 출제 위원 가동] 과목: ${subject} | 회차: ${round} | 유형: ${isSubjective ? '2차 실기 서술형' : '1차 객관식 CBT'}`);
         appendLog(`출제 범위 분석 및 문항 생성 중 (요청 문항 수: ${count}개)...`);
         appendLog("Gemini API 호출 및 학술 정합성 체크 실행 중 (최대 1~2분 정도 소요될 수 있습니다)...");
         
@@ -476,7 +523,8 @@ export async function submitImportOrScrape() {
                     subject: subject,
                     round: round,
                     syllabus_scope: scope,
-                    question_count: count
+                    question_count: count,
+                    is_subjective: isSubjective
                 })
             });
             const res = await response.json();
@@ -486,7 +534,13 @@ export async function submitImportOrScrape() {
                 
                 if (scopeInput) scopeInput.value = "";
                 
-                await window.loadStudyPacks();
+                if (isSubjective) {
+                    if (typeof window.loadSubjectivePacks === 'function') {
+                        await window.loadSubjectivePacks();
+                    }
+                } else {
+                    await window.loadStudyPacks();
+                }
                 await fetchAdminBriefing();
             } else {
                 appendLog(`[출제 실패] ${res.detail || "AI 문제 생성에 실패했습니다."}`, 'error');
@@ -494,6 +548,372 @@ export async function submitImportOrScrape() {
         } catch(err) {
             appendLog(`[서버 통신 에러] ${err}`, 'error');
         }
+    } else if (currentImporterMode === 'harvest') {
+        const harvestUrlInput = document.getElementById('import-harvest-url');
+        const url = harvestUrlInput ? harvestUrlInput.value.trim() : "";
+        if (!url) {
+            alert("유튜브 또는 블로그 URL을 입력해 주십시오.");
+            return;
+        }
+        
+        appendLog(`[실기 기출 수확 에이전트 가동] 대상 URL: ${url}`);
+        appendLog("유튜브 자막(Transcript) 또는 블로그 본문 텍스트 추출 중...");
+        appendLog("Gemini 2.5를 통해 실기 기출문제 분석 및 키워드 채점 사전 빌드 중 (최대 1~2분 소요)...");
+        
+        try {
+            const response = await fetch('/api/admin/harvest-subjective', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({
+                    url: url,
+                    pack_name: packName,
+                    default_subject: subject
+                })
+            });
+            const res = await response.json();
+            if (response.ok) {
+                appendLog(`[수확 성공] ${res.message}`, 'success');
+                appendLog(`실기 팩 명칭: ${res.pack_name} (총 ${res.total_questions}문항 탑재)`, 'success');
+                showFloatingCoinToast(50);
+                
+                if (harvestUrlInput) harvestUrlInput.value = "";
+                
+                // Reload subjective packs list
+                if (typeof window.loadSubjectivePacks === 'function') {
+                    await window.loadSubjectivePacks();
+                }
+                await fetchAdminBriefing();
+            } else {
+                appendLog(`[수확 실패] ${res.detail || "파싱에 실패했습니다."}`, 'error');
+            }
+        } catch(err) {
+            appendLog(`[서버 통신 에러] ${err}`, 'error');
+        }
     }
 }
+
+window.setAiScopePreset = function(text) {
+    const scopeInput = document.getElementById('import-ai-scope');
+    if (scopeInput) {
+        scopeInput.value = text;
+    }
+};
+
+let selectedPackageId = null;
+
+window.selectImportPackage = function(data) {
+    const idInput = document.getElementById('import-pack-id');
+    const nameInput = document.getElementById('import-pack-name');
+    const subjectInput = document.getElementById('import-pack-subject');
+    const roundInput = document.getElementById('import-pack-round');
+    
+    if (!data) {
+        // "New Package" selected
+        selectedPackageId = null;
+        [idInput, nameInput, subjectInput, roundInput].forEach(inp => {
+            if (inp) {
+                inp.value = "";
+                inp.removeAttribute('readonly');
+                inp.style.opacity = '1';
+                inp.style.background = 'rgba(0,0,0,0.25)';
+            }
+        });
+    } else {
+        selectedPackageId = data.id;
+        if (idInput) idInput.value = data.id;
+        if (nameInput) nameInput.value = data.name;
+        if (subjectInput) subjectInput.value = data.subject;
+        if (roundInput) roundInput.value = data.round;
+        
+        [idInput, nameInput, subjectInput, roundInput].forEach(inp => {
+            if (inp) {
+                inp.setAttribute('readonly', 'true');
+                inp.style.opacity = '0.7';
+                inp.style.background = 'rgba(255,255,255,0.03)';
+            }
+        });
+    }
+    
+    // Refresh chips to update selected highlights
+    renderImportPackageOptions(window.filteredImportPacksList || window.currentImportPacksList || []);
+};
+
+export function updateImportPackageDropdown() {
+    const container = document.getElementById('import-package-chips-container');
+    if (!container) return;
+    
+    const aiTypeInput = document.querySelector('input[name="import-ai-type"]:checked');
+    const isSubjectiveMode = (currentImporterMode === 'harvest') || 
+                             (currentImporterMode === 'ai' && aiTypeInput && aiTypeInput.value === 'subjective');
+                             
+    const packs = isSubjectiveMode ? (window.subjectivePacks || []) : (window.studyPacks || []);
+    
+    // Store packs globally for filter matching
+    window.currentImportPacksList = packs;
+    window.filteredImportPacksList = null;
+    
+    // Reset selected package when switching tabs/modes
+    selectedPackageId = null;
+    window.selectImportPackage(null);
+    
+    // Clear search query text
+    const searchInput = document.getElementById('import-package-search');
+    if (searchInput) searchInput.value = "";
+    
+    renderImportPackageOptions(packs);
+}
+
+export function renderImportPackageOptions(packs) {
+    const container = document.getElementById('import-package-chips-container');
+    if (!container) return;
+    
+    container.innerHTML = "";
+    
+    // Always render "Create New" chip first
+    const newChip = document.createElement('button');
+    newChip.type = "button";
+    newChip.className = "btn btn-sm";
+    
+    if (selectedPackageId === null) {
+        newChip.style.background = "var(--primary)";
+        newChip.style.borderColor = "var(--primary)";
+        newChip.style.color = "#fff";
+        newChip.style.boxShadow = "0 0 10px rgba(129, 140, 248, 0.4)";
+    } else {
+        newChip.style.background = "rgba(255, 255, 255, 0.05)";
+        newChip.style.borderColor = "rgba(255, 255, 255, 0.1)";
+        newChip.style.color = "#94a3b8";
+    }
+    newChip.style.padding = "6px 14px";
+    newChip.style.borderRadius = "20px";
+    newChip.style.fontSize = "12px";
+    newChip.style.cursor = "pointer";
+    newChip.style.borderWidth = "1px";
+    newChip.style.borderStyle = "solid";
+    newChip.innerText = "➕ [새로운 패키지 직접 입력 생성]";
+    newChip.onclick = () => selectImportPackage(null);
+    container.appendChild(newChip);
+    
+    // Render packs
+    packs.forEach(p => {
+        const id = p.id || "";
+        const name = p.name || "";
+        const firstWord = name.split(" ")[0] || "기타";
+        
+        const data = {
+            id: id,
+            name: name,
+            subject: p.subject || firstWord,
+            round: p.round || "추가 출제"
+        };
+        
+        const chip = document.createElement('button');
+        chip.type = "button";
+        chip.className = "btn btn-sm";
+        
+        if (selectedPackageId === id) {
+            chip.style.background = "rgba(129, 140, 248, 0.25)";
+            chip.style.borderColor = "var(--primary)";
+            chip.style.color = "#fff";
+            chip.style.boxShadow = "0 0 8px rgba(129, 140, 248, 0.3)";
+        } else {
+            chip.style.background = "rgba(255, 255, 255, 0.03)";
+            chip.style.borderColor = "rgba(255, 255, 255, 0.08)";
+            chip.style.color = "#cbd5e1";
+        }
+        chip.style.padding = "6px 14px";
+        chip.style.borderRadius = "20px";
+        chip.style.fontSize = "12px";
+        chip.style.cursor = "pointer";
+        chip.style.borderWidth = "1px";
+        chip.style.borderStyle = "solid";
+        chip.innerText = `${name} (${id})`;
+        chip.onclick = () => selectImportPackage(data);
+        container.appendChild(chip);
+    });
+}
+
+export function filterImportPackages(query) {
+    const term = query.toLowerCase().replace(/\s+/g, '');
+    const packs = window.currentImportPacksList || [];
+    
+    const filtered = packs.filter(p => {
+        const name = (p.name || "").toLowerCase().replace(/\s+/g, '');
+        const id = (p.id || "").toLowerCase().replace(/\s+/g, '');
+        return name.includes(term) || id.includes(term);
+    });
+    
+    window.filteredImportPacksList = filtered;
+    renderImportPackageOptions(filtered);
+}
+
+window.updateImportPackageDropdown = updateImportPackageDropdown;
+window.filterImportPackages = filterImportPackages;
+
+window.handleImportPackageSelectionChange = function(val) {
+    const idInput = document.getElementById('import-pack-id');
+    const nameInput = document.getElementById('import-pack-name');
+    const subjectInput = document.getElementById('import-pack-subject');
+    const roundInput = document.getElementById('import-pack-round');
+    
+    if (val === 'new') {
+        [idInput, nameInput, subjectInput, roundInput].forEach(inp => {
+            if (inp) {
+                inp.value = "";
+                inp.removeAttribute('readonly');
+                inp.style.opacity = '1';
+                inp.style.background = 'rgba(0,0,0,0.25)';
+            }
+        });
+    } else {
+        try {
+            const data = JSON.parse(val);
+            if (idInput) idInput.value = data.id;
+            if (nameInput) nameInput.value = data.name;
+            if (subjectInput) subjectInput.value = data.subject;
+            if (roundInput) roundInput.value = data.round;
+            
+            [idInput, nameInput, subjectInput, roundInput].forEach(inp => {
+                if (inp) {
+                    inp.setAttribute('readonly', 'true');
+                    inp.style.opacity = '0.7';
+                    inp.style.background = 'rgba(255,255,255,0.03)';
+                }
+            });
+        } catch(e) {
+            console.error(e);
+        }
+    }
+};
+
+export async function loadAdminFeedbacks() {
+    const tbody = document.getElementById('admin-feedbacks-tbody');
+    if (!tbody) return;
+    
+    tbody.innerHTML = `<tr><td colspan="6" style="padding: 20px; text-align: center; color: var(--text-secondary);"><i class="xi-spinner-3 xi-spin"></i> 제보 내역을 불러오는 중...</td></tr>`;
+    
+    try {
+        const res = await fetch('/api/admin/feedbacks?t=' + Date.now());
+        const feedbacks = await res.json();
+        
+        if (!feedbacks || feedbacks.length === 0) {
+            tbody.innerHTML = `<tr><td colspan="6" style="padding: 20px; text-align: center; color: var(--text-secondary);">접수된 의견/버그 제보가 없습니다.</td></tr>`;
+            return;
+        }
+        
+        tbody.innerHTML = "";
+        feedbacks.forEach(item => {
+            const tr = document.createElement('tr');
+            tr.style.borderBottom = "1px solid rgba(255,255,255,0.05)";
+            
+            const dateStr = item.timestamp ? item.timestamp.split('T')[0] + ' ' + (item.timestamp.split('T')[1] ? item.timestamp.split('T')[1].substring(0, 5) : '') : '-';
+            
+            let catColor = "rgba(129, 140, 248, 0.15)";
+            let catText = "var(--primary)";
+            if (item.category === "버그" || item.category === "오류") {
+                catColor = "rgba(239, 68, 68, 0.15)";
+                catText = "#ef4444";
+            } else if (item.category === "제안") {
+                catColor = "rgba(16, 185, 129, 0.15)";
+                catText = "#10b981";
+            }
+            
+            let statusColor = "rgba(156, 163, 175, 0.15)";
+            let statusText = "#9ca3af";
+            if (item.status === "접수완료") {
+                statusColor = "rgba(59, 130, 246, 0.15)";
+                statusText = "#3b82f6";
+            } else if (item.status === "조치중") {
+                statusColor = "rgba(245, 158, 11, 0.15)";
+                statusText = "#f59e0b";
+            } else if (item.status === "조치완료") {
+                statusColor = "rgba(16, 185, 129, 0.15)";
+                statusText = "#10b981";
+            } else if (item.status === "보류") {
+                statusColor = "rgba(107, 114, 128, 0.25)";
+                statusText = "#9ca3af";
+            }
+            
+            const categoryBadge = `<span style="padding: 2px 6px; border-radius: 4px; background: ${catColor}; color: ${catText}; font-size: 11px; font-weight: bold;">${item.category || '기타'}</span>`;
+            const statusBadge = `<span style="padding: 2px 6px; border-radius: 4px; background: ${statusColor}; color: ${statusText}; font-size: 11px; font-weight: bold;">${item.status || '접수완료'}</span>`;
+            
+            const statusSelect = `
+                <select onchange="updateFeedbackStatus('${item.id || ''}', this.value)" style="padding: 3px 6px; font-size: 11.5px; background: rgba(0,0,0,0.5); color: #fff; border: 1px solid rgba(255,255,255,0.1); border-radius: 4px; cursor: pointer; outline: none;">
+                    <option value="접수완료" ${item.status === '접수완료' ? 'selected' : ''}>접수완료</option>
+                    <option value="조치중" ${item.status === '조치중' ? 'selected' : ''}>조치중</option>
+                    <option value="조치완료" ${item.status === '조치완료' ? 'selected' : ''}>조치완료</option>
+                    <option value="보류" ${item.status === '보류' ? 'selected' : ''}>보류</option>
+                </select>
+            `;
+            
+            tr.innerHTML = `
+                <td style="padding: 10px 8px; color: var(--text-secondary); font-family: monospace;">${dateStr}</td>
+                <td style="padding: 10px 8px; font-weight: bold;">${item.name || '대표님'}</td>
+                <td style="padding: 10px 8px;">${categoryBadge}</td>
+                <td style="padding: 10px 8px; word-break: break-all; max-width: 320px; line-height: 1.4;">${item.content || ''}</td>
+                <td style="padding: 10px 8px;">${statusBadge}</td>
+                <td style="padding: 10px 8px; text-align: center; display: flex; align-items: center; justify-content: center; gap: 8px;">
+                    ${statusSelect}
+                    <button class="btn btn-secondary btn-sm" onclick="deleteFeedback('${item.id || ''}')" style="background: rgba(239, 68, 68, 0.15); border: 1px solid rgba(239, 68, 68, 0.3); color: #ef4444; padding: 3px 8px; font-size: 11px;">삭제</button>
+                </td>
+            `;
+            tbody.appendChild(tr);
+        });
+    } catch(err) {
+        console.error("Failed to load feedbacks:", err);
+        tbody.innerHTML = `<tr><td colspan="6" style="padding: 20px; text-align: center; color: #ef4444;">제보 내역 로드 중 오류가 발생했습니다.</td></tr>`;
+    }
+}
+
+export async function updateFeedbackStatus(id, newStatus) {
+    if (!id) {
+        alert("해당 제보 항목의 ID가 없어 상태 변경을 진행할 수 없습니다. (구버전 데이터)");
+        return;
+    }
+    try {
+        const res = await fetch('/api/admin/feedback/update', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ id: id, status: newStatus })
+        });
+        if (res.ok) {
+            showFloatingCoinToast(0, "상태가 성공적으로 변경되었습니다.");
+            loadAdminFeedbacks();
+        } else {
+            alert("상태 변경 실패했습니다.");
+        }
+    } catch (e) {
+        console.error("Failed updating feedback status:", e);
+        alert("상태 변경 요청 중 오류가 발생했습니다.");
+    }
+}
+
+export async function deleteFeedback(id) {
+    if (!id) {
+        alert("해당 제보 항목의 ID가 없어 삭제를 진행할 수 없습니다. (구버전 데이터)");
+        return;
+    }
+    if (!confirm("해당 제보 내역을 완전히 삭제하시겠습니까?")) return;
+    try {
+        const res = await fetch('/api/admin/feedback/delete', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ id: id })
+        });
+        if (res.ok) {
+            showFloatingCoinToast(0, "제보 내역이 삭제되었습니다.");
+            loadAdminFeedbacks();
+        } else {
+            alert("삭제 실패했습니다.");
+        }
+    } catch (e) {
+        console.error("Failed deleting feedback:", e);
+        alert("삭제 요청 중 오류가 발생했습니다.");
+    }
+}
+
+window.loadAdminFeedbacks = loadAdminFeedbacks;
+window.updateFeedbackStatus = updateFeedbackStatus;
+window.deleteFeedback = deleteFeedback;
+
 
