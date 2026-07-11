@@ -42,8 +42,8 @@ export async function fetchStudentProfile() {
         if (chatMessages && (chatMessages.innerHTML.includes('붉은 실') || chatMessages.innerHTML.trim() === '' || chatMessages.innerHTML.includes('ο  ') || chatMessages.innerHTML.includes('안녕, '))) {
             chatMessages.innerHTML = `
                 <div class="msg-bubble tutor-msg">
-                    <p>안녕, ${state.studentProfile.student_title}아. 나는 수호의 지혜를 기록하는 멘토란다. 오늘 어떤 공부나 삶의 가치를 같이 이야기해볼까?</p>
-                    <p>우리는 수호의 주파수로 긴밀하게 연결되어 있어. 네가 준비하고 있는 시험인 '${state.studentProfile.user_worry}'에 대해 모르는 문제가 있거나, 격려가 필요할 때는 언제든지 이 장부에 조언을 청하렴.</p>
+                    <p>안녕, ${state.studentProfile.student_title}아. 나는 1993년에 공부하고 있는 너의 합격 선배란다. 오늘 어떤 공부나 수험 생활에 대해 같이 이야기해볼까?</p>
+                    <p>우리는 무선 주파수로 긴밀하게 연결되어 있어. 네가 준비하고 있는 시험인 '${state.studentProfile.user_worry}'에 대해 모르는 문제가 있거나, 격려가 필요할 때는 언제든지 이 장부에 조언을 청하렴.</p>
                 </div>
             `;
         }
@@ -70,7 +70,9 @@ export async function fetchStudentProfile() {
         
         let bioName = '자격증 전문 AI Tutor';
         let bioImg = 'tutor_cert.png';
-        let bioText = '식물보호, 농업, 기사 시험 등 전문 지식 및 자격증 학습 팩의 기출 풀이를 전담 분석하며 오개념 교정 및 학업 지도 해설을 제공합니다.';
+        
+        const currentWorry = state.studentProfile.user_worry || '자격증';
+        let bioText = `${currentWorry} 시험 등 전문 지식 및 자격증 학습 팩의 기출 풀이를 전담 분석하며 오개념 교정 및 학업 지도 해설을 제공합니다.`;
         
         if (personaType === '회화' || personaType === '거상') {
             bioName = '실전 회화 전문 AI Tutor';
@@ -113,6 +115,21 @@ export async function fetchStudentProfile() {
                 warningBanner.style.display = 'none';
             }
         }
+
+        // Spaced Repetition (SRS) due warning banner
+        const srsBanner = document.getElementById('srs-due-banner');
+        if (srsBanner) {
+            const dueCount = state.studentProfile.cards_due_count || 0;
+            if (dueCount > 0) {
+                srsBanner.style.display = 'block';
+                const srsMsg = document.getElementById('srs-due-message');
+                if (srsMsg) {
+                    srsMsg.innerText = `"${state.studentProfile.student_title} 후배, 오늘 뇌에서 증발하기 직전인 암기 카드가 ${dueCount}개 있구나. 얼른 암기장을 열어 복습하거라."`;
+                }
+            } else {
+                srsBanner.style.display = 'none';
+            }
+        }
         
         // Render Chart.js data visualization
         if (state.studentProfile.visualization) {
@@ -131,15 +148,27 @@ export async function fetchStudentProfile() {
         
         const statsCoinsEl = document.getElementById('stats-coins');
         if (statsCoinsEl) statsCoinsEl.innerText = state.studentProfile.coins !== undefined ? state.studentProfile.coins : 0;
+
+        // Update Flashcards Stats Card
+        const statsCardsCountEl = document.getElementById('stats-cards-count');
+        const statsCardsDueSuffixEl = document.getElementById('stats-cards-due-suffix');
+        if (statsCardsCountEl) {
+            statsCardsCountEl.innerText = state.studentProfile.cards_count !== undefined ? state.studentProfile.cards_count : 0;
+        }
+        if (statsCardsDueSuffixEl) {
+            const dueCount = state.studentProfile.cards_due_count || 0;
+            statsCardsDueSuffixEl.innerText = dueCount > 0 ? `(복습 ${dueCount}개)` : "";
+        }
         
         // Render CBT history list
         renderCbtHistoryAndGrowthChart(state.studentProfile.cbt_history);
         
-        // Render Talisman Archive
+        // Render Talisman Archive & Teacher Postcards
         try {
             renderTalismanArchive();
+            renderTeacherPostcardsArchive();
         } catch (err) {
-            console.error("Failed to render talisman archive:", err);
+            console.error("Failed to render archive galleries:", err);
         }
         
         // Check chat query limit availability
@@ -583,7 +612,7 @@ export function renderTalismanArchive() {
         
         card.innerHTML = `
             <div style="border: 1px ${isUnlocked ? 'dashed rgba(212,175,55,0.3)' : 'solid rgba(255,255,255,0.04)'}; padding: 12px; border-radius: 8px; filter: ${isUnlocked ? 'none' : 'grayscale(100%) opacity(40%)'};">
-                <div style="font-size: 9px; color: ${isUnlocked ? '#d4af37' : '#94a3b8'}; letter-spacing: 1px; margin-bottom: 8px;">PARALLEL SOUL INDEX</div>
+                <div style="font-size: 9px; color: ${isUnlocked ? '#d4af37' : '#94a3b8'}; letter-spacing: 1px; margin-bottom: 8px;">RETRO SOUL INDEX</div>
                 
                 <div style="width: 70px; height: 90px; margin: 0 auto 12px; border: 1.5px solid ${isUnlocked ? '#d4af37' : 'rgba(255,255,255,0.1)'}; border-radius: 4px; overflow: hidden; background: #000;">
                     <img src="${p.portrait}" style="width: 100%; height: 100%; object-fit: cover; filter: sepia(0.5) contrast(1.1);" />
@@ -593,8 +622,8 @@ export function renderTalismanArchive() {
                 <p style="font-size: 10px; color: #94a3b8; font-family: monospace; margin-bottom: 8px;">${p.dates}</p>
                 
                 <div style="display: flex; justify-content: center; gap: 6px; margin-bottom: 10px;">
-                    <span style="font-size: 9px; padding: 2px 6px; border: 1px solid ${isUnlocked ? '#ef4444' : 'rgba(255,255,255,0.15)'}; color: ${isUnlocked ? '#ef4444' : '#94a3b8'}; border-radius: 3px; font-weight: bold; transform: rotate(-5deg);">${isUnlocked ? '동조 완료' : '잠김'}</span>
-                    <span style="font-size: 9px; padding: 2px 6px; border: 1px solid ${isUnlocked ? '#d4af37' : 'rgba(255,255,255,0.15)'}; color: ${isUnlocked ? '#d4af37' : '#94a3b8'}; border-radius: 3px; font-weight: bold; transform: rotate(3deg);">${isUnlocked ? p.exam : '기류 대기'}</span>
+                    <span style="font-size: 9px; padding: 2px 6px; border: 1px solid ${isUnlocked ? '#ef4444' : 'rgba(255,255,255,0.15)'}; color: ${isUnlocked ? '#ef4444' : '#94a3b8'}; border-radius: 3px; font-weight: bold; transform: rotate(-5deg);">${isUnlocked ? '해제 완료' : '잠김'}</span>
+                    <span style="font-size: 9px; padding: 2px 6px; border: 1px solid ${isUnlocked ? '#d4af37' : 'rgba(255,255,255,0.15)'}; color: ${isUnlocked ? '#d4af37' : '#94a3b8'}; border-radius: 3px; font-weight: bold; transform: rotate(3deg);">${isUnlocked ? p.exam : '잠금 대기'}</span>
                 </div>
                 
                 <p style="font-size: 11px; color: #cbd5e1; font-family: 'Nanum Myeongjo', serif; line-height: 1.5; font-style: italic; margin: 0; min-height: 48px; display: flex; align-items: center; justify-content: center; word-break: keep-all;">
@@ -686,7 +715,7 @@ export async function downloadTalismanCard(personaName) {
     await downloadTalismanFromModal(personaName);
 }
 
-export async function downloadTalismanFromModal(name = '부적') {
+export async function downloadTalismanFromModal(name = '엽서') {
     const target = document.getElementById('talisman-capture-target');
     if (!target) return;
     
@@ -704,16 +733,128 @@ export async function downloadTalismanFromModal(name = '부적') {
         
         const dataUrl = canvas.toDataURL('image/png');
         const link = document.createElement('a');
-        link.download = `talisman_${name}.png`;
+        link.download = `postcard_${name}.png`;
         link.href = dataUrl;
         link.click();
     } catch(err) {
-        console.error("Talisman screenshot capture failed:", err);
-        alert("부적 이미지 저장에 실패했습니다. 브라우저 설정을 확인해 주십시오.");
+        console.error("Postcard screenshot capture failed:", err);
+        alert("엽서 이미지 저장에 실패했습니다. 브라우저 설정을 확인해 주십시오.");
     }
 }
 
 export function closeTalismanSuccessModal() {
     document.getElementById('talisman-success-modal').style.display = 'none';
+}
+
+// Render Unlocked Teacher Postcards on the Dashboard
+export function renderTeacherPostcardsArchive() {
+    const gallery = document.getElementById('teacher-postcards-gallery');
+    if (!gallery) return;
+    
+    const postcardTypes = [
+        { id: "hoboo", name: "응원 엽서 (Cheering)", desc: "지치고 불안한 마음에 따뜻한 격려와 용기를 불어넣습니다.", portrait: "amulet_hoboo.png" },
+        { id: "yeongboo", name: "자극 엽서 (Stimulation)", desc: "나태해진 마음에 불꽃을 피우고 열정을 깨워줍니다.", portrait: "amulet_yeongboo.png" },
+        { id: "shinboo", name: "조언 엽서 (Counsel)", desc: "방황하고 고민할 때 올바른 방향타가 되어 줍니다.", portrait: "amulet_shinboo.png" },
+        { id: "jooboo", name: "합격 엽서 (Success)", desc: "최종 합격에 다다르도록 강력한 기류의 힘을 보탭니다.", portrait: "amulet_jooboo.png" }
+    ];
+    
+    const unlockedList = JSON.parse(localStorage.getItem('unlocked_teacher_postcards') || '[]');
+    
+    gallery.innerHTML = "";
+    
+    if (unlockedList.length === 0) {
+        gallery.innerHTML = `
+            <div style="grid-column: 1 / -1; padding: 40px; text-align: center; color: var(--text-secondary); font-size: 13px;">
+                <i class="xi-mail-o" style="font-size: 32px; margin-bottom: 12px; display: block; opacity: 0.5;"></i>
+                아직 소장한 은사님의 엽서가 없습니다. 1:1 대화방 우측 패널에서 소장해 보세요!
+            </div>
+        `;
+        return;
+    }
+    
+    postcardTypes.forEach(p => {
+        const isUnlocked = unlockedList.includes(p.id);
+        if (!isUnlocked) return; // Only display unlocked cards on the dashboard!
+        
+        const card = document.createElement('div');
+        card.className = "glass-card";
+        card.style.padding = "16px";
+        card.style.border = "1.5px solid var(--primary)";
+        card.style.background = "rgba(24, 16, 8, 0.6)";
+        card.style.borderRadius = "12px";
+        card.style.textAlign = "center";
+        card.style.position = "relative";
+        card.style.overflow = "hidden";
+        card.style.transition = "transform 0.2s, box-shadow 0.2s";
+        
+        card.style.boxShadow = "0 6px 16px rgba(212,175,55,0.15)";
+        card.onmouseover = () => {
+            card.style.transform = "translateY(-4px)";
+            card.style.boxShadow = "0 10px 20px rgba(212,175,55,0.25)";
+        };
+        card.onmouseout = () => {
+            card.style.transform = "none";
+            card.style.boxShadow = "0 6px 16px rgba(212,175,55,0.15)";
+        };
+        
+        card.innerHTML = `
+            <div style="border: 1px dashed rgba(212,175,55,0.3); padding: 12px; border-radius: 8px;">
+                <div style="font-size: 9px; color: #d4af37; letter-spacing: 1px; margin-bottom: 8px;">TEACHER POSTCARD INDEX</div>
+                
+                <div style="width: 100px; height: 75px; margin: 0 auto 12px; border: 1.5px solid #d4af37; border-radius: 4px; overflow: hidden; background: #000;">
+                    <img src="${p.portrait}" style="width: 100%; height: 100%; object-fit: cover;" />
+                </div>
+                
+                <h4 style="font-size: 14px; color: #fff; font-weight: bold; margin-bottom: 4px; font-family: 'Nanum Myeongjo', serif;">${p.name}</h4>
+                
+                <p style="font-size: 11px; color: #cbd5e1; font-family: 'Noto Sans KR', sans-serif; line-height: 1.5; margin: 0; min-height: 48px; display: flex; align-items: center; justify-content: center; word-break: keep-all;">
+                    "${p.desc}"
+                </p>
+            </div>
+        `;
+        
+        const actionContainer = document.createElement('div');
+        actionContainer.style.display = "flex";
+        actionContainer.style.gap = "8px";
+        actionContainer.style.marginTop = "12px";
+        
+        const readBtn = document.createElement('button');
+        readBtn.className = "btn btn-secondary btn-sm";
+        readBtn.style.flex = "1";
+        readBtn.style.fontSize = "11px";
+        readBtn.innerHTML = `<i class="xi-mail"></i> 편지 읽기`;
+        readBtn.onclick = () => {
+            // Open 1:1 chat tab, select this postcard, and show letter modal
+            window.switchTab('chat');
+            if (window.selectTalisman) {
+                window.selectTalisman(p.id);
+            }
+            if (window.openAmuletMeaningModal) {
+                window.openAmuletMeaningModal();
+            }
+        };
+        
+        const dlBtn = document.createElement('button');
+        dlBtn.className = "btn btn-warning btn-sm";
+        dlBtn.style.flex = "1.2";
+        dlBtn.style.fontSize = "11px";
+        dlBtn.innerHTML = `<i class="xi-download"></i> 이미지 소장`;
+        dlBtn.onclick = () => {
+            // Trigger download direct
+            window.switchTab('chat');
+            if (window.selectTalisman) {
+                window.selectTalisman(p.id);
+            }
+            if (window.openAmuletZoomModal) {
+                window.openAmuletZoomModal();
+            }
+        };
+        
+        actionContainer.appendChild(readBtn);
+        actionContainer.appendChild(dlBtn);
+        card.appendChild(actionContainer);
+        
+        gallery.appendChild(card);
+    });
 }
 
