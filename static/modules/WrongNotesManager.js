@@ -97,7 +97,7 @@ export function renderWrongNotes(items) {
         
         let imageHtml = "";
         if (item.image_url) {
-            imageHtml = `<div style="margin-top: 10px; margin-bottom: 10px;"><img src="${item.image_url}" alt="Question Diagram" style="max-width: 100%; max-height: 200px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.08); background: #fff; padding: 4px;" /></div>`;
+            imageHtml = `<div style="margin-top: 10px; margin-bottom: 10px;"><img src="${item.image_url}" referrerpolicy="no-referrer" alt="Question Diagram" style="max-width: 100%; max-height: 200px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.08); background: #fff; padding: 4px;" /></div>`;
         }
         
         card.innerHTML = `
@@ -285,7 +285,7 @@ export async function initRemedialView() {
                     
                     let imageHtml = "";
                     if (q.image_url) {
-                        imageHtml = `<div style="margin-top: 10px; margin-bottom: 10px;"><img src="${q.image_url}" alt="Question Diagram" style="max-width: 100%; max-height: 200px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.08); background: #fff; padding: 4px;" /></div>`;
+                        imageHtml = `<div style="margin-top: 10px; margin-bottom: 10px;"><img src="${q.image_url}" referrerpolicy="no-referrer" alt="Question Diagram" style="max-width: 100%; max-height: 200px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.08); background: #fff; padding: 4px;" /></div>`;
                     }
                     
                     card.innerHTML = `
@@ -417,3 +417,161 @@ export function syncActiveSubMenu(packId) {
         }
     }
 }
+
+let activeStudyroomTwinAnswer = "";
+
+export function initTwinSessionWorkspace() {
+    const triggerArea = document.getElementById('studyroom-twin-trigger-area');
+    const playArea = document.getElementById('studyroom-twin-play-area');
+    
+    if (triggerArea) triggerArea.style.display = 'block';
+    if (playArea) playArea.style.display = 'none';
+    
+    const titleEl = document.getElementById('studyroom-twin-status-title');
+    const descEl = document.getElementById('studyroom-twin-status-desc');
+    const btnEl = document.getElementById('btn-studyroom-twin-trigger');
+    
+    const wrongList = state.wrongNotesList || [];
+    
+    if (wrongList.length === 0) {
+        if (titleEl) titleEl.innerText = "오답 장부가 비어 있습니다!";
+        if (descEl) descEl.innerText = "CBT 시험에서 문제를 틀려 오답 장부에 문항들이 축적되어야 AI가 이를 분석하여 쌍둥이 변형 문제를 출제할 수 있습니다. 먼저 시험을 치러 주십시오.";
+        if (btnEl) {
+            btnEl.disabled = true;
+            btnEl.style.opacity = '0.5';
+            btnEl.style.cursor = 'not-allowed';
+        }
+    } else {
+        if (titleEl) titleEl.innerText = "쌍둥이 변형 문제 추출 대기 중";
+        if (descEl) descEl.innerText = `현재 오답 장부에 총 ${wrongList.length}개의 틀린 문제가 적재되어 있습니다. 이 중 무작위로 하나를 추출해 쌍둥이 매칭 대결을 생성합니다.`;
+        if (btnEl) {
+            btnEl.disabled = false;
+            btnEl.style.opacity = '1';
+            btnEl.style.cursor = 'pointer';
+        }
+    }
+}
+
+export async function launchTwinSessionFromStudyRoom() {
+    const triggerArea = document.getElementById('studyroom-twin-trigger-area');
+    const playArea = document.getElementById('studyroom-twin-play-area');
+    const loading = document.getElementById('studyroom-twin-loading');
+    const content = document.getElementById('studyroom-twin-content');
+    
+    if (triggerArea) triggerArea.style.display = 'none';
+    if (playArea) playArea.style.display = 'block';
+    if (loading) loading.style.display = 'flex';
+    if (content) content.style.display = 'none';
+    
+    const wrongList = state.wrongNotesList || [];
+    if (wrongList.length === 0) {
+        initTwinSessionWorkspace();
+        return;
+    }
+    
+    const randomIdx = Math.floor(Math.random() * wrongList.length);
+    const item = wrongList[randomIdx];
+    
+    try {
+        const response = await fetch('/api/tutor/twin-question', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({
+                question_text: item.question_text,
+                options: item.options,
+                correct_answer: item.correct_answer
+            })
+        });
+        
+        if (!response.ok) throw new Error("Failed to generate twin question");
+        const twin = await response.json();
+        
+        document.getElementById('studyroom-twin-question-text').innerText = twin.question_text;
+        activeStudyroomTwinAnswer = twin.correct_answer;
+        
+        const choicesContainer = document.getElementById('studyroom-twin-choices-container');
+        choicesContainer.innerHTML = "";
+        
+        twin.options.forEach((optText, oIdx) => {
+            const optNum = (oIdx + 1).toString();
+            choicesContainer.innerHTML += `
+                <button class="twin-choice-btn" id="studyroom-twin-opt-${optNum}" onclick="submitStudyroomTwinChoice('${optNum}')" style="width: 100%; margin-top: 8px; text-align: left; padding: 12px 16px; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; color: #fff; cursor: pointer; transition: all 0.2s;">
+                    ${optNum}) ${optText}
+                </button>
+            `;
+        });
+        
+        if (loading) loading.style.display = 'none';
+        if (content) content.style.display = 'block';
+    } catch(err) {
+        console.error("Failed to load twin question:", err);
+        if (loading) {
+            loading.innerHTML = `
+                <span style="color: #ff5252; font-size: 13.5px;"><i class="xi-warning"></i> 쌍둥이 문제 생성에 실패했습니다.</span>
+                <button class="btn btn-secondary btn-sm" onclick="initTwinSessionWorkspace()" style="margin-top: 12px; padding: 6px 12px;">뒤로 가기</button>
+            `;
+        }
+    }
+}
+
+export async function submitStudyroomTwinChoice(selectedVal) {
+    const choicesContainer = document.getElementById('studyroom-twin-choices-container');
+    choicesContainer.querySelectorAll('button').forEach(b => {
+        b.disabled = true;
+        b.style.cursor = 'default';
+    });
+    
+    const isCorrect = (selectedVal === activeStudyroomTwinAnswer);
+    const selectedBtn = document.getElementById(`studyroom-twin-opt-${selectedVal}`);
+    const correctBtn = document.getElementById(`studyroom-twin-opt-${activeStudyroomTwinAnswer}`);
+    
+    if (isCorrect) {
+        if (selectedBtn) {
+            selectedBtn.style.background = 'rgba(16, 185, 129, 0.2)';
+            selectedBtn.style.borderColor = '#10b981';
+            selectedBtn.style.color = '#10b981';
+        }
+        showFloatingCoinToast("🪙 쌍둥이 격파 보너스 +10냥!", true);
+    } else {
+        if (selectedBtn) {
+            selectedBtn.style.background = 'rgba(239, 68, 68, 0.2)';
+            selectedBtn.style.borderColor = '#ef4444';
+            selectedBtn.style.color = '#ef4444';
+        }
+        if (correctBtn) {
+            correctBtn.style.background = 'rgba(16, 185, 129, 0.2)';
+            correctBtn.style.borderColor = '#10b981';
+            correctBtn.style.color = '#10b981';
+        }
+        showFloatingCoinToast("오답입니다. 기본 개념을 다시 학습하세요.", false);
+    }
+    
+    const backBtn = document.createElement('button');
+    backBtn.className = "btn btn-secondary";
+    backBtn.innerText = "단원 목록으로 돌아가기";
+    backBtn.style.marginTop = "20px";
+    backBtn.style.width = "100%";
+    backBtn.onclick = initTwinSessionWorkspace;
+    choicesContainer.appendChild(backBtn);
+    
+    try {
+        const response = await fetch('/api/tutor/solve-twin', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({
+                student_id: state.activeStudentId,
+                is_correct: isCorrect
+            })
+        });
+        const data = await response.json();
+        const userCoinsEl = document.getElementById('user-coins');
+        if (userCoinsEl) userCoinsEl.innerText = data.coins;
+        await window.fetchStudentProfile();
+    } catch(err) {
+        console.error("Failed to submit twin choice:", err);
+    }
+}
+
+window.initTwinSessionWorkspace = initTwinSessionWorkspace;
+window.launchTwinSessionFromStudyRoom = launchTwinSessionFromStudyRoom;
+window.submitStudyroomTwinChoice = submitStudyroomTwinChoice;

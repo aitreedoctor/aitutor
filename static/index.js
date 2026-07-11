@@ -90,7 +90,7 @@ import {
     toggleCategory, 
     selectSubMenu, 
     syncActiveSubMenu 
-} from './modules/WrongNotesManager.js?v=3.5.0';
+} from './modules/WrongNotesManager.js?v=3.5.4';
 
 import {
     startPedigreeCourse,
@@ -419,7 +419,7 @@ function switchTab(tabId) {
     } else if (tabId === 'chat') {
         checkChatAvailability();
     } else if (tabId === 'flashcards') {
-        loadFlashcards();
+        switchStudyRoomSubTab('cards');
     } else if (tabId === 'cbt') {
         if (state.cbtQuestions && state.cbtQuestions.length > 0) {
             const workspace = document.getElementById('cbt-questions-workspace');
@@ -444,8 +444,6 @@ function switchTab(tabId) {
         }
     } else if (tabId === 'wrong-notes') {
         initWrongNotesView();
-    } else if (tabId === 'remedial') {
-        initRemedialView();
     } else if (tabId === 'admin') {
         loadAdminDashboard();
     } else if (tabId === 'cbt-hub') {
@@ -454,6 +452,46 @@ function switchTab(tabId) {
     
     updateSidebarResumeButton();
 }
+
+function switchStudyRoomSubTab(subTabId) {
+    const cardsSection = document.getElementById('studyroom-section-cards');
+    const remedialSection = document.getElementById('studyroom-section-remedial');
+    const twinSection = document.getElementById('studyroom-section-twin');
+    
+    if (cardsSection) cardsSection.style.display = 'none';
+    if (remedialSection) remedialSection.style.display = 'none';
+    if (twinSection) twinSection.style.display = 'none';
+    
+    document.querySelectorAll('.sub-tab-btn').forEach(btn => {
+        btn.classList.remove('active');
+        btn.style.background = 'rgba(255,255,255,0.03)';
+        btn.style.borderColor = 'rgba(255,255,255,0.1)';
+        btn.style.color = '#cbd5e1';
+    });
+    
+    const activeBtn = document.getElementById(`studyroom-tab-btn-${subTabId}`);
+    if (activeBtn) {
+        activeBtn.classList.add('active');
+        activeBtn.style.background = 'rgba(212,175,55,0.15)';
+        activeBtn.style.borderColor = 'var(--primary)';
+        activeBtn.style.color = 'var(--primary)';
+    }
+    
+    if (subTabId === 'cards') {
+        if (cardsSection) cardsSection.style.display = 'block';
+        loadFlashcards();
+    } else if (subTabId === 'remedial') {
+        if (remedialSection) remedialSection.style.display = 'block';
+        initRemedialView();
+    } else if (subTabId === 'twin') {
+        if (twinSection) twinSection.style.display = 'block';
+        if (window.initTwinSessionWorkspace) {
+            window.initTwinSessionWorkspace();
+        }
+    }
+}
+
+window.switchStudyRoomSubTab = switchStudyRoomSubTab;
 
 export function updateSidebarResumeButton() {
     const btn = document.getElementById('sidebar-resume-btn');
