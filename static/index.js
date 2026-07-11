@@ -266,7 +266,7 @@ window.handleDropdownAction = handleDropdownAction;
 
 function triggerAdminMode() {
     const password = prompt("관리자 인증 비밀번호를 입력하십시오:");
-    if (password === "zeni9393") {
+    if (password === "tutor7688") {
         alert("관리자 권한이 인증되었습니다.");
         switchTab('admin');
     } else if (password !== null) {
