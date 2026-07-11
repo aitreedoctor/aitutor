@@ -1,13 +1,13 @@
 // Main Orchestrator & Bootloader (ES6 Module Entrypoint)
 
-import { state } from './modules/Config.js';
+import { state } from './modules/Config.js?v=3.5.0';
 import { 
     safeMarkedParse, 
     translateScientificNames, 
     formatQuestionText, 
     postProcessMarkdownHTML, 
     showFloatingCoinToast 
-} from './modules/Utils.js';
+} from './modules/Utils.js?v=3.5.0';
 import { 
     initAwakeningView, 
     initRuneCanvas, 
@@ -20,7 +20,7 @@ import {
     extractPastLifeName,
     getPersonaDates,
     formatPastLifeStoryForCard
-} from './modules/IntroManager.js';
+} from './modules/IntroManager.js?v=3.5.0';
 import { 
     filterCbtQuestions, 
     renderCbtQuestion, 
@@ -34,7 +34,7 @@ import {
     gradeCbtExam, 
     closeCbtReportModal, 
     triggerAmuletFromReport 
-} from './modules/CbtManager.js';
+} from './modules/CbtManager.js?v=3.5.0';
 import { 
     fetchStudentProfile, 
     switchMember, 
@@ -50,7 +50,7 @@ import {
     downloadTalismanCard,
     downloadTalismanFromModal,
     closeTalismanSuccessModal
-} from './modules/Dashboard.js';
+} from './modules/Dashboard.js?v=3.5.0';
 import { 
     toggleIncense, 
     extinguishIncense, 
@@ -62,7 +62,7 @@ import {
     startBgm,
     stopBgm,
     speakGuidance
-} from './modules/Chat.js';
+} from './modules/Chat.js?v=3.5.0';
 import { 
     loadAdminDashboard, 
     executeAdminAction, 
@@ -76,7 +76,7 @@ import {
     switchImporterTab,
     handleImportFileSelect,
     submitImportOrScrape
-} from './modules/Admin.js';
+} from './modules/Admin.js?v=3.5.0';
 import { 
     initWrongNotesView, 
     renderWrongNotes, 
@@ -90,7 +90,7 @@ import {
     toggleCategory, 
     selectSubMenu, 
     syncActiveSubMenu 
-} from './modules/WrongNotesManager.js';
+} from './modules/WrongNotesManager.js?v=3.5.0';
 
 import {
     startPedigreeCourse,
@@ -98,7 +98,7 @@ import {
     selectPedigreeChoice,
     nextPedigreeQuestion,
     toggleSummaryCheatSheet
-} from './modules/PedigreeManager.js';
+} from './modules/PedigreeManager.js?v=3.5.0';
 
 // Setup bootloader
 if (document.readyState === 'loading') {
