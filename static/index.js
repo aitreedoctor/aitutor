@@ -90,7 +90,7 @@ import {
     toggleCategory, 
     selectSubMenu, 
     syncActiveSubMenu 
-} from './modules/WrongNotesManager.js?v=3.5.7';
+} from './modules/WrongNotesManager.js?v=3.5.8';
 
 import {
     startPedigreeCourse,

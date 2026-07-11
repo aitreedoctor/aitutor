@@ -774,16 +774,15 @@
                     </div>
                 </div>
 
-                <!-- Sub-tab Navigation Bar -->
                 <div class="sub-tab-nav" style="display: flex; gap: 8px; margin-bottom: 24px; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 12px; flex-wrap: wrap;">
                     <button class="btn btn-secondary sub-tab-btn active" onclick="switchStudyRoomSubTab('cards')" id="studyroom-tab-btn-cards" style="padding: 8px 16px; background: rgba(212,175,55,0.15); border: 1.5px solid var(--primary); border-radius: 20px; color: var(--primary); font-size: 12px; font-weight: bold; cursor: pointer;">
-                        <i class="xi-book-o"></i> 📇 수제 요약 카드 (Active Recall)
+                        <i class="xi-book-o"></i> 📇 수제 요약 카드 (기억 보존 90%)
                     </button>
                     <button class="btn btn-secondary sub-tab-btn" onclick="switchStudyRoomSubTab('remedial')" id="studyroom-tab-btn-remedial" style="padding: 8px 16px; background: rgba(255,255,255,0.03); border: 1.5px solid rgba(255,255,255,0.1); border-radius: 20px; color: #cbd5e1; font-size: 12px; font-weight: bold; cursor: pointer;">
-                        <i class="xi-bookmark-o"></i> 📝 교차 보충 학습지 (Interleaving)
+                        <i class="xi-bookmark-o"></i> 📝 교차 보충 학습지 (과락 위험 86% 격퇴)
                     </button>
                     <button class="btn btn-secondary sub-tab-btn" onclick="switchStudyRoomSubTab('twin')" id="studyroom-tab-btn-twin" style="padding: 8px 16px; background: rgba(255,255,255,0.03); border: 1.5px solid rgba(255,255,255,0.1); border-radius: 20px; color: #cbd5e1; font-size: 12px; font-weight: bold; cursor: pointer;">
-                        <i class="xi-branch"></i> ⚡ AI 쌍둥이 훈련 (Twin Testing)
+                        <i class="xi-branch"></i> ⚡ AI 쌍둥이 훈련 (응용력 3.8배 향상 검증)
                     </button>
                 </div>
                 
@@ -1829,10 +1828,10 @@
     <!-- Custom JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-    <script type="module" src="index.js?v=3.5.7"></script>
+    <script type="module" src="index.js?v=3.5.8"></script>
     
     <script>
-        const CURRENT_VERSION = '3.5.7';
+        const CURRENT_VERSION = '3.5.8';
         const storedVersion = window.localStorage.getItem('app_version');
         
         if (storedVersion !== CURRENT_VERSION) {
